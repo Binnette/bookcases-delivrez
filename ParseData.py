@@ -96,9 +96,11 @@ def filterBookcasesByArea():
         areaFile = os.path.join(dirAsset, dirRegion, areaName)
         if os.path.isfile(areaFile):
             region = gpd.read_file(areaFile)
+            regionName = os.path.basename(areaName)
             bookcases_filtered = gpd.read_file(pathBookcase, mask=region)
-            print(' - ' + str(bookcases_filtered.size) + ' bookcases in ' + os.path.basename(areaName))
+            print(' - ' + str(bookcases_filtered.size) + ' bookcases in ' + regionName)
             bookcases_filtered.to_file(os.path.join(dirData, dirRegion, areaName), driver='GeoJSON')
+            bookcases_filtered.to_file(os.path.join(dirData, dirRegion, regionName + ".gpx"), driver='GPX', GPX_USE_EXTENSIONS=True)
 
     print('End of filtering bookcases by region')
 

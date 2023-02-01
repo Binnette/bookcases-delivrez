@@ -1,0 +1,4683 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.4.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="48.199231400000002" minlon="1.536942900000000" maxlat="49.125757399999998" maxlon="3.348554000000000"/></metadata>                    
+<wpt lat="48.8608904" lon="2.4024685">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Stendhal</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.63d3ba3ab4ab2.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="49.0380364" lon="1.5988474">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>École Freneuse</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8896327" lon="2.4200889">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>boite a livre</ogr:title>
+    <ogr:observation>place vigneron</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8503908" lon="2.898722">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Route de Melun</ogr:title>
+    <ogr:observation>bien remplie ?</ogr:observation>
+    <ogr:picture>img.63921a4112b57.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.7601266" lon="3.348554">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des Pleux</ogr:title>
+    <ogr:observation>juste derrière l'église. place de l'église (qui est superbe d'extérieur)</ogr:observation>
+    <ogr:picture>img.637f3bb285f71.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8212901" lon="3.094317">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du Montbillard</ogr:title>
+    <ogr:observation>n'hésitez pas à y déposer des livres ?, elle est visitée ?</ogr:observation>
+    <ogr:picture>img.637b1ab215755.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.794914" lon="3.0708716">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>D402</ogr:title>
+    <ogr:observation>plein de ? ???</ogr:observation>
+    <ogr:picture>img.6378e384a0230.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="49.073925" lon="2.6736994">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du 19 Mars 1962</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.6370bf7a56043.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.804933" lon="2.3627659">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des Guipons</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8521778" lon="2.7150826">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de la Madeleine</ogr:title>
+    <ogr:observation>bien remplie ?</ogr:observation>
+    <ogr:picture>img.635aa6642fea1.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8424138" lon="2.3051791">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>square de l'oiseau lunaire</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8129716" lon="2.5068981">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>maison des associations et syndicats</ogr:title>
+    <ogr:observation>Dans l'enceinte de la MAS. Ouverture lundi et mercredi 14h-17h, mardi, jeudi, vendredi 9h-12h et 14h-17h.</ogr:observation>
+    <ogr:picture>img.6354fd31cb76b.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8133777" lon="2.502673">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>maison des arts plastiques</ogr:title>
+    <ogr:observation>Dans le jardin de la MAP. Ouverture lundi 14h 19h, mardi au vendredi 9h-12h et 14h-19h, samedi 9h30-12h30 et 13h30-16h30.</ogr:observation>
+    <ogr:picture>img.6354f3a2e7939.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8273824" lon="2.1967517">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc de Lesser</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.63540583d4456.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8207023" lon="2.2905602">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>1 Avenue Marcel Martinie</ogr:title>
+    <ogr:observation>Devant le parc</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8159325" lon="2.5101844">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Gaston Soufflay</ogr:title>
+    <ogr:observation>boîte de l'école primaire Politzer. livres pour enfants seulement. mauvais état de la boîte (automne 2022) avec portes cassées.</ogr:observation>
+    <ogr:picture>img.63417836c6769.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8159867" lon="2.5104017">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Gaston Soufflay</ogr:title>
+    <ogr:observation>Boîte de l'école maternelle Politzer, livres pour enfants seulement. Mauvais état de la boîte (automne 2022), avec portes cassées.</ogr:observation>
+    <ogr:picture>img.6341772658cfb.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8456957" lon="2.423271">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square Alexandra David Neel</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.6332d87366961.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.9083167" lon="2.8033917">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de Lesches</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.63316a65d7b8f.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8480017" lon="2.4245459">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Massue/ rue des laitières</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.632c4ce89bd7e.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.5582167" lon="2.6431218">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Marc Jacquet</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8439842" lon="2.3073424">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Lecourbe</ogr:title>
+    <ogr:observation>à l'entrée côté rue Blomet</ogr:observation>
+    <ogr:picture>img.6325c2db08351.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8416347" lon="2.2991051">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Péclet</ogr:title>
+    <ogr:observation>au 1er étage à l'entrée de la bibliothèque</ogr:observation>
+    <ogr:picture>img.6325bec5096a9.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.9181329" lon="2.7639989">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de l'Église</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7828234" lon="2.2953422">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des Coudrais</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7127725" lon="2.4029465">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Rothenburg Ob-Der-Tauber</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.631aef5c44183.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8269814" lon="2.2782477">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Boulevard Gambetta</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.6314b620e0d88.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.854624" lon="2.7058593">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue des 2 Châteaux</ogr:title>
+    <ogr:observation>devant espace Marcel proust</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8436473" lon="2.2891919">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de l'Église</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.63135e988a515.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8447204" lon="2.2932891">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place du Commerce</ogr:title>
+    <ogr:observation>près du kiosque</ogr:observation>
+    <ogr:picture>img.631320289d598.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.690186" lon="3.0031508">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du Onze Novembre</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.630b74578c0a9.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.6646689" lon="2.842174">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Boîte à livres devant la mairie</ogr:title>
+    <ogr:observation>Boîte aménagée dans une ancienne cabine téléphonique</ogr:observation>
+    <ogr:picture>img.63025042ee347.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.6477384" lon="2.348036">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>boite à livre</ogr:title>
+    <ogr:observation>parc Pablo Picasso</ogr:observation>
+    <ogr:picture>img.6300f80091db1.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.653106" lon="2.3513557">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Salvador Allende</ogr:title>
+    <ogr:observation>devant la poste</ogr:observation>
+    <ogr:picture>img.6300a74bf1f84.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.791397" lon="1.9724001">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place du Beffroi</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9142569" lon="2.6302211">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du Pressoir</ogr:title>
+    <ogr:observation>boîte à Livres située sur la petite place</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9023083" lon="2.57119">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de la Haute Futaie</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5612114" lon="3.012701">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare de Nangis</ogr:title>
+    <ogr:observation>boîte se situant dans la gare</ogr:observation>
+    <ogr:picture>img.62f6424267050.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.5945161" lon="2.2561848">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>boite a livre mairie saint germain les arpajon</ogr:title>
+    <ogr:observation>boite a livre</ogr:observation>
+    <ogr:picture>img.615dd58dab88d.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.875323" lon="2.305162">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du Faubourg Saint-Honoré</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.618283e986ce9.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.7392479" lon="2.2889297">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place des Baconnets</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8145817" lon="2.3947229">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc des Cormailles</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7180809" lon="2.2345109">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Jean Cattant</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7876356" lon="2.3300176">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue de la Division Leclerc</ogr:title>
+    <ogr:observation>Dans le parc à côté du bâtiment</ogr:observation>
+    <ogr:picture>img.6295c708627cc.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.7646945" lon="2.3382588">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Georges Guynemer</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7535447" lon="2.3457773">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des Halliers</ogr:title>
+    <ogr:observation>Devant entrée Centre sportif</ogr:observation>
+    <ogr:picture>img.6294c97a9d22f.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8277289" lon="2.3156268">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>promenade jane et Paulette Narval</ogr:title>
+    <ogr:observation>espace jeu des souvenirs</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.2573346" lon="2.8088743">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des Arches</ogr:title>
+    <ogr:observation>à côté de la boulangerie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8721792" lon="2.2086407">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc Jacques Baumel</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.626ea708aa811.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.1992314" lon="2.8198292">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de Hautefeuille</ogr:title>
+    <ogr:observation>face à l'école</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8904547" lon="2.3032597">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue de la Porte d'Asnières</ogr:title>
+    <ogr:observation>livre religieux islam pour converti@@__</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7093427" lon="2.1955353">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de la Vauve</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.623fa07d3d078.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.7477053" lon="2.3461597">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Sainte-Geneviève</ogr:title>
+    <ogr:observation>Dans le enceinte espace du sport</ogr:observation>
+    <ogr:picture>img.622081f355a66.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.7510648" lon="2.3470336">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du Parc</ogr:title>
+    <ogr:observation>Devant la maison de la petite enfance</ogr:observation>
+    <ogr:picture>img.622079aa6626a.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8567046" lon="2.5111531">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Faidherbe</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0089788" lon="2.2847509">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de Paris</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9901731" lon="2.2723993">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Saint-Lambert</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.61da9eca47221.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.9749817" lon="2.1995126">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Maurice Berteaux</ogr:title>
+    <ogr:observation>Ecole Maurice Berteaux</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9775733" lon="2.1918287">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du Val d'Or</ogr:title>
+    <ogr:observation>Val d'or</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9426299" lon="2.19635">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Georges Clemenceau</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0203845" lon="2.0885563">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Chemin de Halage</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.6191136e24533.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.8411515" lon="2.6408515">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Allée François Mansart</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.617fd61aa7f6e.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.849752" lon="2.652201">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de l'Appel du 18 Juin 1940</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9581915" lon="2.8776158">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Quai Victor Hugo</ogr:title>
+    <ogr:observation>En face de l'hôtel de ville</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0134138" lon="2.0620716">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>boite a livres en bois</ogr:title>
+    <ogr:observation>_</ogr:observation>
+    <ogr:picture>img.6167d31e44627.png</ogr:picture>
+  </extensions>
+</wpt>
+<wpt lat="48.9517537" lon="2.5627432">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Devant gare Aulnay sous Bois</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.898008" lon="2.5624323">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue des Abricots</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9015724" lon="2.5209474">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc place des fêtes</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8916189" lon="2.5130772">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc médiathèque</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5279173" lon="2.6542657">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>daisie2010@live.fr</ogr:title>
+    <ogr:observation>À la sortie de la gare, juste à côté de la Pickup Station de la poste</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8682985" lon="2.2211723">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Station T2 Suresnes Longchamp</ogr:title>
+    <ogr:observation>Sur quai direction la défense</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9082962" lon="2.5178268">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Boulevard de la République</ogr:title>
+    <ogr:observation>Devant le restaurant McDonald</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8457879" lon="2.244381">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Denfert Rochereau</ogr:title>
+    <ogr:observation>Boite encastrée dans la devanture du café contenant divers genres et formats</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8228835" lon="2.0013082">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>impasse des hauts bouleaux</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8013163" lon="2.2898384">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>parc des sarments</ogr:title>
+    <ogr:observation>située en haut du parc</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7544893" lon="2.300127">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Auguste Mounié</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5274727" lon="2.6778744">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Coin lecture</ogr:title>
+    <ogr:observation>Petit coin lecture aménagé au coin de la rue du Chêne et de la rue des Guinottes.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5259202" lon="2.6815858">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Boîte à livres</ogr:title>
+    <ogr:observation>Sur la place de la poste</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8259427" lon="2.3081814">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du Général Humbert</ogr:title>
+    <ogr:observation>Jardin de la place Jules Henaffe</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8259767" lon="2.3083898">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue prevost paradol</ogr:title>
+    <ogr:observation>Devant la régie de quartier</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7644886" lon="2.6725553">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue du Général Leclerc</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.97884" lon="2.3011974">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Amélie</ogr:title>
+    <ogr:observation>A l'entrée du petit parc en face de la Villa ARTFX à Enghien-les-Bains. La boite aux livres se trouve devant le 1er banc du parc</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.34962" lon="2.8533736">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des Joncs</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.3776522" lon="2.7877606">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue de Fontainebleau</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8621062" lon="2.2978789">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Port de la Bourdonnais</ogr:title>
+    <ogr:observation>A cote de la passerelle Debilly devant le musée du Quai Branly</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8517852" lon="2.6193851">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>parc de Noisiel</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8392937" lon="2.6251525">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Pierre Mendès France</ogr:title>
+    <ogr:observation>place du front populaire devant l'avenue</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8347848" lon="2.330608">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Denfert-Rochereau</ogr:title>
+    <ogr:observation>Dans le square derrière la place Denfert Rochereau</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8043222" lon="1.6782017">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Chemin des Fondrières</ogr:title>
+    <ogr:observation>boite à livres devant particulier</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8618534" lon="2.3728245">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>jardin partagé Louis Blanc</ogr:title>
+    <ogr:observation>Sur les grilles extérieures du jardin</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0794851" lon="2.4996725">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du Colonel Fabien</ogr:title>
+    <ogr:observation>Passage entre l'hôtel de ville et l'église</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0796692" lon="2.5016077">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square Thomas François Dalibard</ogr:title>
+    <ogr:observation>Au milieu du square</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0927297" lon="2.5067075">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Allée des Tilleuls</ogr:title>
+    <ogr:observation>Nouvelle Boîte à Lire</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.807384" lon="2.4422756">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de cecile</ogr:title>
+    <ogr:observation>a coté de l'église</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.94414" lon="2.32576">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>VIVAL VILLENEUVE LA GARENNE</ogr:title>
+    <ogr:observation>Little Free Library</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7248697" lon="2.4210465">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Jardin de la mairie</ogr:title>
+    <ogr:observation>Installée par le Lions Club.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8770348" lon="2.3142881">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>La boite à livres de Carlita</ogr:title>
+    <ogr:observation>Boîte à livres du coffee shop Carlita 9 rue Treilhard</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8080675" lon="3.0820539">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place du 8 mai 1945</ogr:title>
+    <ogr:observation>devant la gare de Coulommiers</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8350632" lon="2.3856825">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Gabriel Lamé</ogr:title>
+    <ogr:observation>_</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8857746" lon="2.3198583">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Bridaine</ogr:title>
+    <ogr:observation>la boîte à livres se situe à l'intérieur du café des petits frères. attention aux horaires d'ouverture.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.854506" lon="2.7648193">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Troc Livres - École Eugène Isabey</ogr:title>
+    <ogr:observation>ZenLire</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8844872" lon="2.3220677">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des Batignolles</ogr:title>
+    <ogr:observation>la boîte à livre se situe dans le hall de la Mairie du 17ème.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9732221" lon="2.2596217">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>mail de l'église</ogr:title>
+    <ogr:observation>devant la boulangerie au milieu de l'espace vert</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5642426" lon="2.5658089">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue du moulin de forges-savigny le temple</ogr:title>
+    <ogr:observation>boite à livres@@__</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8715273" lon="2.4039772">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place saint fargeau</ogr:title>
+    <ogr:observation>elle est à côté de la station de métro il y a pas mal de livre régulièrement</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8907368" lon="2.2795034">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>56 rue de villiers</ogr:title>
+    <ogr:observation>Square gratzer</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7734397" lon="2.0269292">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue des Quatre Pavés du Roi</ogr:title>
+    <ogr:observation>Sous le porche entre la pharmacie et la boulangerie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8439641" lon="2.351062">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>37 rue Lacépède</ogr:title>
+    <ogr:observation>À l?intérieur du Carrefour</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8215376" lon="2.3274293">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Paul Appell</ogr:title>
+    <ogr:observation>Boîte à lire située à l'angle de l'avenue Paul Appell et de la rue Monticelli sur la place</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8254245" lon="2.3153562">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Boulevard Brune</ogr:title>
+    <ogr:observation>Arrêt Tram T3a Porte d?Orleans sur le boulevard Brune</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8212708" lon="2.3347565">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Boulevard Jourdan</ogr:title>
+    <ogr:observation>Arrêt tram T3a Cite UniversitaireBoulevard Jourdan</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8153861" lon="2.4213448">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>7 avenue du général leclerc</ogr:title>
+    <ogr:observation>De couleur rouge</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.925858330877929" lon="2.049685120582581">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square Jean Moulin</ogr:title>
+    <ogr:observation>A l'angle de l'avenue F. Lefebvre et de la rue de la Bruyère, près des jeux pour enfants</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9931164" lon="2.3769397">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>72 rue Pierre Brossolette</ogr:title>
+    <ogr:observation>Le Livre-Echange est un équipement culturel fonctionnant sur le principe des boîtes à livres, où les habitants peuvent s'échanger des ouvrages. Plus d'infos sur www.sarcelles.fr</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8113188" lon="2.3233094">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue du fort</ogr:title>
+    <ogr:observation>Située à l'entrée du square Robert Doisneau</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.79114" lon="2.363604">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc Pablo Neruda</ogr:title>
+    <ogr:observation>Située à deux pas du kiosque</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.55818" lon="2.680726">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Espace Saint Exupery</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5572548" lon="2.6821393">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des Bertagnes Lac des Bertagnes</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6473193" lon="2.4041432">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>allée Jean Ferrat</ogr:title>
+    <ogr:observation>Près du square de jeux pour enfants.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6440747" lon="2.4020074">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de la Marie Blanche</ogr:title>
+    <ogr:observation>près du square de jeux pour enfants</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.4748099" lon="2.4968075">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place de la mairie</ogr:title>
+    <ogr:observation>Livres mis a dispo par et pour les particuliers ! Tous genres confondus. A coté de la Boite à lettres en face de la mairie.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.4755318" lon="2.6918466">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare de Bois le roi</ogr:title>
+    <ogr:observation>Située sur la place de la gare en face de l'arrêt de bus</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8387417" lon="2.6332003">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Jehan Scarron</ogr:title>
+    <ogr:observation>A côté de la gare RER A</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6996559" lon="2.6118682">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Jardin des bienfaites</ogr:title>
+    <ogr:observation>à l'entrée du parc des bienfaites à gauche</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0430378" lon="2.0858503">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>10 Avenue Adolphe Chauvin</ogr:title>
+    <ogr:observation>Au croisement des deux rues.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5507521" lon="2.2775242">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>2 route d Arpajon</ogr:title>
+    <ogr:observation>Au croisement de la route d Arpajon et la route de Marolles, sur le petit parking de l'épicerie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6637126" lon="2.3512">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>24 rue Jean Raynal</ogr:title>
+    <ogr:observation>Petite boite fixée contre un mur</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8147558" lon="2.3380182">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue henri kleynhoff</ogr:title>
+    <ogr:observation>la boite se situe dans le parc pour enfant</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8437412" lon="2.617446">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Allée Jean Paul Sartre</ogr:title>
+    <ogr:observation>au sud de la gare rer entre la pharmacie et le batiment de la gare</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6963525" lon="2.1634325">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Impasse de la station</ogr:title>
+    <ogr:observation>A la sortie de la gare vers le centre ville devant la mediatheque</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5375261" lon="2.6536588">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Jardins de la mairie</ogr:title>
+    <ogr:observation>toute petite et très colorée.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5905933" lon="2.464531">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square de la gare chemin d'Ambreville</ogr:title>
+    <ogr:observation>Situé au square de gare de Villabé</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5849751" lon="2.4560215">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square du Gymnase Paul Poisson, Rue du Chemin Vert</ogr:title>
+    <ogr:observation>Situé  au square près du Gymnase. Cette boîte à livres est gérée par l'association des familles de Villabé ainsi que celle du square Eridan et de la gare</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5879547" lon="2.4638891">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square Eridan, rue Eridan</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6070361" lon="2.2939408">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc du Bois Badeau - Avenue Claude-Lévi-Strauss</ogr:title>
+    <ogr:observation>Ce parc est toujours ouvert. La boite se situe au niveau de l'entrée principale du parc</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0399798" lon="1.5663538">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue de l'église</ogr:title>
+    <ogr:observation>devant l'école maternelle</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.959369653525471" lon="2.883342504501343">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Henri IV</ogr:title>
+    <ogr:observation>Ruche à livres en face du cinéma, sur la place Henri IV</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.773267496297706" lon="2.679789662361145">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>21 avenue Édouard Gourdon</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9263637" lon="2.5405029">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rond point des Bosquets</ogr:title>
+    <ogr:observation>Boite à Lire avec un coin lecture aménagé 100% recup  par l'association Ressources &amp; Compagnie dans le halle d'entrée du Castel Guy Mollet, Rond point des Bosquets à Livry Gargan</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9188992" lon="2.2808973">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Arnaud Beltrame</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7949406" lon="2.5299401">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du général de Gaulle</ogr:title>
+    <ogr:observation>près du conservatoire</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.823126764679145" lon="2.249128818511963">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue du Bas-Meudon</ogr:title>
+    <ogr:observation>Cabine à l'angle du boulevard des Isles et de la rue du Bas-Meudon</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7326311" lon="2.7944681">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>45 route de Fontenay</ogr:title>
+    <ogr:observation>A l accueil du SIETOM du lundi au vendredi de 9h à 13 et de 14h à 17h.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.4765205" lon="2.5557966">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>2 rue de Melun</ogr:title>
+    <ogr:observation>A coté de la Boulangerie dans l'arrêt de bus Mairie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8971639" lon="2.2896756">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>83 rue Vaillant Couturier</ogr:title>
+    <ogr:observation>Deux boites à livres dans le Parc Collange</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8131112" lon="2.2923482">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>parc salagnac</ogr:title>
+    <ogr:observation>Ouvert quand le parc est ouvert.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7696294" lon="1.9519196">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>14 résidence nouveaux horizons</ogr:title>
+    <ogr:observation>aline.grillon@gmail.com</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6481354" lon="2.4325605">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue du vieux cèdre - quartier de Grand Bourg</ogr:title>
+    <ogr:observation>Installation à l'initiative d'un groupe d'habitants</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5331582" lon="2.5394207">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Centre de santé du grand pavois</ogr:title>
+    <ogr:observation>Juste devant le Centre de santé</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9551686" lon="2.4164516">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>8 avenue Ambroise Croizat</ogr:title>
+    <ogr:observation>Face à la BNP Paribas</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.652403" lon="2.34837">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>62 Avenue René Cassin</ogr:title>
+    <ogr:observation>Devant la Maison de la Citoyenneté et de la Vie Associative</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6749789" lon="2.3216218">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>14 Rue de la Terrasse</ogr:title>
+    <ogr:observation>Parc de la Maison Sainte Marie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.671933682370813" lon="2.293117046356202">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du general Leclerc</ogr:title>
+    <ogr:observation>Cabine téléphonique au Château</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6623946" lon="2.2804785">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des Hauts Fresnais</ogr:title>
+    <ogr:observation>Cabine téléphonique au groupe scolaire</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.694345626687571" lon="2.295960187911988">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue Léontine Sohier</ogr:title>
+    <ogr:observation>Mairie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.658796385424907" lon="2.414535284042359">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue de la place de la gare</ogr:title>
+    <ogr:observation>Dans le petit parc. Installation à l'initiative d'un groupe d'habitant</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5756437" lon="2.5831383">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>3 rue de Paris</ogr:title>
+    <ogr:observation>Se trouve entre le parc de stationnement de l église et l'entrée du notaire sous les arbres à coté d'un banc</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0629238" lon="2.0915753">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Kennedy</ogr:title>
+    <ogr:observation>Boîte située sur l avenue Kennedy, en face de la Pharmacie Kennedy, juste à côté de l'arrêt de bus Alsace-Bretagne [image Google maps]</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0776047" lon="2.0791033">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Centre Commercial de l Oseraie, D915</ogr:title>
+    <ogr:observation>Une haute boîte installée dans le centre commercial Auchan située approximativement près d un institut bronzage et près d'une issue avec toilettes</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9033091" lon="2.156507">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Av Guy de maupassant</ogr:title>
+    <ogr:observation>Square pour enfantsAv Guy de maupassant</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0582645" lon="2.1600068">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Route de Pontoise</ogr:title>
+    <ogr:observation>Juste à l entrée d'Intermarché</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9524703" lon="2.3105048">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Mulot au croissement de la rue Monribot</ogr:title>
+    <ogr:observation>Bonjour, cependant la dame qui l a installée, je souhaite pas qu'on l'a prenne en photo pour la publier.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6439949" lon="2.408316">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue de la Cime</ogr:title>
+    <ogr:observation>Installation à l initiative d'un groupe d'habitant devant l'école élémentaire de la Ferme du Temple</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8978306" lon="2.3282485">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>2 boulevard bessiere</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8980465" lon="2.3381473">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>140 Boulevard Ney</ogr:title>
+    <ogr:observation>Sur le quai du Tram 3B, Angélique Compoint</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8277224" lon="2.3518377">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>6 place Paul VERLAINE</ogr:title>
+    <ogr:observation>dans le jardin entre la rue de la butte aux caille et la rue Bobillotprès de l aire de jeux</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.964787" lon="2.191289">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Imbs</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8471674" lon="2.652468">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>avenue de Lingenfeld</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0772544" lon="2.7932899">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des sources</ogr:title>
+    <ogr:observation>En face du complexe sportif</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8081239" lon="2.4949587">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>piscine Brossolette</ogr:title>
+    <ogr:observation>A l intérieur de la piscine</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.025462" lon="3.0268307">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Mairie</ogr:title>
+    <ogr:observation>La boîte a lire se trouve juste devant l entree De la mairie.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0299682" lon="3.0152291">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>College Saint Saens</ogr:title>
+    <ogr:observation>La boîte a livres se trouve juste devant le collège.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8207027" lon="2.3130402">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc le jardin toscan</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0713669" lon="2.1767399">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>sentier des calpons</ogr:title>
+    <ogr:observation>Cabane à livre</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8842293" lon="2.2437319">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Jardin aux Camelias - Rue Jean-Jaurès</ogr:title>
+    <ogr:observation>Boite à lire qui se trouve au milieu du Jardin aux Camélias, allée centrale.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8838172" lon="2.2452684">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square Léon Blum</ogr:title>
+    <ogr:observation>Boite à lire devant la Pizzeria &quot;Le Caruso&quot;.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5392966" lon="2.663027">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>26 Place Saint-Jean</ogr:title>
+    <ogr:observation>A l entré à gauche dans l'espace Saint Jean , à l'intérieur du batiment.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0321549" lon="2.6989655">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare dammartin juilly saint mard</ogr:title>
+    <ogr:observation>Dans le halle de gare</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9325097" lon="2.4776806">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>RUE PIERRE SEMARD</ogr:title>
+    <ogr:observation>sur le trottoir du parking face à la rue Denis Papin</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9705945" lon="1.7202962">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>12 RUE DE CERNAY</ogr:title>
+    <ogr:observation>Situé chez particulier au Domaine de la Vallée</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7771579" lon="2.2938135">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des Ecoles</ogr:title>
+    <ogr:observation>Sur la place devant l?Animatheque MJC</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8111158" lon="2.1430883">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Pierre Lescot</ogr:title>
+    <ogr:observation>La boite à livre est sous le auvent de la porte d entrée de la salle Marcel Tassincourt</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7993115" lon="2.1424114">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue de Paris</ogr:title>
+    <ogr:observation>A l étage dans la cafette de la Bibliothèque de l'université inter-age</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.379876" lon="2.9429721">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare de Montereau</ogr:title>
+    <ogr:observation>Boite à livres située devant la gare</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.830759" lon="2.359204">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>valerielauzetdoyen@gmail.com</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8705116" lon="2.6466301">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place du vieux Vaires</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5313683" lon="2.6565106">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>17 Avenue Thiers</ogr:title>
+    <ogr:observation>Dans le jardin romain</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9687381" lon="2.3586237">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue de la République</ogr:title>
+    <ogr:observation>De couleur rose, elle se trouve sur un des trottoirs, non loin de l intersection avec la route nationale.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6389982" lon="2.4758471">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Résidence Bois du Cerf</ogr:title>
+    <ogr:observation>Située sur le bâtiment à côté du poste de sécurité à l'entrée de la résidence.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6628136" lon="2.4233895">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>33 rue Alphonse Daudet</ogr:title>
+    <ogr:observation>A droite de l'entrée du domaine de l'Association La Maison Alphonse DAUDET sous un petit kiosque très charmant et accueillant bordée par un petit jardin potager à partager! ^^</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9974065" lon="1.6852243">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>CVS Aimé Césaire - 6 Rue Boileau - Val Fourré</ogr:title>
+    <ogr:observation>Sur la gauche, de l'entrée du CVS Aimé Césaire</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5635488" lon="2.6792135">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>27 rue de la faïencerie</ogr:title>
+    <ogr:observation>Boîte bibliothèque dans le hall de la mairie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5530817" lon="2.678264">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>673 rue des 3 Moulins</ogr:title>
+    <ogr:observation>Boîte à livres pour les écoliers du groupe scolaire communal</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9996696" lon="1.6383783">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Grand Place Jean Le COQ</ogr:title>
+    <ogr:observation>Boîté à lire Lion s Club FranceDevant façade Magasin U Express</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7839255" lon="1.9585706">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>5 route de montfort - d23</ogr:title>
+    <ogr:observation>La boite se trouve sous le porche de la mairie-ecole, le long de la d23</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8555727" lon="2.7532668">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>ZAC du Clos du Chêne, avenue du Clos Rose</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.822261" lon="2.467921">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>ile fanac</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7306954" lon="2.4468936">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Pierre Sémard</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0373165" lon="1.6300322">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>73 GRANDE RUE</ogr:title>
+    <ogr:observation>Aménagement  de l ancienne  cabine téléphonique de la commune , juste après la Mairie à hauteur du No 73</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0433626" lon="1.6487898">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>81 Grande Rue</ogr:title>
+    <ogr:observation>Boite installée dans abri arrêt bus, parking face à la Mairie de la commune</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7843315" lon="1.9574114">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>15 Route de Montfort - D23</ogr:title>
+    <ogr:observation>La boite se trouve sous le porche de la Mairie-Ecole, le long de la D23</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.661872" lon="2.3297346">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue du grand Orme Place de la mairie</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.659932" lon="2.3322666">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Allée du chantier de Justice</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6571481" lon="2.3311805">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Séquigny</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6603871" lon="2.3286761">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Allée des Bruyères</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6661009" lon="2.326789">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>19 Rue Marcel Girard</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7528509" lon="2.4066304">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>37 Avenue Rosa Luxemburg,</ogr:title>
+    <ogr:observation>Petite boite à lire au niveau de la Villa tasigny</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.4062207" lon="2.7011949">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de la République</ogr:title>
+    <ogr:observation>en plein milieu de la place du marché</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.895412" lon="2.286015">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc de la Planchette</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8741678" lon="2.3901256">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>88 rue des Rigoles</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.896652" lon="2.318356">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>96 avenue Bessiere</ogr:title>
+    <ogr:observation>Sur le quai du tram</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8925163" lon="2.2970509">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>31 rue d Alsace</ogr:title>
+    <ogr:observation>2 boites à livres dans le Parc Alsace</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7846128" lon="2.0435917">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>SAINT QUENTIN HAUT - Centre Commercial Saint Quentin - 10, allée des Epices</ogr:title>
+    <ogr:observation>Pomme de Pain SAINT QUENTIN HAUT</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.756658" lon="2.3718926">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>C.C Régional Belle-Epine - 307 Thiais</ogr:title>
+    <ogr:observation>Pomme de Pain BELLE EPINE</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0383163" lon="2.0818024">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>C.C Les 3 Fontaines - Niv 1</ogr:title>
+    <ogr:observation>Pomme de Pain CERGY</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.833388" lon="2.2439836">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>93, Bld de la République</ogr:title>
+    <ogr:observation>Pomme de Pain BOULOGNE</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8610066" lon="2.3481185">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>16 rue Berger</ogr:title>
+    <ogr:observation>Pomme de Pain FORUM INNOCENTS</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8907015" lon="2.2356394">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>C.C Les 4 Temps - place des Terrasses - BP 180</ogr:title>
+    <ogr:observation>Pomme de Pain QUATRE TEMPS TERRASSE</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8666696" lon="2.2895046">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>86, avenue Kléber</ogr:title>
+    <ogr:observation>Pomme de Pain KLEBER</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.962975" lon="1.856559">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Family Village - ZAC du trait d union - RD 14 - route des 40 sons</ogr:title>
+    <ogr:observation>Pomme de Pain AUBERGENVILLE</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6767939" lon="2.1715273">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Centre Commercial Les Ulis 2 - Local 213</ogr:title>
+    <ogr:observation>Pomme de Pain LES ULIS</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.035387" lon="2.0781755">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>ZAC du quartier préfecture Villanova Cergy grand centre Av B. Hirsch</ogr:title>
+    <ogr:observation>Pomme de Pain CERGY CAFE</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.842977" lon="2.3259898">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>82 boulevard du Montparnasse</ogr:title>
+    <ogr:observation>Pomme de Pain MONTPARNASSE BOULEVARD</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8831963" lon="2.3433921">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>3, rue de steinkerque</ogr:title>
+    <ogr:observation>Pomme de Pain STEINKERQUE</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9857421" lon="2.3731885">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>CC My Place - 200 avenue de la division Leclerc</ogr:title>
+    <ogr:observation>Pomme de Pain SARCELLES</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.828149" lon="2.380457">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>9-13 rue Marie Andree Lagraou Weill Halle</ogr:title>
+    <ogr:observation>Pomme de Pain TOLBIAC</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8521126" lon="2.3735204">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>59 rue du Faubourg St Antoine</ogr:title>
+    <ogr:observation>Pomme de Pain SAINT ANTOINE</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.1257574" lon="2.2505827">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>ZAC du Pont des Rayons</ogr:title>
+    <ogr:observation>Pomme de Pain L ISLE ADAM</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7241734" lon="2.0862459">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>23 Rue des Écoles Jean Baudin</ogr:title>
+    <ogr:observation>A l'intérieur du Pôle musical et associatif Blaise Pascal, juste dans l'entrée.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7247945" lon="2.0833589">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>4 Rue Haroun Tazieff</ogr:title>
+    <ogr:observation>A l'intérieur du magasin Natureo, derrière les caisses. Grande boîte à livre composé de plusieurs petites armoires.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8844522" lon="2.6211889">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>14 RUE DE FRESNES</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9081547" lon="2.3625076">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square Diderot</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9960754" lon="1.6997481">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Paul Bert</ogr:title>
+    <ogr:observation>Sur la place à l'angle de l'avenue Paul Bert et la rue de Gassicourt</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9901204" lon="1.7162597">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>1 rue du Vieux Pilori</ogr:title>
+    <ogr:observation>Dans la rue piétonne</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8694729" lon="2.6803997">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>7 rue Lamartine ZAC La Courtillière</ogr:title>
+    <ogr:observation>Dans le magasin Biocoop, à l entrée</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8919456" lon="2.2585947">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>quai Paul Doumer</ogr:title>
+    <ogr:observation>Sur les Berges de Seine</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.893865769763238" lon="2.253098487854004">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue Auguste Beau</ogr:title>
+    <ogr:observation>Dans le Parc des Pléïades</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8936101" lon="2.2428432">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue Henri Regnault</ogr:title>
+    <ogr:observation>Dans le square Regnault</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8996759" lon="2.2418453">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue de Normandie</ogr:title>
+    <ogr:observation>Dans le square Normandie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8764895" lon="2.5875056">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc Emile Fouchard</ogr:title>
+    <ogr:observation>Dans le parc coté Gare routière.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.837181" lon="2.4161774">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>26 rue du Commandant Mouchotte</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9013729" lon="2.2544919">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square Raspail/Kilford</ogr:title>
+    <ogr:observation>accessible quand le square est ouvert</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6275588" lon="2.1013759">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>30 r Doct Babin</ogr:title>
+    <ogr:observation>2 boites à livres - 1 pour les enfants et les jeunes - et 1 pour les adultes ont astucieusement été disposées devant la maison médicale de Forges les Bains, accessibles à toute heure. Réalisées par les services techniques de la mairie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9018773" lon="2.5929862">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>35 AVENUE DELAMBRE</ogr:title>
+    <ogr:observation>PRES AERODROME</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8849324" lon="2.5773595">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>7 ALLEE NOUE BROSSARD</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8299088" lon="2.3450118">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Jardin mail de bièvre</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.691044" lon="3.004954">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>derriere l égise sur le trottoir</ogr:title>
+    <ogr:observation>il s agit  d'une ancienne  cabine téléphonique  transformée  en  bibiothque</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.593094" lon="3.0751179">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>la  place de l égise</ogr:title>
+    <ogr:observation>ancienne cabine téléphonique transformée en  boite a lire</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.615664" lon="3.194421">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Route principale</ogr:title>
+    <ogr:observation>En façe du tabac presse et sur la route principale</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8772513" lon="2.5891855">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue frères Verdeaux</ogr:title>
+    <ogr:observation>A coté de l Hotel de Ville</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8744295" lon="2.582671">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare SNCF Chelles-Gournay</ogr:title>
+    <ogr:observation>Dans espace de co-working</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7994627" lon="2.4809638">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>51A rue Louis Braille</ogr:title>
+    <ogr:observation>Boîte à livres sur le chemin des écoliers</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7403875" lon="2.4530549">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de bricquebec</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5418149" lon="2.7696265">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue principale</ogr:title>
+    <ogr:observation>A côté de la chapelle au hameau de Courtry à Sivry-courtry</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.527642" lon="2.754706">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue de la mairie</ogr:title>
+    <ogr:observation>Juste à côté de la mairie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.848248" lon="2.3237212">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>74, Rue du Cherche Midi</ogr:title>
+    <ogr:observation>Une boîte à livres est à disposition dans la  Boutique upcycling de Rue Rangoli</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8054517" lon="2.2445556">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>5 rue de Rushmoor</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8335948" lon="2.3537387">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>58 avenue des Gobelins</ogr:title>
+    <ogr:observation>Une nouvelle boite à lire est installée dans le salon du Gaumont Les Fauvettes !</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9997842" lon="2.4129215">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>97 avenue Pierre Semard</ogr:title>
+    <ogr:observation>Boite à lire à l entrée de la médiathèque.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6809405" lon="2.1825118">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>boulevard de mondetour</ogr:title>
+    <ogr:observation>accessible durant l ouverture de la marie annexe</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8318806" lon="2.2872135">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Station Porte de Versailles</ogr:title>
+    <ogr:observation>Boite à livres située à l'arrêt &quot;porte de versailles&quot; du tram t3b mise en place par la ratp, recyclivre et les boites à partage</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.823521" lon="2.324791">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Station porte d'orléans</ogr:title>
+    <ogr:observation>Boite à livres située à l'arrêt &quot;porte d'orléans&quot; du tram t3b mise en place par la ratp, recyclivre et les boites à partage</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8201748" lon="2.3391345">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Station cité universitaire</ogr:title>
+    <ogr:observation>Boite à livres située à l'arrêt &quot;cité universitaire&quot; du tram t3a mise en place par la ratp, recyclivre et les boites à partage</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.819885" lon="2.364189">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Station porte de choisy</ogr:title>
+    <ogr:observation>Boite à livres située à l'arrêt &quot;porte de choisy&quot; du tram t3a mise en place par la ratp, recyclivre et les boites à partage</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.929784" lon="2.356813">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Station porte de paris</ogr:title>
+    <ogr:observation>Boite à livres située à l'arrêt &quot;porte de paris&quot; du tram 8 mise en place par la ratp, recyclivre et les boites à partage</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.897602" lon="2.3865506">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>81 Boulevard Macdonald </ogr:title>
+    <ogr:observation>Boite à livres située à l'arrêt &quot;porte de la villette&quot; du tram t3b mise en place par la ratp, recyclivre et les boites à partage</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.888876" lon="2.395104">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>179 bis Boulevard Sérurier</ogr:title>
+    <ogr:observation>Boite à livres située à l'arrêt &quot;porte de Pantin&quot; du tram t3b mise en place par la ratp, recyclivre et les boites à partage</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8624749" lon="2.208468">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>6 rue Edouard Vaillant</ogr:title>
+    <ogr:observation>Devant l’école Edouard Vaillant</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8701047" lon="2.2278661">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Henri IV</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8659349" lon="2.218081">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>5-19 rue du Docteur Emile Roux</ogr:title>
+    <ogr:observation>Devant l’école élémentaire des Raguidelles </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.865755" lon="2.224137">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place Eugène Sue</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8527724" lon="2.1437894">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de l église</ogr:title>
+    <ogr:observation>Sur le parking devant la porte de l église.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8276092" lon="1.9996417">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>22 avenue de Touraine</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8437806" lon="2.3072444">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>45 rue Lecourbe</ogr:title>
+    <ogr:observation>à l entrée du Carrefour city.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9195786" lon="2.0144141">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>La coudraie</ogr:title>
+    <ogr:observation>Boîte à livres située à côté de l aire de jeu pour enfants.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9198266" lon="2.0353395">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Corneille</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8792771" lon="2.3682502">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>13/17 rue Louis Blanc</ogr:title>
+    <ogr:observation>Cette boite à lire est destinée à faire connaitre les activités et l objet de la librairie solidaire située au 27 rue du Chateau d'eau 75010 Paris créée en 2011 par la maison du Canal, régie de quartier du 10° arrondissement.On peut donc venir y prendre ou y déposer de nombreux livres situés en extérieur.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7588458" lon="2.0498085">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Espace Decauville</ogr:title>
+    <ogr:observation>Ancienne cabine téléphonique située dans le jardin à côté de l espace decauville.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8201748" lon="2.3391345">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Tram cité universitaire</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9252609" lon="2.445607">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc ladoucette</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7908537" lon="2.6116429">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Jardin d Aimé</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8437586" lon="2.4266672">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>69, rue de Paris</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.853759" lon="1.8022685">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Route des châteaux</ogr:title>
+    <ogr:observation>Boîte située face à la mairie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.932288" lon="2.3346746">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Passage des écoles</ogr:title>
+    <ogr:observation>Boite Lions Club à l'entrée de l'école Charles Perrault et l'espace Pierre Brossolette</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9374192" lon="2.3256313">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>13 Allée Saint-Exupéry</ogr:title>
+    <ogr:observation>Boite Lions Club</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.933755" lon="2.3303947">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>square de l'Abbé Pierre</ogr:title>
+    <ogr:observation>Boite Lions Club sur la Voie promenade a l entrée du square de l'Abbé Pierre</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9297321" lon="2.3313732">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>23 rue Maurice Ravel</ogr:title>
+    <ogr:observation>Devant l aire de jeux pour enfants. Boite à Lire Lions Club</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7204627" lon="2.4649022">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square Jean Moulin</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9399575" lon="2.617136">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Mairie de Villeparisis</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8476123" lon="2.4052773">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Cours de Vincennes</ogr:title>
+    <ogr:observation>Se trouvant à la station t3b direction porte de la chapelle, parfait en attendant deux tramways.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.817390702098059" lon="2.28243112564087">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc Frédéric Pic - Côté rue Larmeroux</ogr:title>
+    <ogr:observation>Boîte collée au manège et accessible quand le manège est ouvert.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7964706" lon="2.3054025">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>6 rue etienne dolet</ogr:title>
+    <ogr:observation>Dans le parc Richelieu à côté d un banc</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8256177" lon="2.3811177">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Station de tramway  Avenue de France</ogr:title>
+    <ogr:observation>Jolie boîte, bien à l abri de la pluie. Parfaite pour attraper un truc avant de prendre le tram.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8317034" lon="2.3135962">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>130 rue raymond Losserand</ogr:title>
+    <ogr:observation>Retrouver la sélection des lecteurs du quartier et déposer vos livres au livre service  du kiosque lulu dans ma rue. ouvert tous les jours de 11h30 à 19h30 sauf le dimanche.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.787487" lon="2.3671986">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Villejuif Louis Aragon</ogr:title>
+    <ogr:observation>Boîte à livres située à l arrêt de tram villejuif Louis Aragon</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.997648801757016" lon="2.894425392150879">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Eglise de CHAMBRY</ogr:title>
+    <ogr:observation>Devant l'église</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.878673239790572" lon="2.336965799331665">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue notre dame de Lorette</ogr:title>
+    <ogr:observation>Boîte à lire du 9ème arrondissement de Paris, dans un beau petit square de la place Saint Georges</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8841932" lon="2.394366">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>133/135 Boulevard sérurier</ogr:title>
+    <ogr:observation>Boite à lire à l'intérieur du centre d'animation à coté de l'accueil. N'hésitez pas à venir</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8462787" lon="2.5851186">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Centre sociale Georges brassens,  Place du Bois de Grâce</ogr:title>
+    <ogr:observation>Dans le centre sociale 2 étagères + une table accessible au heures d ouvertures du centre</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.05177102695653" lon="2.205140590667725">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Grande rue</ogr:title>
+    <ogr:observation>Sur le parking à côté de la pharmacie. Installée dans une ancienne cabine téléphonique  à côté du panneau d?affichage</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8369993" lon="2.4835265">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Grande Rue Charles de Gaulle</ogr:title>
+    <ogr:observation>Près de l aire de jeu en face de la mairie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8394637" lon="2.4914729">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Roland Nungesser</ogr:title>
+    <ogr:observation>Près de l aire de jeu en face de la mairie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9865381" lon="2.3006327">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>9 Avenue du Général de Gaulle</ogr:title>
+    <ogr:observation>Boîte à livres située à l intérieur du Carrefour City, en face de la mairie de Soisy.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.838223175371525" lon="2.154516577720643">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square de la Montgolfière</ogr:title>
+    <ogr:observation>installé par Lions Club de St Cloud-Garche-Vaucresson</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8392446" lon="2.1862098">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Joffre</ogr:title>
+    <ogr:observation>installé par Lions Club de St Cloud-Garches-Vaucresson</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8569457" lon="2.2167273">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare du Val d Or</ogr:title>
+    <ogr:observation>installé par Lions Club de St Cloud-Garches-Vaucresson</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.844336" lon="2.209228">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>38 Bd de la République</ogr:title>
+    <ogr:observation>installé par Lions Club de St Cloud-Garches-Vaucresson</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9631222" lon="1.8088829">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>1 Place de la Gare</ogr:title>
+    <ogr:observation>A la Gare d Epône. Boîte à livres offerte par le Lions Club de Maule Epône, inaugurée le 14 octobre en présence du Maire d Epône Monsieur Guy Muller.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8776358" lon="2.3781556">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>17-21 rue Manin</ogr:title>
+    <ogr:observation>Boîte à lire créer avec l aide de mon voisin accolée à ma jardinière.Merci de ranger les livres lors de l'échange.Pas de vêtements ni d'objets acceptés.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6521268" lon="1.8186316">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>24 rue de Groussay</ogr:title>
+    <ogr:observation>Cette boîte à livres a été installée à Rambouillet par le Lions Club, la médiathèque et la ville de Rambouillet. Au total, ce sont 16 boîtes à livres qui ont été installées à Rambouillet, dans tous les quartiers</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9813736" lon="2.2708573">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Esplanade Nelson Mandela</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8247018" lon="2.3958218">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>JARDIN DU CARDINAL DE RICHELIEU</ogr:title>
+    <ogr:observation>sur la voie piétonne</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8221965" lon="2.4133032">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>PLACE ARISTIDE BRIAND</ogr:title>
+    <ogr:observation>Sur la place principale</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0630613" lon="1.7016608">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de la mairie</ogr:title>
+    <ogr:observation>Ancienne cabine téléphonique située sur le côté de l épicerie.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.845146580260966" lon="2.552615404129029">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Mail du Clos Saint Vincent</ogr:title>
+    <ogr:observation>La boîte se trouve à l'entrée du jardin des Artistes située le long de l'Espace Michel Simon.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6656744" lon="2.3278558">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue m.girard</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9415703" lon="2.324059">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Piscine de villeneuve la Garenne</ogr:title>
+    <ogr:observation>La boîte à lire se situe en bas des escaliers à gauche quand on est en face de la piscine</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7922897" lon="2.2913469">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc sainte barbe</ogr:title>
+    <ogr:observation>Installée par le Lions Club de Fontenay aux Roses au Parc municipal  Sainte Barbe</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.3347151" lon="2.3722297">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de l Eglise</ogr:title>
+    <ogr:observation>Installée par le Lions Club de Milly la Forêt en partenariat avec la Commune à côté de l'arrêt de bus</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.3423488" lon="2.3785158">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de la Gare</ogr:title>
+    <ogr:observation>Installée par le Lions Club de Milly la Forêt en partenariat avec la Commune</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8816189" lon="2.3162701">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>2 avenue de villiers</ogr:title>
+    <ogr:observation>Kiosque Lulu dans ma rue en face du Bocage</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9037306" lon="2.3057948">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>92 rue Martre</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8548797" lon="2.3613202">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>103 rue Saint Antoine</ogr:title>
+    <ogr:observation>Le kiosque Saint Paul de Lulu dans ma rue est ouvert du lundi au vendredi de 11h30 à 19h30 et le samedi de 12h à 19h.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8651136" lon="2.3990885">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>6 place Gambetta</ogr:title>
+    <ogr:observation>Boite à lire du kiosque Lulu dans ma rue</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9615657" lon="3.2095761">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>21 rue Chef de Ville</ogr:title>
+    <ogr:observation>Sur la façade du café culturel</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8935143" lon="2.3427792">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>1 place Charles Bernard</ogr:title>
+    <ogr:observation>Retrouver la sélection des lecteurs du quartier et déposer vos livres au  livre service&quot; du kiosque Lulu dans ma rue. Ouvert tous les jours de 11h30 à 19h30 sauf le dimanche.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8450158" lon="2.2924484">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place du Commerce</ogr:title>
+    <ogr:observation>Livres divers et variés en libre-service au kiosque de Lulu dans ma rue, une conciergerie de quartier, située à la sortie du métro Commerce.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.865889879849583" lon="2.138562798500061">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place du Maréchal Leclerc</ogr:title>
+    <ogr:observation>la boîte se trouve sur la partie pelousée de la place, devant le petit parking face à la banque.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8487824" lon="2.154638">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>avenue Lamartine</ogr:title>
+    <ogr:observation>la boîte se trouve sur la petite place, devant la pharmacie.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.879788056425525" lon="2.114353179931641">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Ile de la Loge</ogr:title>
+    <ogr:observation>la boîte se trouve proche de la passerelle d accès, à côté des tennis</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8793259" lon="2.1109959">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>avenue Simon Vouet</ogr:title>
+    <ogr:observation>la boîte se trouve devant le Carré des Mousquetaires.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9505375" lon="3.1255459">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>gare</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9812923" lon="2.0029611">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Jardin de la maison Senet, 121 Rue Paul Doumer</ogr:title>
+    <ogr:observation>Située dans le jardin de l espace Senet, tout près de l'aire de jeux.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0694956" lon="3.1254719">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>5 rue de la Pissotte</ogr:title>
+    <ogr:observation>Elle se trouve juste a cote du magasin d'alimentation générale</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8907636" lon="2.463265">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>80 avenue Marceau</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8446668" lon="2.2905017">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Violet</ogr:title>
+    <ogr:observation>Entre la caserne des sapeurs pompiers et l entrée nord du jardin public.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5495548" lon="2.1243452">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Espace des Closeaux, Route d Etampes</ogr:title>
+    <ogr:observation>Boite à lire située à l entrée du Gymnase de la ville. Accessible à toute heure. Elle a besoin de nous.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.943263349765203" lon="2.162439823150635">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc du Dispensaire</ogr:title>
+    <ogr:observation>Colonne à livres située dans le Parc du Dispensaire juste à côté des jeux pour les enfants.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9262948" lon="3.1301401">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>29 Grande Place</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8326179" lon="2.3508998">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Croulebarbe</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8148423" lon="2.4586579">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue fragonard</ogr:title>
+    <ogr:observation>magnifique « reconversion » pour cette cabine téléphonique anglaise</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9393383" lon="2.0570248">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>1 rue Roland le Nestour</ogr:title>
+    <ogr:observation>Dans le parc</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5208448" lon="2.2992614">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Mairie</ogr:title>
+    <ogr:observation>Boîte située derrière la mairie.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8608912" lon="2.4200359">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de la solidarité</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8163267" lon="2.7974461">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Sainte christine</ogr:title>
+    <ogr:observation>Dans l abri bus</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6717725" lon="2.3274217">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de l esplanade</ogr:title>
+    <ogr:observation>Sur le chemin de la gare une petite boîte sympathique installée par un particulier.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.894585" lon="2.6210718">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rues Laurent Mermet</ogr:title>
+    <ogr:observation>Boite mise en place par l association du quartier de ChantereinePlace des fêtes angle rues Laurent Mermet et Pierre Curie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.684706" lon="3.225833">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>PLAN D EAU DE LA FONTAINE DE BOISDON</ogr:title>
+    <ogr:observation>PLAN D EAU</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0140584" lon="2.2207775">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Centre commercial  les portes de Taverny</ogr:title>
+    <ogr:observation>à l'intérieur de la cafétariat de la galerie marchande</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0159094" lon="2.2097717">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place verdun </ogr:title>
+    <ogr:observation>près de l abri bus</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5658201" lon="2.060258">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>3 route de la creusée</ogr:title>
+    <ogr:observation>Plus qu'une boite à lire la mairie a installé au sein du Parc municipal dit Parc Billard une Boite à Dons qui comprend une bonne étagère fournis en livres. Le déplacement vaut le coup.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9261152" lon="2.7189509">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>84, rue du general de gaulle</ogr:title>
+    <ogr:observation>Dans la boulangerie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8362702" lon="2.7127871">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>6 rue Henry de Monfrey</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8377615" lon="2.2963051">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Cinéma Gaumont Convention</ogr:title>
+    <ogr:observation>Boite située dans le cinéma</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9058313" lon="2.3052818">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>10 rue des bateliers</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8855395" lon="2.325767">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>8 rue des Dames</ogr:title>
+    <ogr:observation>Dans la pharmacie de la rue des Dames. J ai demandé l'autorisation au pharmacien et j'amène des livres mais je voudrais bien qu'elle vive.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0158943" lon="2.2670138">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de la Fontaine Aux Pélerins</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6913534" lon="2.5291087">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>RUE DE LA FERME</ogr:title>
+    <ogr:observation>La Boîte à livres se trouve au milieu de la Place du centre commercial.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9595004" lon="1.8551201">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>5 rue Gaston Jouillerat</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.962421" lon="1.8081099">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>1 avenue de la gare</ogr:title>
+    <ogr:observation>Devant la gare</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8545334" lon="2.3255918">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>53 rue de Grenelle</ogr:title>
+    <ogr:observation>La boîte à lire se trouve à l entrée du nouveau magasin Carrefour City !</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7142277" lon="2.1452278">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parking du cimetière</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8100568" lon="2.4429597">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square Coty</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9905456" lon="2.3211288">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>avenue Rey de foresta </ogr:title>
+    <ogr:observation>square face au skate parc, à côté du portail qui donne sur l avenue Rey de foresta </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.890850206343259" lon="2.30764389038086">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>132 rue saussure</ogr:title>
+    <ogr:observation>La devanture de la Ressourcerie des Batignolles met des livres à disposition.Attention aux horaires d ouverture.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.842503" lon="2.5119928">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Passerelle de Bry</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8399723" lon="2.5075694">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc des Cités Unies</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8381604" lon="2.500851">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc du Saut du Loup</ogr:title>
+    <ogr:observation>La mairie a mis en place six boîtes à lire réparties dans la ville</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9485079" lon="2.2583685">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place Aristide Briand</ogr:title>
+    <ogr:observation>Boite à lire située sur le marché de la Colonie. Boite mise en place par le collectif du marché de la Colonie et réalisée avec des enfants du quartier.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0578545" lon="1.5369429">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>5 rue de l Epte</ogr:title>
+    <ogr:observation>Initiative issue d un particulier</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.532973" lon="2.346124">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Pharmacie du Domaine</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9020661" lon="2.4667223">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>59 Avenue Gallieni</ogr:title>
+    <ogr:observation>À gauche de la piscine Édouard Henrriot</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7896543" lon="2.3860717">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc du Coteau - rue Édouard Till</ogr:title>
+    <ogr:observation>Un petit chalet à livres du côté des ruches</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7868019" lon="2.3980449">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>115 rue de Choisy</ogr:title>
+    <ogr:observation>Dans le parc Daniel Fery, un joli petit chalet à livres</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8002289" lon="2.4030911">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>13 rue Pierre Semard</ogr:title>
+    <ogr:observation>Un chalet à livres à Gare au théâtre, dans l entrée du bâtiment.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0146797" lon="2.2407907">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>7 rue Voltaire</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9350211" lon="2.3296803">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>PArc de la Mairie de Villeneuve la garenne</ogr:title>
+    <ogr:observation>Boite à Livres Lions Club</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.3008321" lon="2.8247944">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>19 avenue charles de gaulle</ogr:title>
+    <ogr:observation>Les magasins de proximité Vival installent des boites à livres devant tous leurs magasins.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8100024" lon="2.045286">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc de la mairie</ogr:title>
+    <ogr:observation>Elle est à côté de la crêperie du théâtre côté jardin</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8794915" lon="2.2229707">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Emilien Colin</ogr:title>
+    <ogr:observation>Boite à livre devant la poste</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8848955" lon="2.1070468">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Complexe sportif d'Artagon</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.816996" lon="2.379114">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>16 rue Louis Bertrand</ogr:title>
+    <ogr:observation>Devant le 16 rue Louis Bertrand, sous l'arbre.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.70495" lon="2.1914491">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare du Guichet</ogr:title>
+    <ogr:observation>La boite se trouve juste derrière la brasserie tabac presse à côté de la gare du Guichet, face à la pizzéria La Guicheta. Bonne lecture à tous.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.743554543127956" lon="2.266294956207276">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square Louise de Villemorin</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.747438524412722" lon="2.269653081893921">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc Régnier</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7528163" lon="2.2721414">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Centre Commercial des Prés-hauts</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8532496" lon="2.5018328">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Mail des Droits de l'Homme</ogr:title>
+    <ogr:observation>La mairie a mis en place six boîtes à lire réparties dans la ville</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7215293" lon="2.4691332">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rond-point des Droits de l'Homme</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.715565" lon="2.4583525">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue Jean Jaurès - Maison des Arts</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7888844" lon="2.4288882">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de l Europe</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.891887" lon="2.195718">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc des anciennes mairies - 20 rue Maurice Thorez</ogr:title>
+    <ogr:observation>Jolie boite à lire pour enfants, située dans l espace jeux qui leur est dédié</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8784534" lon="2.2078453">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>41 rue de Garches</ogr:title>
+    <ogr:observation>Devant le foyer des jeunes travailleurs Valcréas</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5544003" lon="2.1243337">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc des Tourelles</ogr:title>
+    <ogr:observation>Sur une initiative de la Commission Jeunesse deux boîtes confectionnées par les services techniques ont d ores et déjà été installées dans le Parc des Tourelles près de l'aire de jeux et à l'entrée du gymnase. accessible à toute heure.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8585705" lon="2.3990239">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>120 rue de la Réunion</ogr:title>
+    <ogr:observation>Jardin naturel Pierre Emmanuel  </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8668338" lon="2.1378517">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>10 rue du Général Leclerc</ogr:title>
+    <ogr:observation>Boîte à lire située sur le parking du centre culturel fondation Bouzemont.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9276365" lon="2.2790235">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place  Freycinet</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.3107008" lon="1.9977842">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Mairie de Angerville</ogr:title>
+    <ogr:observation>Boîte située devant la mairie.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9243446" lon="2.5147291">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>8 bis allée de Lamoricière</ogr:title>
+    <ogr:observation>Jolie petite boîte à lire installée sur le portail d un particulier.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7790644" lon="2.4019642">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Esplanade olympe de gouges</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.525439" lon="2.68411">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Navalcarnero</ogr:title>
+    <ogr:observation>Elle est située entre l Arcature et le restaurant scolaire François Mitterrand.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9278673" lon="2.3694353">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>École René Descartes</ogr:title>
+    <ogr:observation>Boîte située devant l école élémentaire René Descartes.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8757341" lon="2.2306008">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Allée Louis Chevrolet</ogr:title>
+    <ogr:observation>Boîte  Lions Club&quot; située à l angle/ au rond point de la rue de Verdun et de la rue du ratrait.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.871967" lon="2.6404061">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>48 bd de Lorraine</ogr:title>
+    <ogr:observation>Square Louis XIII </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6860719" lon="2.3793634">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>34 rue Hoche</ogr:title>
+    <ogr:observation>Située sur le pignon de l'espace coworking  &quot;Espace et plus&quot;</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8724877" lon="2.3410832">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Mairie du 9 ème arrondissement</ogr:title>
+    <ogr:observation>Boîte  Lions Club&quot; située sous l escalier principal dans la mairie.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.607087" lon="2.303412">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue D'Estienne d'Orves</ogr:title>
+    <ogr:observation>Devant la gare RER, la boîte à lire vous attend.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9954151" lon="2.2854955">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue d'Andilly</ogr:title>
+    <ogr:observation>Super boite a lire!!!!</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8953488" lon="2.5196641">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square Lauraud</ogr:title>
+    <ogr:observation>Quartier du Plateau, Square Lauraud à l angle de l'allée du Plateau, allée du Château d'Eau, allée des Sapins.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7872117" lon="2.2920725">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>12, rue Gentil Bernard</ogr:title>
+    <ogr:observation>La boite à lire se trouve en face de la sortie principale du RER, sur la terrasse du Café de la gare.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0629147" lon="2.0576112">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare d’Osny</ogr:title>
+    <ogr:observation>Boite à lire installée par la région Ile de France dans la gare SNCF</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5863681" lon="2.241002">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare Arpajon</ogr:title>
+    <ogr:observation>Boite à lire installée par la région Ile de France dans la gare SNCF</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.4368941" lon="2.1595434">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare Etampes</ogr:title>
+    <ogr:observation>Boite à lire installée par la région Ile de France devant la gare SNCF</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6939362" lon="1.8547478">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>gare Perray-en-Yvelines</ogr:title>
+    <ogr:observation>Boite à lire installée par la région Ile de France devant la gare SNCF</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.038682" lon="1.581575">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare de Bonnières</ogr:title>
+    <ogr:observation>Boite à lire installée par la région Ile de France sur l'un des quais de la gare SNCF</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9573104" lon="2.8738143">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare de Meaux</ogr:title>
+    <ogr:observation>Boite à lire installée par la région Ile de France devant la gare SNCF</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5296167" lon="3.2559379">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare de Sainte -Colombe Septveilles</ogr:title>
+    <ogr:observation>Boite à lire installée par la région Ile de France devant la gare SNCF</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.4163817" lon="2.7255252">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de la Gare</ogr:title>
+    <ogr:observation>Boite à lire installée par la région Ile de France devant la gare SNCF</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7952744" lon="1.6019975">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Boulevard de la Gare</ogr:title>
+    <ogr:observation>Dans la gare SNCF</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8152214" lon="1.8764602">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de la gare</ogr:title>
+    <ogr:observation>Dans la gare SNCF</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7060589" lon="2.2124791">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de la gare de Lozère</ogr:title>
+    <ogr:observation>Juste à gauche de la gare en sortant du côté du plateau</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8566346" lon="2.4025557">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>47 rue des Orteaux</ogr:title>
+    <ogr:observation>L Association Coud' à Coud a installé une jolie boite à lire devant sa vitrine. On y trouve aussi des CD.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7219847" lon="2.2658515">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>13 rue Léonard de Vinci</ogr:title>
+    <ogr:observation>Sur la place devant l'école Léonard de Vinci.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.432009" lon="2.1538044">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Saint-Gilles</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7075263" lon="2.2375034">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Pierre Mendès</ogr:title>
+    <ogr:observation>Boîte à lire en face de la gare RER Palaiseau-Villebon</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8550408" lon="2.215524">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du mont Valérien</ogr:title>
+    <ogr:observation>Elle se trouve dans la rue du Mont Valérien, devant la gare.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0253296" lon="2.2218044">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare de Taverny</ogr:title>
+    <ogr:observation>Boîte située à l intérieur de la gare.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.828558465047053" lon="2.360644340515137">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc de Choisy - Buvette Au Calme</ogr:title>
+    <ogr:observation>Dans le parc de Choisy, la buvette &quot;Au Calme&quot; a installé une boite à livres au pied d'un arbre</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9714277" lon="2.2635032">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Esplanade de la Gare</ogr:title>
+    <ogr:observation>En face de la gare. Mise en place par le Conseil Régional Ile de France</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0263833" lon="2.0165465">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>55/59 avenue Simone Signoret</ogr:title>
+    <ogr:observation>Boite à lire, voire et écouter de l art uniquement de l'art ! Ex-Piano droit à disposition du public dans le hall.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8769767" lon="2.3465664">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Square Montholon</ogr:title>
+    <ogr:observation>Dans le square</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5731455" lon="2.5886869">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>54 rue de melun</ogr:title>
+    <ogr:observation>Boite en cours de réalisation. Projet de quartier personnel et privé des riverains de la rue de melun en accord avec l'agenda 21 de la ville.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5316541" lon="2.650858">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>49 rue de l écluse</ogr:title>
+    <ogr:observation>à l entrée du parc  de Stuttgart-VaihingenAngle rue de l écluse rue du docteur Pouillot</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8524265" lon="2.6678127">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>29, rue du Clos de l érable</ogr:title>
+    <ogr:observation>Boîte à livre situé devant un centre de loisirs</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8077887" lon="2.5752849">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue ardouin</ogr:title>
+    <ogr:observation>Dans le parc derrière la mairie et le poste de police</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9860516" lon="2.3097791">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>5 chemin Le Grand Sentier</ogr:title>
+    <ogr:observation>Chez un particulier. Originalité : deux boites à livres dont une pour les enfants qui peu accueillir des albums grand format &quot;La Boite à livres de Théodore&quot;</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8569704" lon="2.3956244">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>2 bis Cité Aubry</ogr:title>
+    <ogr:observation>Le jardin partagé de la Cité Aubry et le Conseil de Quartier Réunion Père Lachaise inaugurent une Boite à Lire le samedi 7 avril au 2 bis Cité Aubry Paris 20è, métro Alexandre Dumas. Construction à partir de 14h et inauguration à 17h. Venez nombreux et repartez avec un livre</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.828632" lon="1.961329">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>CENTRE COMMERCIAL AU SHOPPING GRAND PLAISIR</ogr:title>
+    <ogr:observation>CD161</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0032137" lon="2.5184145">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>40 avenue charles de gaulle</ogr:title>
+    <ogr:observation>A l entrée du parc de la mairie près du parking et installer par le lions club.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8867036" lon="2.2923355">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>3 rue Jean Moreas</ogr:title>
+    <ogr:observation>Dans l enceinte de la residence, elle est visible et accessible a tous depuis la rue. N'hésitez pas a dire bonjour au gardien en passant !</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8572454" lon="2.2797324">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>53 rue de Passy</ogr:title>
+    <ogr:observation>Dans le centre commercial Passy Plazza, des étagères ont été installées dans les parties communes, contre une rambarde, à l étage, et permettent d'y déposer livres et magazines accessibles à tous.Le centre commercial a plusieurs entrées.Métro 9 La Muette</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5133952" lon="2.6333346">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>170 Avenue Henri Barbusse</ogr:title>
+    <ogr:observation>La boite se trouve à l entrée du Parc du Château Soubiran.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8369278" lon="2.3035884">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Bibliothèque - 41 rue d Alleray</ogr:title>
+    <ogr:observation>Dans le hall de la bibliothèque Marguerite Yourcenar, sert aussi à l echange d'objets</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5334756" lon="2.0097325">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare SNCF - Avenue Docteur Jules Bals</ogr:title>
+    <ogr:observation>Dans le hall de la gare SNCF</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9049156" lon="2.2692204">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>3 avenue Séverine</ogr:title>
+    <ogr:observation>Boîte à lire à la sortie de la gare de Bécon-les-Bruyères</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8541438" lon="2.4011439">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Jardin les haies partagées</ogr:title>
+    <ogr:observation>Elle est située dans le jardin partagé  les haies partagées  qui lui, se trouve dans jardin casque d or.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7022578" lon="2.3143027">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue françois mouthon</ogr:title>
+    <ogr:observation>La boite à lire est très grande c est une cabane de jardin .elle est située dans le parc de l'hotel de ville.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6726277" lon="2.0672417">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place de l église</ogr:title>
+    <ogr:observation>contre le mur de l eglise , juste en face de la boulangerie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7164701" lon="2.0614096">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>route de milon</ogr:title>
+    <ogr:observation>la boite se trouve dans l abri bus, devant lequel se trouve des recharges pour voitures electriques</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6117289" lon="2.3250787">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>8 Avenue Gilbert Fergant</ogr:title>
+    <ogr:observation>Dans la médiathèque située dans la cour de la ferme du château</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7251521" lon="2.2598998">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Massy TGV</ogr:title>
+    <ogr:observation>Sur le parvi entre la gare Massy TGV et Massy Palaiseau RATP en face du bus ligne 399. Installée par la Région Ile de France</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8474068" lon="2.1338576">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc de la grande terre</ogr:title>
+    <ogr:observation>Installée depuis Juin 2017</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.799846428057059" lon="2.067242860794068">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Jean Jaures</ogr:title>
+    <ogr:observation>La boite à livres est située rue jean Jaures non loin de la Mairie de Saint-Cyr.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0496469" lon="2.0342711">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare Cergy Saint Christophe</ogr:title>
+    <ogr:observation>Boite à lire installée par la région Ile de France entre la Gare et la Médiathèque de l'Horloge</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7705014" lon="2.4345772">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Chemin des Boeufs</ogr:title>
+    <ogr:observation>À la gare de Créteil Pompadour. Installée par la Région Ile de France</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7780577" lon="2.32402">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue Charpentier</ogr:title>
+    <ogr:observation>Dans le Square Meunier</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8655503" lon="2.2904409">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>7 rue du Bouquet de Longchamp</ogr:title>
+    <ogr:observation>Dans le foyer de la Nicolaïte de Chaillot</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6438899" lon="1.8307248">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place du prud homme</ogr:title>
+    <ogr:observation>cette boite se trouve juste devant la gare de Rambouillet côté prudhomme</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6882827" lon="3.0757225">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue grande rue</ogr:title>
+    <ogr:observation>En face de la mairie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8485654" lon="2.4391001">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>98 Rue Fontenay</ogr:title>
+    <ogr:observation>A l'accueil de la médiatheque</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.899818769141305" lon="2.159966826438904">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des marolles</ogr:title>
+    <ogr:observation>Boîte à lire enfant à la sortie de l école</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.901493804066753" lon="2.162665128707886">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue auguste renoir</ogr:title>
+    <ogr:observation>Boîte à lire dans le parc</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8923708" lon="2.1553414">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue François leaubeuf</ogr:title>
+    <ogr:observation>Boîte à lire en façade de maison</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8854968" lon="2.1552543">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de la gare</ogr:title>
+    <ogr:observation>Grande Boîte à livre en bois</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.90035126001434" lon="2.269781827926636">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc de Bécon</ogr:title>
+    <ogr:observation>A l'entrée du parc</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.471769" lon="2.2861846">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>47 rue de la Libération</ogr:title>
+    <ogr:observation>Sur le trottoir.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6766314" lon="2.2927494">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>1 Rue du Rouillon</ogr:title>
+    <ogr:observation>Au début de la place, face au numéro 4</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.97576" lon="2.3268297">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>22 rue Charles de gaules</ogr:title>
+    <ogr:observation>Face au 22, devant l?affichage administratif</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7956498" lon="2.1357247">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare de Versailles chantiers</ogr:title>
+    <ogr:observation>Boîte de couleur orange, installée par la région IDF le 17 janvier 2018 à l'intérieur de la gare de Versailles chantiers à côté de l'entrée de la porte de Buc.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6455474" lon="2.0867169">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue de Marcoussis</ogr:title>
+    <ogr:observation>bibliothèque astucieusement installée dans le renfoncement d une porte non utilisée d'un pavillon</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.589503264502433" lon="2.219941020011902">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue de la République</ogr:title>
+    <ogr:observation>bibliothèque vitrée avec siège attenant</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.631639373466527" lon="2.266611456871033">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue Jules Ferry</ogr:title>
+    <ogr:observation>bibliothèque en fer, vitrée, avec siège attenant</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8858936" lon="2.1800858">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>64 rue d Estienne d'orves</ogr:title>
+    <ogr:observation>Ancienne cabine téléphonique réaménagée en bibliothèque, située sur la place du supermarché</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.946882" lon="2.1463114">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue de Longueuil</ogr:title>
+    <ogr:observation>Bibliobox jaune</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.872489" lon="2.196155">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue des bons raisins </ogr:title>
+    <ogr:observation>à l'angle de la rue Voltaire.Ancienne cabine téléphonique</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.812194477838283" lon="2.277758717536927">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>17 Rue Carnot</ogr:title>
+    <ogr:observation>Boîte à lire dans la clôture du 17 rue Carnot</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8809252" lon="2.0957293">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>1, avenue du Pasteur Martin Luther King</ogr:title>
+    <ogr:observation>devant la piscine des Vignes Benettes</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8893027" lon="2.2518131">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place des saisons</ogr:title>
+    <ogr:observation>Dans le square de la place des saisons, en face de la pharmacie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.070075" lon="2.1721394">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place de la Mairie</ogr:title>
+    <ogr:observation>Placée devant la mairie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.781543" lon="3.307729">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue d Orient</ogr:title>
+    <ogr:observation>Devant l école primaire</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9052866" lon="2.2344977">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue de Verdun</ogr:title>
+    <ogr:observation>Théâtre de la Garenne coté droit</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7186653" lon="1.8930147">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du Feu de la St Jean</ogr:title>
+    <ogr:observation>Devant la Poste</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7327455" lon="2.2210841">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Stalingrad</ogr:title>
+    <ogr:observation>Sous le porche - devant l entrée du Marché de la Ferme</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.636779" lon="2.2701318">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>1 Rue Blanche de Castille</ogr:title>
+    <ogr:observation>A l entrée de la mairie, côté parking, à côté des panneaux d informations de la ville</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.638977" lon="2.2725959">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place Daniel Meyer</ogr:title>
+    <ogr:observation>Dans la petite cour en face de la Bibliothèque municipale</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6121768" lon="2.4170344">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Mail de l'Île de France</ogr:title>
+    <ogr:observation>Juste à côté de la médiathèque Colette</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8427353" lon="2.5871105">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>14 boulevard Newton</ogr:title>
+    <ogr:observation>Armoire dans le hall de l ifsttar, accessible à tous.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.749270753814443" lon="2.347941398620606">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue du Château</ogr:title>
+    <ogr:observation>Dans le parc de la mairie.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8438325" lon="2.6245526">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Dans la cour de la Ferme du Buisson</ogr:title>
+    <ogr:observation>Une boîte à lire à côté du poulailler dans la cour de la Ferme du Buisson. Reste à la remplir désormais.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0330489" lon="2.0800225">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue des plants bruns</ogr:title>
+    <ogr:observation>Sur le mur jouxtant l'école des plants, une jolie boite en bois voit entrer et sortir des livres livres qui passent de main en main au gré des envies</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0432777" lon="2.0828212">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>campus </ogr:title>
+    <ogr:observation>Dans le fab lab, une bibliothèque de dons est accessible pour des échanges de livre.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7378637" lon="2.7770164">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>5 route de Fontenay</ogr:title>
+    <ogr:observation>A l'accueil du SietomDu lundi au vendredi de 9h à 13 et de 14h à 17h.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.638535" lon="2.667067">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>RD 35, Plaine du Bois de l’Erable. Entre Mardilly et Limoges</ogr:title>
+    <ogr:observation>Boite à lire installée dans la déchèterie.Ouvert mercredi et jeudi de 9h à 11h45 et de 14h à 18h, le vendredi et samedi de 10h à 18h et le dimanche de 9h à 13h</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7058194" lon="2.8838758">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Chemin des Femmes</ogr:title>
+    <ogr:observation>Boite à lire installée dans la déchèterie.Ouvert mercredi et jeudi de 9h à 11h45 et de 14h à 18h, le vendredi et samedi de 10h à 18h et le dimanche de 9h à 13h</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7952563" lon="2.6368751">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>33 avenue du Grand Etang</ogr:title>
+    <ogr:observation>Boite à lire installée dans la déchèterie.Ouvert lundi et mardi de 9h à 11h45 et de 14h à 18h, le vendredi et samedi de 10h à 18h et le dimanche de 9h à 13h</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7626277" lon="2.6636575">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de la Ferme du Presbytère</ogr:title>
+    <ogr:observation>Boite à lire installée dans la déchèterie.Ouvert mercredi et jeudi de 9h à 11h45 et de 14h à 18h, le vendredi et samedi de 10h à 18h et le dimanche de 9h à 13h</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7492443" lon="2.3504501">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place du Général de Gaulle</ogr:title>
+    <ogr:observation>Près de la médiathèque</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7517133" lon="2.3442583">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Guillaume Colletet</ogr:title>
+    <ogr:observation>Près de la pharmacie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7500876" lon="2.3449267">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place du 6 juin 1944</ogr:title>
+    <ogr:observation>Près des jeux pour enfants</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.4055029" lon="2.7983323">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de l Europe, Rue de la Gare</ogr:title>
+    <ogr:observation>Près de la gare</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.776622" lon="2.5520858">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Intermarché Super, 1-3 Rue Sadi Carnot</ogr:title>
+    <ogr:observation>Boite dans Intermarché</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9005524" lon="2.2675258">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>32, rue Hudri</ogr:title>
+    <ogr:observation>La boite se situe à l'entrée du jardin des Papillons.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9630694" lon="2.1658577">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>64 avenue églé</ogr:title>
+    <ogr:observation>café culturel restaurant le pavillon bleu. Cette petite guinguette chaleureuse et conviviale en pleine verdure vient de mettre en place une boite à livre pour adultes et enfants ,l  une est située à l?intérieur dans des cagettes décorées tandis que l autre est située en terrasse dans une ancienne armoire à canette.Les livres en libertés arrivent de plus nombreux au quotidien.Endroit vraiment paisible pour un brin de lecture.A découvrir</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7045995" lon="2.2542738">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Chemin de briis</ogr:title>
+    <ogr:observation>Dans l allée du centre commercial</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.981289" lon="1.7173012">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>12 rue de Bellevue</ogr:title>
+    <ogr:observation>Petite boîte à lire installée devant une maison d habitation.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.022981" lon="2.0304251">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>36 mail mendes france</ogr:title>
+    <ogr:observation>A gauche entrée du bâtiment l agora, côté intérieur.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.888475" lon="2.3471142">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Cassiopée Café, 21 rue Custine</ogr:title>
+    <ogr:observation>Une boîte à lire dans un coffee shop cosy avec de délicieuses pâtisseries. Cafe bio équitable, le moyen en plus des livres de repartir avec du marc de cafe pour vos plantations !</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7920116" lon="2.4644351">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place henri dunant</ogr:title>
+    <ogr:observation>Policier, triller</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8109645" lon="3.0854371">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc des Capucins</ogr:title>
+    <ogr:observation>Boîte en bois dans le Parc des capucins</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9075781" lon="2.302263">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Café associatif KAMU - 12 rue Leon Blum</ogr:title>
+    <ogr:observation>Horaires d ouverture : Mercredi de 11h à 15h et de 18h à 22h Vendredi de 18h à 22h Samedi de 14h à 22h </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.529084" lon="2.0126685">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place du marché</ogr:title>
+    <ogr:observation>sur la place du marché</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.1172246" lon="2.4207849">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare de Luzarches</ogr:title>
+    <ogr:observation>Dans la gare, en face du guichet.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7883344" lon="2.3849041">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue Edouard-Till et Edouard-Tremblay</ogr:title>
+    <ogr:observation>Parc du Coteau - Marcel-Rosette</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8998446" lon="2.311798">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>14 rue Curton</ogr:title>
+    <ogr:observation>Belle petite boîte à lire sur le mur au bout de la rue Curton. Belle trouvaille.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.4065946" lon="2.7991886">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare de champagne sur seine</ogr:title>
+    <ogr:observation>Juste devant la gare, sur le parking</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9071337" lon="2.2458514">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc de l Hôtel de Ville</ogr:title>
+    <ogr:observation>Aussi appelé Parc du Docteur-Roy </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7405698" lon="2.3159692">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>13 rue léonard de vinci</ogr:title>
+    <ogr:observation>Dans un atelier de réparation de motos &amp; scooters !!</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8925781" lon="2.7089157">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue d Annet</ogr:title>
+    <ogr:observation>A l'angle de la rue d'Annet et de l'allée des Tilleuls devant la maison pour tous</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.762227" lon="1.917523">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Galerie commerciale Auchan Pariwest</ogr:title>
+    <ogr:observation>Dans la galerie commerciale de Auchan, sur le cote gauche.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8387558" lon="2.3178987">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare Montparnasse II</ogr:title>
+    <ogr:observation>Dans la gare, côté sud, entrée place de Catalogne Consultation sur place, gérée par la SNCF.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.514948" lon="2.216601">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>gare de chamarande</ogr:title>
+    <ogr:observation>Petite boite contenant des livres située sur le quai de la gare en direction St Quentin en Yveline.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8020418" lon="2.120752">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de l independance americaine</ogr:title>
+    <ogr:observation>Elle se trouve au rez de chaussée de la bibliothèque centrale, dans la salle de repos. Elle est donc accessible aux horaires d'ouverture de la bibliothèque consultables sur internet.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0334877" lon="2.0620072">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place de léglise</ogr:title>
+    <ogr:observation>Sur la place derrière l'église Saint Christophe angle rue de Neuville / place de l'église. La boite à lire à la forme d'une cabine de téléphone anglaise rouge contre le mur d'une maison.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.59605" lon="2.579528">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place François Mitterrand</ogr:title>
+    <ogr:observation>La boite à lire est au milieu de la pelouse.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0171315" lon="2.0750224">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>5 mail Gay Lussac</ogr:title>
+    <ogr:observation>Se trouve dans la bibliothèque universitaire</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8296572" lon="2.5140123">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>59 Quai Ferber</ogr:title>
+    <ogr:observation>Celle ci fait partie d une série, comme 8 autres, de boîtes à lire mise en place par la ville de Bry avec la médiathèque municipale.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0631671" lon="2.2996147">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>17 rue Jean Nicolas</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.739768" lon="1.9570866">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>4 avenue du maréchal Joffre</ogr:title>
+    <ogr:observation>Livres pour enfants et jeunes.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6332588" lon="2.5519269">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place du colombier</ogr:title>
+    <ogr:observation>Au milieu de la place devant la supérette.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9611377" lon="2.8784457">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Jardin Bossuet</ogr:title>
+    <ogr:observation>Une petite ruche à livres située au Jardin de Bossuet, près d un banc pour profiter pleinement des lieux !</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8726606" lon="2.3094833">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>3 rue du commande riviere </ogr:title>
+    <ogr:observation>Dans le restaurant PeGast.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.873768" lon="2.3041798">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>36 rue washington </ogr:title>
+    <ogr:observation>Dans le restaurant PeGast.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8764299" lon="2.3486806">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>78 rue du faubourg poissonniere</ogr:title>
+    <ogr:observation>Dans le restaurant PeGast.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7912609" lon="2.4694033">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>chemin bras du chapitre</ogr:title>
+    <ogr:observation>allée des coucous, petite boite a livres toujours ravitaillée.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0292362" lon="2.0887594">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Cergy village</ogr:title>
+    <ogr:observation>CERGY VILLAGE place de l'église.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.805914" lon="1.767466">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place paul paillole</ogr:title>
+    <ogr:observation>Dans une ancienne cabine téléphonique, sur le parking. Très bien.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0452887" lon="2.5102698">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>84 rue de paris</ogr:title>
+    <ogr:observation>Petite boite mise en place par la mairie.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8751832" lon="2.3252511">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>123 rue Saint Lazare</ogr:title>
+    <ogr:observation>La boite se trouve dans le restaurant Pomme de Pain. </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8907476" lon="2.2379612">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Centre commercial les 4 Temps</ogr:title>
+    <ogr:observation>Dans le restaurant Pomme de Pain du Centre Commercial les 4 Temps. </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8743345" lon="2.3323364">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>70 rue de Provence</ogr:title>
+    <ogr:observation>La boite à lire se trouve dans le restaurant Pomme de Pain Provence. </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6312237" lon="2.5527023">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue de paris</ogr:title>
+    <ogr:observation>à coté de la mairie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6452307" lon="1.8211492">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>27 rue du Géneral de Gaulle</ogr:title>
+    <ogr:observation>devant Arbell Chaussures</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.2337565" lon="2.7011357">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>19 rue des praillons </ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8180357" lon="3.0552243">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>36 Avenue de Paris</ogr:title>
+    <ogr:observation>Étagère dans le magasin JARDILAND, après les caisses.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.982396" lon="2.064517">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Île de Nancy</ogr:title>
+    <ogr:observation>Plusieurs petites boites a lire en forme de petite maison en bois sont installées sur l'île de Nancy non loin de la buvette et de l'embarcadère.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8757472" lon="2.4317904">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue louise Michel</ogr:title>
+    <ogr:observation>A côté du terminus du bus 76. Sur le mur du cimetière.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9923854" lon="1.8457724">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>gare de Juziers</ogr:title>
+    <ogr:observation>En libre accès sur le parking de la gare.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8576713" lon="2.3996804">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>62 rue de Bagnolet</ogr:title>
+    <ogr:observation>Cette boîte est située dans un cabinet vétérinaire, près de l entrée : on la voit depuis la rue car la porte est vitrée. Lorsque je suis passée, la boîte était largement pourvue de livres de poche, en bon état, et d'auteurs variés et modernes.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.430568" lon="2.763485">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Charles de Gaulle</ogr:title>
+    <ogr:observation>Boite rouge sur le parking</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8972376" lon="2.0900856">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>10 rue de pologne</ogr:title>
+    <ogr:observation>Place du marché devant la poste.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0646172" lon="2.185627">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>3 avenue marcel perrin</ogr:title>
+    <ogr:observation>A côté de la pmi.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.905482" lon="2.2412786">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>17 avenue charlebourg</ogr:title>
+    <ogr:observation>A l'angle de l'avenue Charlebourg et de la rue Lucien Jeannin</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.91235" lon="2.5195496">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>9 boulevard gutenberg</ogr:title>
+    <ogr:observation>Devant l entrée du lycée bouloche. Merci au Lions club.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9170718" lon="2.5326578">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>60 avenue du consul general nordling</ogr:title>
+    <ogr:observation>Dans le parvis de l entrée du parc Lefévre. Merci au Lions club.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9257241" lon="2.544878">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>37 rue eugéne masse</ogr:title>
+    <ogr:observation>Devant le centre culturel cinema. Merci au lions club.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9225613" lon="2.5438357">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place de liberation</ogr:title>
+    <ogr:observation>Devant le marchand de légumes N3. Merci au lions club.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9207631" lon="2.536178">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Allée du Parc de la Mairie</ogr:title>
+    <ogr:observation>Devant le centre administratif. Merci au Lions club.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8817795" lon="2.5165182">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc Jean Mermoz</ogr:title>
+    <ogr:observation>Elle se situe dans le parc.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.775431" lon="2.326084">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>73 avenue larroumès</ogr:title>
+    <ogr:observation>Au Moulin de la Bièvre.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.77792" lon="2.359126">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue sainte colombe</ogr:title>
+    <ogr:observation>A côté du relais mairie.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7770501" lon="2.3494225">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>26 rue jules ferry</ogr:title>
+    <ogr:observation>A coté de l'école</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7799634" lon="2.3374034">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>11 rue des jardins</ogr:title>
+    <ogr:observation>A coté de l'auditorium.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.771065" lon="2.3288679">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>80 rue de chalais</ogr:title>
+    <ogr:observation>A coté de l'école.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5878861" lon="2.3044333">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue de la Maison Neuve</ogr:title>
+    <ogr:observation>Boîte à lire située dans le Centre Commercial de la Maison Neuve.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6377893" lon="2.7716182">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue de l'église</ogr:title>
+    <ogr:observation>La boite se situe en face de l'église.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6472977" lon="2.9619029">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>32 ter RUE DE L'YVRON</ogr:title>
+    <ogr:observation>La boite se trouve à côté de la salle de judo.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8391009" lon="2.0793786">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Mairie</ogr:title>
+    <ogr:observation>Partagez, échangez, lisez...</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.842287" lon="2.072132">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place du marché</ogr:title>
+    <ogr:observation>2 Boîtes à livres sur Bailly.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.424764" lon="2.759181">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue des Préfoix</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6851404" lon="2.3912469">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>21 avenue Emile Fruchart</ogr:title>
+    <ogr:observation>Installée le 4 juin 2017.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8528147" lon="2.4775336">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Avenue du Maréchal Joffre</ogr:title>
+    <ogr:observation>En plein milieu de centre commercial ...</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7147616" lon="2.4896534">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>2 Rue Marc Sangnier</ogr:title>
+    <ogr:observation>Dans le CEC de Yerres.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9108654" lon="2.2531645">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>10 Avenue Foch</ogr:title>
+    <ogr:observation>Dans le parc Wangen im Allgäu</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7890522" lon="2.5362091">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>68 Avenue du Général de Gaulle</ogr:title>
+    <ogr:observation>Mise en service le 11 Mai 2017</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6283087" lon="2.5689793">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Gare RER Lieusaint Moissy</ogr:title>
+    <ogr:observation>En face de la gare, sortie côté Lieusaint, à côté de l'arrêt du Tzen.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0713997" lon="2.7911309">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>1 rue de l ormoye</ogr:title>
+    <ogr:observation>La boite se trouve à l'angle de la Rue de l'ormoye et de la Rue Noëfort. </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0714871" lon="2.8044209">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>28 rue du Capitaine Leuridan</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9011931" lon="2.8147656">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>13 place de l eglise</ogr:title>
+    <ogr:observation>Devant le centre de loisirs/espace de jeunesse.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9013488" lon="2.8128348">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>87 avenue charles de gaulle</ogr:title>
+    <ogr:observation>devant l'hôtel de ville</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8688037" lon="2.3757688">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>73 rue de la fontaine au roi</ogr:title>
+    <ogr:observation>Boite installée par Le Bouquin qui bulle, bibliothèque associative du quartier de la fontaine au roi. </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8689108" lon="2.6310686">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>63 rue des Pêcheurs </ogr:title>
+    <ogr:observation>Accessible aux heures d ouverture du Centre Socio Culturel, elle est l'initiative du Café des Lecteurs&quot;.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5581234" lon="2.1826953">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue des Cosnardières </ogr:title>
+    <ogr:observation>Ancienne cabine téléphonique transformée en boîte à lire, près de la mairie.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5170356" lon="2.2594645">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>6 grande rue</ogr:title>
+    <ogr:observation>Ancienne cabine téléphonique, transformée en boîte à lire, juste devant la Mairie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9825287" lon="1.7102792">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue jean jaurès</ogr:title>
+    <ogr:observation>Près de la pharmacie, du terrain de pétanques et en face de la petite poste.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8110835" lon="2.3848888">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>5 Promenée Marat</ogr:title>
+    <ogr:observation>Une petite bibliothèque chez le fleuriste Arts et Fleurs dans le centre Jeanne Hachette, proposée par l'Association de voisins de la cité Marat &quot;le Marat des Bois&quot; !</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9014177" lon="2.2780073">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue adelaide</ogr:title>
+    <ogr:observation>Dans le Jardin Adélaïde 92400 Courbevoie - rue Adélaïde - sur le même format que celle de la place Charras.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8984424" lon="2.2329582">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>1 Avenue Puvis de Chavannes</ogr:title>
+    <ogr:observation>Dans le parc Nelson Mandela 92400 Courbevoie - angle rue des Etudiants et rue Saint Lo - sur le même format que celle de la place Charras.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7935157" lon="2.3304407">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>28 avenue du Président Wilson</ogr:title>
+    <ogr:observation>Elle est sur la façade du Centre de documentation de l'ESTP Paris, au niveau de la porte d entrée, du grand chalet en haut du campus.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8161877" lon="2.2671357">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Fort d'Issy, 90-98 Prom. du Verger</ogr:title>
+    <ogr:observation>Malle à livres à l?entrée de l espace Le Temps des Cerises</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8108708" lon="2.0457402">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place du 8 mai 45</ogr:title>
+    <ogr:observation>Plusieurs étagères, remplies d ouvrages anciens ou récents, format poche ou non, situées au fond du hall d'entrée, à côté de l'escalier.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9790986" lon="1.9767427">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Delapierre</ogr:title>
+    <ogr:observation>située dans le parc du Champclos, au bord de la promenade</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9774646" lon="1.9691847">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Parc de la mairie</ogr:title>
+    <ogr:observation>Boite à lire située dans le parc de la Mairie, côté place du marché.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9575074" lon="3.2061741">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>25 rue de Laval</ogr:title>
+    <ogr:observation>Cette boîte à lire implantée depuis le 8 mars 2017 contient environ 150 livres tant en ouvrages documentaires qu'en ouvrages de fiction. Seuls sont exclus les ouvrages incitant à la violence ou à la haine et les ouvrages pornographiques.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.006552" lon="1.915076">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue des Annonciades</ogr:title>
+    <ogr:observation>Dans la gare SNCF </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8563391" lon="2.3556738">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>2 Place Baudoyer</ogr:title>
+    <ogr:observation>Boite à lire mise en place par le Lions Club Paris Ile de la Cité, dans la cour de la mairie du 4ème arrondissement. </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8618176" lon="2.3474265">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>10 Rue de la Canopée</ogr:title>
+    <ogr:observation>La boite se situe dans le Forum des Halles, dans la bibliothèque de la canopée, à côté de la section BD.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8904191" lon="2.3692716">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>104 avenue d aubervilliers</ogr:title>
+    <ogr:observation>La boite à lire se situe au centre culturel du 104 dans une cariole de travaux réaménagé pour l échange de livre</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.740261" lon="2.7354598">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>17 rue docteur Hutinel</ogr:title>
+    <ogr:observation>Jolie boite aux livres sous forme d une valise vintage.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.954957" lon="2.878834">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>2 Rue Cornillon</ogr:title>
+    <ogr:observation>La boite à lire se trouve dans la Cafétéria de la Médiathèque Luxembourg. En plus de livres variés, on trouve parfois des CD. </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8424398" lon="2.3276392">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>98 Boulevard du Montparnasse</ogr:title>
+    <ogr:observation>Le principe: on apporte un livre et on en prend un ou plus.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7675162" lon="2.4065049">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>35 TER RUE EMILE ZOLA</ogr:title>
+    <ogr:observation>Installée dans Nous, Vous, Iles - Espace Culturel Outremer ouvert du mardi au dimanche de 14h à 18h !</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6578795" lon="2.7168233">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de la mairie</ogr:title>
+    <ogr:observation>Ancienne cabane de plage, cette nouvelle boite à lire se trouve devant la mairie !</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.857249" lon="2.4216908">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>198 rue Etienne Marcel</ogr:title>
+    <ogr:observation>Elle se trouve plus précisément à l'angle de la rue Étienne Marcel et de la rue Robespierre.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8179726" lon="2.3775181">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>27 rue Antoine Thomas </ogr:title>
+    <ogr:observation>Mise en place par l association du Sentier des Vignes.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8881149" lon="2.3627469">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>26 esplanade Nathalie Sarraute</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8880342" lon="2.383888">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>20 rue Léon Giraud</ogr:title>
+    <ogr:observation>E19 OURCQ </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8813082" lon="2.4169252">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>22 rue du tapis vert </ogr:title>
+    <ogr:observation>La boite à lire se trouve à l'angle de la rue du tapis vert et de la République. </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8788587" lon="2.4177939">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>50 rue Romain-rolland</ogr:title>
+    <ogr:observation>La boite se trouve dans le parc Lucie-Aubrac.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8816835" lon="2.4252269">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Allée du Dr Calmette</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7827057" lon="2.1892033">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>3 place Bernard Dautier</ogr:title>
+    <ogr:observation>Située dans la médiathèque une étagère pour les échanges livres  revues dvd jeunesse dans le hall et une armoire pour les documents adultes en salle d exposition. Accessibles aux horaires d ouverture de la mediatheque 15h-18h du mardi au samedi et mercredi et samedi 10h-12h30. </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7520935" lon="2.2152637">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>3B Avenue de la Gare</ogr:title>
+    <ogr:observation>Sur la partie herbue près de la rue de la gare et du parking  près du panneau d information </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7554513" lon="2.219491">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>2 allée des castors</ogr:title>
+    <ogr:observation>Devant l'école  entre son panneau d'affichage et l'abri</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.893744" lon="2.3155491">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>190 avenue de clichy</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.805027" lon="1.765638">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place du marché</ogr:title>
+    <ogr:observation>Une cabine téléphonique  repeinte en jaune  sur le parking en face de la place du marché  côté champs.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8429841" lon="2.4183773">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>2 place charles digeon</ogr:title>
+    <ogr:observation>Boîte à lire à droite de la statue du square de la mairie.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8821883" lon="2.7202027">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Quai de la Gourdine</ogr:title>
+    <ogr:observation>Situé sur l aire de jeux  tout près de l'embarcadère du Quai Saint Père</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7643257" lon="1.9359905">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>avenue de Gatine</ogr:title>
+    <ogr:observation>Sur le mail au dessus de la rue de Gâtine devant l'aire de jeux Pirate.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8755194" lon="2.327935">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>101 rue Saint-Lazare</ogr:title>
+    <ogr:observation>Bibliothèque dans la salle du café du Cinéma Les 5 Caumartins.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9975993" lon="2.0982465">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue Eugène Berrurier</ogr:title>
+    <ogr:observation>Mise en place par la Ville  depuis mai 2016</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9925164" lon="2.100192">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue aux Moines</ogr:title>
+    <ogr:observation>Mise en place par la Ville de Conflans-Sainte-Honorine en Mai 2016 dans le Parc du Prieuré</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9194386" lon="2.3283966">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>4 quai du CHATELIER </ogr:title>
+    <ogr:observation>Ce sont des pochettes pour contenir et protéger les livres.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.894468" lon="2.2493507">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place charras</ogr:title>
+    <ogr:observation>Une jolie boite a lire bien protégée par la pluie dans le parc Freudenstadt  merci a la ville de Courbevoie !</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.6620226" lon="2.5767917">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue du chêne </ogr:title>
+    <ogr:observation>Boite 2 vitres coulissantes</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5495039" lon="2.6505498">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>26 Avenue Georges Pompidou</ogr:title>
+    <ogr:observation>A l'entrée du conservatoire vous pouvez prendre et déposer un livre gratuitement.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7790441" lon="2.3237788">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>16 avenue de lattre de Tassigny </ogr:title>
+    <ogr:observation>Boîte à lire dans un chouette parc avec jeux enfants.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8807588" lon="2.3654974">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>31 rue Louis Blanc</ogr:title>
+    <ogr:observation>La petite cabane à livres a été installée par la boutique Lamazuna  devant laquelle elle se trouve. Si elle est pleine  vous pouvez déposer vos livres à l'intérieur.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7931991" lon="2.3952662">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>18 avenue Henri Barbusse</ogr:title>
+    <ogr:observation>Installée dans le hall d entrée du musée Exploradôme  la boîte à lire est à la disposition des visiteurs du musée mais aussi des passants et des habitants du quartier.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8419695" lon="2.3665938">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>85 Quai d'Austerlitz</ogr:title>
+    <ogr:observation>Salle d attente Gare. Elle se situe en face des quais. Très joliment décorée et en particulier réservée à la clientèle de la SNCF  mais consultation possible sur place.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.0553834" lon="2.6762422">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue Eugène Hémar</ogr:title>
+    <ogr:observation>Boite à lire à l'entrée du parc de la Corbie</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8963745" lon="2.1097881">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>quai de l'Orme de Sully</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9810814" lon="2.0053375">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de la Gare</ogr:title>
+    <ogr:observation>Dans la gare Sncf</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.974728" lon="2.04961">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de la Gare</ogr:title>
+    <ogr:observation>À l intérieur de la gare</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.406313" lon="2.7890841">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>64 rue du 4 septembre</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8234566" lon="2.2909252">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>7 rue Henri Martin</ogr:title>
+    <ogr:observation>Boite à lire fermée</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.869798" lon="2.219033">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Bardin</ogr:title>
+    <ogr:observation>Création du lycée Louis Blériot sur une idée de l'association Frater'Cité</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.5900055" lon="1.7305725">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue du village </ogr:title>
+    <ogr:observation>Ancienne cabine téléphonique  transformée en boite à lire.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.699807" lon="2.5067596">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de l arrivée</ogr:title>
+    <ogr:observation>Un totem lecture derrière la gare  à côté de l aire de jeu pour les enfants</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8646148" lon="2.3467916">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>46 rue montorgueil </ogr:title>
+    <ogr:observation>Centre Cerise</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7614876" lon="2.6717658">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>45 avenue du gnéral de gaulle</ogr:title>
+    <ogr:observation>Une grande boite a livre dans le petit parc à coté de la mairie  une autre plus petite disponible dans le parc à coté de l église.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.4095998" lon="2.7829752">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>14 rue neuve</ogr:title>
+    <ogr:observation>Il y a deux boites à lire sur cette commune. Une autre se situe au 162 rue du 4 septembtre</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8405438" lon="2.6534094">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>17 Promenade du Belvédère</ogr:title>
+    <ogr:observation>Boite a lire dans la boulangerie La Fournée de Torcy</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7202579" lon="2.5338266">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>75 Rue du Lieutenant Dagorno </ogr:title>
+    <ogr:observation>Nouvelle boite à lire ! Elle se trouve juste devant la bibliothèque.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.959629" lon="2.545226">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue Pierre Audat</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8600572" lon="2.509752">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Voie Lamarque </ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8730579" lon="2.5108316">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rond-Point Stalingrad</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.833842" lon="2.4921348">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue Hoche</ogr:title>
+    <ogr:observation>Devant la police et la poste</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8821815" lon="2.3944381">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>11 Rue Francis-Ponge</ogr:title>
+    <ogr:observation>Boite à lire installée dans le jardin Herold par la Cie par Has Arts</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8395845" lon="2.396109">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>place félix éboué </ogr:title>
+    <ogr:observation>Une boite à dons  dont des livres... à la sortie du métro Daumesnil rue de reuilly. A garnir visiblement !</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8517783" lon="2.5154957">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Promenade André Devambez</ogr:title>
+    <ogr:observation>Petite boîte à lire située sur un chemin piéton en bord de marne.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.1075934" lon="2.2175178">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Rue Saint-Lazare</ogr:title>
+    <ogr:observation>Passage Saint-Lazare</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="49.112288" lon="2.217872">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Hubert Jolivet</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.823826" lon="2.2610622">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place Jacques Madaule</ogr:title>
+    <ogr:observation>Une cabine téléphonique transformée en bibliothèque partagée !</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8353689" lon="2.4736933">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place du Général Leclerc</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.83773" lon="2.487327">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place de l'Ancien marché</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.960985" lon="2.0673003">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>6 Allée Simone Signoret</ogr:title>
+    <ogr:observation>Elle est localisée à 2 mètres du cinéma Le Pandora. Elle est petite  haute sur pattes et bien décorée.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.761473" lon="1.943066">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Allée du Bourbonnais</ogr:title>
+    <ogr:observation>Dans le jardin des senteurs&quot; à côté de La Poste</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8639882" lon="2.361527">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>2 rue Eugène Spuller</ogr:title>
+    <ogr:observation>Nous avons installé une boîte à livres végétalisée dans la cour d'honneur de la Mairie du 3e  rue Eugène Spuller. N'hésitez pas !</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8435699" lon="2.6042805">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>31 allee Pierre Mendes France</ogr:title>
+    <ogr:observation>La boite à lire est placée dans la haie  qui donne sur un petit rond point.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.9161135" lon="2.3584423">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>1 rue Paul Lafargue</ogr:title>
+    <ogr:observation>Plusieurs étagères vous attendent pour échanger livres  magazines et journaux au local du Pont comm'un  ancienne gare rer  aux heures d'ouverture. L'occasion aussi de découvrir les assos du lieu. </ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8464258" lon="3.2323923">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place du Marché</ogr:title>
+    <ogr:observation>C'est une petite boite clouées contre le mur du syndicat d'initiative de la commune de Rebais.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7718368" lon="2.2666213">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>87 rue Chateaubriand</ogr:title>
+    <ogr:observation>La boite à lire est aménagée dans le tronc d'un arbre au milieu du parc de la maison de Chateaubriand.</ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.7905536" lon="2.387926">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>20 Avenue Maximilien Robespierre</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8755359" lon="2.1790034">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>rue Jean Le Coz</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+<wpt lat="48.8677124" lon="2.5147925">
+  <type>BSB</type>
+  <extensions>
+    <ogr:title>Place du marché</ogr:title>
+    <ogr:observation></ogr:observation>
+  </extensions>
+</wpt>
+</gpx>
