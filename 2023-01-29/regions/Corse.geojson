@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "title": "Allée du Prunelli", "type": "BSB", "observation": "Dans la galerie commerçante Géant Casino près des toilettes", "picture": "img.634d5a936212e.png" }, "geometry": { "type": "Point", "coordinates": [ 8.7769391, 41.9495344 ] } },
+{ "type": "Feature", "properties": { "title": "Cours Napoléon", "type": "BSB", "observation": "Face auto distribution", "picture": null }, "geometry": { "type": "Point", "coordinates": [ 8.739299, 41.930239 ] } },
+{ "type": "Feature", "properties": { "title": "Casino", "type": "BSB", "observation": "A la sortie du Casino, près des caisses, il y a une petite caisse de livres en libre service !", "picture": null }, "geometry": { "type": "Point", "coordinates": [ 8.9380841, 42.6326037 ] } },
+{ "type": "Feature", "properties": { "title": "Résidence golfe du valinco, Olmeto plage", "type": "BSB", "observation": "Petite boite à lire au rond point du Motel et du Spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l'eau.", "picture": null }, "geometry": { "type": "Point", "coordinates": [ 8.840952515602114, 41.699063978799174 ] } },
+{ "type": "Feature", "properties": { "title": "Bâtiment U palazzu", "type": "BSB", "observation": "La boîte à lire se trouve à l'entrée de la médiathèque. Des livres pour les petits et grands .Réapprovisionnée tous les jours ...Une vrai mine ...", "picture": null }, "geometry": { "type": "Point", "coordinates": [ 9.060516, 42.081804 ] } },
+{ "type": "Feature", "properties": { "title": "Université", "type": "BSB", "observation": "A votre disposition dans le hall du bâtiment Desanti-bibliothèque universitaire.", "picture": null }, "geometry": { "type": "Point", "coordinates": [ 9.1528366, 42.2989986 ] } },
+{ "type": "Feature", "properties": { "title": "Place Saint Nicolas ", "type": "BSB", "observation": "Boîte à lire aménagée dans une ancienne cabine téléphonique.", "picture": null }, "geometry": { "type": "Point", "coordinates": [ 9.4512278, 42.7005856 ] } },
+{ "type": "Feature", "properties": { "title": "Migliacciaro", "type": "BSB", "observation": "Armoire à lire près de la boutique Bio Sous les Glycines.", "picture": null }, "geometry": { "type": "Point", "coordinates": [ 9.399904, 41.997829 ] } }
+]
+}

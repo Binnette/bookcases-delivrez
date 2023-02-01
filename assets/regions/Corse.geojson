@@ -1,0 +1,69 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "multipolygon",
+                "reg_siren_code": "200076958",
+                "year": "2022",
+                "reg_type": "région",
+                "reg_is_ctu": "Oui",
+                "geo_point_2d": "[42.151486451942645,9.106230230734418]",
+                "reg_area_code": "FXX",
+                "reg_name_upper": "CORSE",
+                "reg_name_lower": "corse",
+                "reg_current_code": "94",
+                "reg_name": "Corse",
+                "reg_code": "94"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                8.48143432617,
+                                42.73895182019
+                            ],
+                            [
+                                9.04173706055,
+                                42.93230406277
+                            ],
+                            [
+                                9.16258666992,
+                                43.16513064485
+                            ],
+                            [
+                                9.52513549805,
+                                43.19717529156
+                            ],
+                            [
+                                9.77782104492,
+                                42.79540871463
+                            ],
+                            [
+                                9.63499877930,
+                                41.37681680961
+                            ],
+                            [
+                                8.80003784180,
+                                41.24478060370
+                            ],
+                            [
+                                8.29466674805,
+                                41.93498467332
+                            ],
+                            [
+                                8.48143432617,
+                                42.73895182019
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
