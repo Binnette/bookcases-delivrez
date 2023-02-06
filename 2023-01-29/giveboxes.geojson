@@ -4,10 +4,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rue Dranem",
-        "type": "DSB",
-        "observation": "au niveau du square Georges Sarre",
-        "picture": "img.63d3c274f3fa8.png"
+        "name": "Rue Dranem",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "au niveau du square Georges Sarre",
+        "color": "#00842b",
+        "background": "square",
+        "website": "https://delivrez.fr/public/posts/img.63d3c274f3fa8.png"
       },
       "geometry": {
         "type": "Point",
@@ -20,10 +23,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "bo\u00eete \u00e0 dons",
-        "type": "DSB",
-        "observation": "_",
-        "picture": "img.637a5e414d61c.png"
+        "name": "bo\u00eete \u00e0 dons",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "_",
+        "color": "#00842b",
+        "background": "square",
+        "website": "https://delivrez.fr/public/posts/img.637a5e414d61c.png"
       },
       "geometry": {
         "type": "Point",
@@ -36,10 +42,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Route de la Gare",
-        "type": "DSB",
-        "observation": "frigo solidaire et bo\u00eete a livre",
-        "picture": null
+        "name": "Route de la Gare",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "frigo solidaire et bo\u00eete a livre",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -52,10 +60,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Place de la Mairie",
-        "type": "DSB",
-        "observation": "_",
-        "picture": null
+        "name": "Place de la Mairie",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "_",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -68,10 +78,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Avenue du Mar\u00e9chal Leclerc",
-        "type": "DSB",
-        "observation": "_",
-        "picture": null
+        "name": "Avenue du Mar\u00e9chal Leclerc",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "_",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -84,10 +96,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "roosegregory@gmail.com",
-        "type": "DSB",
-        "observation": "_",
-        "picture": "img.635504a53d84c.png"
+        "name": "roosegregory@gmail.com",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "_",
+        "color": "#00842b",
+        "background": "square",
+        "website": "https://delivrez.fr/public/posts/img.635504a53d84c.png"
       },
       "geometry": {
         "type": "Point",
@@ -100,10 +115,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Avenue Lalanne",
-        "type": "DSB",
-        "observation": "_",
-        "picture": null
+        "name": "Avenue Lalanne",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "_",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -116,10 +133,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rue de Saint-Amarin",
-        "type": "DSB",
-        "observation": "9 h 12 h tout les samedis",
-        "picture": "img.632a10740d029.png"
+        "name": "Rue de Saint-Amarin",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "9 h 12 h tout les samedis",
+        "color": "#00842b",
+        "background": "square",
+        "website": "https://delivrez.fr/public/posts/img.632a10740d029.png"
       },
       "geometry": {
         "type": "Point",
@@ -132,10 +152,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "boite \u00e0 dons",
-        "type": "DSB",
-        "observation": "_",
-        "picture": "img.6314b64647cc0.png"
+        "name": "boite \u00e0 dons",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "_",
+        "color": "#00842b",
+        "background": "square",
+        "website": "https://delivrez.fr/public/posts/img.6314b64647cc0.png"
       },
       "geometry": {
         "type": "Point",
@@ -148,10 +171,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cami d'Azun",
-        "type": "DSB",
-        "observation": "boite \u00e0 dons avec bo\u00eete \u00e0 livre",
-        "picture": null
+        "name": "Cami d'Azun",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "boite \u00e0 dons avec bo\u00eete \u00e0 livre",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -164,10 +189,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Prats",
-        "type": "DSB",
-        "observation": "proche des sculptures",
-        "picture": null
+        "name": "Prats",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "proche des sculptures",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -180,10 +207,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rue du Neouvielle",
-        "type": "DSB",
-        "observation": "derri\u00e8re le local poubelle HLM",
-        "picture": null
+        "name": "Rue du Neouvielle",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "derri\u00e8re le local poubelle HLM",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -196,10 +225,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "morelwe@gmail.com",
-        "type": "DSB",
-        "observation": "toi toi le zinc",
-        "picture": "img.62a75c305a685.png"
+        "name": "morelwe@gmail.com",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "toi toi le zinc",
+        "color": "#00842b",
+        "background": "square",
+        "website": "https://delivrez.fr/public/posts/img.62a75c305a685.png"
       },
       "geometry": {
         "type": "Point",
@@ -212,10 +244,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "boite a dons dans le parking Auchan au fond",
-        "type": "DSB",
-        "observation": "_",
-        "picture": null
+        "name": "boite a dons dans le parking Auchan au fond",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "_",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -228,10 +262,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rue de Lorraine",
-        "type": "DSB",
-        "observation": "sur la parking  gp moto",
-        "picture": "img.6293a4c19f26a.png"
+        "name": "Rue de Lorraine",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "sur la parking  gp moto",
+        "color": "#00842b",
+        "background": "square",
+        "website": "https://delivrez.fr/public/posts/img.6293a4c19f26a.png"
       },
       "geometry": {
         "type": "Point",
@@ -244,10 +281,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "sachat3378@gmail.com",
-        "type": "DSB",
-        "observation": "boite a don a c\u00f4t\u00e9 de la pharmacie",
-        "picture": null
+        "name": "sachat3378@gmail.com",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "boite a don a c\u00f4t\u00e9 de la pharmacie",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -260,10 +299,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rue de P\u00e9tarel",
-        "type": "DSB",
-        "observation": "au dessus de la fontaine sur une fen\u00eatre",
-        "picture": null
+        "name": "Rue de P\u00e9tarel",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "au dessus de la fontaine sur une fen\u00eatre",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -276,10 +317,13 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rue Roustaing",
-        "type": "DSB",
-        "observation": "_",
-        "picture": "img.62485d23bdb3a.png"
+        "name": "Rue Roustaing",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "_",
+        "color": "#00842b",
+        "background": "square",
+        "website": "https://delivrez.fr/public/posts/img.62485d23bdb3a.png"
       },
       "geometry": {
         "type": "Point",
@@ -292,10 +336,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Give box Kulturfabrik",
-        "type": "DSB",
-        "observation": "ancienne cabine t\u00e9l\u00e9phone \u00e0 l'entr\u00e9e du centre culturel Kulturfabrik",
-        "picture": null
+        "name": "Give box Kulturfabrik",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "ancienne cabine t\u00e9l\u00e9phone \u00e0 l'entr\u00e9e du centre culturel Kulturfabrik",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -308,10 +354,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Cours Napol\u00e9on",
-        "type": "DSB",
-        "observation": "en face la pr\u00e9fecture. accol\u00e9 au Bistrot du cour",
-        "picture": null
+        "name": "Cours Napol\u00e9on",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "en face la pr\u00e9fecture. accol\u00e9 au Bistrot du cour",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -324,10 +372,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "gratuit\u00e9",
-        "type": "DSB",
-        "observation": "lieu convivial",
-        "picture": null
+        "name": "gratuit\u00e9",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "lieu convivial",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -340,10 +390,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "D123",
-        "type": "DSB",
-        "observation": "avec le caf\u00e9 associatif",
-        "picture": null
+        "name": "D123",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "avec le caf\u00e9 associatif",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -356,10 +408,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Avenue du Capitaine Bulle",
-        "type": "DSB",
-        "observation": "en face office du tourisme",
-        "picture": null
+        "name": "Avenue du Capitaine Bulle",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "en face office du tourisme",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -372,10 +426,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Grand-Rue",
-        "type": "DSB",
-        "observation": "\u00e0 c\u00f4t\u00e9 des pompiers",
-        "picture": null
+        "name": "Grand-Rue",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "\u00e0 c\u00f4t\u00e9 des pompiers",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -388,10 +444,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Place de l'\u00c9glise",
-        "type": "DSB",
-        "observation": "Place l'\u00e9glise sous le tilleul",
-        "picture": null
+        "name": "Place de l'\u00c9glise",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "Place l'\u00e9glise sous le tilleul",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -404,10 +462,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rue de Hannut",
-        "type": "DSB",
-        "observation": "boite \u00e0 jeux",
-        "picture": null
+        "name": "Rue de Hannut",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "boite \u00e0 jeux",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -420,10 +480,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "recherche grillage \u00e0 poule",
-        "type": "DSB",
-        "observation": "bonjour, je recherche grillage \u00e0 poule de minimum 1m15 de long.",
-        "picture": null
+        "name": "recherche grillage \u00e0 poule",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "bonjour, je recherche grillage \u00e0 poule de minimum 1m15 de long.",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -436,10 +498,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "#littlefreegardenstand",
-        "type": "DSB",
-        "observation": "Books, vegetables, flowers, seed, canned goods, seedlings",
-        "picture": null
+        "name": "#littlefreegardenstand",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "Books, vegetables, flowers, seed, canned goods, seedlings",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -452,10 +516,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -468,10 +534,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -484,10 +552,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -500,10 +570,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -516,10 +588,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -532,10 +606,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -548,10 +624,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -564,10 +642,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -580,10 +660,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -596,10 +678,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -612,10 +696,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -628,10 +714,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -644,10 +732,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -660,10 +750,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -676,10 +768,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -692,10 +786,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -708,10 +804,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -724,10 +822,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -740,10 +840,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -756,10 +858,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -772,10 +876,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -788,10 +894,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -804,10 +912,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -820,10 +930,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -836,10 +948,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -852,10 +966,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -868,10 +984,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -884,10 +1002,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -900,10 +1020,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -916,10 +1038,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -932,10 +1056,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -948,10 +1074,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -964,10 +1092,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -980,10 +1110,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -996,10 +1128,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1012,10 +1146,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1028,10 +1164,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1044,10 +1182,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1060,10 +1200,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1076,10 +1218,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1092,10 +1236,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1108,10 +1254,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1124,10 +1272,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1140,10 +1290,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1156,10 +1308,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1172,10 +1326,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1188,10 +1344,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1204,10 +1362,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1220,10 +1380,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1236,10 +1398,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1252,10 +1416,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1268,10 +1434,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1284,10 +1452,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1300,10 +1470,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1316,10 +1488,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1332,10 +1506,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1348,10 +1524,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1364,10 +1542,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1380,10 +1560,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1396,10 +1578,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1412,10 +1596,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1428,10 +1614,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1444,10 +1632,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1460,10 +1650,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1476,10 +1668,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1492,10 +1686,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1508,10 +1704,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1524,10 +1722,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1540,10 +1740,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1556,10 +1758,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1572,10 +1776,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1588,10 +1794,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1604,10 +1812,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1620,10 +1830,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1636,10 +1848,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1652,10 +1866,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1668,10 +1884,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1684,10 +1902,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1700,10 +1920,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1716,10 +1938,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1732,10 +1956,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1748,10 +1974,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1764,10 +1992,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1780,10 +2010,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1796,10 +2028,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1812,10 +2046,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1828,10 +2064,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1844,10 +2082,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1860,10 +2100,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1876,10 +2118,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1892,10 +2136,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1908,10 +2154,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1924,10 +2172,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1940,10 +2190,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1956,10 +2208,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1972,10 +2226,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -1988,10 +2244,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2004,10 +2262,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2020,10 +2280,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2036,10 +2298,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2052,10 +2316,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2068,10 +2334,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2084,10 +2352,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2100,10 +2370,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2116,10 +2388,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2132,10 +2406,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2148,10 +2424,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2164,10 +2442,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2180,10 +2460,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2196,10 +2478,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2212,10 +2496,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2228,10 +2514,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2244,10 +2532,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2260,10 +2550,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2276,10 +2568,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2292,10 +2586,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2308,10 +2604,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2324,10 +2622,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2340,10 +2640,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2356,10 +2658,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2372,10 +2676,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2388,10 +2694,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2404,10 +2712,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2420,10 +2730,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2436,10 +2748,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2452,10 +2766,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2468,10 +2784,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2484,10 +2802,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2500,10 +2820,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2516,10 +2838,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2532,10 +2856,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2548,10 +2874,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2564,10 +2892,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2580,10 +2910,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2596,10 +2928,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2612,10 +2946,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2628,10 +2964,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2644,10 +2982,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2660,10 +3000,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2676,10 +3018,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2692,10 +3036,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2708,10 +3054,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2724,10 +3072,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2740,10 +3090,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2756,10 +3108,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2772,10 +3126,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2788,10 +3144,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2804,10 +3162,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2820,10 +3180,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2836,10 +3198,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2852,10 +3216,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2868,10 +3234,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2884,10 +3252,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2900,10 +3270,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2916,10 +3288,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2932,10 +3306,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2948,10 +3324,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2964,10 +3342,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2980,10 +3360,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Free Pantry",
-        "type": "DSB",
-        "observation": " Blessing Box Project",
-        "picture": null
+        "name": "Free Pantry",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": " Blessing Box Project",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -2996,10 +3378,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rue Dufay",
-        "type": "DSB",
-        "observation": "sp\u00e9cial jardinage@@__",
-        "picture": null
+        "name": "Rue Dufay",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "sp\u00e9cial jardinage@@__",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -3012,10 +3396,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "L'Inutile Utile",
-        "type": "DSB",
-        "observation": "Magasin pour rien",
-        "picture": null
+        "name": "L'Inutile Utile",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "Magasin pour rien",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -3028,10 +3414,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Place de l'Europe",
-        "type": "DSB",
-        "observation": "dans le hall a c\u00f4t\u00e9 du coiffeur",
-        "picture": null
+        "name": "Place de l'Europe",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "dans le hall a c\u00f4t\u00e9 du coiffeur",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",
@@ -3044,10 +3432,12 @@
     {
       "type": "Feature",
       "properties": {
-        "title": "Rue des Fabriques",
-        "type": "DSB",
-        "observation": "grainotheque de la mediatheque de wesserling",
-        "picture": null
+        "name": "Rue des Fabriques",
+        "codetype": "DSB",
+        "type": "delivrez givebox",
+        "desc": "grainotheque de la mediatheque de wesserling",
+        "color": "#00842b",
+        "background": "square"
       },
       "geometry": {
         "type": "Point",

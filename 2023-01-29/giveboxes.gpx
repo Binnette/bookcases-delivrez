@@ -1,0 +1,1922 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.4.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:osmand="https://osmand.net" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="32.430886899999997" minlon="-82.599184699999995" maxlat="50.705392699999997" maxlon="8.737046899999999"/></metadata>                  
+<wpt lat="48.8657737" lon="2.3808144">
+  <name>Rue Dranem</name>
+  <desc>au niveau du square Georges Sarre</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+    <osmand:website>https://delivrez.fr/public/posts/img.63d3c274f3fa8.png</osmand:website>
+  </extensions>
+</wpt>
+<wpt lat="49.2510136" lon="3.7660015">
+  <name>boîte à dons</name>
+  <desc>_</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+    <osmand:website>https://delivrez.fr/public/posts/img.637a5e414d61c.png</osmand:website>
+  </extensions>
+</wpt>
+<wpt lat="46.693115" lon="6.9120971">
+  <name>Route de la Gare</name>
+  <desc>frigo solidaire et boîte a livre</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="48.0526377" lon="-1.7886428">
+  <name>Place de la Mairie</name>
+  <desc>_</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="48.0763704" lon="-1.8399463">
+  <name>Avenue du Maréchal Leclerc</name>
+  <desc>_</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="44.1342216" lon="6.3422682">
+  <name>roosegregory@gmail.com</name>
+  <desc>_</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+    <osmand:website>https://delivrez.fr/public/posts/img.635504a53d84c.png</osmand:website>
+  </extensions>
+</wpt>
+<wpt lat="43.3101618" lon="-0.3886837">
+  <name>Avenue Lalanne</name>
+  <desc>_</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="47.8857668" lon="7.058962">
+  <name>Rue de Saint-Amarin</name>
+  <desc>9 h 12 h tout les samedis</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+    <osmand:website>https://delivrez.fr/public/posts/img.632a10740d029.png</osmand:website>
+  </extensions>
+</wpt>
+<wpt lat="48.8272055" lon="2.2784416">
+  <name>boite à dons</name>
+  <desc>_</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+    <osmand:website>https://delivrez.fr/public/posts/img.6314b64647cc0.png</osmand:website>
+  </extensions>
+</wpt>
+<wpt lat="42.9872502" lon="-0.1060286">
+  <name>Cami d'Azun</name>
+  <desc>boite à dons avec boîte à livre</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="42.9630662" lon="-0.0680207">
+  <name>Prats</name>
+  <desc>proche des sculptures</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="43.0007041" lon="-0.0888647">
+  <name>Rue du Neouvielle</name>
+  <desc>derrière le local poubelle HLM</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="45.7786782" lon="4.8746721">
+  <name>morelwe@gmail.com</name>
+  <desc>toi toi le zinc</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+    <osmand:website>https://delivrez.fr/public/posts/img.62a75c305a685.png</osmand:website>
+  </extensions>
+</wpt>
+<wpt lat="49.0119601" lon="1.9082102">
+  <name>boite a dons dans le parking Auchan au fond</name>
+  <desc>_</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="47.8769557" lon="6.7745013">
+  <name>Rue de Lorraine</name>
+  <desc>sur la parking  gp moto</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+    <osmand:website>https://delivrez.fr/public/posts/img.6293a4c19f26a.png</osmand:website>
+  </extensions>
+</wpt>
+<wpt lat="48.9454071" lon="1.5276447">
+  <name>sachat3378@gmail.com</name>
+  <desc>boite a don a côté de la pharmacie</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="44.8206503" lon="6.1658851">
+  <name>Rue de Pétarel</name>
+  <desc>au dessus de la fontaine sur une fenêtre</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="44.8176778" lon="-0.5894794">
+  <name>Rue Roustaing</name>
+  <desc>_</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+    <osmand:website>https://delivrez.fr/public/posts/img.62485d23bdb3a.png</osmand:website>
+  </extensions>
+</wpt>
+<wpt lat="49.5041723" lon="5.9876904">
+  <name>Give box Kulturfabrik</name>
+  <desc>ancienne cabine téléphone à l'entrée du centre culturel Kulturfabrik</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="41.9196755" lon="8.7370469">
+  <name>Cours Napoléon</name>
+  <desc>en face la préfecture. accolé au Bistrot du cour</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="49.0175564" lon="5.6779181">
+  <name>gratuité</name>
+  <desc>lieu convivial</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="45.7260121" lon="6.5277093">
+  <name>D123</name>
+  <desc>avec le café associatif</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="45.7179903" lon="6.5750771">
+  <name>Avenue du Capitaine Bulle</name>
+  <desc>en face office du tourisme</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="48.0419915" lon="7.3095201">
+  <name>Grand-Rue</name>
+  <desc>à côté des pompiers</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="43.953505" lon="4.4769897">
+  <name>Place de l'Église</name>
+  <desc>Place l'église sous le tilleul</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="50.7053927" lon="4.9427125">
+  <name>Rue de Hannut</name>
+  <desc>boite à jeux</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="47.9913141" lon="5.2931789">
+  <name>recherche grillage à poule</name>
+  <desc>bonjour, je recherche grillage à poule de minimum 1m15 de long.</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="35.5822118" lon="-82.5991847">
+  <name>#littlefreegardenstand</name>
+  <desc>Books, vegetables, flowers, seed, canned goods, seedlings</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.4308869" lon="-80.6718067">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.1175741" lon="-80.2538034">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.3288088" lon="-80.1034666">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.1979494" lon="-79.7480831">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8084027" lon="-79.9484304">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8898472" lon="-79.9861013">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0988478" lon="-80.3107539">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0272726" lon="-80.1736217">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9830444" lon="-79.6582105">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.1835584" lon="-80.5708162">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.4365219" lon="-80.681297">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9986197" lon="-79.8480996">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.1269421" lon="-80.1443423">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.107311" lon="-80.1882258">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7492755" lon="-81.637564">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.752136" lon="-81.6338088">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.3730447" lon="-80.2143081">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0518716" lon="-80.4923026">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.98028" lon="-80.8470679">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8622764" lon="-79.9883868">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.927568" lon="-81.1913448">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8445689" lon="-79.8134509">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8375897" lon="-79.9568881">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8258355" lon="-79.8381934">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.840891" lon="-79.9578059">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9244818" lon="-80.0436905">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8395129" lon="-80.062803">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.834054" lon="-80.229376">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8492835" lon="-79.9938534">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8032936" lon="-80.0389201">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7827494" lon="-80.022271">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.6936518" lon="-80.2113855">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.859765" lon="-79.9995807">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.4764788" lon="-80.4573541">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9818833" lon="-80.1555456">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9914862" lon="-80.1794746">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0091058" lon="-80.1587753">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8751426" lon="-79.9906537">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9965469" lon="-80.2161406">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.011956" lon="-80.3390194">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0092064" lon="-80.1827986">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.9133774" lon="-81.1021354">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.021094" lon="-80.345701">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.145666" lon="-80.027305">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9105658" lon="-80.1116168">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.3386981" lon="-79.4351237">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.3995265" lon="-79.9221123">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.784313" lon="-82.352972">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.504079" lon="-81.9945764">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.5309725" lon="-82.1947289">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.4301172" lon="-80.02428">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9944821" lon="-80.1855516">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7836836" lon="-79.9329815">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9416458" lon="-80.4729223">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0142457" lon="-80.1888702">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8169827" lon="-79.9882028">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7320593" lon="-80.0612413">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.487781" lon="-80.4761306">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8554775" lon="-79.977372">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9226946" lon="-80.0692564">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9896092" lon="-80.0357215">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.902738" lon="-80.0817064">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9626723" lon="-80.0474671">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7987289" lon="-80.0154635">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7827017" lon="-79.9375597">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.462379" lon="-79.9950099">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.960606" lon="-80.136981">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.1995008" lon="-79.9969595">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8806786" lon="-79.9788917">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8648664" lon="-79.9782582">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7881829" lon="-80.034025">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.8886635" lon="-81.2656143">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.9054352" lon="-81.2342942">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0178629" lon="-80.180728">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9169108" lon="-80.2390515">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.6567146" lon="-79.938511">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.4010028" lon="-79.8935994">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.157883" lon="-79.80173">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.1070942" lon="-80.1250702">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9500441" lon="-80.2273043">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0186568" lon="-80.1792022">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7465541" lon="-79.905583">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0173278" lon="-80.1851409">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8796936" lon="-79.9768291">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.9648661" lon="-81.1718644">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.166356" lon="-79.7574285">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8317346" lon="-80.0690333">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8318596" lon="-80.0468342">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.3818709" lon="-80.185939">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.231513" lon="-80.3251622">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9541657" lon="-80.047724">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.932568" lon="-81.236934">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0185942" lon="-80.0346894">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.858649" lon="-80.043965">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7944325" lon="-79.9995356">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9878275" lon="-80.2069876">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.151769" lon="-80.059539">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.341974" lon="-79.760688">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.6651672" lon="-79.8320424">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7550236" lon="-79.9703729">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8430141" lon="-79.9575765">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8993829" lon="-80.0879974">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0383334" lon="-80.0736157">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.7400789" lon="-80.2049845">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7977818" lon="-79.9361164">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9297844" lon="-80.03165">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.7311181" lon="-80.7181416">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.7075126" lon="-80.7658237">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.6958517" lon="-80.8993172">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.936712" lon="-81.013776">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.3718643" lon="-80.0765724">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.925858" lon="-81.0246976">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.0590003" lon="-80.9732773">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.317208" lon="-79.916226">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.1829016" lon="-79.8135555">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.261318" lon="-80.080926">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.173979" lon="-80.065092">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.458513" lon="-80.046896">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.6986806" lon="-79.8847001">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.6931158" lon="-79.9034244">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.513295" lon="-79.8595636">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.3745676" lon="-80.0731145">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.3725732" lon="-80.078134">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.3158905" lon="-79.8708415">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.3678038" lon="-80.0720989">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.2105359" lon="-79.6445677">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.8093442" lon="-78.7178381">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="34.7514656" lon="-79.7038168">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.99047" lon="-80.2327631">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.607293" lon="-80.3495797">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.4847387" lon="-80.4688886">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8966737" lon="-80.0048846">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9128953" lon="-79.8604881">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8940323" lon="-80.0016138">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7759046" lon="-80.2481318">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9884039" lon="-80.1863476">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.994076" lon="-80.120662">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9289587" lon="-79.8564225">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9056049" lon="-80.0020766">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0302597" lon="-80.1214553">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0373152" lon="-80.1396288">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.9980209" lon="-80.0408486">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0225638" lon="-79.7951367">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.028298" lon="-80.171617">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.278176" lon="-79.8577229">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7930636" lon="-79.9364117">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8546713" lon="-79.9952282">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.846562" lon="-79.991849">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7435586" lon="-80.0392619">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.805859" lon="-80.0100195">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7383469" lon="-79.9666819">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7925513" lon="-79.8712955">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.8810358" lon="-79.9814028">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.0903141" lon="-79.4625068">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.67004" lon="-80.178118">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="33.238111" lon="-79.9638389">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.7941393" lon="-79.9506103">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.790563" lon="-80.013905">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="32.881279" lon="-80.0030108">
+  <name>Free Pantry</name>
+  <desc> Blessing Box Project</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="49.4228794" lon="1.0782935">
+  <name>Rue Dufay</name>
+  <desc>spécial jardinage@@__</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="48.9673571" lon="2.3589715">
+  <name>L'Inutile Utile</name>
+  <desc>Magasin pour rien</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="48.0146245" lon="7.5469919">
+  <name>Place de l'Europe</name>
+  <desc>dans le hall a côté du coiffeur</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+<wpt lat="47.8864412" lon="6.9959597">
+  <name>Rue des Fabriques</name>
+  <desc>grainotheque de la mediatheque de wesserling</desc>
+  <type>delivrez givebox</type>
+  <extensions>
+    <osmand:codetype>DSB</osmand:codetype>
+    <osmand:color>#00842b</osmand:color>
+    <osmand:background>square</osmand:background>
+  </extensions>
+</wpt>
+</gpx>
