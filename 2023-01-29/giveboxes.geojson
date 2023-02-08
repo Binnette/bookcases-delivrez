@@ -6,7 +6,7 @@
       "properties": {
         "name": "Rue Dranem",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "au niveau du square Georges Sarre",
         "color": "#00842b",
         "background": "square",
@@ -25,7 +25,7 @@
       "properties": {
         "name": "bo\u00eete \u00e0 dons",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "_",
         "color": "#00842b",
         "background": "square",
@@ -44,7 +44,7 @@
       "properties": {
         "name": "Route de la Gare",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "frigo solidaire et bo\u00eete a livre",
         "color": "#00842b",
         "background": "square"
@@ -62,7 +62,7 @@
       "properties": {
         "name": "Place de la Mairie",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "_",
         "color": "#00842b",
         "background": "square"
@@ -80,7 +80,7 @@
       "properties": {
         "name": "Avenue du Mar\u00e9chal Leclerc",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "_",
         "color": "#00842b",
         "background": "square"
@@ -98,7 +98,7 @@
       "properties": {
         "name": "roosegregory@gmail.com",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "_",
         "color": "#00842b",
         "background": "square",
@@ -117,7 +117,7 @@
       "properties": {
         "name": "Avenue Lalanne",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "_",
         "color": "#00842b",
         "background": "square"
@@ -135,7 +135,7 @@
       "properties": {
         "name": "Rue de Saint-Amarin",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "9 h 12 h tout les samedis",
         "color": "#00842b",
         "background": "square",
@@ -154,7 +154,7 @@
       "properties": {
         "name": "boite \u00e0 dons",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "_",
         "color": "#00842b",
         "background": "square",
@@ -173,7 +173,7 @@
       "properties": {
         "name": "Cami d'Azun",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "boite \u00e0 dons avec bo\u00eete \u00e0 livre",
         "color": "#00842b",
         "background": "square"
@@ -191,7 +191,7 @@
       "properties": {
         "name": "Prats",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "proche des sculptures",
         "color": "#00842b",
         "background": "square"
@@ -209,7 +209,7 @@
       "properties": {
         "name": "Rue du Neouvielle",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "derri\u00e8re le local poubelle HLM",
         "color": "#00842b",
         "background": "square"
@@ -227,7 +227,7 @@
       "properties": {
         "name": "morelwe@gmail.com",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "toi toi le zinc",
         "color": "#00842b",
         "background": "square",
@@ -246,7 +246,7 @@
       "properties": {
         "name": "boite a dons dans le parking Auchan au fond",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "_",
         "color": "#00842b",
         "background": "square"
@@ -264,7 +264,7 @@
       "properties": {
         "name": "Rue de Lorraine",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "sur la parking  gp moto",
         "color": "#00842b",
         "background": "square",
@@ -283,7 +283,7 @@
       "properties": {
         "name": "sachat3378@gmail.com",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "boite a don a c\u00f4t\u00e9 de la pharmacie",
         "color": "#00842b",
         "background": "square"
@@ -301,7 +301,7 @@
       "properties": {
         "name": "Rue de P\u00e9tarel",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "au dessus de la fontaine sur une fen\u00eatre",
         "color": "#00842b",
         "background": "square"
@@ -319,7 +319,7 @@
       "properties": {
         "name": "Rue Roustaing",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "_",
         "color": "#00842b",
         "background": "square",
@@ -338,7 +338,7 @@
       "properties": {
         "name": "Give box Kulturfabrik",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "ancienne cabine t\u00e9l\u00e9phone \u00e0 l'entr\u00e9e du centre culturel Kulturfabrik",
         "color": "#00842b",
         "background": "square"
@@ -356,7 +356,7 @@
       "properties": {
         "name": "Cours Napol\u00e9on",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "en face la pr\u00e9fecture. accol\u00e9 au Bistrot du cour",
         "color": "#00842b",
         "background": "square"
@@ -374,7 +374,7 @@
       "properties": {
         "name": "gratuit\u00e9",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "lieu convivial",
         "color": "#00842b",
         "background": "square"
@@ -392,7 +392,7 @@
       "properties": {
         "name": "D123",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "avec le caf\u00e9 associatif",
         "color": "#00842b",
         "background": "square"
@@ -410,7 +410,7 @@
       "properties": {
         "name": "Avenue du Capitaine Bulle",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "en face office du tourisme",
         "color": "#00842b",
         "background": "square"
@@ -428,7 +428,7 @@
       "properties": {
         "name": "Grand-Rue",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "\u00e0 c\u00f4t\u00e9 des pompiers",
         "color": "#00842b",
         "background": "square"
@@ -446,7 +446,7 @@
       "properties": {
         "name": "Place de l'\u00c9glise",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "Place l'\u00e9glise sous le tilleul",
         "color": "#00842b",
         "background": "square"
@@ -464,7 +464,7 @@
       "properties": {
         "name": "Rue de Hannut",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "boite \u00e0 jeux",
         "color": "#00842b",
         "background": "square"
@@ -482,7 +482,7 @@
       "properties": {
         "name": "recherche grillage \u00e0 poule",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "bonjour, je recherche grillage \u00e0 poule de minimum 1m15 de long.",
         "color": "#00842b",
         "background": "square"
@@ -500,7 +500,7 @@
       "properties": {
         "name": "#littlefreegardenstand",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "Books, vegetables, flowers, seed, canned goods, seedlings",
         "color": "#00842b",
         "background": "square"
@@ -518,7 +518,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -536,7 +536,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -554,7 +554,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -572,7 +572,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -590,7 +590,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -608,7 +608,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -626,7 +626,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -644,7 +644,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -662,7 +662,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -680,7 +680,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -698,7 +698,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -716,7 +716,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -734,7 +734,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -752,7 +752,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -770,7 +770,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -788,7 +788,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -806,7 +806,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -824,7 +824,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -842,7 +842,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -860,7 +860,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -878,7 +878,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -896,7 +896,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -914,7 +914,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -932,7 +932,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -950,7 +950,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -968,7 +968,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -986,7 +986,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1004,7 +1004,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1022,7 +1022,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1040,7 +1040,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1058,7 +1058,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1076,7 +1076,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1094,7 +1094,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1112,7 +1112,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1130,7 +1130,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1148,7 +1148,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1166,7 +1166,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1184,7 +1184,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1202,7 +1202,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1220,7 +1220,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1238,7 +1238,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1256,7 +1256,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1274,7 +1274,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1292,7 +1292,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1310,7 +1310,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1328,7 +1328,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1346,7 +1346,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1364,7 +1364,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1382,7 +1382,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1400,7 +1400,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1418,7 +1418,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1436,7 +1436,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1454,7 +1454,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1472,7 +1472,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1490,7 +1490,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1508,7 +1508,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1526,7 +1526,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1544,7 +1544,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1562,7 +1562,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1580,7 +1580,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1598,7 +1598,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1616,7 +1616,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1634,7 +1634,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1652,7 +1652,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1670,7 +1670,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1688,7 +1688,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1706,7 +1706,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1724,7 +1724,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1742,7 +1742,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1760,7 +1760,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1778,7 +1778,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1796,7 +1796,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1814,7 +1814,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1832,7 +1832,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1850,7 +1850,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1868,7 +1868,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1886,7 +1886,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1904,7 +1904,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1922,7 +1922,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1940,7 +1940,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1958,7 +1958,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1976,7 +1976,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -1994,7 +1994,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2012,7 +2012,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2030,7 +2030,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2048,7 +2048,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2066,7 +2066,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2084,7 +2084,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2102,7 +2102,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2120,7 +2120,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2138,7 +2138,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2156,7 +2156,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2174,7 +2174,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2192,7 +2192,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2210,7 +2210,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2228,7 +2228,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2246,7 +2246,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2264,7 +2264,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2282,7 +2282,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2300,7 +2300,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2318,7 +2318,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2336,7 +2336,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2354,7 +2354,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2372,7 +2372,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2390,7 +2390,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2408,7 +2408,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2426,7 +2426,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2444,7 +2444,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2462,7 +2462,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2480,7 +2480,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2498,7 +2498,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2516,7 +2516,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2534,7 +2534,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2552,7 +2552,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2570,7 +2570,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2588,7 +2588,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2606,7 +2606,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2624,7 +2624,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2642,7 +2642,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2660,7 +2660,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2678,7 +2678,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2696,7 +2696,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2714,7 +2714,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2732,7 +2732,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2750,7 +2750,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2768,7 +2768,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2786,7 +2786,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2804,7 +2804,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2822,7 +2822,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2840,7 +2840,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2858,7 +2858,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2876,7 +2876,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2894,7 +2894,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2912,7 +2912,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2930,7 +2930,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2948,7 +2948,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2966,7 +2966,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -2984,7 +2984,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3002,7 +3002,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3020,7 +3020,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3038,7 +3038,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3056,7 +3056,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3074,7 +3074,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3092,7 +3092,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3110,7 +3110,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3128,7 +3128,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3146,7 +3146,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3164,7 +3164,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3182,7 +3182,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3200,7 +3200,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3218,7 +3218,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3236,7 +3236,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3254,7 +3254,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3272,7 +3272,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3290,7 +3290,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3308,7 +3308,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3326,7 +3326,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3344,7 +3344,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3362,7 +3362,7 @@
       "properties": {
         "name": "Free Pantry",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": " Blessing Box Project",
         "color": "#00842b",
         "background": "square"
@@ -3380,7 +3380,7 @@
       "properties": {
         "name": "Rue Dufay",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "sp\u00e9cial jardinage@@__",
         "color": "#00842b",
         "background": "square"
@@ -3398,7 +3398,7 @@
       "properties": {
         "name": "L'Inutile Utile",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "Magasin pour rien",
         "color": "#00842b",
         "background": "square"
@@ -3416,7 +3416,7 @@
       "properties": {
         "name": "Place de l'Europe",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "dans le hall a c\u00f4t\u00e9 du coiffeur",
         "color": "#00842b",
         "background": "square"
@@ -3434,7 +3434,7 @@
       "properties": {
         "name": "Rue des Fabriques",
         "codetype": "DSB",
-        "type": "delivrez givebox",
+        "type": "Delivrez givebox",
         "desc": "grainotheque de la mediatheque de wesserling",
         "color": "#00842b",
         "background": "square"

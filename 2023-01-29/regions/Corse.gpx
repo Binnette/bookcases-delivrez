@@ -4,7 +4,7 @@
 <wpt lat="41.9495344" lon="8.7769391">
   <name>Allée du Prunelli</name>
   <desc>Dans la galerie commerçante Géant Casino près des toilettes</desc>
-  <type>delivrez bookcase</type>
+  <type>Delivrez bookcase Corse</type>
   <extensions>
     <osmand:codetype>BSB</osmand:codetype>
     <osmand:color>#00842b</osmand:color>
@@ -17,7 +17,7 @@
 <wpt lat="41.930239" lon="8.739299">
   <name>Cours Napoléon</name>
   <desc>Face auto distribution</desc>
-  <type>delivrez bookcase</type>
+  <type>Delivrez bookcase Corse</type>
   <extensions>
     <osmand:codetype>BSB</osmand:codetype>
     <osmand:color>#00842b</osmand:color>
@@ -29,7 +29,7 @@
 <wpt lat="42.6326037" lon="8.9380841">
   <name>Casino</name>
   <desc>A la sortie du Casino, près des caisses, il y a une petite caisse de livres en libre service !</desc>
-  <type>delivrez bookcase</type>
+  <type>Delivrez bookcase Corse</type>
   <extensions>
     <osmand:codetype>BSB</osmand:codetype>
     <osmand:color>#00842b</osmand:color>
@@ -41,7 +41,7 @@
 <wpt lat="41.699063978799174" lon="8.840952515602114">
   <name>Résidence golfe du valinco, Olmeto plage</name>
   <desc>Petite boite à lire au rond point du Motel et du Spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l'eau.</desc>
-  <type>delivrez bookcase</type>
+  <type>Delivrez bookcase Corse</type>
   <extensions>
     <osmand:codetype>BSB</osmand:codetype>
     <osmand:color>#00842b</osmand:color>
@@ -53,7 +53,7 @@
 <wpt lat="42.081804" lon="9.060516">
   <name>Bâtiment U palazzu</name>
   <desc>La boîte à lire se trouve à l'entrée de la médiathèque. Des livres pour les petits et grands .Réapprovisionnée tous les jours ...Une vrai mine ...</desc>
-  <type>delivrez bookcase</type>
+  <type>Delivrez bookcase Corse</type>
   <extensions>
     <osmand:codetype>BSB</osmand:codetype>
     <osmand:color>#00842b</osmand:color>
@@ -65,7 +65,7 @@
 <wpt lat="42.2989986" lon="9.1528366">
   <name>Université</name>
   <desc>A votre disposition dans le hall du bâtiment Desanti-bibliothèque universitaire.</desc>
-  <type>delivrez bookcase</type>
+  <type>Delivrez bookcase Corse</type>
   <extensions>
     <osmand:codetype>BSB</osmand:codetype>
     <osmand:color>#00842b</osmand:color>
@@ -77,7 +77,7 @@
 <wpt lat="42.7005856" lon="9.4512278">
   <name>Place Saint Nicolas </name>
   <desc>Boîte à lire aménagée dans une ancienne cabine téléphonique.</desc>
-  <type>delivrez bookcase</type>
+  <type>Delivrez bookcase Corse</type>
   <extensions>
     <osmand:codetype>BSB</osmand:codetype>
     <osmand:color>#00842b</osmand:color>
@@ -89,7 +89,7 @@
 <wpt lat="41.997829" lon="9.399904">
   <name>Migliacciaro</name>
   <desc>Armoire à lire près de la boutique Bio Sous les Glycines.</desc>
-  <type>delivrez bookcase</type>
+  <type>Delivrez bookcase Corse</type>
   <extensions>
     <osmand:codetype>BSB</osmand:codetype>
     <osmand:color>#00842b</osmand:color>

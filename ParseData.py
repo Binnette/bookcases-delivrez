@@ -18,18 +18,20 @@ dirAsset = 'assets'
 dirRegion = 'regions'
 baseUrl = 'https://delivrez.fr/public/posts/'
 
-gpxNs='osmand'
-gpxNsUrl= 'https://osmand.net'
+gpxNs = 'osmand'
+gpxNsUrl = 'https://osmand.net'
 
 edibleFile = 'edibles'
 giveboxFile = 'giveboxes'
 bookcasesFile = 'bookcases'
+
 
 def newGeojsonStruct():
     return {
         'type': 'FeatureCollection',
         'features': []
     }
+
 
 def convertJsonToGeoJson():
     print('Read source file data.json in folder: ' + dirData)
@@ -52,7 +54,7 @@ def convertJsonToGeoJson():
             'properties': {
                 'name': d['title'],
                 'codetype': d['type'],
-                'type': 'delivrez',
+                'type': 'Delivrez',
                 'desc': d['observation'],
                 'color': '#00842b',
                 'background': 'square'
@@ -68,15 +70,15 @@ def convertJsonToGeoJson():
         if d['picture'] is not None:
             feature['properties']['website'] = baseUrl + d['picture']
         if 'INE' in type:
-            feature['properties']['type'] += " edible"
+            feature['properties']['type'] += ' edible'
             edibles['features'].append(feature)
         if 'DSB' in type:
-            feature['properties']['type'] += " givebox"
+            feature['properties']['type'] += ' givebox'
             giveboxes['features'].append(feature)
         if 'BSB' in type:
-            feature['properties']['type'] += " bookcase"
+            feature['properties']['type'] += ' bookcase'
             feature['properties']['amenity_subtype'] = 'public_bookcase'
-            feature['properties']['icon']= 'public_bookcase'
+            feature['properties']['icon'] = 'public_bookcase'
             bookcases['features'].append(feature)
 
     attrs = set(attrs)
@@ -94,19 +96,23 @@ def convertJsonToGeoJson():
 
     print('Geojson files created in folder: ' + dirData)
 
+
 def dumpGeojsonToFile(data, path):
     with open(path, 'w') as out:
         json.dump(data, out, indent=2, ensure_ascii=True)
 
-def dumpToGpx(data, filepath):
-    data.to_file(filepath, driver='GPX', GPX_USE_EXTENSIONS=True, GPX_EXTENSIONS_NS=gpxNs, GPX_EXTENSIONS_NS_URL=gpxNsUrl)
+
+def dumpToGpx(data, path):
+    data.to_file(path, driver='GPX', GPX_USE_EXTENSIONS=True, GPX_EXTENSIONS_NS=gpxNs, GPX_EXTENSIONS_NS_URL=gpxNsUrl)
+
 
 def convertGeojsonToGpx(file):
-    print('Convert ' + file + " from geojson to GPX")
+    print('Convert ' + file + ' from geojson to GPX')
     path = os.path.join(dirData, file + '.geojson')
     bookcases = gpd.read_file(path)
-    path = os.path.join(dirData, file + ".gpx")
+    path = os.path.join(dirData, file + '.gpx')
     dumpToGpx(bookcases, path)
+
 
 def filterBookcasesByArea():
     print('Start of filtering bookcases by region')
@@ -122,11 +128,12 @@ def filterBookcasesByArea():
             regionName = os.path.basename(areaName)
             regionName = os.path.splitext(regionName)[0]
             bookcases_filtered = gpd.read_file(pathBookcase, mask=region)
+            bookcases_filtered['type'] += ' ' + regionName
             print(' - ' + str(bookcases_filtered.size) + ' bookcases in ' + regionName)
             bookcases_filtered.to_file(os.path.join(dirData, dirRegion, areaName), driver='GeoJSON')
-            filepath = os.path.join(dirData, dirRegion, regionName + ".gpx")
+            filepath = os.path.join(dirData, dirRegion, regionName + '.gpx')
             dumpToGpx(bookcases_filtered, filepath)
- 
+
     print('End of filtering bookcases by region')
 
 
