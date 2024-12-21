@@ -1,0 +1,3792 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.64804,
+          52.39393
+        ]
+      },
+      "properties": {
+        "title": "Reitzstraat",
+        "lat": "52.3939299",
+        "lon": "4.6480403",
+        "type": "INE",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.63b2d8164d257.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.599185,
+          35.582212
+        ]
+      },
+      "properties": {
+        "title": "#littlefreegardenstand",
+        "lat": "35.5822118",
+        "lon": "-82.5991847",
+        "type": "INE",
+        "observation": "Books, vegetables, flowers, seed, canned goods, seedlings"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.305552,
+          46.102833
+        ]
+      },
+      "properties": {
+        "title": "CA - Incroyables Comestibles Thetford Mines",
+        "lat": "46.1028329",
+        "lon": "-71.3055522",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.23529,
+          50.50303
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Manage",
+        "lat": "50.50303",
+        "lon": "4.23528999999996",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.096454,
+          50.491152
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Andenne",
+        "lat": "50.4911522",
+        "lon": "5.0964543",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.246791,
+          47.136778
+        ]
+      },
+      "properties": {
+        "title": "S - Incroyables Comestible Biel/Bienne",
+        "lat": "47.1367785",
+        "lon": "7.24679089999995",
+        "type": "INE",
+        "observation": "noemie.cheval@biel-bienne.ch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.84598,
+          50.41423
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Colfontaine",
+        "lat": "50.41423",
+        "lon": "3.84598000000005",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/546414968816074/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.483002,
+          45.4159
+        ]
+      },
+      "properties": {
+        "title": "CA - Incroyables Comestibles La Prairie",
+        "lat": "45.4159003",
+        "lon": "-73.4830021",
+        "type": "INE",
+        "observation": "http://lesincroyablescomestibles.fr/la-prairi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.070988,
+          46.22832
+        ]
+      },
+      "properties": {
+        "title": "S - Incroyables Comestibles Meyrin",
+        "lat": "46.2283204",
+        "lon": "6.07098799999994",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.519471,
+          50.482051
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Anthisnes",
+        "lat": "50.4820509",
+        "lon": "5.51947110000003",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.610647,
+          50.634704
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Mont-Saint-Guibert",
+        "lat": "50.6347043",
+        "lon": "4.61064740000006",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Incroyables-Comestibles-de-Mont-Saint-Guibert-43285924714446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.225994,
+          46.201665
+        ]
+      },
+      "properties": {
+        "title": "S - Incroyables Comestibles Chamoson",
+        "lat": "46.2016649",
+        "lon": "7.2259937",
+        "type": "INE",
+        "observation": "http://www.japarcha.c"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.379669,
+          46.108148
+        ]
+      },
+      "properties": {
+        "title": "CA - Incredible Edible Saint-Léonard-d'Aston",
+        "lat": "46.108148",
+        "lon": "-72.379669",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.28607,
+          46.782996
+        ]
+      },
+      "properties": {
+        "title": "CA - Incredible Edible Sainte-Foy",
+        "lat": "46.7829958",
+        "lon": "-71.2860696",
+        "type": "INE",
+        "observation": "https://www.ulaval.ca/ulavaltv.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.156761,
+          46.778222
+        ]
+      },
+      "properties": {
+        "title": "S - Incroyables Comestibles Marly",
+        "lat": "46.7782221",
+        "lon": "7.15676050000002",
+        "type": "INE",
+        "observation": "https://www.facebook.com/incroyablescomestiblesmarly/ ou encore sur le site : www.anjm.chContact : Michaël JordanMail : michael@anjm.chTel : 0041 79 176 78 0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.244789,
+          46.254895
+        ]
+      },
+      "properties": {
+        "title": "C - Incredible Edible Nicolet",
+        "lat": "46.2548946",
+        "lon": "-73.2447886",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/1856124467988201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.387061,
+          15.969988
+        ]
+      },
+      "properties": {
+        "title": "IC Congo - Incroyables Comestibles Kinshasa",
+        "lat": "15.9699878",
+        "lon": "-4.3870606",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.880834,
+          44.535356
+        ]
+      },
+      "properties": {
+        "title": "Milbridge",
+        "lat": "44.5353556",
+        "lon": "-67.8808344",
+        "type": "INE",
+        "observation": "https://www.facebook.com/incredibleediblemilbridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.09082,
+          44.048116
+        ]
+      },
+      "properties": {
+        "title": "Point 508",
+        "lat": "44.0481157",
+        "lon": "-123.0908203",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-Eugene-Oregon/428244023889134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.837965,
+          51.412163
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Wokingham ",
+        "lat": "51.4121627",
+        "lon": "-0.837965",
+        "type": "INE",
+        "observation": "www.facebook.com/IncredibleEdibleWokingham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.451408,
+          31.528507
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Gaza",
+        "lat": "31.5285071",
+        "lon": "34.4514084",
+        "type": "INE",
+        "observation": "Les premières graines de partage des Incroyables Comestibles ont été semées par les enfants dans la ville de Gaza."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.104156,
+          45.245887
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Salaberry-de-Valleyfield",
+        "lat": "45.245887",
+        "lon": "-74.104156",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/IncroyablesComestiblesSalaberryDeValleyfield/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.286018,
+          45.44568
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Chambly",
+        "lat": "45.44568",
+        "lon": "-73.286018",
+        "type": "INE",
+        "observation": "http://www.journaldechambly.com/2014/08/12/un-facade-comestible)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.591675,
+          49.491323
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Penticton",
+        "lat": "49.491323",
+        "lon": "-119.591675",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.52298,
+          12.358783
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Ouagadougou",
+        "lat": "12.358783",
+        "lon": "-1.52298",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/133865410121337/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572006,
+          45.45399
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Montréal / Verdun",
+        "lat": "45.45399",
+        "lon": "-73.572006",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.62874,
+          45.464284
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Montréal - Notre Dame de Grâce",
+        "lat": "45.464284",
+        "lon": "-73.62874",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.654205,
+          48.552524
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Alma",
+        "lat": "48.552524",
+        "lon": "-71.654205",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.156105,
+          36.190538
+        ]
+      },
+      "properties": {
+        "title": "USA. Incredible Edible USA",
+        "lat": "36.190538",
+        "lon": "-82.156105",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/IncredibleUSA/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.730865,
+          45.400379
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Granby",
+        "lat": "45.400379",
+        "lon": "-72.730865",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.981445,
+          14.5889
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Manila",
+        "lat": "14.5889",
+        "lon": "120.981445",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.645924,
+          35.753896
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Maatmeur",
+        "lat": "35.753896",
+        "lon": "10.645924",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.980957,
+          45.375302
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Combermere ",
+        "lat": "45.375302",
+        "lon": "-77.980957",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-Combermere/578285302194042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17157,
+          46.177929
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Genève",
+        "lat": "46.177929",
+        "lon": "6.17157",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.131348,
+          41.50035
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Cerdanyola",
+        "lat": "41.50035",
+        "lon": "2.131348",
+        "type": "INE",
+        "observation": "Les Incroyables Comestibles sont arrivés à Cerdanyola !"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.129051,
+          36.812583
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Le Bardo",
+        "lat": "36.812583",
+        "lon": "10.129051",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/236373613217701/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.799561,
+          35.746512
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Monastir",
+        "lat": "35.746512",
+        "lon": "10.799561",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.185356,
+          36.810934
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Tunis",
+        "lat": "36.810934",
+        "lon": "10.185356",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.184669,
+          36.862592
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Ariana",
+        "lat": "36.862592",
+        "lon": "10.184669",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.173828,
+          18.729502
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Puebla",
+        "lat": "18.729502",
+        "lon": "-98.173828",
+        "type": "INE",
+        "observation": "http://incredibleediblenetwork.org.uk/users/tripinamerica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.760807,
+          18.038483
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Anse-a-Pitre",
+        "lat": "18.038483",
+        "lon": "-71.760807",
+        "type": "INE",
+        "observation": "Les Incroyables Comestibles arrivent dans la petite commune de Anse-a-Pitre, juste à la frontière du pays."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.281799,
+          18.562947
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Haïti",
+        "lat": "18.562947",
+        "lon": "-72.281799",
+        "type": "INE",
+        "observation": "http://www.incredible-edible.info/?page_id=719)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.092388,
+          19.018062
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible San Juan Tlacotenco",
+        "lat": "19.018062",
+        "lon": "-99.092388",
+        "type": "INE",
+        "observation": "http://www.incredible-edible.info/?page_id=2702)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.85791,
+          21.135745
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Cancún",
+        "lat": "21.135745",
+        "lon": "-86.85791",
+        "type": "INE",
+        "observation": "http://incredibleediblenetwork.org.uk/question/incredible-edible-canc%C3%BAn)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.799805,
+          31.466154
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Essaouira",
+        "lat": "31.466154",
+        "lon": "-9.799805",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.575317,
+          34.252676
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Kenitra",
+        "lat": "34.252676",
+        "lon": "-6.575317",
+        "type": "INE",
+        "observation": "Le démarrage des Incroyables Comestibles à Kenitra est en cours de préparation.Premières actions prévues en septembre 2013."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.494141,
+          52.368892
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Coventry",
+        "lat": "52.368892",
+        "lon": "-1.494141",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-Coventry/560690640655477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.438232,
+          57.486309
+        ]
+      },
+      "properties": {
+        "title": "Placemark 203",
+        "lat": "57.486309",
+        "lon": "-5.438232",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.438232,
+          57.515823
+        ]
+      },
+      "properties": {
+        "title": "Placemark 202",
+        "lat": "57.515823",
+        "lon": "-5.438232",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.372314,
+          54.085173
+        ]
+      },
+      "properties": {
+        "title": "Placemark 201",
+        "lat": "54.085173",
+        "lon": "-5.372314",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.021729,
+          50.767734
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Pompey (Portsmouth)",
+        "lat": "50.767734",
+        "lon": "-1.021729",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.184906,
+          51.190533
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Warminster",
+        "lat": "51.190533",
+        "lon": "-2.184906",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.491943,
+          59.408753
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Horten",
+        "lat": "59.408753",
+        "lon": "10.491943",
+        "type": "INE",
+        "observation": "https://www.facebook.com/SpiseligBy)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.516235,
+          48.43649
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Rimouski",
+        "lat": "48.43649",
+        "lon": "-68.516235",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/141044742751144/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.160553,
+          49.232844
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Baie-Comeau",
+        "lat": "49.232844",
+        "lon": "-68.160553",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncroyablesComestiblesBaiecomeau)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.964067,
+          46.492188
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Élie-de-Caxton",
+        "lat": "46.492188",
+        "lon": "-72.964067",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incroyables-Comestibles-St-Elie-De-Caxton/501058013270033)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.568573,
+          45.524871
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Plateau-Mont-Royal",
+        "lat": "45.524871",
+        "lon": "-73.568573",
+        "type": "INE",
+        "observation": "Les Incroyables Comestibles se préparent à sortir de terre dans les rues de Plateau-Mont-Royal.Action en cours..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.872559,
+          45.41966
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Sherbrooke",
+        "lat": "45.41966",
+        "lon": "-71.872559",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.543755,
+          46.347402
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Trois-Rivières",
+        "lat": "46.347402",
+        "lon": "-72.543755",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.265564,
+          46.824496
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Ville de Québec",
+        "lat": "46.824496",
+        "lon": "-71.265564",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incroyables-Comestibles-Ville-de-Qu%C3%A9bec/357618631008701)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.661316,
+          46.137977
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Georges",
+        "lat": "46.137977",
+        "lon": "-70.661316",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncroyablesComestiblesBeauce)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.396149,
+          50.614617
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Tournai",
+        "lat": "50.614617",
+        "lon": "3.396149",
+        "type": "INE",
+        "observation": "Les Incroyables Comestibles se préparent pour faire de Tournai une ville comestible solidaire.À suivre..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.373113,
+          48.065775
+        ]
+      },
+      "properties": {
+        "title": "Dalhousie, NB",
+        "lat": "48.065775",
+        "lon": "-66.373113",
+        "type": "INE",
+        "observation": "Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.594292,
+          7.498643
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Tomégbé",
+        "lat": "7.498643",
+        "lon": "0.594292",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.526855,
+          41.767215
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Soria",
+        "lat": "41.767215",
+        "lon": "-2.526855",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.831123,
+          37.355315
+        ]
+      },
+      "properties": {
+        "title": "Faith Feeds of Kentucky",
+        "lat": "37.3553152",
+        "lon": "-86.8311232",
+        "type": "INE",
+        "observation": "http://faithfeedslex.org/)Growing and Sharing Food in Central Kentuck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.806747,
+          12.014472
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Auroville",
+        "lat": "12.014472",
+        "lon": "79.806747",
+        "type": "INE",
+        "observation": "https://www.facebook.com/photo.php?fbid=462964563759630&set=a.342039692518785.81119.342024609186960&type=1&theater)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.443927,
+          50.598249
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Loupoigne",
+        "lat": "50.598249",
+        "lon": "4.443927",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/354275894665650/) pour participer au processus de co-création de l'abondance partagée"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40332,
+          52.456009
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Berlin",
+        "lat": "52.456009",
+        "lon": "13.40332",
+        "type": "INE",
+        "observation": "http://www.incredible-edible.info/?page_id=151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.05957,
+          44.527843
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Bucharest",
+        "lat": "44.527843",
+        "lon": "26.05957",
+        "type": "INE",
+        "observation": "Les premières graines de partage des incroyables comestibles se préparent à être semées avec les citoyens jardiniers solidaires en Roumanie.Projet en cours de démarrage..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.827148,
+          39.943436
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Ankara",
+        "lat": "39.943436",
+        "lon": "32.827148",
+        "type": "INE",
+        "observation": "Projet en cours de préparation pour le démarrage des incroyables comestibles en Turquie..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.306493,
+          14.357406
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Madiga-Sacko",
+        "lat": "14.357406",
+        "lon": "-9.306493",
+        "type": "INE",
+        "observation": "http://www.incredible-edible.info/?page_id=75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.452209,
+          50.620717
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Genappe",
+        "lat": "50.620717",
+        "lon": "4.452209",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/354275894665650/), vous êtes les bienvenus pour participer au processus de co-création de l'abondance partagée"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.428223,
+          24.696934
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Arabie Saoudite",
+        "lat": "24.696934",
+        "lon": "46.428223",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87793,
+          52.362183
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Amsterdam",
+        "lat": "52.362183",
+        "lon": "4.87793",
+        "type": "INE",
+        "observation": "http://www.incredible-edible.info/?page_id=226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.54349,
+          50.196353
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Philippeville",
+        "lat": "50.196353",
+        "lon": "4.54349",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/354275894665650/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.127625,
+          49.630283
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Luxembourg",
+        "lat": "49.630283",
+        "lon": "6.127625",
+        "type": "INE",
+        "observation": "http://www.incredible-edible.info/?page_id=772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.008789,
+          59.667741
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Norway",
+        "lat": "59.667741",
+        "lon": "9.008789",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.917969,
+          52.214339
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Pologne",
+        "lat": "52.214339",
+        "lon": "20.917969",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.842087,
+          44.869253
+        ]
+      },
+      "properties": {
+        "title": "Transition Pula",
+        "lat": "44.869253",
+        "lon": "13.842087",
+        "type": "INE",
+        "observation": "http://transitiontownpula.org/) are just getting started on a growing scheme along the lines of Incredible Edible. They are doing a great things in Pul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.13413,
+          22.199326
+        ]
+      },
+      "properties": {
+        "title": "Soon to be Incredible edible ",
+        "lat": "22.199326",
+        "lon": "114.13413",
+        "type": "INE",
+        "observation": "http://app.streamsend.com/private/Xoij/Qb4/OT1mP1B/browse/14618969) ?????"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.864897,
+          38.272554
+        ]
+      },
+      "properties": {
+        "title": "Yuko Kishikami",
+        "lat": "38.272554",
+        "lon": "140.864897",
+        "type": "INE",
+        "observation": "Yuko Kishikami an environmental science major follows IET progress online"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.581268,
+          63.088543
+        ]
+      },
+      "properties": {
+        "title": "Viveca Dahl visited IET",
+        "lat": "63.088543",
+        "lon": "21.581268",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-todmorden.co.uk/blogs/tod-s-incredible-police-station/?c=Blogs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.398941,
+          54.28046
+        ]
+      },
+      "properties": {
+        "title": "Scarborough visited IET",
+        "lat": "54.28046",
+        "lon": "-0.398941",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-todmorden.co.uk/blogs/visiters-from-scarborough-and-from-preston/?c=Random"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.677059,
+          42.849667
+        ]
+      },
+      "properties": {
+        "title": "Agro Tourismo groupvited IET",
+        "lat": "42.849667",
+        "lon": "-2.677059",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-todmorden.co.uk/blogs/toremolinos-comes-to-todmorden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.317474,
+          51.518531
+        ]
+      },
+      "properties": {
+        "title": "Bramche Todmorden's Twin Town",
+        "lat": "51.518531",
+        "lon": "7.317474",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-todmorden.co.uk/blogs/visiters-from-bramche-germany"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.168834,
+          51.625743
+        ]
+      },
+      "properties": {
+        "title": "Highgrove",
+        "lat": "51.625743",
+        "lon": "-2.168834",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-todmorden.co.uk/blogs/hrh-prince-charles-hosts-garden-organic-event-at-highrove/?c=hrh-royal-blogs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.40712,
+          43.639057
+        ]
+      },
+      "properties": {
+        "title": "Incredible Talks Teronto",
+        "lat": "43.639057",
+        "lon": "-79.40712",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-todmorden.co.uk/blogs/todmorden-to-toronto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.360344,
+          51.380888
+        ]
+      },
+      "properties": {
+        "title": "Transition Bath",
+        "lat": "51.380888",
+        "lon": "-2.360344",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-todmorden.co.uk/news/see-and-hear-pam-speaking-at-transition-bath"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.755409,
+          35.423189
+        ]
+      },
+      "properties": {
+        "title": "Gifu Prefecture",
+        "lat": "35.423189",
+        "lon": "136.755409",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-todmorden.co.uk/blogs/konichiwa-todmorden-high-school/?c=Schools"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.486847,
+          46.056556
+        ]
+      },
+      "properties": {
+        "title": "Natasa Grundtvig IET Partner",
+        "lat": "46.056556",
+        "lon": "14.486847",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-todmorden.co.uk/blogs/why-slovenia/?c=Blogs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.055481,
+          48.521153
+        ]
+      },
+      "properties": {
+        "title": "Tubingen Germany Visited by IET Director",
+        "lat": "48.521153",
+        "lon": "9.055481",
+        "type": "INE",
+        "observation": "http://www.sustainableretreat.blogspot.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.815842,
+          47.977972
+        ]
+      },
+      "properties": {
+        "title": "Tuttlingen Germany Visited by IET Director",
+        "lat": "47.977972",
+        "lon": "8.815842",
+        "type": "INE",
+        "observation": "http://www.sustainableretreat.blogspot.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.087646,
+          53.988395
+        ]
+      },
+      "properties": {
+        "title": "Edible York",
+        "lat": "53.988395",
+        "lon": "-1.087646",
+        "type": "INE",
+        "observation": "http://www.edibleyork.org.uk/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.594386,
+          12.971574
+        ]
+      },
+      "properties": {
+        "title": "Bengaluru India Visited by IET Director",
+        "lat": "12.971574",
+        "lon": "77.594386",
+        "type": "INE",
+        "observation": "http://www.sustainableretreat.blogspot.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.590179,
+          47.560774
+        ]
+      },
+      "properties": {
+        "title": "Basel Switzerland Visited by IET Director",
+        "lat": "47.560774",
+        "lon": "7.590179",
+        "type": "INE",
+        "observation": "http://www.sustainableretreat.blogspot.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.856951,
+          19.017656
+        ]
+      },
+      "properties": {
+        "title": "Mumbai India Visited by IET Director",
+        "lat": "19.017656",
+        "lon": "72.856951",
+        "type": "INE",
+        "observation": "http://www.sustainableretreat.blogspot.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.763108,
+          15.536846
+        ]
+      },
+      "properties": {
+        "title": "Arpora India Visited by IET Director",
+        "lat": "15.536846",
+        "lon": "73.763108",
+        "type": "INE",
+        "observation": "http://www.sustainableretreat.blogspot.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.584839,
+          55.677584
+        ]
+      },
+      "properties": {
+        "title": "Copenhagen Denmark Visited by IET Director",
+        "lat": "55.677584",
+        "lon": "12.584839",
+        "type": "INE",
+        "observation": "http://www.sustainableretreat.blogspot.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.648926,
+          41.836828
+        ]
+      },
+      "properties": {
+        "title": "Chicago Visited by IET Director",
+        "lat": "41.836828",
+        "lon": "-87.648926",
+        "type": "INE",
+        "observation": "http://www.sustainableretreat.blogspot.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003906,
+          40.712394
+        ]
+      },
+      "properties": {
+        "title": "New York City USA Visited by IET Director",
+        "lat": "40.712394",
+        "lon": "-74.003906",
+        "type": "INE",
+        "observation": "Visit by Dr Paul Clarke Professor of Education at St Mary’s University College London.www.sustainableretreat.blogspot.com(www.sustainableretreat.blogspot.com)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.056732,
+          38.900652
+        ]
+      },
+      "properties": {
+        "title": "Washington USA visited by IET Director",
+        "lat": "38.900652",
+        "lon": "-77.056732",
+        "type": "INE",
+        "observation": "Visit by Dr Paul Clarke Professor of Education St Mary's University College, Londonwww.sustainableretreat.blogspot.com(www.sustainableretreat.blogspot.com)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.195267,
+          55.69926
+        ]
+      },
+      "properties": {
+        "title": "Lundt Sweden visited by IET Director",
+        "lat": "55.69926",
+        "lon": "13.195267",
+        "type": "INE",
+        "observation": "Visit by Dr Paul Clarke Professor of Education St Mary's University College, Londonwww.sustainableretreat.blogspot.com(www.sustainableretreat.blogspot.com)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.72244,
+          24.687988
+        ]
+      },
+      "properties": {
+        "title": "Saudi Arabia visited by IET Director",
+        "lat": "24.687988",
+        "lon": "46.72244",
+        "type": "INE",
+        "observation": "http://www.school-of-sustainability.co"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.411819,
+          39.902362
+        ]
+      },
+      "properties": {
+        "title": "Beijing China Visited by IET Director",
+        "lat": "39.902362",
+        "lon": "116.411819",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.994141,
+          22.024546
+        ]
+      },
+      "properties": {
+        "title": "Hong Kong visited By IET Director",
+        "lat": "22.024546",
+        "lon": "113.994141",
+        "type": "INE",
+        "observation": "Visit by Dr Paul Clarke Professor of Education St Mary's University College, Londonwww.sustainableretreat.blogspot.com(www.sustainableretreat.blogspot.com)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.472912,
+          31.230711
+        ]
+      },
+      "properties": {
+        "title": "Shanghai China visited By IET Director",
+        "lat": "31.230711",
+        "lon": "121.472912",
+        "type": "INE",
+        "observation": "Visit by Dr Paul ClarkeProfessor of EducationSt Mary's University College,Londonwww.sustainableretreat.blogspot.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.155239,
+          30.273412
+        ]
+      },
+      "properties": {
+        "title": "Hangzhou China visited By IET Director",
+        "lat": "30.273412",
+        "lon": "120.155239",
+        "type": "INE",
+        "observation": "Visit by Dr Paul Clarke Professor of Education St Mary's University College, Londonwww.sustainableretreat.blogspot.com(www.sustainableretreat.blogspot.com)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.807321,
+          43.005379
+        ]
+      },
+      "properties": {
+        "title": "Sustain Jefferson USA",
+        "lat": "43.005379",
+        "lon": "-88.807321",
+        "type": "INE",
+        "observation": "http://sustainjefferson.or"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.546875,
+          43.834527
+        ]
+      },
+      "properties": {
+        "title": "Cheyenne River ReservationUSA",
+        "lat": "43.834527",
+        "lon": "-100.546875",
+        "type": "INE",
+        "observation": "Following IETEagle Butts South Dakota"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.497559,
+          37.544577
+        ]
+      },
+      "properties": {
+        "title": "Lewis Ginter Botanical Gardens in Richmond, Virginia, USA ",
+        "lat": "37.544577",
+        "lon": "-77.497559",
+        "type": "INE",
+        "observation": "http://lewisginter.wordpress.co"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.691677,
+          35.689091
+        ]
+      },
+      "properties": {
+        "title": "gajinpot Japan",
+        "lat": "35.689091",
+        "lon": "139.691677",
+        "type": "INE",
+        "observation": "http://forum.gaijinpot.com/showthread.php?p=852552#post85255"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.019309,
+          51.634468
+        ]
+      },
+      "properties": {
+        "title": "The Chartered Institute of Environmental Health",
+        "lat": "51.634468",
+        "lon": "-3.019309",
+        "type": "INE",
+        "observation": "http://www.cieh.org/ehn/vegetable_empire.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.152832,
+          50.569283
+        ]
+      },
+      "properties": {
+        "title": "Westden",
+        "lat": "50.569283",
+        "lon": "-4.152832",
+        "type": "INE",
+        "observation": "http://westden.wordpress.com/2009/09/22/todmorden-shows-the-way-with-incredible-edible/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.123001,
+          53.263365
+        ]
+      },
+      "properties": {
+        "title": "Food4Macc",
+        "lat": "53.263365",
+        "lon": "-2.123001",
+        "type": "INE",
+        "observation": "http://www.maccinfo.com/Food4Macc/Index.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.181341,
+          53.16901
+        ]
+      },
+      "properties": {
+        "title": "Mansfield Woodhouse Community",
+        "lat": "53.16901",
+        "lon": "-1.181341",
+        "type": "INE",
+        "observation": "http://www.mansfieldwoodhousecommunitymarket.org/?p=17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.166061,
+          53.853636
+        ]
+      },
+      "properties": {
+        "title": "Northern polytunnels",
+        "lat": "53.853636",
+        "lon": "-2.166061",
+        "type": "INE",
+        "observation": "http://www.northernpolytunnels.co.uk/page.php?f=136&p=203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.395366,
+          53.745711
+        ]
+      },
+      "properties": {
+        "title": "Sustainable Food",
+        "lat": "53.745711",
+        "lon": "-2.395366",
+        "type": "INE",
+        "observation": "http://www.sustainablefood.com/todmorden.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.762104,
+          53.791678
+        ]
+      },
+      "properties": {
+        "title": "ESD Yorshire and Humber",
+        "lat": "53.791678",
+        "lon": "-1.762104",
+        "type": "INE",
+        "observation": "http://www.yorkshireandhumber.net/esd/index.php?option=com_content&task=view&id=219&Itemid=27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.933105,
+          50.909961
+        ]
+      },
+      "properties": {
+        "title": "Okehampton",
+        "lat": "50.909961",
+        "lon": "-3.933105",
+        "type": "INE",
+        "observation": "http://www.telegraph.co.uk/earth/countryside/4806362/Okehampton-follows-Todmorden-on-road-to-self-sufficency.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.300922,
+          51.4562
+        ]
+      },
+      "properties": {
+        "title": "Richmond community group",
+        "lat": "51.4562",
+        "lon": "-0.300922",
+        "type": "INE",
+        "observation": "following progress of IET"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.118457,
+          51.460903
+        ]
+      },
+      "properties": {
+        "title": "Guerilla Gardeing .org",
+        "lat": "51.460903",
+        "lon": "-0.118457",
+        "type": "INE",
+        "observation": "http://www.guerrillagardening.or"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.532835,
+          37.997854
+        ]
+      },
+      "properties": {
+        "title": "Bioneers Sanfrancisco USA",
+        "lat": "37.997854",
+        "lon": "-122.532835",
+        "type": "INE",
+        "observation": "http://connect.bioneers.org/profiles/blogs/todmorden-uk-edible-foo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.119712,
+          51.51363
+        ]
+      },
+      "properties": {
+        "title": "CABE",
+        "lat": "51.51363",
+        "lon": "-0.119712",
+        "type": "INE",
+        "observation": "http://www.cabe.org.uk/case-studies/incredible-edible-todmorden"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.647136,
+          53.329335
+        ]
+      },
+      "properties": {
+        "title": "Assura",
+        "lat": "53.329335",
+        "lon": "-2.647136",
+        "type": "INE",
+        "observation": "http://www.assuragroup.co.u"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.718515,
+          52.369262
+        ]
+      },
+      "properties": {
+        "title": "Cittaslow Luddlow ",
+        "lat": "52.369262",
+        "lon": "-2.718515",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.034784,
+          38.904493
+        ]
+      },
+      "properties": {
+        "title": "Washington Post Washington USA",
+        "lat": "38.904493",
+        "lon": "-77.034784",
+        "type": "INE",
+        "observation": "http://www.washingtonpost.com/wp-dyn/content/article/2009/08/15/AR2009081502031.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.529846,
+          53.83146
+        ]
+      },
+      "properties": {
+        "title": "Groundworks Leeds",
+        "lat": "53.83146",
+        "lon": "-1.529846",
+        "type": "INE",
+        "observation": "http://www.groundwork-leeds.org.uk/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.535339,
+          53.808761
+        ]
+      },
+      "properties": {
+        "title": "Friends of the Earth",
+        "lat": "53.808761",
+        "lon": "-1.535339",
+        "type": "INE",
+        "observation": "http://www.iwestyorkshire.co.uk/profile/82511/Leeds/Friends-Of-The-Eart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.455688,
+          53.396432
+        ]
+      },
+      "properties": {
+        "title": "New Start Magazine",
+        "lat": "53.396432",
+        "lon": "-1.455688",
+        "type": "INE",
+        "observation": "http://www.nsplus.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.805176,
+          38.938048
+        ]
+      },
+      "properties": {
+        "title": "Konocti Sanfrancisco USA",
+        "lat": "38.938048",
+        "lon": "-122.805176",
+        "type": "INE",
+        "observation": "http://www.konocti.org/cms/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.466666,
+          44.816695
+        ]
+      },
+      "properties": {
+        "title": "Ekologija Serbia",
+        "lat": "44.816695",
+        "lon": "20.466666",
+        "type": "INE",
+        "observation": "http://www.ekologija.rs/?p=73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.263749,
+          19.36998
+        ]
+      },
+      "properties": {
+        "title": "Respira Ambiente Mexico",
+        "lat": "19.36998",
+        "lon": "-99.263749",
+        "type": "INE",
+        "observation": "http://respiraambiente.blogspot.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.603516,
+          37.176731
+        ]
+      },
+      "properties": {
+        "title": "comestibles-increibles Spain",
+        "lat": "37.176731",
+        "lon": "-3.603516",
+        "type": "INE",
+        "observation": "http://www.comestibles-increibles.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.381393,
+          44.639468
+        ]
+      },
+      "properties": {
+        "title": "luciana,Traversetolo Italy",
+        "lat": "44.639468",
+        "lon": "10.381393",
+        "type": "INE",
+        "observation": "Luciana, following IET in Traversetolo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.056641,
+          35.029996
+        ]
+      },
+      "properties": {
+        "title": "Urban Farming Project Sacheon South Korea",
+        "lat": "35.029996",
+        "lon": "128.056641",
+        "type": "INE",
+        "observation": "Sharing IET info by emailwww.urbanjungles.info(www.urbanjungles.info)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.875,
+          41.112469
+        ]
+      },
+      "properties": {
+        "title": "Agorambiente Italy",
+        "lat": "41.112469",
+        "lon": "16.875",
+        "type": "INE",
+        "observation": "http://agorambiente.it/portale/index.php?option=com_content&task=view&id=344&Itemid=185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.526434,
+          52.06139
+        ]
+      },
+      "properties": {
+        "title": "Kerrygold Farmers kerry Ireland",
+        "lat": "52.06139",
+        "lon": "-9.526434",
+        "type": "INE",
+        "observation": "http://www.kerrygold.co.uk/index.php?m=kerrygold-farmer-cooperative-awards,34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.244602,
+          30.048739
+        ]
+      },
+      "properties": {
+        "title": "Taba Medical Pharma Egypt",
+        "lat": "30.048739",
+        "lon": "31.244602",
+        "type": "INE",
+        "observation": "Company showing interest in Aquaponics system"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.138714,
+          49.26254
+        ]
+      },
+      "properties": {
+        "title": "Now Public Vancouver Canada",
+        "lat": "49.26254",
+        "lon": "-123.138714",
+        "type": "INE",
+        "observation": "http://www.nowpublic.com/environment/todmorden-britains-first-town-self-sufficient-food-supply#comments"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.50299,
+          48.46903
+        ]
+      },
+      "properties": {
+        "title": "Home Grow , Langford Canada",
+        "lat": "48.46903",
+        "lon": "-123.50299",
+        "type": "INE",
+        "observation": "http://homegrow.ca/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.53125,
+          49.781264
+        ]
+      },
+      "properties": {
+        "title": "Cultivating Change, Canada",
+        "lat": "49.781264",
+        "lon": "-119.53125",
+        "type": "INE",
+        "observation": "http://okanaganfood.blogspot.co"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.382986,
+          48.209982
+        ]
+      },
+      "properties": {
+        "title": "Wachstum Wandel Vienna Austria",
+        "lat": "48.209982",
+        "lon": "16.382986",
+        "type": "INE",
+        "observation": "http://www.wachstumimwandel.at/diskussionsforum/regionale-aspekte/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          164.882813,
+          60.586967
+        ]
+      },
+      "properties": {
+        "title": "Lillooet Food Matters, Canada",
+        "lat": "60.586967",
+        "lon": "164.882813",
+        "type": "INE",
+        "observation": "https://www.incredible-edible-todmorden.co.uk/blogs/letter-from-lillooet-canada-by-sarah-barret"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.937771,
+          50.687323
+        ]
+      },
+      "properties": {
+        "title": "Jane , Working, growing communities Fountain BC Canada",
+        "lat": "50.687323",
+        "lon": "-121.937771",
+        "type": "INE",
+        "observation": "Site link added soon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.187294,
+          38.138067
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Gordonsville",
+        "lat": "38.138067",
+        "lon": "-78.187294",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.228394,
+          37.485007
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Redwood City",
+        "lat": "37.485007",
+        "lon": "-122.228394",
+        "type": "INE",
+        "observation": "http://incredibleedibleredwoodcity.blogspot.co.uk/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.135262,
+          42.545745
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Combermere",
+        "lat": "42.545745",
+        "lon": "-83.135262",
+        "type": "INE",
+        "observation": "http://incredibleediblecombermere.wordpress.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.384888,
+          48.062479
+        ]
+      },
+      "properties": {
+        "title": "Dalhousie Blooms goes incredible edible",
+        "lat": "48.062479",
+        "lon": "-66.384888",
+        "type": "INE",
+        "observation": "https://www.facebook.com/dalhousiebloomsfleurit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.833496,
+          34.011689
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Rabat",
+        "lat": "34.011689",
+        "lon": "-6.833496",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.438477,
+          36.844461
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Malaga",
+        "lat": "36.844461",
+        "lon": "-4.438477",
+        "type": "INE",
+        "observation": "http://www.incredible-edible.info/?page_id=230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.783569,
+          34.415973
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Gafsa",
+        "lat": "34.415973",
+        "lon": "8.783569",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.514893,
+          25.290646
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Qatar",
+        "lat": "25.290646",
+        "lon": "51.514893",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.131348,
+          41.360319
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Barcelona",
+        "lat": "41.360319",
+        "lon": "2.131348",
+        "type": "INE",
+        "observation": "http://incredible-edible-barcelona.com/en"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.347717,
+          45.853673
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Drummondville",
+        "lat": "45.853673",
+        "lon": "-72.347717",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.735352,
+          40.430224
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Madrid",
+        "lat": "40.430224",
+        "lon": "-3.735352",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.274376,
+          45.400861
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Italie",
+        "lat": "45.400861",
+        "lon": "11.274376",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncredibiliCommestibiliItaliaIncredibleEdible"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.57959,
+          48.151428
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Munich",
+        "lat": "48.151428",
+        "lon": "11.57959",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.866211,
+          48.004625
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Freiburg",
+        "lat": "48.004625",
+        "lon": "7.866211",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.652344,
+          31.052934
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible San Nicolao",
+        "lat": "31.052934",
+        "lon": "73.652344",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/493864047310197/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.605652,
+          45.536656
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Montréal Rosemont / La Petite Patrie",
+        "lat": "45.536656",
+        "lon": "-73.605652",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncroyablesComestiblesMontrealRosemontPetitePatrie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.747322,
+          47.060066
+        ]
+      },
+      "properties": {
+        "title": "S - Incroyables Comestibles Le Locle",
+        "lat": "47.060066",
+        "lon": "6.747322",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86969,
+          50.726459
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Jodoigne",
+        "lat": "50.726459",
+        "lon": "4.86969",
+        "type": "INE",
+        "observation": "http://incredibleediblebelgium.wordpress.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.459433,
+          50.351814
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Durbuy",
+        "lat": "50.351814",
+        "lon": "5.459433",
+        "type": "INE",
+        "observation": "http://incredibleediblebelgium.wordpress.com/affiches/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.489473,
+          50.35154
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Barvaux",
+        "lat": "50.35154",
+        "lon": "5.489473",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86454,
+          50.467995
+        ]
+      },
+      "properties": {
+        "title": "B - Incroyables Comestibles Namur",
+        "lat": "50.467995",
+        "lon": "4.86454",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incr%C3%A9dible-Edible-Belgique/227582234025692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.496181,
+          46.515229
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Morges",
+        "lat": "46.515229",
+        "lon": "6.496181",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.664581,
+          46.784076
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Yverdon-les-Bains",
+        "lat": "46.784076",
+        "lon": "6.664581",
+        "type": "INE",
+        "observation": "En cours de préparation. Quelques initiatives citoyennes commencent à avoir lieu ici et là dans la ville. À suivre..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.630249,
+          46.532414
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Lausanne",
+        "lat": "46.532414",
+        "lon": "6.630249",
+        "type": "INE",
+        "observation": "http://www.incredible-edible.info/?page_id=232) du site incredible-edible.inf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.27832,
+          40.713956
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Bayonne",
+        "lat": "40.713956",
+        "lon": "30.27832",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.809494,
+          32.049989
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Tel Aviv",
+        "lat": "32.049989",
+        "lon": "34.809494",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.572693,
+          45.482762
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Westmount Montreal",
+        "lat": "45.482762",
+        "lon": "-73.572693",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.120605,
+          7.928675
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Ghana",
+        "lat": "7.928675",
+        "lon": "-1.120605",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-todmorden.co.uk/blogs/iet-welcomes-a-visitor-from-ghana/?c=Random"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.087646,
+          53.970628
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible York",
+        "lat": "53.970628",
+        "lon": "-1.087646",
+        "type": "INE",
+        "observation": "launching soon IE York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.088832,
+          53.355546
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Wirral",
+        "lat": "53.355546",
+        "lon": "-3.088832",
+        "type": "INE",
+        "observation": "http://www.ediblewirral.org.uk/?page=2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.488403,
+          53.169826
+        ]
+      },
+      "properties": {
+        "title": "UK:Incredible Edible Winsford",
+        "lat": "53.169826",
+        "lon": "-2.488403",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncredibleEdiblesWinsford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.240524,
+          53.319595
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Wilmslow",
+        "lat": "53.319595",
+        "lon": "-2.240524",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-wilmslow.co.uk/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.503754,
+          53.680239
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Wakefield",
+        "lat": "53.680239",
+        "lon": "-1.503754",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-wakefield.co.uk/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.094843,
+          53.686656
+        ]
+      },
+      "properties": {
+        "title": "UK:Incredible Farm Walsden",
+        "lat": "53.686656",
+        "lon": "-2.094843",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.342527,
+          53.616189
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Tottington",
+        "lat": "53.616189",
+        "lon": "-2.342527",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-Tottington/129481667124015?sk=info"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69175,
+          50.433892
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Totnes",
+        "lat": "50.433892",
+        "lon": "-3.69175",
+        "type": "INE",
+        "observation": "http://www.transitiontowntotnes.org/groups/food-group/incredible-edible/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.097809,
+          53.713549
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Todmorden",
+        "lat": "53.713549",
+        "lon": "-2.097809",
+        "type": "INE",
+        "observation": "http://vimeo.com/36838823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.081024,
+          51.497202
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Southwark",
+        "lat": "51.497202",
+        "lon": "-0.081024",
+        "type": "INE",
+        "observation": "Contact via Incredible Edible Network"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.730789,
+          51.141017
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Somerset",
+        "lat": "51.141017",
+        "lon": "-2.730789",
+        "type": "INE",
+        "observation": "http://incredible-edible-somerset.ning.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.340431,
+          53.465569
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Salford",
+        "lat": "53.465569",
+        "lon": "-2.340431",
+        "type": "INE",
+        "observation": "http://www.incredibleediblenetwork.org.u"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.248077,
+          53.69752
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Rossendale",
+        "lat": "53.69752",
+        "lon": "-2.248077",
+        "type": "INE",
+        "observation": "http://ierossendale.ning.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.070236,
+          53.405029
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Romilley",
+        "lat": "53.405029",
+        "lon": "-2.070236",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.320347,
+          53.648454
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Ramsbottom",
+        "lat": "53.648454",
+        "lon": "-2.320347",
+        "type": "INE",
+        "observation": "http://incredibleedibleramsbottom.co.uk/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.28035,
+          53.524595
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Prestwich",
+        "lat": "53.524595",
+        "lon": "-2.28035",
+        "type": "INE",
+        "observation": "http://www.incredibleediblenetwork.org.u"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0849,
+          50.816782
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Pompey",
+        "lat": "50.816782",
+        "lon": "-1.0849",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-Pompey/221257428017204?fref=ts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.053711,
+          50.152266
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Penryn",
+        "lat": "50.152266",
+        "lon": "-5.053711",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-Penryn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.746582,
+          54.645234
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Penrith",
+        "lat": "54.645234",
+        "lon": "-2.746582",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.703125,
+          52.641397
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Oakham",
+        "lat": "52.641397",
+        "lon": "-0.703125",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-Oakham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.065529,
+          53.290463
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Neston",
+        "lat": "53.290463",
+        "lon": "-3.065529",
+        "type": "INE",
+        "observation": "http://www.aboutmyarea.co.uk/Cheshire/Neston/CH64/News/Local-News/194718-Neston-Incredible-Edible-scheme-proposed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.148071,
+          51.201721
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible North Hampshire",
+        "lat": "51.201721",
+        "lon": "-1.148071",
+        "type": "INE",
+        "observation": "http://ienorthhampshire.zapto.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.235718,
+          53.457802
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Moss Side",
+        "lat": "53.457802",
+        "lon": "-2.235718",
+        "type": "INE",
+        "observation": "IE Moss Side, started October 2011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.345538,
+          52.083963
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Malvern",
+        "lat": "52.083963",
+        "lon": "-2.345538",
+        "type": "INE",
+        "observation": "https://www.google.com/calendar/render?eid=c3RmYTdiZzE2b3NidmMzajY5ZGc0bmxha2MgZm4xdDl2M2I3bmpnN2QzcGFqN2swZnI2Mm9AZw&pli=1&sf=true&output=xml"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.485657,
+          52.905589
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Market Drayton",
+        "lat": "52.905589",
+        "lon": "-2.485657",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-Market-Drayton/272991032834349?ref=stream"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.193489,
+          53.450749
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Levenshulme",
+        "lat": "53.450749",
+        "lon": "-2.193489",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.513466,
+          53.496063
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Leigh",
+        "lat": "53.496063",
+        "lon": "-2.513466",
+        "type": "INE",
+        "observation": "Incredible Edible Leigh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.548643,
+          53.801614
+        ]
+      },
+      "properties": {
+        "title": "UK: Leeds Edible Campus",
+        "lat": "53.801614",
+        "lon": "-1.548643",
+        "type": "INE",
+        "observation": "http://www.leedsediblecampus.co.uk/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.516113,
+          52.247983
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Leamington Spa",
+        "lat": "52.247983",
+        "lon": "-1.516113",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.117416,
+          51.480528
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Lambeth",
+        "lat": "51.480528",
+        "lon": "-0.117416",
+        "type": "INE",
+        "observation": "http://www.incredibleediblelambeth.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.765808,
+          54.05052
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Lancaster",
+        "lat": "54.05052",
+        "lon": "-2.765808",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.139587,
+          49.242707
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Jersey: St John's School",
+        "lat": "49.242707",
+        "lon": "-2.139587",
+        "type": "INE",
+        "observation": "http://vle.jeron.je/GroupHomepage.asp?GroupID=34670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.186523,
+          50.625073
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Isle of Wight",
+        "lat": "50.625073",
+        "lon": "-1.186523",
+        "type": "INE",
+        "observation": "The Incredible Edible Isle of Wight"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.790771,
+          53.628353
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Huddersfield",
+        "lat": "53.628353",
+        "lon": "-1.790771",
+        "type": "INE",
+        "observation": "http://www.incredibleediblehuddersfield.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.182087,
+          53.391519
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Hoylake",
+        "lat": "53.391519",
+        "lon": "-3.182087",
+        "type": "INE",
+        "observation": "http://www.hoylakejunction.com/incredible-edible-hoylake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.285645,
+          51.913779
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Hitchin",
+        "lat": "51.913779",
+        "lon": "-0.285645",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncredibleEdibleHitchin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.181473,
+          53.420991
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Heaton Moor",
+        "lat": "53.420991",
+        "lon": "-2.181473",
+        "type": "INE",
+        "observation": "http://www.incredibleediblenetwork.org.u"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.954536,
+          53.44073
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Glossop",
+        "lat": "53.44073",
+        "lon": "-1.954536",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-glossop.co.uk/news/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.189911,
+          54.880557
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Gatehouse ",
+        "lat": "54.880557",
+        "lon": "-4.189911",
+        "type": "INE",
+        "observation": "http://gatehouse-of-fleet.co.uk/index.php?option=com_content&view=category&layout=blog&id=32&Itemid=92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.570801,
+          55.986092
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Dunbar",
+        "lat": "55.986092",
+        "lon": "-2.570801",
+        "type": "INE",
+        "observation": "http://ourlocality.org/incrediblyedibledunbar/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.136398,
+          53.527248
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Doncaster North",
+        "lat": "53.527248",
+        "lon": "-1.136398",
+        "type": "INE",
+        "observation": "http://good2grow.wordpress.com/author/good2grow/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.513611,
+          51.871404
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Dunstable",
+        "lat": "51.871404",
+        "lon": "-0.513611",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-Dunstable"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.025234,
+          52.977589
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Boston",
+        "lat": "52.977589",
+        "lon": "-0.025234",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-todmorden.co.uk/blogs/incredible-edible-boston-mayflower/?c=Blogs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.804016,
+          53.273426
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Conwy",
+        "lat": "53.273426",
+        "lon": "-3.804016",
+        "type": "INE",
+        "observation": "Known as Bwyd Bendigedig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.299286,
+          54.972688
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Cloughmills",
+        "lat": "54.972688",
+        "lon": "-6.299286",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-todmorden.co.uk/blogs/incredible-edible-cloughmills-win-award/?c=Blogs) award winning community projec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.878418,
+          53.182996
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Chester",
+        "lat": "53.182996",
+        "lon": "-2.878418",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.423859,
+          53.612062
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Bromley Cross",
+        "lat": "53.612062",
+        "lon": "-2.423859",
+        "type": "INE",
+        "observation": "http://www.incredible-edible-bromleycross.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.782532,
+          53.700772
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Brighouse",
+        "lat": "53.700772",
+        "lon": "-1.782532",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-Brighouse-page/431738473582090?fref=ts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.110834,
+          53.293285
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Bollington",
+        "lat": "53.293285",
+        "lon": "-2.110834",
+        "type": "INE",
+        "observation": "A new incredible edible in the making, watch this space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.911621,
+          54.535426
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Barnard Castle",
+        "lat": "54.535426",
+        "lon": "-1.911621",
+        "type": "INE",
+        "observation": "https://www.facebook.com/VegOutInBarney"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.788422,
+          54.490782
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Ballygowan",
+        "lat": "54.490782",
+        "lon": "-5.788422",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.384033,
+          53.733279
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Accrington",
+        "lat": "53.733279",
+        "lon": "-2.384033",
+        "type": "INE",
+        "observation": "http://www.facebook.com/group.php?gid=10150104738445249&ref=mf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.017807,
+          51.822623
+        ]
+      },
+      "properties": {
+        "title": "UK: Incredible Edible Abergavenny",
+        "lat": "51.822623",
+        "lon": "-3.017807",
+        "type": "INE"
+      }
+    }
+  ]
+}

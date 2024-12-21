@@ -1,0 +1,2268 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="52.39393" lon="4.64804">
+    <name>Reitzstraat</name>
+    <desc>_</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="35.582212" lon="-82.599185">
+    <name>#littlefreegardenstand</name>
+    <desc>Books, vegetables, flowers, seed, canned goods, seedlings</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.102833" lon="-71.305552">
+    <name>CA - Incroyables Comestibles Thetford Mines</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.50303" lon="4.23529">
+    <name>B - Incroyables Comestibles Manage</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.491152" lon="5.096454">
+    <name>B - Incroyables Comestibles Andenne</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.136778" lon="7.246791">
+    <name>S - Incroyables Comestible Biel/Bienne</name>
+    <desc>noemie.cheval@biel-bienne.ch</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.41423" lon="3.84598">
+    <name>B - Incroyables Comestibles Colfontaine</name>
+    <desc>https://www.facebook.com/groups/546414968816074/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.4159" lon="-73.483002">
+    <name>CA - Incroyables Comestibles La Prairie</name>
+    <desc>http://lesincroyablescomestibles.fr/la-prairi</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.22832" lon="6.070988">
+    <name>S - Incroyables Comestibles Meyrin</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.482051" lon="5.519471">
+    <name>B - Incroyables Comestibles Anthisnes</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.634704" lon="4.610647">
+    <name>B - Incroyables Comestibles Mont-Saint-Guibert</name>
+    <desc>https://www.facebook.com/Incroyables-Comestibles-de-Mont-Saint-Guibert-43285924714446</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.201665" lon="7.225994">
+    <name>S - Incroyables Comestibles Chamoson</name>
+    <desc>http://www.japarcha.c</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.108148" lon="-72.379669">
+    <name>CA - Incredible Edible Saint-Léonard-d'Aston</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.782996" lon="-71.28607">
+    <name>CA - Incredible Edible Sainte-Foy</name>
+    <desc>https://www.ulaval.ca/ulavaltv.htm</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.778222" lon="7.156761">
+    <name>S - Incroyables Comestibles Marly</name>
+    <desc>https://www.facebook.com/incroyablescomestiblesmarly/ ou encore sur le site : www.anjm.chContact : Michaël JordanMail : michael@anjm.chTel : 0041 79 176 78 0</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.254895" lon="-73.244789">
+    <name>C - Incredible Edible Nicolet</name>
+    <desc>https://www.facebook.com/groups/1856124467988201</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="15.969988" lon="-4.387061">
+    <name>IC Congo - Incroyables Comestibles Kinshasa</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.535356" lon="-67.880834">
+    <name>Milbridge</name>
+    <desc>https://www.facebook.com/incredibleediblemilbridge</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.048116" lon="-123.09082">
+    <name>Point 508</name>
+    <desc>https://www.facebook.com/pages/Incredible-Edible-Eugene-Oregon/428244023889134</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.412163" lon="-0.837965">
+    <name>Incredible Edible Wokingham </name>
+    <desc>www.facebook.com/IncredibleEdibleWokingham</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="31.528507" lon="34.451408">
+    <name>Incredible Edible Gaza</name>
+    <desc>Les premières graines de partage des Incroyables Comestibles ont été semées par les enfants dans la ville de Gaza.</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.245887" lon="-74.104156">
+    <name>Incredible Edible Salaberry-de-Valleyfield</name>
+    <desc>https://www.facebook.com/groups/IncroyablesComestiblesSalaberryDeValleyfield/)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.44568" lon="-73.286018">
+    <name>Incredible Edible Chambly</name>
+    <desc>http://www.journaldechambly.com/2014/08/12/un-facade-comestible)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.491323" lon="-119.591675">
+    <name>Incredible Edible Penticton</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="12.358783" lon="-1.52298">
+    <name>Incredible Edible Ouagadougou</name>
+    <desc>https://www.facebook.com/groups/133865410121337/)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.45399" lon="-73.572006">
+    <name>Incredible Edible Montréal / Verdun</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.464284" lon="-73.62874">
+    <name>Incredible Edible Montréal - Notre Dame de Grâce</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.552524" lon="-71.654205">
+    <name>Incredible Edible Alma</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="36.190538" lon="-82.156105">
+    <name>USA. Incredible Edible USA</name>
+    <desc>http://www.facebook.com/groups/IncredibleUSA/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.400379" lon="-72.730865">
+    <name>Incredible Edible Granby</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="14.5889" lon="120.981445">
+    <name>Incredible Edible Manila</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="35.753896" lon="10.645924">
+    <name>Incredible Edible Maatmeur</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.375302" lon="-77.980957">
+    <name>Incredible Edible Combermere </name>
+    <desc>https://www.facebook.com/pages/Incredible-Edible-Combermere/578285302194042</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.177929" lon="6.17157">
+    <name>Incredible Edible Genève</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="41.50035" lon="2.131348">
+    <name>Incredible Edible Cerdanyola</name>
+    <desc>Les Incroyables Comestibles sont arrivés à Cerdanyola !</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="36.812583" lon="10.129051">
+    <name>Incredible Edible Le Bardo</name>
+    <desc>https://www.facebook.com/groups/236373613217701/)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="35.746512" lon="10.799561">
+    <name>Incredible Edible Monastir</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="36.810934" lon="10.185356">
+    <name>Incredible Edible Tunis</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="36.862592" lon="10.184669">
+    <name>Incredible Edible Ariana</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="18.729502" lon="-98.173828">
+    <name>Incredible Edible Puebla</name>
+    <desc>http://incredibleediblenetwork.org.uk/users/tripinamerica</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="18.038483" lon="-71.760807">
+    <name>Incredible Edible Anse-a-Pitre</name>
+    <desc>Les Incroyables Comestibles arrivent dans la petite commune de Anse-a-Pitre, juste à la frontière du pays.</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="18.562947" lon="-72.281799">
+    <name>Incredible Edible Haïti</name>
+    <desc>http://www.incredible-edible.info/?page_id=719)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="19.018062" lon="-99.092388">
+    <name>Incredible Edible San Juan Tlacotenco</name>
+    <desc>http://www.incredible-edible.info/?page_id=2702)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="21.135745" lon="-86.85791">
+    <name>Incredible Edible Cancún</name>
+    <desc>http://incredibleediblenetwork.org.uk/question/incredible-edible-canc%C3%BAn)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="31.466154" lon="-9.799805">
+    <name>Incredible Edible Essaouira</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="34.252676" lon="-6.575317">
+    <name>Incredible Edible Kenitra</name>
+    <desc>Le démarrage des Incroyables Comestibles à Kenitra est en cours de préparation.Premières actions prévues en septembre 2013.</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="52.368892" lon="-1.494141">
+    <name>Incredible Edible Coventry</name>
+    <desc>https://www.facebook.com/pages/Incredible-Edible-Coventry/560690640655477</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="57.486309" lon="-5.438232">
+    <name>Placemark 203</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="57.515823" lon="-5.438232">
+    <name>Placemark 202</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.085173" lon="-5.372314">
+    <name>Placemark 201</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.767734" lon="-1.021729">
+    <name>UK: Incredible Edible Pompey (Portsmouth)</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.190533" lon="-2.184906">
+    <name>UK: Incredible Edible Warminster</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="59.408753" lon="10.491943">
+    <name>Incredible Edible Horten</name>
+    <desc>https://www.facebook.com/SpiseligBy)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.43649" lon="-68.516235">
+    <name>Incredible Edible Rimouski</name>
+    <desc>https://www.facebook.com/groups/141044742751144/)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.232844" lon="-68.160553">
+    <name>Incredible Edible Baie-Comeau</name>
+    <desc>https://www.facebook.com/IncroyablesComestiblesBaiecomeau)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.492188" lon="-72.964067">
+    <name>Incredible Edible Saint-Élie-de-Caxton</name>
+    <desc>https://www.facebook.com/pages/Incroyables-Comestibles-St-Elie-De-Caxton/501058013270033)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.524871" lon="-73.568573">
+    <name>Incredible Edible Plateau-Mont-Royal</name>
+    <desc>Les Incroyables Comestibles se préparent à sortir de terre dans les rues de Plateau-Mont-Royal.Action en cours...</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.41966" lon="-71.872559">
+    <name>Incredible Edible Sherbrooke</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.347402" lon="-72.543755">
+    <name>Incredible Edible Trois-Rivières</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.824496" lon="-71.265564">
+    <name>Incredible Edible Ville de Québec</name>
+    <desc>https://www.facebook.com/pages/Incroyables-Comestibles-Ville-de-Qu%C3%A9bec/357618631008701)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.137977" lon="-70.661316">
+    <name>Incredible Edible Saint-Georges</name>
+    <desc>https://www.facebook.com/IncroyablesComestiblesBeauce)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.614617" lon="3.396149">
+    <name>B - Incroyables Comestibles Tournai</name>
+    <desc>Les Incroyables Comestibles se préparent pour faire de Tournai une ville comestible solidaire.À suivre...</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.065775" lon="-66.373113">
+    <name>Dalhousie, NB</name>
+    <desc>Canada</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="7.498643" lon="0.594292">
+    <name>Incredible Edible Tomégbé</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="41.767215" lon="-2.526855">
+    <name>Incredible Edible Soria</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="37.355315" lon="-86.831123">
+    <name>Faith Feeds of Kentucky</name>
+    <desc>http://faithfeedslex.org/)Growing and Sharing Food in Central Kentuck</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="12.014472" lon="79.806747">
+    <name>Incredible Edible Auroville</name>
+    <desc>https://www.facebook.com/photo.php?fbid=462964563759630 et set=a.342039692518785.81119.342024609186960 et type=1 et theater)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.598249" lon="4.443927">
+    <name>B - Incroyables Comestibles Loupoigne</name>
+    <desc>http://www.facebook.com/groups/354275894665650/) pour participer au processus de co-création de l'abondance partagée</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="52.456009" lon="13.40332">
+    <name>Incredible Edible Berlin</name>
+    <desc>http://www.incredible-edible.info/?page_id=151</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.527843" lon="26.05957">
+    <name>Incredible Edible Bucharest</name>
+    <desc>Les premières graines de partage des incroyables comestibles se préparent à être semées avec les citoyens jardiniers solidaires en Roumanie.Projet en cours de démarrage...</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="39.943436" lon="32.827148">
+    <name>Incredible Edible Ankara</name>
+    <desc>Projet en cours de préparation pour le démarrage des incroyables comestibles en Turquie...</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="14.357406" lon="-9.306493">
+    <name>Incredible Edible Madiga-Sacko</name>
+    <desc>http://www.incredible-edible.info/?page_id=75</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.620717" lon="4.452209">
+    <name>B - Incroyables Comestibles Genappe</name>
+    <desc>http://www.facebook.com/groups/354275894665650/), vous êtes les bienvenus pour participer au processus de co-création de l'abondance partagée</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="24.696934" lon="46.428223">
+    <name>Incredible Edible Arabie Saoudite</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="52.362183" lon="4.87793">
+    <name>Incredible Edible Amsterdam</name>
+    <desc>http://www.incredible-edible.info/?page_id=226</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.196353" lon="4.54349">
+    <name>B - Incroyables Comestibles Philippeville</name>
+    <desc>http://www.facebook.com/groups/354275894665650/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.630283" lon="6.127625">
+    <name>Incredible Edible Luxembourg</name>
+    <desc>http://www.incredible-edible.info/?page_id=772</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="59.667741" lon="9.008789">
+    <name>Incredible Edible Norway</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="52.214339" lon="20.917969">
+    <name>Incredible Edible Pologne</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.869253" lon="13.842087">
+    <name>Transition Pula</name>
+    <desc>http://transitiontownpula.org/) are just getting started on a growing scheme along the lines of Incredible Edible. They are doing a great things in Pul</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="22.199326" lon="114.13413">
+    <name>Soon to be Incredible edible </name>
+    <desc>http://app.streamsend.com/private/Xoij/Qb4/OT1mP1B/browse/14618969) ?????</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="38.272554" lon="140.864897">
+    <name>Yuko Kishikami</name>
+    <desc>Yuko Kishikami an environmental science major follows IET progress online</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="63.088543" lon="21.581268">
+    <name>Viveca Dahl visited IET</name>
+    <desc>http://www.incredible-edible-todmorden.co.uk/blogs/tod-s-incredible-police-station/?c=Blogs</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.28046" lon="-0.398941">
+    <name>Scarborough visited IET</name>
+    <desc>http://www.incredible-edible-todmorden.co.uk/blogs/visiters-from-scarborough-and-from-preston/?c=Random</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.849667" lon="-2.677059">
+    <name>Agro Tourismo groupvited IET</name>
+    <desc>http://www.incredible-edible-todmorden.co.uk/blogs/toremolinos-comes-to-todmorden</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.518531" lon="7.317474">
+    <name>Bramche Todmorden's Twin Town</name>
+    <desc>http://www.incredible-edible-todmorden.co.uk/blogs/visiters-from-bramche-germany</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.625743" lon="-2.168834">
+    <name>Highgrove</name>
+    <desc>http://www.incredible-edible-todmorden.co.uk/blogs/hrh-prince-charles-hosts-garden-organic-event-at-highrove/?c=hrh-royal-blogs</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.639057" lon="-79.40712">
+    <name>Incredible Talks Teronto</name>
+    <desc>http://www.incredible-edible-todmorden.co.uk/blogs/todmorden-to-toronto</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.380888" lon="-2.360344">
+    <name>Transition Bath</name>
+    <desc>http://www.incredible-edible-todmorden.co.uk/news/see-and-hear-pam-speaking-at-transition-bath</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="35.423189" lon="136.755409">
+    <name>Gifu Prefecture</name>
+    <desc>http://www.incredible-edible-todmorden.co.uk/blogs/konichiwa-todmorden-high-school/?c=Schools</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.056556" lon="14.486847">
+    <name>Natasa Grundtvig IET Partner</name>
+    <desc>http://www.incredible-edible-todmorden.co.uk/blogs/why-slovenia/?c=Blogs</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.521153" lon="9.055481">
+    <name>Tubingen Germany Visited by IET Director</name>
+    <desc>http://www.sustainableretreat.blogspot.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.977972" lon="8.815842">
+    <name>Tuttlingen Germany Visited by IET Director</name>
+    <desc>http://www.sustainableretreat.blogspot.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.988395" lon="-1.087646">
+    <name>Edible York</name>
+    <desc>http://www.edibleyork.org.uk/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="12.971574" lon="77.594386">
+    <name>Bengaluru India Visited by IET Director</name>
+    <desc>http://www.sustainableretreat.blogspot.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.560774" lon="7.590179">
+    <name>Basel Switzerland Visited by IET Director</name>
+    <desc>http://www.sustainableretreat.blogspot.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="19.017656" lon="72.856951">
+    <name>Mumbai India Visited by IET Director</name>
+    <desc>http://www.sustainableretreat.blogspot.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="15.536846" lon="73.763108">
+    <name>Arpora India Visited by IET Director</name>
+    <desc>http://www.sustainableretreat.blogspot.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="55.677584" lon="12.584839">
+    <name>Copenhagen Denmark Visited by IET Director</name>
+    <desc>http://www.sustainableretreat.blogspot.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="41.836828" lon="-87.648926">
+    <name>Chicago Visited by IET Director</name>
+    <desc>http://www.sustainableretreat.blogspot.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="40.712394" lon="-74.003906">
+    <name>New York City USA Visited by IET Director</name>
+    <desc>Visit by Dr Paul Clarke Professor of Education at St Mary’s University College London.www.sustainableretreat.blogspot.com(www.sustainableretreat.blogspot.com)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="38.900652" lon="-77.056732">
+    <name>Washington USA visited by IET Director</name>
+    <desc>Visit by Dr Paul Clarke Professor of Education St Mary's University College, Londonwww.sustainableretreat.blogspot.com(www.sustainableretreat.blogspot.com)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="55.69926" lon="13.195267">
+    <name>Lundt Sweden visited by IET Director</name>
+    <desc>Visit by Dr Paul Clarke Professor of Education St Mary's University College, Londonwww.sustainableretreat.blogspot.com(www.sustainableretreat.blogspot.com)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="24.687988" lon="46.72244">
+    <name>Saudi Arabia visited by IET Director</name>
+    <desc>http://www.school-of-sustainability.co</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="39.902362" lon="116.411819">
+    <name>Beijing China Visited by IET Director</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="22.024546" lon="113.994141">
+    <name>Hong Kong visited By IET Director</name>
+    <desc>Visit by Dr Paul Clarke Professor of Education St Mary's University College, Londonwww.sustainableretreat.blogspot.com(www.sustainableretreat.blogspot.com)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="31.230711" lon="121.472912">
+    <name>Shanghai China visited By IET Director</name>
+    <desc>Visit by Dr Paul ClarkeProfessor of EducationSt Mary's University College,Londonwww.sustainableretreat.blogspot.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="30.273412" lon="120.155239">
+    <name>Hangzhou China visited By IET Director</name>
+    <desc>Visit by Dr Paul Clarke Professor of Education St Mary's University College, Londonwww.sustainableretreat.blogspot.com(www.sustainableretreat.blogspot.com)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.005379" lon="-88.807321">
+    <name>Sustain Jefferson USA</name>
+    <desc>http://sustainjefferson.or</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.834527" lon="-100.546875">
+    <name>Cheyenne River ReservationUSA</name>
+    <desc>Following IETEagle Butts South Dakota</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="37.544577" lon="-77.497559">
+    <name>Lewis Ginter Botanical Gardens in Richmond, Virginia, USA </name>
+    <desc>http://lewisginter.wordpress.co</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="35.689091" lon="139.691677">
+    <name>gajinpot Japan</name>
+    <desc>http://forum.gaijinpot.com/showthread.php?p=852552#post85255</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.634468" lon="-3.019309">
+    <name>The Chartered Institute of Environmental Health</name>
+    <desc>http://www.cieh.org/ehn/vegetable_empire.html</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.569283" lon="-4.152832">
+    <name>Westden</name>
+    <desc>http://westden.wordpress.com/2009/09/22/todmorden-shows-the-way-with-incredible-edible/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.263365" lon="-2.123001">
+    <name>Food4Macc</name>
+    <desc>http://www.maccinfo.com/Food4Macc/Index.html</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.16901" lon="-1.181341">
+    <name>Mansfield Woodhouse Community</name>
+    <desc>http://www.mansfieldwoodhousecommunitymarket.org/?p=17</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.853636" lon="-2.166061">
+    <name>Northern polytunnels</name>
+    <desc>http://www.northernpolytunnels.co.uk/page.php?f=136 et p=203</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.745711" lon="-2.395366">
+    <name>Sustainable Food</name>
+    <desc>http://www.sustainablefood.com/todmorden.html</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.791678" lon="-1.762104">
+    <name>ESD Yorshire and Humber</name>
+    <desc>http://www.yorkshireandhumber.net/esd/index.php?option=com_content et task=view et id=219 et Itemid=27</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.909961" lon="-3.933105">
+    <name>Okehampton</name>
+    <desc>http://www.telegraph.co.uk/earth/countryside/4806362/Okehampton-follows-Todmorden-on-road-to-self-sufficency.html</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.4562" lon="-0.300922">
+    <name>Richmond community group</name>
+    <desc>following progress of IET</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.460903" lon="-0.118457">
+    <name>Guerilla Gardeing .org</name>
+    <desc>http://www.guerrillagardening.or</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="37.997854" lon="-122.532835">
+    <name>Bioneers Sanfrancisco USA</name>
+    <desc>http://connect.bioneers.org/profiles/blogs/todmorden-uk-edible-foo</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.51363" lon="-0.119712">
+    <name>CABE</name>
+    <desc>http://www.cabe.org.uk/case-studies/incredible-edible-todmorden</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.329335" lon="-2.647136">
+    <name>Assura</name>
+    <desc>http://www.assuragroup.co.u</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="52.369262" lon="-2.718515">
+    <name>Cittaslow Luddlow </name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="38.904493" lon="-77.034784">
+    <name>Washington Post Washington USA</name>
+    <desc>http://www.washingtonpost.com/wp-dyn/content/article/2009/08/15/AR2009081502031.html</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.83146" lon="-1.529846">
+    <name>Groundworks Leeds</name>
+    <desc>http://www.groundwork-leeds.org.uk/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.808761" lon="-1.535339">
+    <name>Friends of the Earth</name>
+    <desc>http://www.iwestyorkshire.co.uk/profile/82511/Leeds/Friends-Of-The-Eart</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.396432" lon="-1.455688">
+    <name>New Start Magazine</name>
+    <desc>http://www.nsplus.co.uk</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="38.938048" lon="-122.805176">
+    <name>Konocti Sanfrancisco USA</name>
+    <desc>http://www.konocti.org/cms/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.816695" lon="20.466666">
+    <name>Ekologija Serbia</name>
+    <desc>http://www.ekologija.rs/?p=73</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="19.36998" lon="-99.263749">
+    <name>Respira Ambiente Mexico</name>
+    <desc>http://respiraambiente.blogspot.com/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="37.176731" lon="-3.603516">
+    <name>comestibles-increibles Spain</name>
+    <desc>http://www.comestibles-increibles.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.639468" lon="10.381393">
+    <name>luciana,Traversetolo Italy</name>
+    <desc>Luciana, following IET in Traversetolo</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="35.029996" lon="128.056641">
+    <name>Urban Farming Project Sacheon South Korea</name>
+    <desc>Sharing IET info by emailwww.urbanjungles.info(www.urbanjungles.info)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="41.112469" lon="16.875">
+    <name>Agorambiente Italy</name>
+    <desc>http://agorambiente.it/portale/index.php?option=com_content et task=view et id=344 et Itemid=185</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="52.06139" lon="-9.526434">
+    <name>Kerrygold Farmers kerry Ireland</name>
+    <desc>http://www.kerrygold.co.uk/index.php?m=kerrygold-farmer-cooperative-awards,34</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="30.048739" lon="31.244602">
+    <name>Taba Medical Pharma Egypt</name>
+    <desc>Company showing interest in Aquaponics system</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.26254" lon="-123.138714">
+    <name>Now Public Vancouver Canada</name>
+    <desc>http://www.nowpublic.com/environment/todmorden-britains-first-town-self-sufficient-food-supply#comments</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.46903" lon="-123.50299">
+    <name>Home Grow , Langford Canada</name>
+    <desc>http://homegrow.ca/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.781264" lon="-119.53125">
+    <name>Cultivating Change, Canada</name>
+    <desc>http://okanaganfood.blogspot.co</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.209982" lon="16.382986">
+    <name>Wachstum Wandel Vienna Austria</name>
+    <desc>http://www.wachstumimwandel.at/diskussionsforum/regionale-aspekte/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="60.586967" lon="164.882813">
+    <name>Lillooet Food Matters, Canada</name>
+    <desc>https://www.incredible-edible-todmorden.co.uk/blogs/letter-from-lillooet-canada-by-sarah-barret</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.687323" lon="-121.937771">
+    <name>Jane , Working, growing communities Fountain BC Canada</name>
+    <desc>Site link added soon</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="38.138067" lon="-78.187294">
+    <name>Incredible Edible Gordonsville</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="37.485007" lon="-122.228394">
+    <name>Incredible Edible Redwood City</name>
+    <desc>http://incredibleedibleredwoodcity.blogspot.co.uk/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.545745" lon="-83.135262">
+    <name>Incredible Edible Combermere</name>
+    <desc>http://incredibleediblecombermere.wordpress.com/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.062479" lon="-66.384888">
+    <name>Dalhousie Blooms goes incredible edible</name>
+    <desc>https://www.facebook.com/dalhousiebloomsfleurit</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="34.011689" lon="-6.833496">
+    <name>Incredible Edible Rabat</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="36.844461" lon="-4.438477">
+    <name>Incredible Edible Malaga</name>
+    <desc>http://www.incredible-edible.info/?page_id=230</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="34.415973" lon="8.783569">
+    <name>Incredible Edible Gafsa</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="25.290646" lon="51.514893">
+    <name>Incredible Edible Qatar</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="41.360319" lon="2.131348">
+    <name>Incredible Edible Barcelona</name>
+    <desc>http://incredible-edible-barcelona.com/en</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.853673" lon="-72.347717">
+    <name>Incredible Edible Drummondville</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="40.430224" lon="-3.735352">
+    <name>Incredible Edible Madrid</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.400861" lon="11.274376">
+    <name>Incredible Edible Italie</name>
+    <desc>https://www.facebook.com/IncredibiliCommestibiliItaliaIncredibleEdible</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.151428" lon="11.57959">
+    <name>Incredible Edible Munich</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.004625" lon="7.866211">
+    <name>Incredible Edible Freiburg</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="31.052934" lon="73.652344">
+    <name>Incredible Edible San Nicolao</name>
+    <desc>http://www.facebook.com/groups/493864047310197/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.536656" lon="-73.605652">
+    <name>Incredible Edible Montréal Rosemont / La Petite Patrie</name>
+    <desc>https://www.facebook.com/IncroyablesComestiblesMontrealRosemontPetitePatrie</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.060066" lon="6.747322">
+    <name>S - Incroyables Comestibles Le Locle</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.726459" lon="4.86969">
+    <name>B - Incroyables Comestibles Jodoigne</name>
+    <desc>http://incredibleediblebelgium.wordpress.com/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.351814" lon="5.459433">
+    <name>B - Incroyables Comestibles Durbuy</name>
+    <desc>http://incredibleediblebelgium.wordpress.com/affiches/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.35154" lon="5.489473">
+    <name>B - Incroyables Comestibles Barvaux</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.467995" lon="4.86454">
+    <name>B - Incroyables Comestibles Namur</name>
+    <desc>https://www.facebook.com/pages/Incr%C3%A9dible-Edible-Belgique/227582234025692</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.515229" lon="6.496181">
+    <name>Incredible Edible Morges</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.784076" lon="6.664581">
+    <name>Incredible Edible Yverdon-les-Bains</name>
+    <desc>En cours de préparation. Quelques initiatives citoyennes commencent à avoir lieu ici et là dans la ville. À suivre...</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.532414" lon="6.630249">
+    <name>Incredible Edible Lausanne</name>
+    <desc>http://www.incredible-edible.info/?page_id=232) du site incredible-edible.inf</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="40.713956" lon="30.27832">
+    <name>Incredible Edible Bayonne</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="32.049989" lon="34.809494">
+    <name>Incredible Edible Tel Aviv</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.482762" lon="-73.572693">
+    <name>Incredible Edible Westmount Montreal</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="7.928675" lon="-1.120605">
+    <name>Incredible Edible Ghana</name>
+    <desc>http://www.incredible-edible-todmorden.co.uk/blogs/iet-welcomes-a-visitor-from-ghana/?c=Random</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.970628" lon="-1.087646">
+    <name>UK: Incredible Edible York</name>
+    <desc>launching soon IE York</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.355546" lon="-3.088832">
+    <name>UK: Incredible Edible Wirral</name>
+    <desc>http://www.ediblewirral.org.uk/?page=2</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.169826" lon="-2.488403">
+    <name>UK:Incredible Edible Winsford</name>
+    <desc>https://www.facebook.com/IncredibleEdiblesWinsford</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.319595" lon="-2.240524">
+    <name>UK: Incredible Edible Wilmslow</name>
+    <desc>http://www.incredible-edible-wilmslow.co.uk/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.680239" lon="-1.503754">
+    <name>UK: Incredible Edible Wakefield</name>
+    <desc>http://www.incredible-edible-wakefield.co.uk/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.686656" lon="-2.094843">
+    <name>UK:Incredible Farm Walsden</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.616189" lon="-2.342527">
+    <name>UK: Incredible Edible Tottington</name>
+    <desc>https://www.facebook.com/pages/Incredible-Edible-Tottington/129481667124015?sk=info</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.433892" lon="-3.69175">
+    <name>UK: Incredible Edible Totnes</name>
+    <desc>http://www.transitiontowntotnes.org/groups/food-group/incredible-edible/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.713549" lon="-2.097809">
+    <name>UK: Incredible Edible Todmorden</name>
+    <desc>http://vimeo.com/36838823</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.497202" lon="-0.081024">
+    <name>UK: Incredible Edible Southwark</name>
+    <desc>Contact via Incredible Edible Network</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.141017" lon="-2.730789">
+    <name>UK: Incredible Edible Somerset</name>
+    <desc>http://incredible-edible-somerset.ning.com/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.465569" lon="-2.340431">
+    <name>UK: Incredible Edible Salford</name>
+    <desc>http://www.incredibleediblenetwork.org.u</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.69752" lon="-2.248077">
+    <name>UK: Incredible Edible Rossendale</name>
+    <desc>http://ierossendale.ning.com/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.405029" lon="-2.070236">
+    <name>UK: Incredible Edible Romilley</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.648454" lon="-2.320347">
+    <name>UK: Incredible Edible Ramsbottom</name>
+    <desc>http://incredibleedibleramsbottom.co.uk/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.524595" lon="-2.28035">
+    <name>UK: Incredible Edible Prestwich</name>
+    <desc>http://www.incredibleediblenetwork.org.u</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.816782" lon="-1.0849">
+    <name>UK: Incredible Edible Pompey</name>
+    <desc>https://www.facebook.com/pages/Incredible-Edible-Pompey/221257428017204?fref=ts</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.152266" lon="-5.053711">
+    <name>UK: Incredible Edible Penryn</name>
+    <desc>https://www.facebook.com/pages/Incredible-Edible-Penryn</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.645234" lon="-2.746582">
+    <name>UK: Incredible Edible Penrith</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="52.641397" lon="-0.703125">
+    <name>UK: Incredible Edible Oakham</name>
+    <desc>https://www.facebook.com/pages/Incredible-Edible-Oakham</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.290463" lon="-3.065529">
+    <name>UK: Incredible Edible Neston</name>
+    <desc>http://www.aboutmyarea.co.uk/Cheshire/Neston/CH64/News/Local-News/194718-Neston-Incredible-Edible-scheme-proposed</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.201721" lon="-1.148071">
+    <name>UK: Incredible Edible North Hampshire</name>
+    <desc>http://ienorthhampshire.zapto.org/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.457802" lon="-2.235718">
+    <name>UK: Incredible Edible Moss Side</name>
+    <desc>IE Moss Side, started October 2011</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="52.083963" lon="-2.345538">
+    <name>UK: Incredible Edible Malvern</name>
+    <desc>https://www.google.com/calendar/render?eid=c3RmYTdiZzE2b3NidmMzajY5ZGc0bmxha2MgZm4xdDl2M2I3bmpnN2QzcGFqN2swZnI2Mm9AZw et pli=1 et sf=true et output=xml</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="52.905589" lon="-2.485657">
+    <name>UK: Incredible Edible Market Drayton</name>
+    <desc>https://www.facebook.com/pages/Incredible-Edible-Market-Drayton/272991032834349?ref=stream</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.450749" lon="-2.193489">
+    <name>UK: Incredible Edible Levenshulme</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.496063" lon="-2.513466">
+    <name>UK: Incredible Edible Leigh</name>
+    <desc>Incredible Edible Leigh</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.801614" lon="-1.548643">
+    <name>UK: Leeds Edible Campus</name>
+    <desc>http://www.leedsediblecampus.co.uk/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="52.247983" lon="-1.516113">
+    <name>UK: Incredible Edible Leamington Spa</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.480528" lon="-0.117416">
+    <name>UK: Incredible Edible Lambeth</name>
+    <desc>http://www.incredibleediblelambeth.org/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.05052" lon="-2.765808">
+    <name>UK: Incredible Edible Lancaster</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.242707" lon="-2.139587">
+    <name>UK: Incredible Edible Jersey: St John's School</name>
+    <desc>http://vle.jeron.je/GroupHomepage.asp?GroupID=34670</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="50.625073" lon="-1.186523">
+    <name>UK: Incredible Edible Isle of Wight</name>
+    <desc>The Incredible Edible Isle of Wight</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.628353" lon="-1.790771">
+    <name>UK: Incredible Edible Huddersfield</name>
+    <desc>http://www.incredibleediblehuddersfield.org/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.391519" lon="-3.182087">
+    <name>UK: Incredible Edible Hoylake</name>
+    <desc>http://www.hoylakejunction.com/incredible-edible-hoylake</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.913779" lon="-0.285645">
+    <name>UK: Incredible Edible Hitchin</name>
+    <desc>https://www.facebook.com/IncredibleEdibleHitchin</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.420991" lon="-2.181473">
+    <name>UK: Incredible Edible Heaton Moor</name>
+    <desc>http://www.incredibleediblenetwork.org.u</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.44073" lon="-1.954536">
+    <name>UK: Incredible Edible Glossop</name>
+    <desc>http://www.incredible-edible-glossop.co.uk/news/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.880557" lon="-4.189911">
+    <name>Incredible Edible Gatehouse </name>
+    <desc>http://gatehouse-of-fleet.co.uk/index.php?option=com_content et view=category et layout=blog et id=32 et Itemid=92</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="55.986092" lon="-2.570801">
+    <name>UK: Incredible Edible Dunbar</name>
+    <desc>http://ourlocality.org/incrediblyedibledunbar/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.527248" lon="-1.136398">
+    <name>UK: Incredible Edible Doncaster North</name>
+    <desc>http://good2grow.wordpress.com/author/good2grow/</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.871404" lon="-0.513611">
+    <name>UK: Incredible Edible Dunstable</name>
+    <desc>https://www.facebook.com/pages/Incredible-Edible-Dunstable</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="52.977589" lon="-0.025234">
+    <name>UK: Incredible Edible Boston</name>
+    <desc>http://www.incredible-edible-todmorden.co.uk/blogs/incredible-edible-boston-mayflower/?c=Blogs</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.273426" lon="-3.804016">
+    <name>UK: Incredible Edible Conwy</name>
+    <desc>Known as Bwyd Bendigedig</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.972688" lon="-6.299286">
+    <name>UK: Incredible Edible Cloughmills</name>
+    <desc>http://www.incredible-edible-todmorden.co.uk/blogs/incredible-edible-cloughmills-win-award/?c=Blogs) award winning community projec</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.182996" lon="-2.878418">
+    <name>UK: Incredible Edible Chester</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.612062" lon="-2.423859">
+    <name>UK: Incredible Edible Bromley Cross</name>
+    <desc>http://www.incredible-edible-bromleycross.co.uk</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.700772" lon="-1.782532">
+    <name>UK: Incredible Edible Brighouse</name>
+    <desc>https://www.facebook.com/pages/Incredible-Edible-Brighouse-page/431738473582090?fref=ts</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.293285" lon="-2.110834">
+    <name>UK: Incredible Edible Bollington</name>
+    <desc>A new incredible edible in the making, watch this space</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.535426" lon="-1.911621">
+    <name>UK: Incredible Edible Barnard Castle</name>
+    <desc>https://www.facebook.com/VegOutInBarney</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="54.490782" lon="-5.788422">
+    <name>UK: Incredible Edible Ballygowan</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="53.733279" lon="-2.384033">
+    <name>UK: Incredible Edible Accrington</name>
+    <desc>http://www.facebook.com/group.php?gid=10150104738445249 et ref=mf</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="51.822623" lon="-3.017807">
+    <name>UK: Incredible Edible Abergavenny</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Delivrez edibles" color="#00ff00" icon="shop_greengrocer" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

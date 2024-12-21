@@ -1,0 +1,744 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.708512,
+          43.113445
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jacques Prévert",
+        "lat": "43.1134446",
+        "lon": "0.7085117",
+        "type": "INE",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19296,
+          42.938803
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Fa",
+        "lat": "42.938803",
+        "lon": "2.19295990000001",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/valdufab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.528056,
+          43.536733
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Labège",
+        "lat": "43.5367334",
+        "lon": "1.5280556",
+        "type": "INE",
+        "observation": "https://www.facebook.com/mairiedelabeg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.813978,
+          42.626216
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Ponteilla",
+        "lat": "42.626216",
+        "lon": "2.81397800000002",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.21499,
+          42.92917
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Espéraza",
+        "lat": "42.9291696",
+        "lon": "2.21498969999993",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16075,
+          44.050034
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Carmaux",
+        "lat": "44.0500339",
+        "lon": "2.16075000000001",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.348859,
+          42.667793
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Mosset",
+        "lat": "42.667793",
+        "lon": "2.34885899999995",
+        "type": "INE",
+        "observation": "http://www.facebook.com/IncroyablesComestiblesMosse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.407146,
+          43.173805
+        ]
+      },
+      "properties": {
+        "title": "F- Incroyables Comestibles Le Fossat",
+        "lat": "43.173805",
+        "lon": "1.40714600000001",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Les.incroyables.comestible"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.083352,
+          44.127204
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Alès",
+        "lat": "44.127204",
+        "lon": "4.08335199999999",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.501873,
+          44.517611
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Mende",
+        "lat": "44.517611",
+        "lon": "3.50187299999993",
+        "type": "INE",
+        "observation": "Rejoignez les incroyables Mendois en contactant ARTES Sandrine par mail : fleurissement@mende.fr ou au 04 66 49 40 11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.689695,
+          43.97456
+        ]
+      },
+      "properties": {
+        "title": "F- Incroyables Comestibles de Rochefort-du-Gard",
+        "lat": "43.9745599",
+        "lon": "4.68969500000003",
+        "type": "INE",
+        "observation": "http://lesincroyablescomestibles.fr/rochefort-du-gar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.39703,
+          43.635087
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Blagnac",
+        "lat": "43.635087",
+        "lon": "1.39702999999997",
+        "type": "INE",
+        "observation": "Vous pouvez contacter Amélie Masseron au 06.41.19.45.59 ou sur melouced@hotmail.fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.887126,
+          43.95819
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Affrique",
+        "lat": "43.95819",
+        "lon": "2.88712599999997",
+        "type": "INE",
+        "observation": "https://www.facebook.com/ICSTAFFRIQUE/Contacts sur place :- TREPS ISABELLEMail : ijk.treps@wanadoo.frTel : 0682134589- WATREMETZ JESSICAMail : jessica@watremetz.co"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.797514,
+          43.647718
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Grabels",
+        "lat": "43.647718",
+        "lon": "3.79751399999998",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pg/Incroyables-comestibles-de-Grabel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.353649,
+          43.214184
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Carcassonne",
+        "lat": "43.2141842",
+        "lon": "2.3536491",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Incroyables-Comestibles-Carcassonne-155097704852988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.820699,
+          43.699185
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Lavaur",
+        "lat": "43.699185",
+        "lon": "1.82069899999999",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Incroyables-comestibles-81500-488076114622266/timelin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.648079,
+          44.261034
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Pont-Saint-Esprit",
+        "lat": "44.261034",
+        "lon": "4.64807900000005",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.898681,
+          43.033602
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Quentin-la-Tour",
+        "lat": "43.033602",
+        "lon": "1.89868100000001",
+        "type": "INE",
+        "observation": "Une initiative Incroyables Comestibles est en démarrage à Saint-Quentin la Tour. Pour tout renseignement, contactez Lucie sur sur lucietellia@gmail.com ou au 06 89 08 17 43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.356812,
+          43.37985
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Beaumont-sur-Lèze",
+        "lat": "43.37985",
+        "lon": "1.356812",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/251446661655593/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.499977,
+          43.515693
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Castanet-Tolosan",
+        "lat": "43.515693",
+        "lon": "1.499977",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/251446661655593/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.132866,
+          43.083558
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Pouzac",
+        "lat": "43.083558",
+        "lon": "0.132866",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.545422,
+          43.928066
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Bonnet-du-Gard",
+        "lat": "43.928066",
+        "lon": "4.545422",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/127931434023393/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.416078,
+          43.370991
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Miremont",
+        "lat": "43.370991",
+        "lon": "1.416078",
+        "type": "INE",
+        "observation": "http://www.ladepeche.fr/article/2014/04/24/1869073-miremont-incroyables-comestibles-rendez-vous-samedi-matin.html)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2547,
+          43.337165
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Béziers",
+        "lat": "43.337165",
+        "lon": "3.2547",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.367065,
+          43.810747
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Nîmes",
+        "lat": "43.810747",
+        "lon": "4.367065",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-N%C3%AEmes/689023984481478)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.612244,
+          42.957428
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Foix",
+        "lat": "42.957428",
+        "lon": "1.612244",
+        "type": "INE",
+        "observation": "http://www.ladepeche.fr/article/2013/06/01/1639752-foix-ils-partagent-leurs-incroyables-potagers.html)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.612244,
+          43.110007
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Pamiers",
+        "lat": "43.110007",
+        "lon": "1.612244",
+        "type": "INE",
+        "observation": "https://www.facebook.com/PAMiers-INcroyables-COmestibles-Paminco09-160357630987551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.894455,
+          43.904324
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Gaillac",
+        "lat": "43.904324",
+        "lon": "1.894455",
+        "type": "INE",
+        "observation": "http://incroyablescomestiblesgaillac.unblog.fr/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.037964,
+          44.59829
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Figeac",
+        "lat": "44.59829",
+        "lon": "2.037964",
+        "type": "INE",
+        "observation": "http://coquelicausse.over-blog.com/article-les-incroyables-comestibles-a-figeac-118151312.html)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.318359,
+          43.617188
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Colomiers",
+        "lat": "43.617188",
+        "lon": "1.318359",
+        "type": "INE",
+        "observation": "http://www.youtube.com/watch?v=VY0GuawEgSA)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.582275,
+          43.640051
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Auch",
+        "lat": "43.640051",
+        "lon": "0.582275",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.900391,
+          42.682435
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Perpignan",
+        "lat": "42.682435",
+        "lon": "2.900391",
+        "type": "INE",
+        "observation": "http://lemurparle.blogspot.fr/2012/06/la-guerilla-des-jardiniers-perpignan.html)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.065186,
+          44.330725
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Sévérac-le-Château",
+        "lat": "44.330725",
+        "lon": "3.065186",
+        "type": "INE",
+        "observation": "http://www.tourisme-aveyron.com/diffusio/fr/agenda/agenda/severac-le-chateau/reunion-de-lancement-les-incroyables-comestibles_TFO183830691411.php)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.581787,
+          44.347422
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Rodez",
+        "lat": "44.347422",
+        "lon": "2.581787",
+        "type": "INE",
+        "observation": "Les Incroyables Comestibles ont fait leur apparition à Rodez.Page en cours d'actualisation."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.983032,
+          43.755225
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Graulhet",
+        "lat": "43.755225",
+        "lon": "1.983032",
+        "type": "INE",
+        "observation": "http://incroyablescomestiblesgraulhet.jimdo.com/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.241211,
+          43.600284
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Castres",
+        "lat": "43.600284",
+        "lon": "2.241211",
+        "type": "INE",
+        "observation": "Oui, les Incroyables Comestibles ont bien pris racine à Castres.Page en cours d'actualisation..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.421997,
+          44.00862
+        ]
+      },
+      "properties": {
+        "title": "INCREDIBLE EDIBLE UZÈS",
+        "lat": "44.00862",
+        "lon": "4.421997",
+        "type": "INE",
+        "observation": "http://uzesco.com/?p=73)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.385651,
+          43.231196
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Ybars",
+        "lat": "43.231196",
+        "lon": "1.385651",
+        "type": "INE",
+        "observation": "http://www.facebook.com/IncroyablesComestiblesSaintYbarsAriege"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.147827,
+          43.92955
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Albi",
+        "lat": "43.92955",
+        "lon": "2.147827",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncroyablesComestiblesAlbi)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.88092,
+          43.777539
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Mathieu-de-Tréviers",
+        "lat": "43.777539",
+        "lon": "3.88092",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/379917315420039/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.837662,
+          43.601279
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Montpellier",
+        "lat": "43.601279",
+        "lon": "3.837662",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/460646797313246/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.095269,
+          43.187061
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Armissan",
+        "lat": "43.187061",
+        "lon": "3.095269",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.444273,
+          43.605629
+        ]
+      },
+      "properties": {
+        "title": "F – Incroyables Comestibles Toulouse",
+        "lat": "43.6056292",
+        "lon": "1.4442727",
+        "type": "INE",
+        "observation": "http://toulouse.lesincroyablescomestibles.fr/contact/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.144764,
+          44.231794
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Jean-de-Valériscle",
+        "lat": "44.231794",
+        "lon": "4.144764",
+        "type": "INE",
+        "observation": "http://incredible-edible-valeriscle.fr"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.50262,
+          47.664472
+        ]
+      },
+      "properties": {
+        "title": "Route de la Saline",
+        "lat": "47.664472",
+        "lon": "6.5026199",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.66a3c187aa335.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.476114,
+          47.670588
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "47.6705878",
+        "lon": "6.4761137",
+        "type": "DSB",
+        "observation": "sur le mur de la maison",
+        "picture": "https://delivrez.fr/public/posts/img.66a29b0834345.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.85738,
+          47.639843
+        ]
+      },
+      "properties": {
+        "title": "Faubourg des Ancêtres",
+        "lat": "47.6398426",
+        "lon": "6.8573798",
+        "type": "DSB",
+        "observation": "à côté de la BU",
+        "picture": "https://delivrez.fr/public/posts/img.663638276aa78.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.913456,
+          46.560958
+        ]
+      },
+      "properties": {
+        "title": "Rue Désiré Mathivet",
+        "lat": "46.5609576",
+        "lon": "4.9134563",
+        "type": "DSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.63ff33b4e713c.png"
+      }
+    }
+  ]
+}

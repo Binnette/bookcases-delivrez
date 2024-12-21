@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.664472" lon="6.50262">
+    <name>Route de la Saline</name>
+    <desc></desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.670588" lon="6.476114">
+    <name>Grande Rue</name>
+    <desc>sur le mur de la maison</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.639843" lon="6.85738">
+    <name>Faubourg des Ancêtres</name>
+    <desc>à côté de la BU</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.560958" lon="4.913456">
+    <name>Rue Désiré Mathivet</name>
+    <desc>_</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Delivrez giveboxes" color="#0000ff" icon="outpost" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

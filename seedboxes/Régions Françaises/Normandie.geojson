@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.515574,
+          49.357815
+        ]
+      },
+      "properties": {
+        "title": "grainotheque",
+        "lat": "49.3578154",
+        "lon": "0.5155739",
+        "type": "SES",
+        "observation": "située dans la mediatheque",
+        "picture": "https://delivrez.fr/public/posts/img.67335759bfab8.png"
+      }
+    }
+  ]
+}

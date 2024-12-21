@@ -1,0 +1,1010 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.865145,
+          48.067398
+        ]
+      },
+      "properties": {
+        "title": "Quai du Locle",
+        "lat": "48.0673978",
+        "lon": "6.8651453",
+        "type": "INE",
+        "observation": "autour du lac",
+        "picture": "https://delivrez.fr/public/posts/img.667720655cc88.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.157449,
+          48.737978
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Jaurès",
+        "lat": "48.7379779",
+        "lon": "6.1574485",
+        "type": "INE",
+        "observation": "derrière les city"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.160597,
+          48.734904
+        ]
+      },
+      "properties": {
+        "title": "Rue de Lorient",
+        "lat": "48.7349039",
+        "lon": "6.1605971",
+        "type": "INE",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.319091,
+          48.194668
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Ribeauvillé",
+        "lat": "48.194668",
+        "lon": "7.31909099999996",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.368599,
+          47.749709
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Riedisheim",
+        "lat": "47.749709",
+        "lon": "7.36859900000002",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Les-Incroyables-Comestibles-de-Riedisheim-12459014145964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.585745,
+          48.726087
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Vitry-le-François",
+        "lat": "48.726087",
+        "lon": "4.58574499999997",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.67069,
+          48.025471
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Amé",
+        "lat": "48.025471",
+        "lon": "6.67068990000007",
+        "type": "INE",
+        "observation": "Plus d'info: gaci.saubert@orange.fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.416169,
+          49.251759
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Piblange",
+        "lat": "49.251759",
+        "lon": "6.41616899999997",
+        "type": "INE",
+        "observation": "https://www.famillesrurales.org/piblang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.426349,
+          48.323067
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Dambach-la-Ville",
+        "lat": "48.323067",
+        "lon": "7.42634899999996",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7555,
+          48.621085
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Hoenheim",
+        "lat": "48.621085",
+        "lon": "7.7555",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.37566,
+          48.756401
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Monswiller",
+        "lat": "48.7564009",
+        "lon": "7.37566000000004",
+        "type": "INE",
+        "observation": "https://www.facebook.com/incroyables.comestibles.monswiller"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.450204,
+          48.407265
+        ]
+      },
+      "properties": {
+        "title": "F - Les Incroyables Comestibles de Barr",
+        "lat": "48.407265",
+        "lon": "7.45020399999999",
+        "type": "INE",
+        "observation": "Bienvenue aux Incroyables Comestibles de Barr, Pour tout renseignement : margo.spit@laposte.net"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.398799,
+          47.712665
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Eschentzwiller",
+        "lat": "47.712665",
+        "lon": "7.39879900000005",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/355426914651695/?fref=t"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.047818,
+          48.312011
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles La Chapelle-Saint-Luc",
+        "lat": "48.312011",
+        "lon": "4.04781800000001",
+        "type": "INE",
+        "observation": "https://www.facebook.com/lesincroyablescomestiblesaube"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.056495,
+          48.293191
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Sainte-Savine",
+        "lat": "48.293191",
+        "lon": "4.05649500000004",
+        "type": "INE",
+        "observation": "https://www.facebook.com/lesincroyablescomestiblesaub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.176482,
+          48.647188
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Houdemont",
+        "lat": "48.647188",
+        "lon": "6.17648199999996",
+        "type": "INE",
+        "observation": "http://lesincroyablescomestibles.fr/houdemon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.370038,
+          47.789426
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Sausheim",
+        "lat": "47.789426",
+        "lon": "7.37003800000002",
+        "type": "INE",
+        "observation": "https://sausheim.lesincroyablescomestibles.f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.499551,
+          48.303535
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Ebersheim",
+        "lat": "48.3035349",
+        "lon": "7.499551",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.16026,
+          48.126275
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Orbey",
+        "lat": "48.126275",
+        "lon": "7.16025999999999",
+        "type": "INE",
+        "observation": "http://orbey.lesincroyablescomestibles.f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.102382,
+          47.810702
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Thann",
+        "lat": "47.810702",
+        "lon": "7.10238200000003",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Incroyables-Comestibles-Thann-88573873823756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.706899,
+          48.671
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Vendenheim",
+        "lat": "48.671",
+        "lon": "7.70689900000002",
+        "type": "INE",
+        "observation": "Nouveau groupe en démarrage !  Voici les coordonnée d'Aurélia, l’initiatrice des IC et à la mairie de Vendenheim :  Aurelia.Desheraud@vendenheim.fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.449403,
+          48.172402
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Épinal",
+        "lat": "48.172402",
+        "lon": "6.44940299999996",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.458621,
+          48.536784
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Mutzig",
+        "lat": "48.536784",
+        "lon": "7.45862099999999",
+        "type": "INE",
+        "observation": "Projet en démarrage. Premières actions en juin 2015. Contact : Loïc Etienne - Tél. 06 28 05 57 02 - contact@icobernai.fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.484436,
+          48.461995
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Obernai",
+        "lat": "48.4619953",
+        "lon": "7.484436",
+        "type": "INE",
+        "observation": "http://www.facebook.com/icobernai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.361572,
+          48.954072
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Châlons-en-Champagne",
+        "lat": "48.954072",
+        "lon": "4.361572",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.258701,
+          48.496019
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Russ",
+        "lat": "48.496019",
+        "lon": "7.258701",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/Incroyables.Comestibles.Alsace.Lorraine/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.387421,
+          49.158808
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Verdun",
+        "lat": "49.158808",
+        "lon": "5.387421",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/Incroyables.Comestibles.Alsace.Lorraine/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.664337,
+          48.416442
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Erstein",
+        "lat": "48.416442",
+        "lon": "7.664337",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.35672,
+          48.077161
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Colmar",
+        "lat": "48.077161",
+        "lon": "7.35672",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.242737,
+          47.607089
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Altkirch",
+        "lat": "47.607089",
+        "lon": "7.242737",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.332001,
+          47.747173
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Mulhouse",
+        "lat": "47.747173",
+        "lon": "7.332001",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.631424,
+          49.939289
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Revin",
+        "lat": "49.939289",
+        "lon": "4.631424",
+        "type": "INE",
+        "observation": "http://orzy.centres-sociaux.fr/2013/07/08/incroyablement-comestible/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.04248,
+          48.914377
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Pont-à-Mousson",
+        "lat": "48.914377",
+        "lon": "6.04248",
+        "type": "INE",
+        "observation": "http://amapapam.blogspot.fr/2013/02/incroyables-comestibles-la-nourriture.html)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.00589,
+          49.05272
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Ay",
+        "lat": "49.05272",
+        "lon": "4.00589",
+        "type": "INE",
+        "observation": "http://www.lunion.presse.fr/region/le-concept-des-incroyables-comestibles-pousse-dans-le-jna3b24n146107)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.075928,
+          48.294158
+        ]
+      },
+      "properties": {
+        "title": "F- Incroyables Comestibles Troyes",
+        "lat": "48.294158",
+        "lon": "4.075928",
+        "type": "INE",
+        "observation": "https://www.facebook.com/lesincroyablescomestiblesaub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.174316,
+          49.117029
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Metz",
+        "lat": "49.117029",
+        "lon": "6.174316",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.190796,
+          48.683708
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Nancy",
+        "lat": "48.683708",
+        "lon": "6.190796",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Les-Incroyables-Comestibles-de-Nancy/148724918641668)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.985634,
+          49.246742
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Tinqueux",
+        "lat": "49.246742",
+        "lon": "3.985634",
+        "type": "INE",
+        "observation": "http://www.incredible-edible.info/?page_id=2122). Le rendez-vous se trouve sur la page facebook de Cécile en lien sur le site"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.031982,
+          49.259963
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Reims",
+        "lat": "49.259963",
+        "lon": "4.031982",
+        "type": "INE",
+        "observation": "https://www.facebook.com/LesIncroyablesComestibles.Reim"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.461334,
+          49.437883
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Ritzing",
+        "lat": "49.437883",
+        "lon": "6.461334",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncroyablesComestiblesMoselleNord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.927124,
+          49.336756
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Trieux",
+        "lat": "49.336756",
+        "lon": "5.927124",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncroyablesComestiblesMoselleNord)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.04969,
+          49.367396
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Algrange",
+        "lat": "49.367396",
+        "lon": "6.04969",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncroyablesComestiblesMoselleNord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.153374,
+          49.257498
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Amnéville",
+        "lat": "49.257498",
+        "lon": "6.153374",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncroyablesComestiblesMoselleNord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0672,
+          49.332729
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Hayange",
+        "lat": "49.332729",
+        "lon": "6.0672",
+        "type": "INE",
+        "observation": "C'est parti à Hayange !"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.152344,
+          49.41008
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Hettange-Grande",
+        "lat": "49.41008",
+        "lon": "6.152344",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncroyablesComestiblesMoselleNord"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.164703,
+          49.360912
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Thionville",
+        "lat": "49.360912",
+        "lon": "6.164703",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/406346512755980/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.138367,
+          48.046874
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Munster",
+        "lat": "48.046874",
+        "lon": "7.138367",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/406346512755980/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.101631,
+          48.348492
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saales",
+        "lat": "48.348492",
+        "lon": "7.101631",
+        "type": "INE",
+        "observation": "http://www.mairie-saales.fr/index.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.733688,
+          48.611122
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Schiltigheim",
+        "lat": "48.611122",
+        "lon": "7.733688",
+        "type": "INE",
+        "observation": "http://colibris.ning.com/group/colibris-alsace-transition"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.384357,
+          48.010367
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Sainte-Croix-en-Plaine",
+        "lat": "48.010367",
+        "lon": "7.384357",
+        "type": "INE",
+        "observation": "Rejoignez-nous !"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.303333,
+          47.879168
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Ungersheim",
+        "lat": "47.879168",
+        "lon": "7.303333",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.693321,
+          48.357618
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Neufchâteau",
+        "lat": "48.357618",
+        "lon": "5.693321",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-France/342024609186960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.945591,
+          48.288733
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Dié-des-Vosges",
+        "lat": "48.288733",
+        "lon": "6.945591",
+        "type": "INE",
+        "observation": "http://www.vosgesmatin.fr/vosges/2012/08/21/des-choux-d-hiver-a-partager"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.675198,
+          49.768848
+        ]
+      },
+      "properties": {
+        "title": "F – Incroyables Comestibles Warcq",
+        "lat": "49.768848",
+        "lon": "4.675198",
+        "type": "INE",
+        "observation": "Projet en cours de préparation. Les premières actions de partage des incroyables comestibles ont commencé sur la commune.À suivre... pour INCREDIBLE EDIBLE WARCQ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7845,
+          48.579787
+        ]
+      },
+      "properties": {
+        "title": "F – Incroyables Comestibles Strasbourg",
+        "lat": "48.579787",
+        "lon": "7.7845",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.20892,
+          47.912373
+        ]
+      },
+      "properties": {
+        "title": "F – Incroyables Comestibles Guebwiller",
+        "lat": "47.912373",
+        "lon": "7.20892",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.456702,
+          48.260177
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Sélestat",
+        "lat": "48.260177",
+        "lon": "7.456702",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/406346512755980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53233,
+          48.268512
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Muttersholtz",
+        "lat": "48.268512",
+        "lon": "7.53233",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incredible-Edible-Muttersholtz/483396055004135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.193985,
+          48.170894
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Fréland",
+        "lat": "48.170894",
+        "lon": "7.193985",
+        "type": "INE",
+        "observation": "http://freland.lesincroyablescomestibles.f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.182312,
+          48.388406
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Colroy-la-Roche",
+        "lat": "48.388406",
+        "lon": "7.182312",
+        "type": "INE"
+      }
+    }
+  ]
+}

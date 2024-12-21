@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.483349,
+          48.824854
+        ]
+      },
+      "properties": {
+        "title": "Place du Château",
+        "lat": "48.8248544",
+        "lon": "7.4833489",
+        "type": "SES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.903278,
+          49.182276
+        ]
+      },
+      "properties": {
+        "title": "Rue du Parc",
+        "lat": "49.1822756",
+        "lon": "6.9032778",
+        "type": "SES",
+        "picture": "https://delivrez.fr/public/posts/img.66be14a83bbf3.png"
+      }
+    }
+  ]
+}

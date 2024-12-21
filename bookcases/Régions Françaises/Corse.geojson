@@ -1,0 +1,193 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.75577,
+          42.563277
+        ]
+      },
+      "properties": {
+        "title": "Sur le parking",
+        "lat": "42.5632765",
+        "lon": "8.7557697",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67603c8e7690a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.756004,
+          42.564771
+        ]
+      },
+      "properties": {
+        "title": "Dans le hall de la gare",
+        "lat": "42.5647707",
+        "lon": "8.7560043",
+        "type": "BSB",
+        "observation": "dans une malle en fer",
+        "picture": "https://delivrez.fr/public/posts/img.67603227701f7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.442948,
+          42.682477
+        ]
+      },
+      "properties": {
+        "title": "place Saint Nicolas",
+        "lat": "42.6824766",
+        "lon": "9.4429485",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.776939,
+          41.949534
+        ]
+      },
+      "properties": {
+        "title": "Allée du Prunelli",
+        "lat": "41.9495344",
+        "lon": "8.7769391",
+        "type": "BSB",
+        "observation": "Dans la galerie commerçante Géant Casino près des toilettes",
+        "picture": "https://delivrez.fr/public/posts/img.634d5a936212e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.739299,
+          41.930239
+        ]
+      },
+      "properties": {
+        "title": "Cours Napoléon",
+        "lat": "41.930239",
+        "lon": "8.739299",
+        "type": "BSB",
+        "observation": "Face auto distribution"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.938084,
+          42.632604
+        ]
+      },
+      "properties": {
+        "title": "Casino",
+        "lat": "42.6326037",
+        "lon": "8.9380841",
+        "type": "BSB",
+        "observation": "A la sortie du Casino, près des caisses, il y a une petite caisse de livres en libre service !"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.840953,
+          41.699064
+        ]
+      },
+      "properties": {
+        "title": "Résidence golfe du valinco, Olmeto plage",
+        "lat": "41.699063978799174",
+        "lon": "8.840952515602114",
+        "type": "BSB",
+        "observation": "Petite boite à lire au rond point du Motel et du Spar, à 25 mètres de la plage, pratique pour une petite lecture les pieds dans l'eau."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.060516,
+          42.081804
+        ]
+      },
+      "properties": {
+        "title": "Bâtiment U palazzu",
+        "lat": "42.081804",
+        "lon": "9.060516",
+        "type": "BSB",
+        "observation": "La boîte à lire se trouve à l'entrée de la médiathèque. Des livres pour les petits et grands .Réapprovisionnée tous les jours ...Une vrai mine ..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.152837,
+          42.298999
+        ]
+      },
+      "properties": {
+        "title": "Université",
+        "lat": "42.2989986",
+        "lon": "9.1528366",
+        "type": "BSB",
+        "observation": "A votre disposition dans le hall du bâtiment Desanti-bibliothèque universitaire."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.451228,
+          42.700586
+        ]
+      },
+      "properties": {
+        "title": "Place Saint Nicolas ",
+        "lat": "42.7005856",
+        "lon": "9.4512278",
+        "type": "BSB",
+        "observation": "Boîte à lire aménagée dans une ancienne cabine téléphonique."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.399904,
+          41.997829
+        ]
+      },
+      "properties": {
+        "title": "Migliacciaro",
+        "lat": "41.997829",
+        "lon": "9.399904",
+        "type": "BSB",
+        "observation": "Armoire à lire près de la boutique Bio Sous les Glycines."
+      }
+    }
+  ]
+}

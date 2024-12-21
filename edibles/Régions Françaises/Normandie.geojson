@@ -1,0 +1,489 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.227849,
+          49.145922
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Lisieux",
+        "lat": "49.145922",
+        "lon": "0.227849",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.044099,
+          49.481859
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Maromme",
+        "lat": "49.481859",
+        "lon": "1.04409899999996",
+        "type": "INE",
+        "observation": "Plus d'informations via : incroyablescomestiblesmaromme@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.488107,
+          49.091958
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Vernon",
+        "lat": "49.091958",
+        "lon": "1.48810700000001",
+        "type": "INE",
+        "observation": "https://www.facebook.com/incroyablescomestiblesverno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.724563,
+          49.482662
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Gournay-en-Bray",
+        "lat": "49.4826616",
+        "lon": "1.7245633",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.539984,
+          49.284862
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Creully",
+        "lat": "49.2848619",
+        "lon": "-0.539984000000004",
+        "type": "INE",
+        "observation": "Pour plus d’informations vous pouvez contacter Jérôme Gallot :– Par mail : jerome.gallot@libertysurf.fr– Par téléphone : 06 10 11 86 33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.36166,
+          48.686843
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Avranches",
+        "lat": "48.686843",
+        "lon": "-1.36166000000003",
+        "type": "INE",
+        "observation": "Retrouvez toutes les actions locales sur la page :  www.facebook.com/ICAvranches"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.696318,
+          49.336387
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Longues-sur-Mer",
+        "lat": "49.336387",
+        "lon": "-0.696318000000019",
+        "type": "INE",
+        "observation": "Les incroyables s'implantent à Longues sur Mer ! Rejoignez le mouvement en contactant Corine :  corinedpz@gmail.com."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.615256,
+          49.643164
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Cherbourg",
+        "lat": "49.6431638",
+        "lon": "-1.61525610000001",
+        "type": "INE",
+        "observation": "https://www.facebook.com/ICCherbourgCotenti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.082814,
+          49.115469
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Lô",
+        "lat": "49.1154686",
+        "lon": "-1.08281360000001",
+        "type": "INE",
+        "observation": "http://saint-lo.lesincroyablescomestibles.f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.579207,
+          49.545715
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Brix",
+        "lat": "49.545715",
+        "lon": "-1.579207",
+        "type": "INE",
+        "observation": "Rejoignez le groupe en contactant Arnaud : Pinchonarnaud@live.fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.165066,
+          49.490877
+        ]
+      },
+      "properties": {
+        "title": "Point 498",
+        "lat": "49.4908766",
+        "lon": "1.1650658",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.07666,
+          49.916746
+        ]
+      },
+      "properties": {
+        "title": "INCREDIBLE EDIBLE DIEPPE",
+        "lat": "49.916746",
+        "lon": "1.07666",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/200812110053298/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.295944,
+          48.79827
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Gacé",
+        "lat": "48.79827",
+        "lon": "0.295944",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/200812110053298/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.428394,
+          49.477382
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Morville-sur-Andelle",
+        "lat": "49.477382",
+        "lon": "1.428394",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/200812110053298/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.378685,
+          49.294904
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Douvres-la-Délivrande",
+        "lat": "49.294904",
+        "lon": "-0.378685",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/200812110053298/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.159573,
+          49.44458
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Darnetal",
+        "lat": "49.44458",
+        "lon": "1.159573",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/200812110053298/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.483398,
+          49.567978
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Bolbec",
+        "lat": "49.567978",
+        "lon": "0.483398",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.284271,
+          49.081287
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Aignan-de-Cramesnil",
+        "lat": "49.081287",
+        "lon": "-0.284271",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/200812110053298/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.328217,
+          49.203243
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Hérouville-Saint-Clair",
+        "lat": "49.203243",
+        "lon": "-0.328217",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/200812110053298/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.042293,
+          49.243856
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Angerville",
+        "lat": "49.243856",
+        "lon": "-0.042293",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/200812110053298/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.243073,
+          49.134104
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Lisieux",
+        "lat": "49.134104",
+        "lon": "0.243073",
+        "type": "INE",
+        "observation": "http://www.resistancesdupaysdauge.org/amis-incroyables-lexoviens-passons-laction/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.441956,
+          49.05767
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Coutances",
+        "lat": "49.05767",
+        "lon": "-1.441956",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.884399,
+          48.843028
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Vire",
+        "lat": "48.843028",
+        "lon": "-0.884399",
+        "type": "INE",
+        "observation": "http://www.ouest-france.fr/et-si-plantait-des-tomates-sur-les-trottoirs-692844)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.174164,
+          49.214009
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Louviers",
+        "lat": "49.214009",
+        "lon": "1.174164",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.109863,
+          49.496675
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Le Havre",
+        "lat": "49.496675",
+        "lon": "0.109863",
+        "type": "INE",
+        "observation": "Les Incroyables Comestibles ont bien démarré dans la ville du Havre.Page en cours de construction..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.148758,
+          49.025713
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Évreux",
+        "lat": "49.025713",
+        "lon": "1.148758",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.452169,
+          49.533509
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Tamerville",
+        "lat": "49.533509",
+        "lon": "-1.452169",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/200812110053298/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.381088,
+          49.177439
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Caen",
+        "lat": "49.177439",
+        "lon": "-0.381088",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0952,
+          49.445361
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Rouen",
+        "lat": "49.445361",
+        "lon": "1.0952",
+        "type": "INE"
+      }
+    }
+  ]
+}

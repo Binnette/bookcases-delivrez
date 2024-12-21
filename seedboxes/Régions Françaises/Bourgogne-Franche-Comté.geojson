@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.299311,
+          47.232344
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "47.2323443",
+        "lon": "6.2993115",
+        "type": "SES",
+        "observation": "face boulangerie",
+        "picture": "https://delivrez.fr/public/posts/img.66324bce50e78.png"
+      }
+    }
+  ]
+}

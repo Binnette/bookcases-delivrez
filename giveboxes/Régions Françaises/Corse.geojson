@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.737047,
+          41.919675
+        ]
+      },
+      "properties": {
+        "title": "Cours Napoléon",
+        "lat": "41.9196755",
+        "lon": "8.7370469",
+        "type": "DSB",
+        "observation": "en face la préfecture. accolé au Bistrot du cour"
+      }
+    }
+  ]
+}

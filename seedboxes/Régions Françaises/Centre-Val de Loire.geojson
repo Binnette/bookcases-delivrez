@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.686763,
+          47.75387
+        ]
+      },
+      "properties": {
+        "title": "Place de L’Eglise",
+        "lat": "47.75387",
+        "lon": "0.6867628",
+        "type": "SES",
+        "observation": "sous un arbre",
+        "picture": "https://delivrez.fr/public/posts/img.66bf1539b682f.png"
+      }
+    }
+  ]
+}

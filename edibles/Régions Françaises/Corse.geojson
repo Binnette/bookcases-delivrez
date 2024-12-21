@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.474421,
+          42.775212
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Erbalunga",
+        "lat": "42.775212",
+        "lon": "9.474421",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/493864047310197/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.45189,
+          42.697182
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Bastia",
+        "lat": "42.697182",
+        "lon": "9.45189",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/493864047310197"
+      }
+    }
+  ]
+}

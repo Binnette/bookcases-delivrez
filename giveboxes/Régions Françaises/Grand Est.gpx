@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.867416" lon="6.795417">
+    <name>Rue des Ormes</name>
+    <desc></desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.223474" lon="7.357278">
+    <name>D6</name>
+    <desc>Rodern</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.750768" lon="7.092944">
+    <name>Rue Saint-Maurice</name>
+    <desc>face caserne</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.719464" lon="6.164283">
+    <name>La Piscine - libre échange et don</name>
+    <desc>tiers lieux associatif avec jardin, don et recyclage@@__5 avenue de metz 54320 maxeville</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.251014" lon="3.766001">
+    <name>boîte à dons</name>
+    <desc>_</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.885767" lon="7.058962">
+    <name>Rue de Saint-Amarin</name>
+    <desc>9 h 12 h tout les samedis</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.876956" lon="6.774501">
+    <name>Rue de Lorraine</name>
+    <desc>sur la parking  gp moto</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.017556" lon="5.677918">
+    <name>gratuité</name>
+    <desc>lieu convivial</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.041992" lon="7.30952">
+    <name>Grand-Rue</name>
+    <desc>à côté des pompiers</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.991314" lon="5.293179">
+    <name>recherche grillage à poule</name>
+    <desc>bonjour, je recherche grillage à poule de minimum 1m15 de long.</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.014624" lon="7.546992">
+    <name>Place de l'Europe</name>
+    <desc>dans le hall a côté du coiffeur</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.886441" lon="6.99596">
+    <name>Rue des Fabriques</name>
+    <desc>grainotheque de la mediatheque de wesserling</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Delivrez giveboxes" color="#0000ff" icon="outpost" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

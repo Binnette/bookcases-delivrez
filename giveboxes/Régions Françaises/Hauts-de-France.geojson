@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.58501,
+          50.350699
+        ]
+      },
+      "properties": {
+        "title": "D74E3",
+        "lat": "50.3506992",
+        "lon": "2.5850096",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.661177a519103.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.302313,
+          49.895578
+        ]
+      },
+      "properties": {
+        "title": "Rue du Hocquet",
+        "lat": "49.895578",
+        "lon": "2.3023129",
+        "type": "DSB",
+        "observation": "chalet solidarité",
+        "picture": "https://delivrez.fr/public/posts/img.65f85832dd50a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.07319,
+          50.654206
+        ]
+      },
+      "properties": {
+        "title": "Rue du Général de Gaulle",
+        "lat": "50.6542055",
+        "lon": "3.0731899",
+        "type": "DSB",
+        "observation": "Face à la Mairie",
+        "picture": "https://delivrez.fr/public/posts/img.64c63acaa5de9.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.72565" lon="-1.512839">
+    <name>Place de l'Église</name>
+    <desc></desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.527027" lon="-0.940539">
+    <name>Boîte à dons</name>
+    <desc></desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.98847" lon="0.19656">
+    <name>Rue du Pont</name>
+    <desc></desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.133763" lon="-1.749523">
+    <name>Avenue des Tilleuls</name>
+    <desc>derrière l'école Jules Verne</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.666359" lon="-1.672767">
+    <name>Rue de Redon</name>
+    <desc>A côté de l'association socioculturelle La barakatous</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Delivrez giveboxes" color="#0000ff" icon="outpost" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

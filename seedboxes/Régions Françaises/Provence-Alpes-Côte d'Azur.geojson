@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.753831,
+          43.623431
+        ]
+      },
+      "properties": {
+        "title": "Médiathèque de Callian",
+        "lat": "43.6234306",
+        "lon": "6.7538311",
+        "type": "SES",
+        "observation": "Dans la médiathèque, large choix",
+        "picture": "https://delivrez.fr/public/posts/img.66c8b93127ba9.png"
+      }
+    }
+  ]
+}

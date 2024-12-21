@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <extensions>
+    <osmand:points_groups>
+      <group name="Delivrez seedboxes" color="#ffa500" icon="club_nature" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

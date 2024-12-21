@@ -1,0 +1,449 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.002136,
+          43.588896
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Miramas",
+        "lat": "43.588896",
+        "lon": "5.00213600000006",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.622019,
+          43.480621
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Rousset",
+        "lat": "43.480621",
+        "lon": "5.62201900000002",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.899433,
+          44.114506
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Jonquières",
+        "lat": "44.114506",
+        "lon": "4.89943300000004",
+        "type": "INE",
+        "observation": "https://ideesjonquieres.blogspot.fr ou via ideesjonquieres@gmail.com.Vous pouvez aussi contacter Marie-Pierre : mphoger@gmail.com 0630757492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.501843,
+          43.694275
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Pertuis",
+        "lat": "43.694275",
+        "lon": "5.50184300000001",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.955228,
+          44.773934
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Ristolas",
+        "lat": "44.7739339",
+        "lon": "6.95522800000003",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.864004,
+          43.452497
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Maximin-la-Sainte-Baume",
+        "lat": "43.452497",
+        "lon": "5.86400400000002",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.847956,
+          43.698521
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Vallier-de-Thiey",
+        "lat": "43.698521",
+        "lon": "6.84795600000007",
+        "type": "INE",
+        "observation": "Rejoignez l'Incroyable jeune groupe dans cette superbe aventure de la nourriture partagée pour tous, en contactant Clotilde : clotilde.tueux@free.fr 0683291574 ou Armel  : armails@free.fr 0643405680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.269772,
+          43.71633
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Nice-Valrose",
+        "lat": "43.7163295",
+        "lon": "7.26977169999998",
+        "type": "INE",
+        "observation": "https://incroyablecampusvalrose.or"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37999,
+          43.441195
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Cabriès",
+        "lat": "43.441195",
+        "lon": "5.37999000000002",
+        "type": "INE",
+        "observation": "Pour les contacter :Sylvie Lorne au 06 14 26 32 03 mail: lapelledelaterre@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.055222,
+          43.616354
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Sophia Antipolis",
+        "lat": "43.6163539",
+        "lon": "7.05522180000003",
+        "type": "INE",
+        "observation": "http://incroyablescomestiblessophiaantipolis.com/ ou sur la page :  www.facebook.com/IncroyablesComestiblesSophiaAntipoli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.627777,
+          43.676647
+        ]
+      },
+      "properties": {
+        "title": "Incroyables Comestibles Arles",
+        "lat": "43.676647",
+        "lon": "4.6277769",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.261963,
+          43.700644
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Nice",
+        "lat": "43.700644",
+        "lon": "7.261963",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.924133,
+          43.660918
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Grasse",
+        "lat": "43.660918",
+        "lon": "6.924133",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.025757,
+          43.552529
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Cannes",
+        "lat": "43.552529",
+        "lon": "7.025757",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/586473448049087/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.346909,
+          43.401056
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Septèmes-les-Vallons",
+        "lat": "43.401056",
+        "lon": "5.346909",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.443726,
+          43.494775
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Aix-en-Provence",
+        "lat": "43.494775",
+        "lon": "5.443726",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/1397520460517452/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.576935,
+          43.287203
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Aubagne",
+        "lat": "43.287203",
+        "lon": "5.576935",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incroyables-Comestibles-Aubagne/1380213002246893)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.240234,
+          44.067854
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Digne",
+        "lat": "44.067854",
+        "lon": "6.240234",
+        "type": "INE",
+        "observation": "Les Incroyables Comestibles ont été semés dans la ville de Digne.Page en cours de création..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.133118,
+          43.102988
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Hyères",
+        "lat": "43.102988",
+        "lon": "6.133118",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.61676,
+          43.185153
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible La Ciotat",
+        "lat": "43.185153",
+        "lon": "5.61676",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.250977,
+          43.699651
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Nice",
+        "lat": "43.699651",
+        "lon": "7.250977",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.801025,
+          43.945372
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Avignon",
+        "lat": "43.945372",
+        "lon": "4.801025",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.053711,
+          44.052064
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Carpentras",
+        "lat": "44.052064",
+        "lon": "5.053711",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8255,
+          44.321883
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Laragne-Montéglin",
+        "lat": "44.321883",
+        "lon": "5.8255",
+        "type": "INE",
+        "observation": "http://incroyablescomestiblesbuech.eklablog.com/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.642265,
+          43.637814
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Seillans",
+        "lat": "43.637814",
+        "lon": "6.642265",
+        "type": "INE",
+        "observation": "http://www.facebook.com/seillans.entransition) et participez aux Incroyables Comestibles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.835886,
+          44.062796
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Cruis",
+        "lat": "44.062796",
+        "lon": "5.835886",
+        "type": "INE",
+        "observation": "http://chevres.nutritionverte.com/index.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.389137,
+          43.29495
+        ]
+      },
+      "properties": {
+        "title": "F – Incroyables Comestibles Marseille",
+        "lat": "43.29495",
+        "lon": "5.389137",
+        "type": "INE"
+      }
+    }
+  ]
+}

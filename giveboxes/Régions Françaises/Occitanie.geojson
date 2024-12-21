@@ -1,0 +1,106 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.425922,
+          43.692922
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "43.6929219",
+        "lon": "2.4259225",
+        "type": "DSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.708512,
+          43.113445
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jacques Prévert",
+        "lat": "43.1134446",
+        "lon": "0.7085117",
+        "type": "DSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.106029,
+          42.98725
+        ]
+      },
+      "properties": {
+        "title": "Cami d'Azun",
+        "lat": "42.9872502",
+        "lon": "-0.1060286",
+        "type": "DSB",
+        "observation": "boite à dons avec boîte à livre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.068021,
+          42.963066
+        ]
+      },
+      "properties": {
+        "title": "Prats",
+        "lat": "42.9630662",
+        "lon": "-0.0680207",
+        "type": "DSB",
+        "observation": "proche des sculptures"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.088865,
+          43.000704
+        ]
+      },
+      "properties": {
+        "title": "Rue du Neouvielle",
+        "lat": "43.0007041",
+        "lon": "-0.0888647",
+        "type": "DSB",
+        "observation": "derrière le local poubelle HLM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.47699,
+          43.953505
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "43.953505",
+        "lon": "4.4769897",
+        "type": "DSB",
+        "observation": "Place l'église sous le tilleul"
+      }
+    }
+  ]
+}

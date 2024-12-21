@@ -1,0 +1,160 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.354978,
+          44.412968
+        ]
+      },
+      "properties": {
+        "title": "Place Louis Latil",
+        "lat": "44.4129679",
+        "lon": "5.3549784",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.67167a4638d78.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.877938,
+          45.767927
+        ]
+      },
+      "properties": {
+        "title": "Rue Anatole France",
+        "lat": "45.7679267",
+        "lon": "4.8779385",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.66f126b21f0af.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.176686,
+          45.904555
+        ]
+      },
+      "properties": {
+        "title": "Route de la Cité perouge",
+        "lat": "45.9045553",
+        "lon": "5.1766863",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.66c8a18a3201e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.267817,
+          45.334447
+        ]
+      },
+      "properties": {
+        "title": "Le bourg",
+        "lat": "45.3344467",
+        "lon": "3.2678173",
+        "type": "DSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.848263,
+          45.379704
+        ]
+      },
+      "properties": {
+        "title": "Chemin de la Seta",
+        "lat": "45.3797043",
+        "lon": "5.8482629",
+        "type": "DSB",
+        "observation": "livres jouets vaisselle cd dvd",
+        "picture": "https://delivrez.fr/public/posts/img.6453e7016ab9e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.769639,
+          45.62172
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Bourgeat",
+        "lat": "45.6217203",
+        "lon": "6.7696388",
+        "type": "DSB",
+        "observation": "En face d'un portail de jardin",
+        "picture": "https://delivrez.fr/public/posts/img.644a9afda6184.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.874672,
+          45.778678
+        ]
+      },
+      "properties": {
+        "title": "Rue de la doua",
+        "lat": "45.7786782",
+        "lon": "4.8746721",
+        "type": "DSB",
+        "observation": "toi toi le zinc",
+        "picture": "https://delivrez.fr/public/posts/img.62a75c305a685.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.527709,
+          45.726012
+        ]
+      },
+      "properties": {
+        "title": "D123",
+        "lat": "45.7260121",
+        "lon": "6.5277093",
+        "type": "DSB",
+        "observation": "avec le café associatif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.575077,
+          45.71799
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Capitaine Bulle",
+        "lat": "45.7179903",
+        "lon": "6.5750771",
+        "type": "DSB",
+        "observation": "en face office du tourisme"
+      }
+    }
+  ]
+}

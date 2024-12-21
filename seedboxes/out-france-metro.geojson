@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.599185,
+          35.582212
+        ]
+      },
+      "properties": {
+        "title": "#littlefreegardenstand",
+        "lat": "35.5822118",
+        "lon": "-82.5991847",
+        "type": "SES",
+        "observation": "Books, vegetables, flowers, seed, canned goods, seedlings"
+      }
+    }
+  ]
+}

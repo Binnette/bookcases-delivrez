@@ -1,0 +1,528 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.190193" lon="-0.126084">
+    <name>D260</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.896899" lon="1.319155">
+    <name>F - Incroyables Comestibles Rilhac-Rancon</name>
+    <desc>https://www.facebook.com/Ville-de-Rilhac-Rancon-148524683843566</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.571149" lon="0.644071">
+    <name>F - Incroyables Comestibles Chauvigny</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.184029" lon="0.721115">
+    <name>F - Incroyables Comestibles Périgueux</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.936199" lon="-0.183076">
+    <name>F - Incroyables Comestibles Néac</name>
+    <desc>Colibri à son échelle, happycultrice et guide composteur, Patricia a démarrée l’aventure citoyenne des Incroyables Comestibles à Néac !Pour la rejoindre :  patriciadeval@yahoo.fr  ou 06 67 09 01 94</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.640826" lon="-0.377919">
+    <name>F - Incroyables Comestibles Geaune</name>
+    <desc>Nous sommes ravis d’initier cette belle aventure à Geaune !Poursuivez l'aventure avec Tom, Adam et Sandrine, en les contactant par mail  duarte.tom@hotmail.fr ou au 07 82 85 23 64</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.708796" lon="-1.02933">
+    <name>F - Incroyables Comestibles Mornac-sur-Seudre</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.744175" lon="-0.633389">
+    <name>F - Incroyables Comestibles Saintes</name>
+    <desc>https://incroyablescomestiblessaintes.wordpress.co</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.109948" lon="-1.007427">
+    <name>F - Incroyables Comestibles Croix-Chapeau</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.762324" lon="-0.654621">
+    <name>F - Incroyables Comestibles Canéjan</name>
+    <desc>http://www.facebook.com/incroyablescomestiblescaneja</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.398331" lon="1.383885">
+    <name>F - Incroyables Comestibles Arnac-Pompadour</name>
+    <desc>http://blogs.crdp-limousin.fr/19-arnac-pompadour-ecole-elementaire/Contact :- MAURIE Pascale ce.0190229w@ac-limoges.fr 055573318</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.299631" lon="1.72842">
+    <name>F - Incroyables Comestibles Saint-Sulpice-le-Dunois</name>
+    <desc>Rejoignez le groupe en contactant Monique :  monique.guerot@gmail.com ou 0679226523</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.944823" lon="-0.517763">
+    <name>F - Incroyables Comestibles Saint-Jean-d'Angély</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.445368" lon="-0.431058">
+    <name>F - Incroyables Comestibles Jonzac</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.623027" lon="-1.043182">
+    <name>F - Incroyables Comestibles Royan</name>
+    <desc>https://www.facebook.com/incroyablescomestiblesroya</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.302207" lon="-0.39742">
+    <name>F - Incroyables Comestibles Billère</name>
+    <desc>Pour les rejoindre :  lepotagerdufutur@gmail.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.408205" lon="0.707257">
+    <name>F - Incroyables Comestibles Villeneuve-sur-Lot</name>
+    <desc>https://www.facebook.com/incroyablescomestiblesvilleneuvois47.f</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.743536" lon="-1.102449">
+    <name>F- Incroyables Comestibles Andernos-les-Bains</name>
+    <desc>https://www.facebook.com/Incroyables-Comestibles-Anderno</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.394603" lon="-1.134723">
+    <name>F- Incroyables Comestibles Orègue</name>
+    <desc>Delphine Lapeyre Tél : 05.87.50.39.34 ou 05.59.67.04.39 Mail : delphine.lapeyre.64@gmail.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.47315" lon="1.791888">
+    <name>F - Incroyables Comestibles Madranges</name>
+    <desc>Les Incroyables comestibles ont démarrés à Madranges !</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.912998" lon="-0.243985">
+    <name>F - Incroyables Comestibles Libourne</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.99456" lon="-0.445865">
+    <name>F - Incroyables Comestibles Saint-André-de-Cubzac</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.200417" lon="-1.228009">
+    <name>F - Incroyables Comestibles Mimizan</name>
+    <desc>Pour tout renseignement, contacter Aurélie :  aurelie.honton@gmail.com</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.475455" lon="-1.20333">
+    <name>F - Incroyables Comestibles Bardos</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.869496" lon="0.376625">
+    <name>Incredible Edible La Force</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.222979" lon="0.730166">
+    <name>Incredible Edible La Force</name>
+    <desc>https://www.facebook.com/groups/210885509044799/)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.250387" lon="-0.764751">
+    <name>Incredible Edible La Grève sur Mignon</name>
+    <desc>https://www.facebook.com/incroyablescomestibles.lagrevesurmignon)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.214051" lon="-0.137329">
+    <name>Incredible Edible Melle</name>
+    <desc>https://www.facebook.com/groups/Incroyables.Comestibles.Poitou.Charentes/)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.511931" lon="0.074501">
+    <name>Incredible Edible Couthures-sur-Garonne</name>
+    <desc>http://savoureusesplantessauvages.wordpress.com/2014/05/24/incroyables-comestibles-dans-lincroyable-jardin-de-couthures-sur-garonne/)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.166636" lon="-1.021986">
+    <name>Incredible Edible Bourgneuf</name>
+    <desc>http://www.neotissimo.com/icbourgneu</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.480664" lon="0.370102">
+    <name>Incredible Edible Roches-Prémarie</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.599449" lon="0.357742">
+    <name>Incredible Edible Buxerolles</name>
+    <desc>https://www.facebook.com/events/285168711657933/)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.825905" lon="0.459366">
+    <name>Incredible Edible Thuré</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.813689" lon="0.545883">
+    <name>Incredible Edible Châtellerault</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.771112" lon="-0.346756">
+    <name>Incredible Edible Creon</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.563583" lon="0.121536">
+    <name>Incredible Edible Mouthiers-sur-Boëme</name>
+    <desc>Les Incroyables Comestibles ont été mis en terre à Mouthiers-sur-Boëme.Page en cours de création.</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.601068" lon="-0.054932">
+    <name>Incredible Edible Châteauneuf-sur-Charente</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.486604" lon="0.315555">
+    <name>Incredible Edible Iteuil</name>
+    <desc>https://www.facebook.com/Incroyables.Comestibles.Iteuil)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.877282" lon="1.212616">
+    <name>Incredible Edible Sarlat-la-Canéda</name>
+    <desc>https://www.facebook.com/IncroyablesComestiblesSarlatLaCaneda)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.496995" lon="0.159302">
+    <name>Incredible Edible Marmande</name>
+    <desc>http://www.sudouest.fr/2013/05/21/incroyables-comestibles-1059525-3755.php)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.30615" lon="-0.989456">
+    <name>Incredible Edible Marans</name>
+    <desc>https://www.facebook.com/LesIncroyablesComestiblesAMarans17230)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.502745" lon="-1.513367">
+    <name>Incredible Edible Bayonne</name>
+    <desc>Les Incroyables Comestibles ont pris racine dans la ville de Bayonne sous l'impulsion des citoyens jardiniers solidaires bienveillants.</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.442067" lon="-1.084728">
+    <name>Incredible Edible Grayan-et-l'Hôpital</name>
+    <desc>https://www.facebook.com/groups/393187387457080/)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.204547" lon="-1.194763">
+    <name>Incredible Edible Nieul-sur-Mer</name>
+    <desc>http://ecocliceaunieulais.blogspot.fr/2013/06/nourriture-partager.html)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.644768" lon="0.153809">
+    <name>Incredible Edible Angoulême</name>
+    <desc>https://www.facebook.com/IncroyablesComestiblesAngoulemeCo)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.945421" lon="-0.965424">
+    <name>Incredible Edible Rochefort</name>
+    <desc>http://comestibles17300.canalblog.com/)</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.844108" lon="1.252441">
+    <name>Incredible Edible Limoges</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.350719" lon="-0.461426">
+    <name>Incredible Edible Niort</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.780129" lon="1.010056">
+    <name>Incredible Edible Belvès</name>
+    <desc>https://www.facebook.com/IncroyableComestibleDordogne</desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.083084" lon="-0.717545">
+    <name>F – Incroyables Comestibles Luglon</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.841264" lon="-0.579872">
+    <name>F – Incroyables Comestibles Bordeaux</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.577743" lon="0.335083">
+    <name>Incredible Edible Poitiers</name>
+    <desc></desc>
+    <type>Delivrez edibles</type>
+    <extensions>
+      <osmand:color>#00ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_greengrocer</osmand:icon>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Delivrez edibles" color="#00ff00" icon="shop_greengrocer" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

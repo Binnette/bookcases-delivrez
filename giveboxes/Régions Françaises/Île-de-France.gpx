@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.865774" lon="2.380814">
+    <name>Rue Dranem</name>
+    <desc>au niveau du square Georges Sarre</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.827205" lon="2.278442">
+    <name>boite à dons</name>
+    <desc>_</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.01196" lon="1.90821">
+    <name>boite a dons dans le parking Auchan au fond</name>
+    <desc>_</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.945407" lon="1.527645">
+    <name>Rue René Dhal</name>
+    <desc>boite a don a côté de la pharmacie</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.967357" lon="2.358971">
+    <name>L'Inutile Utile</name>
+    <desc>Magasin pour rien</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Delivrez giveboxes" color="#0000ff" icon="outpost" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

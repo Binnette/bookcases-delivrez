@@ -1,0 +1,8038 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.637977,
+          49.5144
+        ]
+      },
+      "properties": {
+        "title": "trouville alliquerbille",
+        "lat": "49.5143996",
+        "lon": "0.6379771",
+        "type": "BSB",
+        "observation": "mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.774412,
+          49.081639
+        ]
+      },
+      "properties": {
+        "title": "Rue Marcel Heurtebout",
+        "lat": "49.0816388",
+        "lon": "0.7744124",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67361835daac2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.514318,
+          49.35392
+        ]
+      },
+      "properties": {
+        "title": "place Victor Hugo",
+        "lat": "49.3539197",
+        "lon": "0.5143179",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.672f48da48883.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.439864,
+          49.731122
+        ]
+      },
+      "properties": {
+        "title": "Place du 8 Mai",
+        "lat": "49.7311225",
+        "lon": "1.4398639",
+        "type": "BSB",
+        "observation": "à l'entrée du parc saint Pierre",
+        "picture": "https://delivrez.fr/public/posts/img.6723c77441545.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.07187,
+          49.463141
+        ]
+      },
+      "properties": {
+        "title": "place Colbert",
+        "lat": "49.4631415",
+        "lon": "1.0718703",
+        "type": "BSB",
+        "observation": "près du cinéma Ariel",
+        "picture": "https://delivrez.fr/public/posts/img.6723af0011a5d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.072277,
+          49.462779
+        ]
+      },
+      "properties": {
+        "title": "esplanade Andrée Chedid",
+        "lat": "49.4627791",
+        "lon": "1.0722767",
+        "type": "BSB",
+        "observation": "cabine de téléphone. londonienne",
+        "picture": "https://delivrez.fr/public/posts/img.6723ab31bcea3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.453748,
+          49.334659
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Combattante",
+        "lat": "49.3346588",
+        "lon": "-0.4537475",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.578996,
+          49.095103
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Garenne",
+        "lat": "49.0951026",
+        "lon": "-1.5789961",
+        "type": "BSB",
+        "observation": "ancien frigo",
+        "picture": "https://delivrez.fr/public/posts/img.671ba88b4bc50.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.446667,
+          49.047464
+        ]
+      },
+      "properties": {
+        "title": "Rue Quesnel Canveaux",
+        "lat": "49.0474637",
+        "lon": "-1.4466669",
+        "type": "BSB",
+        "observation": "A l'entrée du jardin des plantes",
+        "picture": "https://delivrez.fr/public/posts/img.671a447fabb90.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.67071,
+          49.507894
+        ]
+      },
+      "properties": {
+        "title": "St wandrille",
+        "lat": "49.507894",
+        "lon": "0.6707102",
+        "type": "BSB",
+        "observation": "près eglise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.324994,
+          49.794296
+        ]
+      },
+      "properties": {
+        "title": "Route de Neufchâtel",
+        "lat": "49.7942957",
+        "lon": "1.3249939",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.231864,
+          49.148608
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Jules Ferry",
+        "lat": "49.1486076",
+        "lon": "0.2318638",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66fbe83aac1e9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.327707,
+          49.695315
+        ]
+      },
+      "properties": {
+        "title": "Rue du Chant des Oiseaux",
+        "lat": "49.6953151",
+        "lon": "0.3277072",
+        "type": "BSB",
+        "observation": "En face de l'école",
+        "picture": "https://delivrez.fr/public/posts/img.66fd19a58e4fc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.774913,
+          49.623036
+        ]
+      },
+      "properties": {
+        "title": "Avenue René Coty",
+        "lat": "49.623036",
+        "lon": "0.7749126",
+        "type": "BSB",
+        "observation": "Devant la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.66eef210a233b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.924949,
+          49.613244
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "49.6132438",
+        "lon": "0.9249491",
+        "type": "BSB",
+        "observation": "Devant la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.66eeec9c0e6fb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.483116,
+          49.556634
+        ]
+      },
+      "properties": {
+        "title": "Rue du Maréchal Foch",
+        "lat": "49.5566343",
+        "lon": "0.4831156",
+        "type": "BSB",
+        "observation": "Dans une cabine téléphonique anglaise",
+        "picture": "https://delivrez.fr/public/posts/img.66eadb996fa33.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.125429,
+          49.49505
+        ]
+      },
+      "properties": {
+        "title": "Rue Turenne",
+        "lat": "49.4950505",
+        "lon": "0.1254292",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66e844f474f77.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.49596,
+          49.80557
+        ]
+      },
+      "properties": {
+        "title": "VIVAL ST PIERRE EN PORT",
+        "lat": "49.80557",
+        "lon": "0.49596",
+        "type": "BSB",
+        "observation": "Little Free Library",
+        "picture": "https://delivrez.fr/public/posts/img.66daf1c371f1e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.11028,
+          49.598318
+        ]
+      },
+      "properties": {
+        "title": "Place des Halles",
+        "lat": "49.598318",
+        "lon": "1.1102795",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.483575,
+          49.09439
+        ]
+      },
+      "properties": {
+        "title": "Rue des Écuries des Gardes",
+        "lat": "49.0943904",
+        "lon": "1.4835749",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66c88d4ebd278.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.444764,
+          49.039103
+        ]
+      },
+      "properties": {
+        "title": "1 Rue de la Gare",
+        "lat": "49.0391031",
+        "lon": "-1.4447641",
+        "type": "BSB",
+        "observation": "En face de l école primaire par rapport à la route.",
+        "picture": "https://delivrez.fr/public/posts/img.66cb45e76da49.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.139262,
+          49.282116
+        ]
+      },
+      "properties": {
+        "title": "Voie Communale Ancienne Route de Caen",
+        "lat": "49.282116",
+        "lon": "-0.1392624",
+        "type": "BSB",
+        "observation": "Petite boîte type maisonnette",
+        "picture": "https://delivrez.fr/public/posts/img.66c0c20d74857.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.437908,
+          49.248524
+        ]
+      },
+      "properties": {
+        "title": "Intermarché les Andelys",
+        "lat": "49.248524",
+        "lon": "1.4379083",
+        "type": "BSB",
+        "observation": "au fond du magasin espace lecture",
+        "picture": "https://delivrez.fr/public/posts/img.66bf6dd02ad62.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.027886,
+          49.306767
+        ]
+      },
+      "properties": {
+        "title": "boîte à lire",
+        "lat": "49.3067666",
+        "lon": "-0.0278859",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66bb7d671107d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.768955,
+          49.281189
+        ]
+      },
+      "properties": {
+        "title": "devant la mairie",
+        "lat": "49.2811894",
+        "lon": "0.7689549",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.003184,
+          49.278489
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Lubin",
+        "lat": "49.278489",
+        "lon": "-0.0031843",
+        "type": "BSB",
+        "observation": "1 pour les adultes et 1 pour les enfant côté à cote"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.834237,
+          48.385053
+        ]
+      },
+      "properties": {
+        "title": "Place Lorrain Cruse",
+        "lat": "48.3850534",
+        "lon": "0.8342366",
+        "type": "BSB",
+        "observation": "devant l'église",
+        "picture": "https://delivrez.fr/public/posts/img.66b8846070704.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.612378,
+          48.478315
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "48.478315",
+        "lon": "0.6123783",
+        "type": "BSB",
+        "observation": "au début de la rue, dans une ancienne cabine téléphonique",
+        "picture": "https://delivrez.fr/public/posts/img.66b770fc7e0d2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.361182,
+          48.687707
+        ]
+      },
+      "properties": {
+        "title": "Rue de Geôle",
+        "lat": "48.6877073",
+        "lon": "-1.3611818",
+        "type": "BSB",
+        "observation": "Jardin Hortus",
+        "picture": "https://delivrez.fr/public/posts/img.66b733decf7a7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.353507,
+          48.512451
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "48.5124509",
+        "lon": "0.3535074",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66b7405dee667.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.376587,
+          49.247909
+        ]
+      },
+      "properties": {
+        "title": "Place du Général de Gaulle",
+        "lat": "49.2479091",
+        "lon": "0.3765866",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66ba3b47d5c0a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.731152,
+          49.317519
+        ]
+      },
+      "properties": {
+        "title": "Le Gardin Huley",
+        "lat": "49.3175188",
+        "lon": "0.7311523",
+        "type": "BSB",
+        "observation": "dans l'arrêt de car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.718235,
+          49.319727
+        ]
+      },
+      "properties": {
+        "title": "Hameau du Karouge",
+        "lat": "49.3197265",
+        "lon": "0.7182354",
+        "type": "BSB",
+        "observation": "dans l'arrêt de car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.701904,
+          49.314093
+        ]
+      },
+      "properties": {
+        "title": "D91",
+        "lat": "49.3140934",
+        "lon": "0.7019036",
+        "type": "BSB",
+        "observation": "dans l'arrêt de car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.444317,
+          49.726685
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Andre",
+        "lat": "49.7266852",
+        "lon": "1.4443171",
+        "type": "BSB",
+        "observation": "boite contre la poste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.808216,
+          49.265489
+        ]
+      },
+      "properties": {
+        "title": "Route nationale",
+        "lat": "49.2654889",
+        "lon": "0.8082157",
+        "type": "BSB",
+        "observation": "à côté de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.047098,
+          49.388948
+        ]
+      },
+      "properties": {
+        "title": "Quai Henri Chéron",
+        "lat": "49.3889484",
+        "lon": "-1.0470978",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66b3d211ce60f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.045202,
+          49.388019
+        ]
+      },
+      "properties": {
+        "title": "Rue des Écoles",
+        "lat": "49.3880189",
+        "lon": "-1.0452021",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66b3cb33c4457.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.697457,
+          48.671276
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "48.6712762",
+        "lon": "0.6974568",
+        "type": "BSB",
+        "observation": "A côté du portail de l'école .",
+        "picture": "https://delivrez.fr/public/posts/img.66af7c28d7327.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.515888,
+          49.326284
+        ]
+      },
+      "properties": {
+        "title": "Route de Siglas",
+        "lat": "49.3262837",
+        "lon": "0.5158884",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.340574,
+          49.164274
+        ]
+      },
+      "properties": {
+        "title": "Rue Roland Roche",
+        "lat": "49.1642741",
+        "lon": "1.3405737",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66a3840ec4ee3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.370143,
+          49.181459
+        ]
+      },
+      "properties": {
+        "title": "Résidence les Cigales",
+        "lat": "49.181459",
+        "lon": "1.370143",
+        "type": "BSB",
+        "observation": "dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.66a36c2011f42.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.399998,
+          49.225661
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Bequet",
+        "lat": "49.2256613",
+        "lon": "1.3999982",
+        "type": "BSB",
+        "observation": "a côté de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.66a217119a5f8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.220844,
+          49.232398
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "49.2323984",
+        "lon": "1.2208439",
+        "type": "BSB",
+        "observation": "a gauche de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.66a0eab092e54.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.396056,
+          49.427785
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "49.4277855",
+        "lon": "1.3960562",
+        "type": "BSB",
+        "observation": "a l'entrée du parking",
+        "picture": "https://delivrez.fr/public/posts/img.669e4a4eb236e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.38041,
+          49.444212
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Gare",
+        "lat": "49.444212",
+        "lon": "1.38041",
+        "type": "BSB",
+        "observation": "a côté de Céline fleurs",
+        "picture": "https://delivrez.fr/public/posts/img.669e48e040615.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.344586,
+          49.472498
+        ]
+      },
+      "properties": {
+        "title": "Place Gustave Flaubert",
+        "lat": "49.4724979",
+        "lon": "1.3445857",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.669e3e4c833fd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.318562,
+          49.310601
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "49.3106011",
+        "lon": "1.3185622",
+        "type": "BSB",
+        "observation": "a droite de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.669cca2bbb7d4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.103928,
+          49.295865
+        ]
+      },
+      "properties": {
+        "title": "Residence Cap Cabourg",
+        "lat": "49.2958646",
+        "lon": "-0.1039278",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.669cc9f4c6867.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094788,
+          49.291291
+        ]
+      },
+      "properties": {
+        "title": "Jorge Semprun",
+        "lat": "49.2912911",
+        "lon": "-0.0947878",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66991671a8d48.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.098501,
+          49.286951
+        ]
+      },
+      "properties": {
+        "title": "Rue d'Hastings",
+        "lat": "49.2869514",
+        "lon": "-0.0985014",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66990942aa011.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.044758,
+          49.231038
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "49.2310377",
+        "lon": "-0.0447583",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6698eb2f4ad9f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.109621,
+          49.278751
+        ]
+      },
+      "properties": {
+        "title": "Place de Verdun",
+        "lat": "49.2787514",
+        "lon": "0.109621",
+        "type": "BSB",
+        "observation": "devant le passage du collège",
+        "picture": "https://delivrez.fr/public/posts/img.6698ccd5a9b31.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.63075,
+          49.020083
+        ]
+      },
+      "properties": {
+        "title": "Place de L Hôtel de ville",
+        "lat": "49.0200834",
+        "lon": "-0.6307503",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6634fc1d1accb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.299248,
+          49.338012
+        ]
+      },
+      "properties": {
+        "title": "Rue du Cardinal Amette",
+        "lat": "49.3380119",
+        "lon": "1.2992484",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.668a6fb5a3f9a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.155963,
+          48.716027
+        ]
+      },
+      "properties": {
+        "title": "boite à livre",
+        "lat": "48.7160271",
+        "lon": "-1.1559635",
+        "type": "BSB",
+        "observation": "place Victor guerinel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.381302,
+          49.014252
+        ]
+      },
+      "properties": {
+        "title": "Rue Edouard Isambard",
+        "lat": "49.0142518",
+        "lon": "1.3813018",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66655e60cb30d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.029832,
+          49.898109
+        ]
+      },
+      "properties": {
+        "title": "Rue Grimaldi",
+        "lat": "49.8981095",
+        "lon": "1.029832",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6664597e05717.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.951786,
+          49.881834
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mer",
+        "lat": "49.8818338",
+        "lon": "0.9517856",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6664472ff15db.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.513508,
+          48.553387
+        ]
+      },
+      "properties": {
+        "title": "Cours de la Victoire",
+        "lat": "48.5533865",
+        "lon": "-1.5135084",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.667a86937794a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.487227,
+          48.947335
+        ]
+      },
+      "properties": {
+        "title": "Gr Grande Rue",
+        "lat": "48.9473347",
+        "lon": "1.4872268",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.666f06e679d67.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.32893,
+          49.696635
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Liberté",
+        "lat": "49.6966355",
+        "lon": "0.3289297",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.66631449ecf68.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.205292,
+          49.707548
+        ]
+      },
+      "properties": {
+        "title": "Place Maurice Guillard",
+        "lat": "49.7075479",
+        "lon": "0.2052919",
+        "type": "BSB",
+        "observation": "Attenante à la bibliothèque",
+        "picture": "https://delivrez.fr/public/posts/img.6662c464519ea.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.596975,
+          49.852129
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Tennis",
+        "lat": "49.8521295",
+        "lon": "0.5969749",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6661a5b2f3df6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.421462,
+          49.24558
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Néhou",
+        "lat": "49.2455802",
+        "lon": "1.4214616",
+        "type": "BSB",
+        "observation": "école de musique sur le côté droit",
+        "picture": "https://delivrez.fr/public/posts/img.665d83f7545da.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.209425,
+          49.704197
+        ]
+      },
+      "properties": {
+        "title": "Rue Guy de Maupassant",
+        "lat": "49.7041973",
+        "lon": "0.2094252",
+        "type": "BSB",
+        "observation": "école du hemin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.220323,
+          48.836883
+        ]
+      },
+      "properties": {
+        "title": "Place des Costils",
+        "lat": "48.8368833",
+        "lon": "-1.2203234",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.014626,
+          49.118759
+        ]
+      },
+      "properties": {
+        "title": "Route de Caen",
+        "lat": "49.1187591",
+        "lon": "0.0146263",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6651f53b1a3d1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.204158,
+          48.895675
+        ]
+      },
+      "properties": {
+        "title": "Rue du Val d'Ante",
+        "lat": "48.8956748",
+        "lon": "-0.2041583",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6644cc22da8e4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.088419,
+          48.541726
+        ]
+      },
+      "properties": {
+        "title": "Rue des Binotiers",
+        "lat": "48.5417264",
+        "lon": "-1.0884193",
+        "type": "BSB",
+        "observation": "sous l'abri de bus",
+        "picture": "https://delivrez.fr/public/posts/img.663c7282bf329.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.095076,
+          48.580142
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Pêcherie",
+        "lat": "48.5801421",
+        "lon": "-1.0950756",
+        "type": "BSB",
+        "observation": "Sous le porche de la maison des jeunes",
+        "picture": "https://delivrez.fr/public/posts/img.6635e7f398655.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.308382,
+          48.698092
+        ]
+      },
+      "properties": {
+        "title": "Route de la Mairie",
+        "lat": "48.6980924",
+        "lon": "-1.3083817",
+        "type": "BSB",
+        "observation": "Sur le parking de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6635dfce6ca07.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.333799,
+          49.160531
+        ]
+      },
+      "properties": {
+        "title": "Place Aristide Briand",
+        "lat": "49.1605315",
+        "lon": "1.3337988",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.661e4bc1c96a1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.378907,
+          49.204953
+        ]
+      },
+      "properties": {
+        "title": "Allée des Roses des Prés",
+        "lat": "49.2049527",
+        "lon": "1.3789074",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6619015d6fa8f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.973223,
+          48.951617
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "48.9516169",
+        "lon": "0.9732226",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.661a528171eaf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.041583,
+          49.525079
+        ]
+      },
+      "properties": {
+        "title": "Cabine à livre du Parc de Malaunay",
+        "lat": "49.525079",
+        "lon": "1.0415835",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.660a8b915bf57.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.094005,
+          49.444589
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Lecanuet",
+        "lat": "49.4445893",
+        "lon": "1.0940045",
+        "type": "BSB",
+        "observation": "devant le musée des Beaux-Arts",
+        "picture": "https://delivrez.fr/public/posts/img.65e5fd705b175.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.201335,
+          49.054572
+        ]
+      },
+      "properties": {
+        "title": "Impasse du Vallon Fleuri",
+        "lat": "49.0545719",
+        "lon": "1.2013355",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.65a3fed9e22a6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.033427,
+          49.024599
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Hautes Forières",
+        "lat": "49.0245988",
+        "lon": "1.0334267",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6593e6a9c83de.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.093192,
+          49.010899
+        ]
+      },
+      "properties": {
+        "title": "Rue du Sentier",
+        "lat": "49.0108994",
+        "lon": "1.0931918",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6593e1fcd8a46.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.881037,
+          49.516725
+        ]
+      },
+      "properties": {
+        "title": "Saint Paer",
+        "lat": "49.516725",
+        "lon": "0.8810371",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.65707db2f1a1e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.689064,
+          48.264094
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Cidrerie",
+        "lat": "48.2640939",
+        "lon": "0.689064",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6558e100e1227.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.605297,
+          48.280372
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la République",
+        "lat": "48.2803717",
+        "lon": "0.6052972",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6558dd232afbd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.605494,
+          48.280326
+        ]
+      },
+      "properties": {
+        "title": "Rue Germaine de Courson",
+        "lat": "48.2803257",
+        "lon": "0.6054941",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6558db069bf92.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.698736,
+          49.697078
+        ]
+      },
+      "properties": {
+        "title": "boite à livres",
+        "lat": "49.6970781",
+        "lon": "0.6987364",
+        "type": "BSB",
+        "observation": "près du boulanger",
+        "picture": "https://delivrez.fr/public/posts/img.654765c6a94ea.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.515041,
+          49.344627
+        ]
+      },
+      "properties": {
+        "title": "Avenue Colonel Harper",
+        "lat": "49.3446267",
+        "lon": "-0.5150411",
+        "type": "BSB",
+        "observation": "a côté jeux pour enfants",
+        "picture": "https://delivrez.fr/public/posts/img.6544d312ab541.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.100348,
+          49.44183
+        ]
+      },
+      "properties": {
+        "title": "rue des Faulx",
+        "lat": "49.4418301",
+        "lon": "1.100348",
+        "type": "BSB",
+        "observation": "Jardins de l’Hôtel de ville ",
+        "picture": "https://delivrez.fr/public/posts/img.654245e94617f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.088408,
+          49.443195
+        ]
+      },
+      "properties": {
+        "title": "Place du Vieux Marché",
+        "lat": "49.4431949",
+        "lon": "1.0884076",
+        "type": "BSB",
+        "observation": "au pied de la rue Cauchoise",
+        "picture": "https://delivrez.fr/public/posts/img.654235691ad0b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.873631,
+          49.299328
+        ]
+      },
+      "properties": {
+        "title": "Rue de Thuit Hébert",
+        "lat": "49.2993283",
+        "lon": "0.8736307",
+        "type": "BSB",
+        "observation": "a côté de la porte d'entrée de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.653e784436bfe.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.038326,
+          49.402759
+        ]
+      },
+      "properties": {
+        "title": "la roseraie",
+        "lat": "49.402759",
+        "lon": "1.0383264",
+        "type": "BSB",
+        "observation": "dans le parc, près de la résidence A. Thiers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.726117,
+          49.525349
+        ]
+      },
+      "properties": {
+        "title": "Maison des Templiers",
+        "lat": "49.5253494",
+        "lon": "0.7261166",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.653276d06d9e8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.04286,
+          49.221219
+        ]
+      },
+      "properties": {
+        "title": "Rue Maure",
+        "lat": "49.2212192",
+        "lon": "1.0428595",
+        "type": "BSB",
+        "observation": "en face de la mare",
+        "picture": "https://delivrez.fr/public/posts/img.6513f8022a64f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.250337,
+          49.284746
+        ]
+      },
+      "properties": {
+        "title": "Rue des Dunes",
+        "lat": "49.2847457",
+        "lon": "-0.2503368",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.650ee68c9956f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.335941,
+          49.154527
+        ]
+      },
+      "properties": {
+        "title": "terrain pétanque cormelle",
+        "lat": "49.1545274",
+        "lon": "-0.3359406",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.64fdd70a096af.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.367597,
+          49.760665
+        ]
+      },
+      "properties": {
+        "title": "Quai Berigny",
+        "lat": "49.7606648",
+        "lon": "0.3675967",
+        "type": "BSB",
+        "observation": "Boîte à livres située sur le quai",
+        "picture": "https://delivrez.fr/public/posts/img.64f31a039ceaf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.386969,
+          49.744276
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Président François Mitterrand",
+        "lat": "49.7442764",
+        "lon": "0.3869686",
+        "type": "BSB",
+        "observation": "Devant l'hôpital à l'extérieur",
+        "picture": "https://delivrez.fr/public/posts/img.64f07cba57921.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.374756,
+          49.762282
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jean Lorrain",
+        "lat": "49.7622823",
+        "lon": "0.3747562",
+        "type": "BSB",
+        "observation": "Près du pont Gayant",
+        "picture": "https://delivrez.fr/public/posts/img.64ee12481565d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.357756,
+          49.738973
+        ]
+      },
+      "properties": {
+        "title": "Rue Victor Coviaux",
+        "lat": "49.7389733",
+        "lon": "0.3577557",
+        "type": "BSB",
+        "observation": "A côté de la mairie, dans le rond point",
+        "picture": "https://delivrez.fr/public/posts/img.64eb770212fc5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2824,
+          49.699174
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "49.6991742",
+        "lon": "0.2824001",
+        "type": "BSB",
+        "observation": "Devant l'église",
+        "picture": "https://delivrez.fr/public/posts/img.64eb744cd4dc1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.911603,
+          49.061947
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Etienne",
+        "lat": "49.0619474",
+        "lon": "0.9116034",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.64ea0e39b03d2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.030822,
+          49.018225
+        ]
+      },
+      "properties": {
+        "title": "Place du Marché",
+        "lat": "49.0182255",
+        "lon": "-0.0308219",
+        "type": "BSB",
+        "observation": "dans le jardin de la poste",
+        "picture": "https://delivrez.fr/public/posts/img.64e37b1a0fbbe.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.388873,
+          49.325267
+        ]
+      },
+      "properties": {
+        "title": "reviers",
+        "lat": "49.3252667",
+        "lon": "-0.3888733",
+        "type": "BSB",
+        "observation": "petite boîte à livre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.331349,
+          49.740358
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "49.740358",
+        "lon": "0.3313491",
+        "type": "BSB",
+        "observation": "A côté de la salle polyvalente",
+        "picture": "https://delivrez.fr/public/posts/img.64db756f40d5e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.408104,
+          49.168021
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "49.1680208",
+        "lon": "1.4081036",
+        "type": "BSB",
+        "observation": "Petite Cabane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.420721,
+          50.049955
+        ]
+      },
+      "properties": {
+        "title": "Rue de Clèves",
+        "lat": "50.0499551",
+        "lon": "1.4207212",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.64db8e7fa003e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.407747,
+          49.244517
+        ]
+      },
+      "properties": {
+        "title": "Parc Nicolas Poussin",
+        "lat": "49.2445172",
+        "lon": "1.4077471",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.64d88cc53e389.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.222131,
+          48.841791
+        ]
+      },
+      "properties": {
+        "title": "Jardin public",
+        "lat": "48.8417912",
+        "lon": "-1.2221307",
+        "type": "BSB",
+        "observation": "Bibliothèque de rue - au centre",
+        "picture": "https://delivrez.fr/public/posts/img.64d61e9e5b092.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.418237,
+          50.048926
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Duhornay",
+        "lat": "50.0489255",
+        "lon": "1.4182374",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.64d4f5754f661.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.419066,
+          50.050018
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Hélène",
+        "lat": "50.0500177",
+        "lon": "1.4190659",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.64d4f4b752a45.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.420344,
+          50.052057
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Hélène",
+        "lat": "50.052057",
+        "lon": "1.4203445",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.64d4f37470dca.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.481922,
+          48.98952
+        ]
+      },
+      "properties": {
+        "title": "Place de la Gare",
+        "lat": "48.98952",
+        "lon": "-0.4819217",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.64d4b4c175cb0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.650187,
+          48.588917
+        ]
+      },
+      "properties": {
+        "title": "a côté du camping",
+        "lat": "48.5889167",
+        "lon": "-0.6501867",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.64d24d12176c4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.005277,
+          49.323323
+        ]
+      },
+      "properties": {
+        "title": "Place Mermoz",
+        "lat": "49.3233225",
+        "lon": "-0.0052773",
+        "type": "BSB",
+        "observation": "devant le Normandie immobilier",
+        "picture": "https://delivrez.fr/public/posts/img.64d13d13f314c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.513225,
+          49.355277
+        ]
+      },
+      "properties": {
+        "title": "Place Louis Gillain",
+        "lat": "49.3552775",
+        "lon": "0.5132252",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.64cfa3d62ae08.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.048086,
+          48.389983
+        ]
+      },
+      "properties": {
+        "title": "Sainte-James",
+        "lat": "48.3899831",
+        "lon": "0.0480855",
+        "type": "BSB",
+        "observation": "Tonneau",
+        "picture": "https://delivrez.fr/public/posts/img.64ce246bd91e9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118936,
+          49.338023
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Calvaire",
+        "lat": "49.3380229",
+        "lon": "0.1189359",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.64c691a5daa9f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.371422,
+          49.56241
+        ]
+      },
+      "properties": {
+        "title": "Rue Bechot",
+        "lat": "49.56241",
+        "lon": "-1.3714222",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.371308,
+          49.753555
+        ]
+      },
+      "properties": {
+        "title": "Carrefour",
+        "lat": "49.7535554",
+        "lon": "0.3713076",
+        "type": "BSB",
+        "observation": "A l'entrée de Carrefour",
+        "picture": "https://delivrez.fr/public/posts/img.64a448794f976.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.776157,
+          48.706982
+        ]
+      },
+      "properties": {
+        "title": "gourmand le guerin",
+        "lat": "48.706982",
+        "lon": "0.7761574",
+        "type": "BSB",
+        "observation": "face à l'église",
+        "picture": "https://delivrez.fr/public/posts/img.64a0297a73645.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.741181,
+          48.784526
+        ]
+      },
+      "properties": {
+        "title": "chéronvilliers",
+        "lat": "48.7845265",
+        "lon": "0.7411809",
+        "type": "BSB",
+        "observation": "angle de la rue Résidence des Parcs",
+        "picture": "https://delivrez.fr/public/posts/img.649f3342de93e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.678172,
+          48.790363
+        ]
+      },
+      "properties": {
+        "title": "saint Martin l'ecublé",
+        "lat": "48.7903634",
+        "lon": "0.6781718",
+        "type": "BSB",
+        "observation": "entre l'église et la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.649f32e4bf702.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.381865,
+          49.756203
+        ]
+      },
+      "properties": {
+        "title": "Hôtel de ville",
+        "lat": "49.7562027",
+        "lon": "0.3818648",
+        "type": "BSB",
+        "observation": "Devant le bureau de l'emploi",
+        "picture": "https://delivrez.fr/public/posts/img.649ef928ddb4b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.368096,
+          49.748266
+        ]
+      },
+      "properties": {
+        "title": "Le Ramponneau",
+        "lat": "49.7482662",
+        "lon": "0.3680957",
+        "type": "BSB",
+        "observation": "Devant la maison de quartier du Ramponneau",
+        "picture": "https://delivrez.fr/public/posts/img.649ed9b63dc8e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.730418,
+          48.815424
+        ]
+      },
+      "properties": {
+        "title": "Rue de L’Eglise",
+        "lat": "48.815424",
+        "lon": "0.7304181",
+        "type": "BSB",
+        "observation": "en face de la salle des fêtes",
+        "picture": "https://delivrez.fr/public/posts/img.649c69483589b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.343395,
+          48.775524
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "48.7755244",
+        "lon": "0.3433949",
+        "type": "BSB",
+        "observation": "rue du cimetière",
+        "picture": "https://delivrez.fr/public/posts/img.649c46565e553.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.360948,
+          49.75905
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Albert 1er",
+        "lat": "49.7590503",
+        "lon": "0.3609478",
+        "type": "BSB",
+        "observation": "Devant les sauveteurs en mer",
+        "picture": "https://delivrez.fr/public/posts/img.64971e875ca03.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.930814,
+          49.35205
+        ]
+      },
+      "properties": {
+        "title": "Quai Hector Malot",
+        "lat": "49.3520497",
+        "lon": "0.9308143",
+        "type": "BSB",
+        "observation": "je prends, je lis, je partage",
+        "picture": "https://delivrez.fr/public/posts/img.648ad58f0762b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.524223,
+          49.16711
+        ]
+      },
+      "properties": {
+        "title": "Rue des Marquises",
+        "lat": "49.1671095",
+        "lon": "-0.5242234",
+        "type": "BSB",
+        "observation": "Sur la place, en face de la boulangerie",
+        "picture": "https://delivrez.fr/public/posts/img.647c5ea809e9a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.486848,
+          48.916267
+        ]
+      },
+      "properties": {
+        "title": "Rue des Jardins",
+        "lat": "48.9162673",
+        "lon": "-0.4868483",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.64747217aa309.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.745685,
+          49.482202
+        ]
+      },
+      "properties": {
+        "title": "Rue Charles Gervais",
+        "lat": "49.4822015",
+        "lon": "1.7456846",
+        "type": "BSB",
+        "observation": "boite enfants et adultes",
+        "picture": "https://delivrez.fr/public/posts/img.6477671abb018.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.512453,
+          49.316699
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Adrien",
+        "lat": "49.3166985",
+        "lon": "1.5124535",
+        "type": "BSB",
+        "observation": "Mairie",
+        "picture": "https://delivrez.fr/public/posts/img.64732b06c0fcb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6e-05,
+          49.325629
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la République",
+        "lat": "49.3256294",
+        "lon": "2.62E-5",
+        "type": "BSB",
+        "observation": "pres du poste de secours et derrière le restaurant la digue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25093,
+          49.409178
+        ]
+      },
+      "properties": {
+        "title": "Rue de Bois l'Évêque",
+        "lat": "49.4091782",
+        "lon": "1.2509302",
+        "type": "BSB",
+        "observation": "Face à la pharmacie",
+        "picture": "https://delivrez.fr/public/posts/img.644fbf0f130aa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.13225,
+          49.421943
+        ]
+      },
+      "properties": {
+        "title": "Rue François Herr",
+        "lat": "49.4219433",
+        "lon": "1.1322499",
+        "type": "BSB",
+        "observation": "À côté École Notre Dame de Nazareth",
+        "picture": "https://delivrez.fr/public/posts/img.644e710fbae01.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.138572,
+          49.412307
+        ]
+      },
+      "properties": {
+        "title": "Place du Général de Gaulle",
+        "lat": "49.4123066",
+        "lon": "1.1385719",
+        "type": "BSB",
+        "observation": "Face Mairie du Mesnil-Esnard",
+        "picture": "https://delivrez.fr/public/posts/img.644e6e744a077.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.885269,
+          49.461908
+        ]
+      },
+      "properties": {
+        "title": "Rue Monseigneur Lemonnier",
+        "lat": "49.4619079",
+        "lon": "0.8852686",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.64108b687d417.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.930958,
+          49.502174
+        ]
+      },
+      "properties": {
+        "title": "Route du Paulu",
+        "lat": "49.5021742",
+        "lon": "0.9309577",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.63d7a3741aee9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.893044,
+          49.561407
+        ]
+      },
+      "properties": {
+        "title": "Rue du Château",
+        "lat": "49.5614072",
+        "lon": "0.8930439",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.63972db3575d1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.885319,
+          49.461925
+        ]
+      },
+      "properties": {
+        "title": "Anneville-Ambourville",
+        "lat": "49.4619254",
+        "lon": "0.8853187",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.6374e1f47fb37.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.892941,
+          49.356233
+        ]
+      },
+      "properties": {
+        "title": "Route nationale",
+        "lat": "49.3562327",
+        "lon": "0.8929411",
+        "type": "BSB",
+        "observation": "Sur la place de la Mairie",
+        "picture": "https://delivrez.fr/public/posts/img.642d9d3b1601d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.888618,
+          49.35666
+        ]
+      },
+      "properties": {
+        "title": "Route nationale",
+        "lat": "49.3566596",
+        "lon": "0.8886178",
+        "type": "BSB",
+        "observation": "Près du Lidl",
+        "picture": "https://delivrez.fr/public/posts/img.642d9ba35e733.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.254144,
+          49.981294
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "49.9812937",
+        "lon": "1.2541437",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.358205,
+          48.677365
+        ]
+      },
+      "properties": {
+        "title": "Rue Barbey d'Aurevilly",
+        "lat": "48.6773646",
+        "lon": "-1.3582051",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.63d4f774b0a38.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.35789,
+          48.688168
+        ]
+      },
+      "properties": {
+        "title": "Place du Marché",
+        "lat": "48.688168",
+        "lon": "-1.3578898",
+        "type": "BSB",
+        "observation": "Sur la place du marché",
+        "picture": "https://delivrez.fr/public/posts/img.63d0ff0d70838.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.342294,
+          48.684954
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Eglise",
+        "lat": "48.6849541",
+        "lon": "-1.3422944",
+        "type": "BSB",
+        "observation": "Devant la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.63cf883adec05.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.772,
+          49.481849
+        ]
+      },
+      "properties": {
+        "title": "Rue de la République",
+        "lat": "49.4818491",
+        "lon": "0.7720003",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.635947cdd2ef7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.876757,
+          49.48149
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livre Lions France",
+        "lat": "49.4814899",
+        "lon": "0.8767566",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.633de433d3dee.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.790194,
+          49.82845
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Motte",
+        "lat": "49.8284504",
+        "lon": "0.790194",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.6300badf4df2f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.927436,
+          48.739798
+        ]
+      },
+      "properties": {
+        "title": "Rue des Trois Maillets",
+        "lat": "48.7397977",
+        "lon": "0.9274365",
+        "type": "BSB",
+        "observation": "Magasin Mam'zelle savon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36831,
+          48.701826
+        ]
+      },
+      "properties": {
+        "title": "Briouze",
+        "lat": "48.7018256",
+        "lon": "-0.3683102",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.62fdf821af537.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.189554,
+          49.355494
+        ]
+      },
+      "properties": {
+        "title": "Rue du Fresnay",
+        "lat": "49.3554943",
+        "lon": "1.1895541",
+        "type": "BSB",
+        "observation": "devant l'école"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.54862,
+          48.844662
+        ]
+      },
+      "properties": {
+        "title": "Rue Iberthe Bertoux",
+        "lat": "48.8446618",
+        "lon": "-0.5486201",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.62fa6756cc065.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.076139,
+          48.419434
+        ]
+      },
+      "properties": {
+        "title": "BAL St Germains",
+        "lat": "48.4194336",
+        "lon": "0.0761389",
+        "type": "BSB",
+        "observation": "Près de la résidence Escalys, à côté de Carrefour Market.",
+        "picture": "https://delivrez.fr/public/posts/img.62fa4d9fc4064.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.030439,
+          49.192573
+        ]
+      },
+      "properties": {
+        "title": "Ruelle Picard",
+        "lat": "49.192573",
+        "lon": "1.0304388",
+        "type": "BSB",
+        "observation": "à côté de l'enclos des poules@@__ancienne cabine téléphonique",
+        "picture": "https://delivrez.fr/public/posts/img.62ea35f652a02.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.05312,
+          49.211389
+        ]
+      },
+      "properties": {
+        "title": "Rue des Champs",
+        "lat": "49.2113893",
+        "lon": "1.0531205",
+        "type": "BSB",
+        "observation": "besoin d'une porte@@__à côté de l'arrêt de bus",
+        "picture": "https://delivrez.fr/public/posts/img.62ea3336b2bad.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.065643,
+          49.223587
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "49.2235869",
+        "lon": "1.0656426",
+        "type": "BSB",
+        "observation": "a droite de la pharmacie",
+        "picture": "https://delivrez.fr/public/posts/img.62e8e23341cbf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.089436,
+          49.236061
+        ]
+      },
+      "properties": {
+        "title": "Rue des Forrières",
+        "lat": "49.236061",
+        "lon": "1.0894364",
+        "type": "BSB",
+        "observation": "entre l'école et la salle des fêtes",
+        "picture": "https://delivrez.fr/public/posts/img.62e8e4cad0099.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.526918,
+          48.951507
+        ]
+      },
+      "properties": {
+        "title": "Jolie boîte devant la poste",
+        "lat": "48.9515075",
+        "lon": "-1.526918",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.033522,
+          49.335942
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Hermitage",
+        "lat": "49.3359423",
+        "lon": "0.0335221",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.62d83e7ea8eed.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.800131,
+          49.87261
+        ]
+      },
+      "properties": {
+        "title": "Rue Docteur Pierre Girard",
+        "lat": "49.8726098",
+        "lon": "0.8001306",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.62d12007249a3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.362669,
+          50.035473
+        ]
+      },
+      "properties": {
+        "title": "Rue des Pommiers",
+        "lat": "50.0354731",
+        "lon": "1.3626692",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.629f4f5d27730.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.072757,
+          49.323359
+        ]
+      },
+      "properties": {
+        "title": "bato livre",
+        "lat": "49.3233591",
+        "lon": "1.0727566",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.6277a95d3257b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.61369,
+          48.692289
+        ]
+      },
+      "properties": {
+        "title": "Les Hermitages",
+        "lat": "48.6922892",
+        "lon": "0.6136904",
+        "type": "BSB",
+        "observation": "sur le parking de covoiturage",
+        "picture": "https://delivrez.fr/public/posts/img.626ae72c16c89.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.648587,
+          49.310437
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "49.3104368",
+        "lon": "0.6485871",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.625c3633a481e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.077708,
+          49.301293
+        ]
+      },
+      "properties": {
+        "title": "Elbeuf le Buquet",
+        "lat": "49.3012932",
+        "lon": "1.0777079",
+        "type": "BSB",
+        "observation": "à côté de l'entrée de l'école"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.087805,
+          49.437126
+        ]
+      },
+      "properties": {
+        "title": "Pont Jeanne d'Arc",
+        "lat": "49.4371255",
+        "lon": "1.0878048",
+        "type": "BSB",
+        "observation": "Sous le pont, près de l'aire de jeux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.774997,
+          48.431949
+        ]
+      },
+      "properties": {
+        "title": "Avenue Albert de Mun",
+        "lat": "48.4319491",
+        "lon": "0.7749969",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.23604,
+          49.980436
+        ]
+      },
+      "properties": {
+        "title": "Rue des Hares",
+        "lat": "49.9804361",
+        "lon": "1.2360399",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.618e52168177e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.574831,
+          49.527503
+        ]
+      },
+      "properties": {
+        "title": "Rue Félix Faure",
+        "lat": "49.5275028",
+        "lon": "0.5748307",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4997,
+          49.614942
+        ]
+      },
+      "properties": {
+        "title": "D149",
+        "lat": "49.6149417",
+        "lon": "0.4997",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.077538,
+          49.420825
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Martyrs de la Résistance",
+        "lat": "49.4208249",
+        "lon": "1.0775378",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.242406,
+          49.109069
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Motte",
+        "lat": "49.1090692",
+        "lon": "1.2424062",
+        "type": "BSB",
+        "observation": "avec la jardinière et décorée@@__@@__"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.828534,
+          49.488718
+        ]
+      },
+      "properties": {
+        "title": "Bourg LE ROZEL",
+        "lat": "49.4887184",
+        "lon": "-1.8285337",
+        "type": "BSB",
+        "observation": "Boîte bien entretenue et pourvue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.561376,
+          49.211037
+        ]
+      },
+      "properties": {
+        "title": "Route d'Audrieu",
+        "lat": "49.2110371",
+        "lon": "-0.5613763",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.470298,
+          49.576228
+        ]
+      },
+      "properties": {
+        "title": "Route de Mirville",
+        "lat": "49.5762278",
+        "lon": "0.4702976",
+        "type": "BSB",
+        "observation": "val au grès Mjc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.345735,
+          48.701868
+        ]
+      },
+      "properties": {
+        "title": "La Chaussée",
+        "lat": "48.7018676",
+        "lon": "-1.3457354",
+        "type": "BSB",
+        "observation": "dans un ancien tonneau de vin face à la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.772584,
+          49.594417
+        ]
+      },
+      "properties": {
+        "title": "Rue Armand Leveel",
+        "lat": "49.5944169",
+        "lon": "-1.7725843",
+        "type": "BSB",
+        "observation": "place de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.332694,
+          49.160775
+        ]
+      },
+      "properties": {
+        "title": "Rue Yves Montand",
+        "lat": "49.1607751",
+        "lon": "1.3326936",
+        "type": "BSB",
+        "observation": "face au parking du château"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.471808,
+          49.635734
+        ]
+      },
+      "properties": {
+        "title": "Route des Vaux",
+        "lat": "49.6357345",
+        "lon": "-1.4718081",
+        "type": "BSB",
+        "observation": "sur le mur de l ecole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.663389,
+          49.295951
+        ]
+      },
+      "properties": {
+        "title": "Boite à livres - Montfort",
+        "lat": "49.2959514",
+        "lon": "0.6633894",
+        "type": "BSB",
+        "observation": "au bord de la Risle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.211384,
+          49.396039
+        ]
+      },
+      "properties": {
+        "title": "Le lavoir",
+        "lat": "49.3960389",
+        "lon": "0.2113841",
+        "type": "BSB",
+        "observation": "le long du lavoir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7374,
+          48.763173
+        ]
+      },
+      "properties": {
+        "title": "Rue André Breton",
+        "lat": "48.7631733",
+        "lon": "-0.7374",
+        "type": "BSB",
+        "observation": "au niveau des jeux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.431812,
+          49.20326
+        ]
+      },
+      "properties": {
+        "title": "Place des Canadiens",
+        "lat": "49.2032605",
+        "lon": "-0.4318119",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.006977,
+          49.289261
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Gaument",
+        "lat": "49.2892611",
+        "lon": "1.0069774",
+        "type": "BSB",
+        "observation": "près du cinéma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.036798,
+          49.30998
+        ]
+      },
+      "properties": {
+        "title": "Rue Luis Corvalan",
+        "lat": "49.3099799",
+        "lon": "1.0367981",
+        "type": "BSB",
+        "observation": "devant le théâtre La Traverse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.036861,
+          49.38819
+        ]
+      },
+      "properties": {
+        "title": "Rue John Fitzgerald Kennedy",
+        "lat": "49.38819",
+        "lon": "1.0368609",
+        "type": "BSB",
+        "observation": "amusante cabine téléphonique à l'anglaise transformée en boîte à lire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.011693,
+          49.290324
+        ]
+      },
+      "properties": {
+        "title": "Rue de Solférino",
+        "lat": "49.2903244",
+        "lon": "1.0116928",
+        "type": "BSB",
+        "observation": "nouveau square très mignon a l'angle du champs de foire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.925377,
+          49.179089
+        ]
+      },
+      "properties": {
+        "title": "Rue d'Elbeuf",
+        "lat": "49.1790889",
+        "lon": "0.9253769",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.998295,
+          49.201161
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "49.2011615",
+        "lon": "0.9982954",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.009298,
+          48.746983
+        ]
+      },
+      "properties": {
+        "title": "Rue Jeanne d'Arc",
+        "lat": "48.7469826",
+        "lon": "-0.0092979",
+        "type": "BSB",
+        "observation": "boite jaune . face la tabac"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.033163,
+          48.986838
+        ]
+      },
+      "properties": {
+        "title": "Place Saint-Michel",
+        "lat": "48.9868377",
+        "lon": "-1.033163",
+        "type": "BSB",
+        "observation": "dans arrêt de bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.936521,
+          49.265037
+        ]
+      },
+      "properties": {
+        "title": "D85",
+        "lat": "49.2650374",
+        "lon": "0.9365214",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.782316,
+          49.271258
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "49.2712579",
+        "lon": "0.7823162",
+        "type": "BSB",
+        "observation": "derrière l'église et à côté du pâtissier. ancienne cabine téléphonique rénovée très mignonne !"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.064936,
+          49.294021
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "49.2940206",
+        "lon": "1.0649358",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.169161,
+          49.213919
+        ]
+      },
+      "properties": {
+        "title": "Rue Pierre Mendès France",
+        "lat": "49.2139187",
+        "lon": "1.1691606",
+        "type": "BSB",
+        "observation": "Devant l'entrée de l'hôtel de Ville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.170396,
+          49.210917
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Laiterie",
+        "lat": "49.2109173",
+        "lon": "1.1703964",
+        "type": "BSB",
+        "observation": "derrière les abris bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.10092,
+          49.153832
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'École",
+        "lat": "49.1538317",
+        "lon": "1.10092",
+        "type": "BSB",
+        "observation": "À l'entrée de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.96534,
+          49.251572
+        ]
+      },
+      "properties": {
+        "title": "Rue des Longchamps",
+        "lat": "49.2515717",
+        "lon": "0.96534",
+        "type": "BSB",
+        "observation": "toujours beaucoup de nouveaux livres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.535683,
+          48.6151
+        ]
+      },
+      "properties": {
+        "title": "Rue du Perche",
+        "lat": "48.6151003",
+        "lon": "0.5356833",
+        "type": "BSB",
+        "observation": "proxy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.651188,
+          48.951361
+        ]
+      },
+      "properties": {
+        "title": "D49",
+        "lat": "48.9513608",
+        "lon": "0.6511876",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.536047,
+          49.218079
+        ]
+      },
+      "properties": {
+        "title": "rue sainte croix",
+        "lat": "49.2180786",
+        "lon": "-1.5360468",
+        "type": "BSB",
+        "observation": "a côté de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.222033,
+          49.63971
+        ]
+      },
+      "properties": {
+        "title": "Rue du Capitaine Gosselin",
+        "lat": "49.63971",
+        "lon": "0.2220326",
+        "type": "BSB",
+        "observation": "Superbe boîte à livres en bois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.545252,
+          48.519847
+        ]
+      },
+      "properties": {
+        "title": "Place du Général de Gaulle",
+        "lat": "48.5198466",
+        "lon": "0.5452519",
+        "type": "BSB",
+        "observation": "dans le parc au niveaux des jeux enfants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.303488,
+          49.593358
+        ]
+      },
+      "properties": {
+        "title": "Rue de Gaulle",
+        "lat": "49.5933584",
+        "lon": "-1.3034879",
+        "type": "BSB",
+        "observation": "sous l'abri bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.9214,
+          49.29044
+        ]
+      },
+      "properties": {
+        "title": "centre Bosroumois",
+        "lat": "49.29044",
+        "lon": "0.9214",
+        "type": "BSB",
+        "observation": "boîte à livre contre le mur de la poste."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.78583,
+          48.97888
+        ]
+      },
+      "properties": {
+        "title": "VIVAL LA FERRIERE SUR RISLE",
+        "lat": "48.97888",
+        "lon": "0.78583",
+        "type": "BSB",
+        "observation": "Little Free Library"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.53695,
+          49.63232
+        ]
+      },
+      "properties": {
+        "title": "VIVAL YEBLERON",
+        "lat": "49.63232",
+        "lon": "0.53695",
+        "type": "BSB",
+        "observation": "Little Free Library"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.18973,
+          49.5089
+        ]
+      },
+      "properties": {
+        "title": "VIVAL HARFLEUR",
+        "lat": "49.50890",
+        "lon": "0.18973",
+        "type": "BSB",
+        "observation": "Little Free Library"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.49763,
+          50.01622
+        ]
+      },
+      "properties": {
+        "title": "VIVAL INCHEVILLE",
+        "lat": "50.01622",
+        "lon": "1.49763",
+        "type": "BSB",
+        "observation": "Little Free Library"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.619193,
+          49.636034
+        ]
+      },
+      "properties": {
+        "title": "Quai de l'Entrepôt",
+        "lat": "49.6360344",
+        "lon": "-1.6191935",
+        "type": "BSB",
+        "observation": "A côté du magasin \"Cache c Cache\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.589967,
+          49.632107
+        ]
+      },
+      "properties": {
+        "title": "Rue Pierre Brossolette",
+        "lat": "49.6321072",
+        "lon": "-1.5899665",
+        "type": "BSB",
+        "observation": "à côté de \"La parenthèse\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.398488,
+          49.66677
+        ]
+      },
+      "properties": {
+        "title": "La Boularderie",
+        "lat": "49.66677",
+        "lon": "-1.3984875",
+        "type": "BSB",
+        "observation": "Au carrefour, à côté du garage Renault"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.403481,
+          49.668284
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Abbé de Saint-Pierre",
+        "lat": "49.6682835",
+        "lon": "-1.4034813",
+        "type": "BSB",
+        "observation": "Square des p'tits loups"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.286589,
+          49.635836
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "49.6358362",
+        "lon": "-1.2865889",
+        "type": "BSB",
+        "observation": "En face de la boucherie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.397591,
+          49.592137
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "49.5921367",
+        "lon": "-1.3975911",
+        "type": "BSB",
+        "observation": "A côté de la mairie, sous un porche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.620057,
+          49.390486
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "49.3904861",
+        "lon": "0.6200572",
+        "type": "BSB",
+        "observation": "sous le porche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.229147,
+          49.785062
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Hôtel de ville",
+        "lat": "49.7850617",
+        "lon": "1.2291467",
+        "type": "BSB",
+        "observation": "À côté du parc de jeux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.387669,
+          49.364013
+        ]
+      },
+      "properties": {
+        "title": "Le Grand Thuit",
+        "lat": "49.3640134",
+        "lon": "1.3876689",
+        "type": "BSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.382217,
+          49.370681
+        ]
+      },
+      "properties": {
+        "title": "Gr Grande Rue",
+        "lat": "49.3706812",
+        "lon": "1.3822166",
+        "type": "BSB",
+        "observation": "Entre la poste et le point info touristique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.469083,
+          49.398179
+        ]
+      },
+      "properties": {
+        "title": "Rue du Bout de Bas",
+        "lat": "49.398179",
+        "lon": "1.4690826",
+        "type": "BSB",
+        "observation": "Rebord d'une fenêtre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.752857,
+          49.618611
+        ]
+      },
+      "properties": {
+        "title": "Parc du manoir du fay",
+        "lat": "49.6186109",
+        "lon": "0.7528571",
+        "type": "BSB",
+        "observation": "A l entrée du parc sur la gauche, belle boîte toute en verre."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.708557,
+          49.860582
+        ]
+      },
+      "properties": {
+        "title": "Rue marc leclerc",
+        "lat": "49.860582",
+        "lon": "0.708557",
+        "type": "BSB",
+        "observation": "Devant les immeubles hlm, boîte fabriquée par les élèves de 3eme segpa du college"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.384732,
+          49.232485
+        ]
+      },
+      "properties": {
+        "title": "Place Jeanne Albertine",
+        "lat": "49.2324848",
+        "lon": "-0.3847317",
+        "type": "BSB",
+        "observation": "Située sur la place devant l'épicerie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.412579,
+          48.681821
+        ]
+      },
+      "properties": {
+        "title": "rue de la mairie",
+        "lat": "48.6818205",
+        "lon": "-1.4125788",
+        "type": "BSB",
+        "observation": "Sous l'abribus face à la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.370733,
+          49.324518
+        ]
+      },
+      "properties": {
+        "title": "Parc du Bois Joli",
+        "lat": "49.3245182",
+        "lon": "-0.3707333",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.141034,
+          49.415573
+        ]
+      },
+      "properties": {
+        "title": "rue du général de gaulle. Place du panetier du roy",
+        "lat": "49.4155727",
+        "lon": "1.1410342",
+        "type": "BSB",
+        "observation": "Boite à livres voulue et imaginée par les enfants du conseil municipal des enfants de Belbeuf. Située sur la place du village, à proximité du café de Belbeuf."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.196086,
+          48.895263
+        ]
+      },
+      "properties": {
+        "title": "1 rue des premontres",
+        "lat": "48.8952633",
+        "lon": "-0.196086",
+        "type": "BSB",
+        "observation": "Devant le centre social culturel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.174071,
+          49.800967
+        ]
+      },
+      "properties": {
+        "title": "RUE DE LA POSTE",
+        "lat": "49.8009665",
+        "lon": "1.1740706",
+        "type": "BSB",
+        "observation": "BOITE A LIVRES SITUEE PLACE DE LA MAIRIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.18556,
+          49.954851
+        ]
+      },
+      "properties": {
+        "title": "RUE PASTEUR",
+        "lat": "49.9548506",
+        "lon": "1.1855601",
+        "type": "BSB",
+        "observation": "BOITE A LIVRE SITUEE VERS LE 15 RUE PASTEUR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.847926,
+          49.496737
+        ]
+      },
+      "properties": {
+        "title": "plage de Sciotot",
+        "lat": "49.4967374",
+        "lon": "-1.8479261",
+        "type": "BSB",
+        "observation": "elle n est en place que pendant la saison estivale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87342,
+          49.242622
+        ]
+      },
+      "properties": {
+        "title": "Place du marché",
+        "lat": "49.2426221",
+        "lon": "-0.8734197",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.293992,
+          49.064446
+        ]
+      },
+      "properties": {
+        "title": "Rue de la poste",
+        "lat": "49.0644457",
+        "lon": "1.293992",
+        "type": "BSB",
+        "observation": "ancienne cabine de telephone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.698374,
+          49.251835
+        ]
+      },
+      "properties": {
+        "title": "18 chaussée Louis XIII",
+        "lat": "49.2518346",
+        "lon": "1.6983736",
+        "type": "BSB",
+        "observation": "Juste à côte de la boîte à lettres de l'agence postale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.302307,
+          49.966617
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie rue St Pierre à Guilmécourt",
+        "lat": "49.9666168",
+        "lon": "1.3023074",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.099472,
+          49.716533
+        ]
+      },
+      "properties": {
+        "title": "Jardin public",
+        "lat": "49.7165334",
+        "lon": "1.099472",
+        "type": "BSB",
+        "observation": "Elle est tout à gauche en rentrant par l'entrée principale du jardin public"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.261481,
+          49.943159
+        ]
+      },
+      "properties": {
+        "title": "RUE DE LA MAIRIE",
+        "lat": "49.9431593",
+        "lon": "1.2614813",
+        "type": "BSB",
+        "observation": "Boite à livres située devant la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.106921,
+          49.908442
+        ]
+      },
+      "properties": {
+        "title": "SUR LA PLACE AU CENTRE BOURG",
+        "lat": "49.9084416",
+        "lon": "1.1069209",
+        "type": "BSB",
+        "observation": "Boite à livres située face au magasin le panier sympa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.115046,
+          49.290555
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Marne",
+        "lat": "49.2905546",
+        "lon": "-0.1150458",
+        "type": "BSB",
+        "observation": "Coté Jardin du casino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.146533,
+          49.287145
+        ]
+      },
+      "properties": {
+        "title": "27 rue Léon Pican",
+        "lat": "49.2871451",
+        "lon": "-0.1465328",
+        "type": "BSB",
+        "observation": "Sur le parking de la plage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.131262,
+          49.274547
+        ]
+      },
+      "properties": {
+        "title": "California Park - Chemin de Villiers",
+        "lat": "49.2745474",
+        "lon": "-0.1312619",
+        "type": "BSB",
+        "observation": "A coté de l'accueil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.363775,
+          49.164938
+        ]
+      },
+      "properties": {
+        "title": "Rue du Finistère",
+        "lat": "49.1649381",
+        "lon": "-0.3637749",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.089717,
+          49.455921
+        ]
+      },
+      "properties": {
+        "title": "Place Foch, Parvis de l'église saint André",
+        "lat": "49.45592091898456",
+        "lon": "1.0897171497344973",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.341297,
+          49.345976
+        ]
+      },
+      "properties": {
+        "title": "Hotel de Ville",
+        "lat": "49.3459758",
+        "lon": "0.3412968",
+        "type": "BSB",
+        "observation": "La boîte à livre se trouve sur la droite de l'entrée de l'hôtel de Ville de Beuzeville."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.156714,
+          48.875672
+        ]
+      },
+      "properties": {
+        "title": "lavoir de la bonne eau",
+        "lat": "48.875672",
+        "lon": "-0.156714",
+        "type": "BSB",
+        "observation": "Creation le 15 juin 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.111144,
+          49.278363
+        ]
+      },
+      "properties": {
+        "title": "Statue Laplace",
+        "lat": "49.278363",
+        "lon": "0.111144",
+        "type": "BSB",
+        "observation": "près de la statue Laplace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.071192,
+          49.282812
+        ]
+      },
+      "properties": {
+        "title": "jardin de la mairie",
+        "lat": "49.282812",
+        "lon": "0.071192",
+        "type": "BSB",
+        "observation": "Dans le jardin de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.341621,
+          49.121282
+        ]
+      },
+      "properties": {
+        "title": "Pré de la boulangerie",
+        "lat": "49.121282",
+        "lon": "-1.341621",
+        "type": "BSB",
+        "observation": "En dessous de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.074085,
+          49.464732
+        ]
+      },
+      "properties": {
+        "title": "CANOPE rue du docteur Fleury",
+        "lat": "49.4647319",
+        "lon": "1.0740853",
+        "type": "BSB",
+        "observation": "La boite à livres est dans l entrée du bâtiment. A côté de la fontaine à eau et machine à café pas loin."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.847384,
+          49.511161
+        ]
+      },
+      "properties": {
+        "title": "ROUTE DE ST PAER",
+        "lat": "49.5111609",
+        "lon": "0.8473844",
+        "type": "BSB",
+        "observation": "Boite à livre située sur la place de la mairie et de l église"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.085951,
+          49.116706
+        ]
+      },
+      "properties": {
+        "title": "Eglise Sainte Croix",
+        "lat": "49.11670601869698",
+        "lon": "-1.0859513282775881",
+        "type": "BSB",
+        "observation": "Située derrière l'église Sainte Croix à, côté du jardin des Incroyables comestibles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.17389,
+          48.620277
+        ]
+      },
+      "properties": {
+        "title": "La Poste",
+        "lat": "48.620277",
+        "lon": "-1.17389",
+        "type": "BSB",
+        "observation": "Dans le petit centre commercial du bourg d'Isigny le Buat, près de la poste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.51791,
+          48.868829
+        ]
+      },
+      "properties": {
+        "title": "Place Charles de gaulle",
+        "lat": "48.8688295",
+        "lon": "-0.5179096",
+        "type": "BSB",
+        "observation": "La boite à lire est fixée sur le mur de l église à proximité du Calvaire . Mise en place le 17 mai 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.525306,
+          48.851713
+        ]
+      },
+      "properties": {
+        "title": "Hameau de Pont Erambourg",
+        "lat": "48.851713",
+        "lon": "-0.5253058",
+        "type": "BSB",
+        "observation": "La boite à lire se situe dans l abribus sur le parking de Pont Erambourg / commune de Saint Denis de MéréMise en en service le 17 Mai 2019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.191347,
+          49.73193
+        ]
+      },
+      "properties": {
+        "title": "649 RUE DES POMMIERS",
+        "lat": "49.7319304",
+        "lon": "1.1913468",
+        "type": "BSB",
+        "observation": "Boite à livres fabriquée à l aide d'un ancien réfrigérateur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.26509,
+          49.895981
+        ]
+      },
+      "properties": {
+        "title": "PLACE DU MARCHE",
+        "lat": "49.895981",
+        "lon": "1.26509",
+        "type": "BSB",
+        "observation": "DEVANT LA SALLE DES FETES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.753148,
+          49.61517
+        ]
+      },
+      "properties": {
+        "title": "RUE DE L UNION",
+        "lat": "49.6151698",
+        "lon": "0.7531477",
+        "type": "BSB",
+        "observation": "Boite à livres située dans le parc pres de la rue du Bailly"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.089479,
+          49.907275
+        ]
+      },
+      "properties": {
+        "title": "RUE DU CHAMP DE COURSES",
+        "lat": "49.9072748",
+        "lon": "1.0894794",
+        "type": "BSB",
+        "observation": "SUR LE PARKING DE LA MAIRIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.896657,
+          49.664609
+        ]
+      },
+      "properties": {
+        "title": "ROUTE DE SAINT MARTIN",
+        "lat": "49.6646093",
+        "lon": "0.8966571",
+        "type": "BSB",
+        "observation": "CABINE TELEPHONIQUE ANGLAISE PRES DU ROND POINT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.151345,
+          49.865548
+        ]
+      },
+      "properties": {
+        "title": "RUE LEANDRE BIMONT",
+        "lat": "49.8655479",
+        "lon": "1.151345",
+        "type": "BSB",
+        "observation": "BOITE A LIVRE SITUEE DEVANT L ECOLE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.754477,
+          49.617904
+        ]
+      },
+      "properties": {
+        "title": "RUE GUSTAVE FLAUBERT",
+        "lat": "49.617904",
+        "lon": "0.7544769",
+        "type": "BSB",
+        "observation": "BOITE A LIVRES SITUEE PLACE DES BELGES A PROXIMITE DE LA BNP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.073976,
+          49.303564
+        ]
+      },
+      "properties": {
+        "title": "Square Debussy avenue du Sporting",
+        "lat": "49.3035635",
+        "lon": "-0.0739759",
+        "type": "BSB",
+        "observation": "A l'entrée  sud du square"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.435913,
+          49.201208
+        ]
+      },
+      "properties": {
+        "title": "Le village de  l église",
+        "lat": "49.2012079",
+        "lon": "0.4359133",
+        "type": "BSB",
+        "observation": "Cabine téléphonique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.562271,
+          48.374949
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Bansard des bois",
+        "lat": "48.3749489",
+        "lon": "0.5622712",
+        "type": "BSB",
+        "observation": "Boîte à livres sur la droite d une rue  qui traverse la ville, avec à gauche les vestiges des fossés d'un château disparu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.406898,
+          48.96598
+        ]
+      },
+      "properties": {
+        "title": "Rue de Pacy",
+        "lat": "48.9659799",
+        "lon": "1.4068981",
+        "type": "BSB",
+        "observation": "Dans l ancienne cabine téléphonique devant la mairie."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.356469,
+          49.584024
+        ]
+      },
+      "properties": {
+        "title": "ROUTE DE ROUEN DANS L EGLISE",
+        "lat": "49.5840236",
+        "lon": "1.3564692",
+        "type": "BSB",
+        "observation": "BOITE A LIVRES SITUEE  DANS L EGLISE ,  UNIQUEMENT DES LIVRES SUR LA RELIGION"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.38069,
+          49.764965
+        ]
+      },
+      "properties": {
+        "title": "12 GRAND RUE",
+        "lat": "49.7649654",
+        "lon": "1.3806899",
+        "type": "BSB",
+        "observation": "Dans le jardin face à la mairie , la cabane à lire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.125054,
+          49.882047
+        ]
+      },
+      "properties": {
+        "title": "CHATEAU BLANC",
+        "lat": "49.8820474",
+        "lon": "1.1250541",
+        "type": "BSB",
+        "observation": "ENTREE I.M.E "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.355858,
+          48.871036
+        ]
+      },
+      "properties": {
+        "title": "place de la mairie",
+        "lat": "48.8710363",
+        "lon": "1.355858",
+        "type": "BSB",
+        "observation": "dans l ancien abri bus, devant la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.624881,
+          48.764263
+        ]
+      },
+      "properties": {
+        "title": "Allée Raoul Barbé",
+        "lat": "48.7642633",
+        "lon": "0.6248811",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.115598,
+          48.832129
+        ]
+      },
+      "properties": {
+        "title": "parking mairie",
+        "lat": "48.8321288",
+        "lon": "-0.1155975",
+        "type": "BSB",
+        "observation": "Lions Club Argentan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.040545,
+          48.718783
+        ]
+      },
+      "properties": {
+        "title": "parking mairie",
+        "lat": "48.7187827",
+        "lon": "-0.0405452",
+        "type": "BSB",
+        "observation": "Lions Club Argentan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.026007,
+          49.189904
+        ]
+      },
+      "properties": {
+        "title": "17 rue Maurice genevoix",
+        "lat": "49.1899042",
+        "lon": "-1.0260066",
+        "type": "BSB",
+        "observation": "Cette boîte à lire/livres est installée depuis février 2019, inaugurée le jeudi 28 février 2019. Elle a été réalisée par M.Girault, agent du collège. Le projet est conçu en partenariat avec Mme Raimbeault, maire d e Saint Clair sur L Elle, pour que d autres boîtes à lire voient le jour au fil du temps sur le territoire..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.723007,
+          49.48382
+        ]
+      },
+      "properties": {
+        "title": "Place d, Armes",
+        "lat": "49.48382",
+        "lon": "1.723007",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.745921,
+          49.482431
+        ]
+      },
+      "properties": {
+        "title": "La mairie",
+        "lat": "49.4824315",
+        "lon": "1.745921",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.715343,
+          49.478877
+        ]
+      },
+      "properties": {
+        "title": "Rue Pierre et Marie curie",
+        "lat": "49.478877",
+        "lon": "1.715343",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.736766,
+          49.481939
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la gare",
+        "lat": "49.4819386",
+        "lon": "1.7367657",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.661979,
+          49.164364
+        ]
+      },
+      "properties": {
+        "title": "Route d Aveny",
+        "lat": "49.1643637",
+        "lon": "1.6619786",
+        "type": "BSB",
+        "observation": "Sur la voie verte, au carrefour de la route et proche du pont enjambant l Epte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07508,
+          49.202147
+        ]
+      },
+      "properties": {
+        "title": "Rue de Saint pierre",
+        "lat": "49.2021467",
+        "lon": "0.0750801",
+        "type": "BSB",
+        "observation": "Elle se trouve sur le bord de la route devant la bibliotheque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.063406,
+          48.424375
+        ]
+      },
+      "properties": {
+        "title": "2 rue de l élan",
+        "lat": "48.424375",
+        "lon": "0.063406",
+        "type": "BSB",
+        "observation": "La boîte se trouve sur le parking derrière la bibliothèque."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.323883,
+          48.833671
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint Gaud",
+        "lat": "48.8336711",
+        "lon": "-1.323883",
+        "type": "BSB",
+        "observation": "Située près de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.353286,
+          48.513112
+        ]
+      },
+      "properties": {
+        "title": "Place du Général de Gaulle",
+        "lat": "48.5131115",
+        "lon": "0.3532864",
+        "type": "BSB",
+        "observation": "Cabine téléphonique transformée en boite à lire,  Le Mêle-livres\""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.477094,
+          49.08204
+        ]
+      },
+      "properties": {
+        "title": "13 route d Ivry",
+        "lat": "49.0820405",
+        "lon": "1.477094",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.477168,
+          49.094735
+        ]
+      },
+      "properties": {
+        "title": "rue Adolphe Vard",
+        "lat": "49.094735",
+        "lon": "1.477168",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.489713,
+          49.09221
+        ]
+      },
+      "properties": {
+        "title": "Mail Anatole France",
+        "lat": "49.09221",
+        "lon": "1.489713",
+        "type": "BSB",
+        "observation": "DAns le parc pour enfants Jeanne-et-Robert-Laurence"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.491517,
+          49.098901
+        ]
+      },
+      "properties": {
+        "title": "Place J. Charpentier",
+        "lat": "49.0989015",
+        "lon": "1.4915173",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.251922,
+          49.528167
+        ]
+      },
+      "properties": {
+        "title": "5 Rue de la Gare",
+        "lat": "49.5281669",
+        "lon": "0.2519224",
+        "type": "BSB",
+        "observation": "Boite située à la Gare ferroviaire de Saint Laurent de Brèvedent, au pied de l’escalier d’accès aux quais."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.430253,
+          49.055709
+        ]
+      },
+      "properties": {
+        "title": "13a, Rue Régis Messac",
+        "lat": "49.0557091",
+        "lon": "-1.4302532",
+        "type": "BSB",
+        "observation": "A proximité du point J Quartier Claires FontainesGPS: 49.318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.587575,
+          49.066972
+        ]
+      },
+      "properties": {
+        "title": "Route de la Mer",
+        "lat": "49.0669721",
+        "lon": "-1.5875745",
+        "type": "BSB",
+        "observation": "A proximité de l office du tourismeGPS: 49.06726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.544239,
+          49.045584
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "49.0455842",
+        "lon": "-1.5442391",
+        "type": "BSB",
+        "observation": "Derrière l abri bus au centre du bourg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.29449,
+          48.621913
+        ]
+      },
+      "properties": {
+        "title": "Rue du Géneral Leclerc",
+        "lat": "48.6219131",
+        "lon": "-1.2944896",
+        "type": "BSB",
+        "observation": "dans le parc du château"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.263901,
+          49.585881
+        ]
+      },
+      "properties": {
+        "title": "1 Rue de la Vieille Église",
+        "lat": "49.5858809",
+        "lon": "-1.263901",
+        "type": "BSB",
+        "observation": "Boite à lire accrochée au mur à l'extérieur des toilettes publiques, face au bar-restaurant le Débarcadère"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2841,
+          49.293067
+        ]
+      },
+      "properties": {
+        "title": "22 Rue du Commandant Kieffer",
+        "lat": "49.2930675",
+        "lon": "-0.2841",
+        "type": "BSB",
+        "observation": "Boite Lions Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.594082,
+          49.63562
+        ]
+      },
+      "properties": {
+        "title": "590 Boulevard de l'est",
+        "lat": "49.6356204",
+        "lon": "-1.5940816",
+        "type": "BSB",
+        "observation": "La boîte à lire est en accès libre dans un salon de thé."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.256161,
+          49.565786
+        ]
+      },
+      "properties": {
+        "title": "École de Manéglise",
+        "lat": "49.565786",
+        "lon": "0.256161",
+        "type": "BSB",
+        "observation": "Boîte à lire située à côté de l escalier de la garderie, accessible à tous."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.224109,
+          49.305698
+        ]
+      },
+      "properties": {
+        "title": "rue des fleurs",
+        "lat": "49.3056984",
+        "lon": "-1.2241095",
+        "type": "BSB",
+        "observation": "Boîte à lire réaliser par delavier julien"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.239792,
+          49.306298
+        ]
+      },
+      "properties": {
+        "title": "rue de caligny",
+        "lat": "49.3062984",
+        "lon": "-1.2397919",
+        "type": "BSB",
+        "observation": "à côté du port"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.188543,
+          49.189591
+        ]
+      },
+      "properties": {
+        "title": "1 le bourg",
+        "lat": "49.1895912",
+        "lon": "-1.1885428",
+        "type": "BSB",
+        "observation": "A côté de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.021521,
+          49.286389
+        ]
+      },
+      "properties": {
+        "title": "Jardin du cèdre",
+        "lat": "49.2863891",
+        "lon": "1.0215211",
+        "type": "BSB",
+        "observation": "Boite à livre située dans le parc du Cèdre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.946148,
+          49.565544
+        ]
+      },
+      "properties": {
+        "title": "rue de la Vierge",
+        "lat": "49.5655444",
+        "lon": "0.9461481",
+        "type": "BSB",
+        "observation": "La boite à livres se situe devant le groupe scolaire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.469074,
+          49.092191
+        ]
+      },
+      "properties": {
+        "title": "cimetière",
+        "lat": "49.0921906",
+        "lon": "1.4690738",
+        "type": "BSB",
+        "observation": "Au niveau du parking du cimetière"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.114426,
+          49.116401
+        ]
+      },
+      "properties": {
+        "title": "Place Edmond Piedagnel",
+        "lat": "49.116400550227375",
+        "lon": "-1.1144256591796877",
+        "type": "BSB",
+        "observation": "Boîte à livre sur la place en face de carrefour city cabine téléphonique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.098318,
+          49.115411
+        ]
+      },
+      "properties": {
+        "title": "Office de tourisme",
+        "lat": "49.115411",
+        "lon": "-1.098318",
+        "type": "BSB",
+        "observation": "Boîte à livres situées derrière l office de tourisme. Ressemble a une petite maison"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.756615,
+          49.376402
+        ]
+      },
+      "properties": {
+        "title": "Place de la gare",
+        "lat": "49.376402",
+        "lon": "-1.756615",
+        "type": "BSB",
+        "observation": "Elle a été inaugurée le 17 février 2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.484978,
+          49.092807
+        ]
+      },
+      "properties": {
+        "title": "Place Adolphe Barette",
+        "lat": "49.09280708524696",
+        "lon": "1.4849781990051272",
+        "type": "BSB",
+        "observation": "Pas très loin de la fontaine, côté rue Ste-Geneviève"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.698116,
+          49.513882
+        ]
+      },
+      "properties": {
+        "title": "Salle des fêtes",
+        "lat": "49.5138819",
+        "lon": "1.6981163",
+        "type": "BSB",
+        "observation": "La boîte à livres du village est installée sur une plate-bande aux abords de la salle des fêtes."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.88904,
+          48.836369
+        ]
+      },
+      "properties": {
+        "title": "rue des Augustines",
+        "lat": "48.8363689",
+        "lon": "-0.8890398",
+        "type": "BSB",
+        "observation": "La boîte se trouve sur la barrière d un jardin de la maison, mise en place par les personnes vivant ici."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.568856,
+          48.77599
+        ]
+      },
+      "properties": {
+        "title": "Avenue des sapins",
+        "lat": "48.7759896561903",
+        "lon": "-1.5688562393188479",
+        "type": "BSB",
+        "observation": "à l'angle avec rue hippolyte jacqueminot"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.182675,
+          49.285325
+        ]
+      },
+      "properties": {
+        "title": "Place du tribunal",
+        "lat": "49.285325",
+        "lon": "0.182675",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.440962,
+          48.931177
+        ]
+      },
+      "properties": {
+        "title": "98C rue du Bois",
+        "lat": "48.9311775",
+        "lon": "1.440962",
+        "type": "BSB",
+        "observation": "Sur la place"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.329338,
+          48.864312
+        ]
+      },
+      "properties": {
+        "title": "bourg",
+        "lat": "48.8643117",
+        "lon": "-1.329338",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.471976,
+          49.50944
+        ]
+      },
+      "properties": {
+        "title": "place du château",
+        "lat": "49.5094396",
+        "lon": "-1.4719763",
+        "type": "BSB",
+        "observation": "en haut de la place à côté du rond-point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.390929,
+          48.852385
+        ]
+      },
+      "properties": {
+        "title": "Le pont des vers",
+        "lat": "48.8523854",
+        "lon": "-0.3909292",
+        "type": "BSB",
+        "observation": "Boîte à lire dans une cabine téléphonique située dans la rue principale du village."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.231427,
+          49.372722
+        ]
+      },
+      "properties": {
+        "title": "98 rue de l église",
+        "lat": "49.3727221",
+        "lon": "1.2314266",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.290737,
+          48.617336
+        ]
+      },
+      "properties": {
+        "title": "Pôle enfance, 4 Rue de Saint-Aubin",
+        "lat": "48.617336",
+        "lon": "-1.2907366",
+        "type": "BSB",
+        "observation": "Boîte située devant le pôle enfance rue de Saint aubin."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.57204,
+          49.381577
+        ]
+      },
+      "properties": {
+        "title": "Route du bourg",
+        "lat": "49.381576541205405",
+        "lon": "0.57204008102417",
+        "type": "BSB",
+        "observation": "Dans la cabine téléphonique à côté de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.310056,
+          49.182317
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Falaise",
+        "lat": "49.182317",
+        "lon": "-0.3100562",
+        "type": "BSB",
+        "observation": "Colombelles Plateau: A côté du square, au coin de l avenue de la falaise et de l avenue des écoles, dans une cabine téléphonique."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.663288,
+          49.595025
+        ]
+      },
+      "properties": {
+        "title": "2 GENERAL DUMONCEL",
+        "lat": "49.5950255",
+        "lon": "-1.6632884",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.774353,
+          48.429447
+        ]
+      },
+      "properties": {
+        "title": "Ancienne gare de Rémalard Bellou",
+        "lat": "48.429447",
+        "lon": "0.774353",
+        "type": "BSB",
+        "observation": "Boîte à livres en forme de locomotive installée sur un chemin piéton et cycliste reliant Notre-Dame de Paris au Mont Saint-Michel, juste à côté de l'ancienne gare de Rémalard Bellou."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.086409,
+          49.930287
+        ]
+      },
+      "properties": {
+        "title": "Quai de la Marne",
+        "lat": "49.930287",
+        "lon": "1.086409",
+        "type": "BSB",
+        "observation": "Parking camping car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.234686,
+          49.771428
+        ]
+      },
+      "properties": {
+        "title": "ESPACE SALLE PAUL GODEFROY",
+        "lat": "49.7714281",
+        "lon": "1.2346863",
+        "type": "BSB",
+        "observation": "Derrière la Mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.094711,
+          48.579779
+        ]
+      },
+      "properties": {
+        "title": "35 rue de la pêcherie",
+        "lat": "48.5797789",
+        "lon": "-1.0947108",
+        "type": "BSB",
+        "observation": "Boîte située à proximité de la maison des jeunes."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.105098,
+          48.996392
+        ]
+      },
+      "properties": {
+        "title": "10 rue Aristide Briand",
+        "lat": "48.9963922",
+        "lon": "1.105098",
+        "type": "BSB",
+        "observation": "À côté de la Mairie. Il y a aussi  un distributeur de pain."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.210449,
+          48.962066
+        ]
+      },
+      "properties": {
+        "title": "Place René Cardin",
+        "lat": "48.9620662",
+        "lon": "1.2104487",
+        "type": "BSB",
+        "observation": "En face de la Mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.380364,
+          49.014151
+        ]
+      },
+      "properties": {
+        "title": "73 rue Édouard Isambard",
+        "lat": "49.0141508",
+        "lon": "1.3803645",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.070761,
+          49.353329
+        ]
+      },
+      "properties": {
+        "title": "2 avenue florian de kergolay",
+        "lat": "49.3533288",
+        "lon": "0.070761",
+        "type": "BSB",
+        "observation": "Près du parc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.188391,
+          49.139904
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "49.139904",
+        "lon": "1.1883914",
+        "type": "BSB",
+        "observation": "juste sur le côté de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.356239,
+          49.145009
+        ]
+      },
+      "properties": {
+        "title": "Rue de Champagne",
+        "lat": "49.145009",
+        "lon": "-0.3562389",
+        "type": "BSB",
+        "observation": "Aire de jeux de la forêt de Ifs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.110457,
+          49.598822
+        ]
+      },
+      "properties": {
+        "title": "143 le marche pied de la rivière",
+        "lat": "49.5988224",
+        "lon": "1.1104567",
+        "type": "BSB",
+        "observation": "Les magasins de proximité Vival installent des boites à livres devant tous leurs magasins."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.604793,
+          49.72881
+        ]
+      },
+      "properties": {
+        "title": "place jean lepicard",
+        "lat": "49.7288096",
+        "lon": "0.6047934",
+        "type": "BSB",
+        "observation": "Les magasins de proximité Vival installent des boites à livres devant tous leurs magasins."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.404637,
+          48.898728
+        ]
+      },
+      "properties": {
+        "title": "4 rue Georges LEBLANC",
+        "lat": "48.8987277",
+        "lon": "1.4046373",
+        "type": "BSB",
+        "observation": "Dans une charmante petite ville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.35776,
+          48.69109
+        ]
+      },
+      "properties": {
+        "title": "quartier clairefontaine",
+        "lat": "48.6910901",
+        "lon": "-1.35776",
+        "type": "BSB",
+        "observation": "A côté de l école"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.643126,
+          49.625504
+        ]
+      },
+      "properties": {
+        "title": "Place Roussel",
+        "lat": "49.625504",
+        "lon": "-1.643126",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.585776,
+          49.067238
+        ]
+      },
+      "properties": {
+        "title": "Office de Tourisme",
+        "lat": "49.0672381",
+        "lon": "-1.5857759",
+        "type": "BSB",
+        "observation": "Boîte  Lions club\" située à côté de l office de tourisme."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.04074,
+          49.719259
+        ]
+      },
+      "properties": {
+        "title": "515 rue andre mallet",
+        "lat": "49.7192591",
+        "lon": "1.0407397",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.954232,
+          49.566677
+        ]
+      },
+      "properties": {
+        "title": "Rue du Général De Gaulle",
+        "lat": "49.566677",
+        "lon": "0.9542317",
+        "type": "BSB",
+        "observation": "Boîte située sur un mur de la Mairie."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12549,
+          49.491517
+        ]
+      },
+      "properties": {
+        "title": "Novotel Le Havre centre gare, quai Colbert",
+        "lat": "49.4915167",
+        "lon": "0.1254904",
+        "type": "BSB",
+        "observation": "Située dans le hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.097376,
+          49.116996
+        ]
+      },
+      "properties": {
+        "title": "60 rue de la poterne ",
+        "lat": "49.116996",
+        "lon": "-1.0973762",
+        "type": "BSB",
+        "observation": "Office de tourisme de Saint-Lô"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.361751,
+          49.185202
+        ]
+      },
+      "properties": {
+        "title": "Porte saint pierre",
+        "lat": "49.1852019",
+        "lon": "-0.3617509",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.370331,
+          49.187468
+        ]
+      },
+      "properties": {
+        "title": "Jardin des plantes",
+        "lat": "49.187468",
+        "lon": "-0.3703311",
+        "type": "BSB",
+        "observation": "2 Boites a livres existent:-En bas pres de la serre-En haut pres de la scluture arc en ciel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.398848,
+          49.160904
+        ]
+      },
+      "properties": {
+        "title": "ZAC des Longs Courts",
+        "lat": "49.1609035",
+        "lon": "-0.3988476",
+        "type": "BSB",
+        "observation": "Juste devant l entrée du magasin Intermarché"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.113301,
+          49.119813
+        ]
+      },
+      "properties": {
+        "title": "Parc de la Paliere",
+        "lat": "49.1198132",
+        "lon": "-1.1133007",
+        "type": "BSB",
+        "observation": "Dans le parc devant la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.368876,
+          49.182755
+        ]
+      },
+      "properties": {
+        "title": "place Saint-Sauveur",
+        "lat": "49.1827545",
+        "lon": "-0.368876",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.342507,
+          49.471224
+        ]
+      },
+      "properties": {
+        "title": "Grand Rue",
+        "lat": "49.471224",
+        "lon": "1.3425069",
+        "type": "BSB",
+        "observation": "Boîte à Lire Lions Club située juste devant l'office du tourisme, place Gustave Flaubert."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.283631,
+          49.673338
+        ]
+      },
+      "properties": {
+        "lat": "49.673338",
+        "lon": "1.283631",
+        "type": "BSB",
+        "observation": "Sur la place à proximité de l'église, dans une cabine téléphonique reconvertie en boite à lire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.167298,
+          49.217214
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "49.2172145",
+        "lon": "0.1672981",
+        "type": "BSB",
+        "observation": "A l'initiative de la bibliothèque intercommunale de Blangy Pont-L'Evêque Intercom, située entre la mairie et l'école"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.121378,
+          49.854421
+        ]
+      },
+      "properties": {
+        "lat": "49.85442057023132",
+        "lon": "1.1213779449462893",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.149003,
+          49.754665
+        ]
+      },
+      "properties": {
+        "lat": "49.754665",
+        "lon": "1.149003",
+        "type": "BSB",
+        "observation": "Les livres sont rangés dans une cabine téléphonique reconvertie en boite à livres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.091835,
+          49.283218
+        ]
+      },
+      "properties": {
+        "title": "Rond point du côteau",
+        "lat": "49.2832179",
+        "lon": "-0.0918351",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.077046,
+          49.919482
+        ]
+      },
+      "properties": {
+        "title": "Rue Thiers",
+        "lat": "49.919481625215866",
+        "lon": "1.0770463943481448",
+        "type": "BSB",
+        "observation": "Près de l'hôpital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.104244,
+          49.859138
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "49.859137886173066",
+        "lon": "1.1042439937591555",
+        "type": "BSB",
+        "observation": "Devant la Mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.10359,
+          49.928585
+        ]
+      },
+      "properties": {
+        "title": "Avenue Charles Nicolle",
+        "lat": "49.928585385684364",
+        "lon": "1.1035895347595217",
+        "type": "BSB",
+        "observation": "Devant le collège Camus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.083634,
+          49.932218
+        ]
+      },
+      "properties": {
+        "title": "Front de mer",
+        "lat": "49.93221812119622",
+        "lon": "1.083633899688721",
+        "type": "BSB",
+        "observation": "Parking des campings car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.082829,
+          49.927066
+        ]
+      },
+      "properties": {
+        "title": "Quartier Du Pollet",
+        "lat": "49.927065909390784",
+        "lon": "1.0828292369842532",
+        "type": "BSB",
+        "observation": "A l'entrée du parking des camping car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.100867,
+          49.923141
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Puech",
+        "lat": "49.9231415",
+        "lon": "1.1008668",
+        "type": "BSB",
+        "observation": "Près de la crèche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.801155,
+          49.674704
+        ]
+      },
+      "properties": {
+        "lat": "49.674704",
+        "lon": "-1.801155",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.563656,
+          49.654445
+        ]
+      },
+      "properties": {
+        "title": "Piscine de collignon",
+        "lat": "49.6544446",
+        "lon": "-1.5636564",
+        "type": "BSB",
+        "observation": "Sur le parking de la piscine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.084661,
+          49.117158
+        ]
+      },
+      "properties": {
+        "title": "rue des 29e et 35e divisions",
+        "lat": "49.1171582",
+        "lon": "-1.0846608",
+        "type": "BSB",
+        "observation": "Située dans le jardin des Incroyables comestibles au chevet de l'église Sainte-Croix, cette boîte a la forme d'une petite serre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.656747,
+          49.860203
+        ]
+      },
+      "properties": {
+        "title": "ecole maternelle",
+        "lat": "49.86020302281241",
+        "lon": "1.6567468643188479",
+        "type": "BSB",
+        "observation": "La boîte à Lire est sur la place, au pied de la fresque de l école maternelle."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.596968,
+          49.85134
+        ]
+      },
+      "properties": {
+        "title": "Chemin des tennis",
+        "lat": "49.8513404",
+        "lon": "0.5969681",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.713949,
+          49.8693
+        ]
+      },
+      "properties": {
+        "title": "Place de la chapelle",
+        "lat": "49.8693004",
+        "lon": "0.7139487",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.337552,
+          49.259064
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Dame",
+        "lat": "49.2590635",
+        "lon": "-0.3375521",
+        "type": "BSB",
+        "observation": "Au croisement de la rue de l Église et de la rue de la Dame, à droite de l'arrêt de bus."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.598734,
+          49.089103
+        ]
+      },
+      "properties": {
+        "title": "Place Guillaume de Volpiano",
+        "lat": "49.089103",
+        "lon": "0.598734",
+        "type": "BSB",
+        "observation": "A l entrée du Musée des Beaux-Arts, dont je conseille la visite, une boite à livres dans une rouge cabine téléphonique made in Grande-Bretagne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.088755,
+          49.342604
+        ]
+      },
+      "properties": {
+        "title": "Avenue Michel d Ornano",
+        "lat": "49.3426039",
+        "lon": "0.088755",
+        "type": "BSB",
+        "observation": "à gauche de la mairie dans une grande cabane au milieu de la pelouse."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.548854,
+          48.844366
+        ]
+      },
+      "properties": {
+        "title": "rue Iberthe Bertoux",
+        "lat": "48.8443658",
+        "lon": "-0.5488544",
+        "type": "BSB",
+        "observation": "Mise en service semaine 12Est donc apparue en même temps que le printempsEst-ce un signe ?"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.323108,
+          49.176289
+        ]
+      },
+      "properties": {
+        "title": "Place Robert Estivals",
+        "lat": "49.1762887",
+        "lon": "-0.3231081",
+        "type": "BSB",
+        "observation": "Sur la place, dans une cabine téléphonique.  A côté du Crédit Agricole. A côté de l aire de jeux pour enfants."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.079258,
+          48.429055
+        ]
+      },
+      "properties": {
+        "title": "Parc des promenades",
+        "lat": "48.4290551",
+        "lon": "0.0792585",
+        "type": "BSB",
+        "observation": "Dans une ancienne cabine téléphonique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.518007,
+          49.233965
+        ]
+      },
+      "properties": {
+        "title": "esplanade de la mairie",
+        "lat": "49.2339648",
+        "lon": "-0.5180071",
+        "type": "BSB",
+        "observation": "sur la place en face de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.074941,
+          49.442943
+        ]
+      },
+      "properties": {
+        "title": "quai rive gauche",
+        "lat": "49.4429425",
+        "lon": "1.0749409",
+        "type": "BSB",
+        "observation": "En bas des marches sur le nouvel aménagement des quais de Rouen rive gauche"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.579834,
+          49.640799
+        ]
+      },
+      "properties": {
+        "title": "109, avenue des Prairies",
+        "lat": "49.6407989",
+        "lon": "-1.5798337",
+        "type": "BSB",
+        "observation": "Près de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.692605,
+          49.6654
+        ]
+      },
+      "properties": {
+        "title": "59 rue Roger Glinel",
+        "lat": "49.6654002",
+        "lon": "-1.6926045",
+        "type": "BSB",
+        "observation": "Dans la cour, devant le centre socio-culturel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.522185,
+          49.235817
+        ]
+      },
+      "properties": {
+        "title": "Place de l église",
+        "lat": "49.2358169",
+        "lon": "-0.5221852",
+        "type": "BSB",
+        "observation": "Mise en place depuis peu, elle se situe à côté de l église."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.071165,
+          49.462214
+        ]
+      },
+      "properties": {
+        "title": "place Colbert",
+        "lat": "49.4622138",
+        "lon": "1.0711646",
+        "type": "BSB",
+        "observation": "La boite à lire se trouve juste à côté de la pharmacie. Sous le préau. Place Colbert."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.142374,
+          49.47135
+        ]
+      },
+      "properties": {
+        "title": "rue georges méliès",
+        "lat": "49.4713495",
+        "lon": "1.1423738",
+        "type": "BSB",
+        "observation": "La boite est posée sur le grillage de l école maternelle Georges Méliès. A côté de la grille d'entrée , au châpitre à Bihorel."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.627036,
+          49.573733
+        ]
+      },
+      "properties": {
+        "title": "mairie",
+        "lat": "49.5737328",
+        "lon": "-1.627036",
+        "type": "BSB",
+        "observation": "Sur le parking de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.009648,
+          49.302628
+        ]
+      },
+      "properties": {
+        "title": "Place du Général de Gaulle",
+        "lat": "49.3026283649115",
+        "lon": "1.009647846221924",
+        "type": "BSB",
+        "observation": "Située sur la gauche en sortant de la gare Elbeuf-Saint-Aubin."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.910037,
+          49.140398
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean de La Fontaine",
+        "lat": "49.140398",
+        "lon": "0.9100367",
+        "type": "BSB",
+        "observation": "Devant l'entrée de la Piscine du Haut Phare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.652356,
+          49.574687
+        ]
+      },
+      "properties": {
+        "title": "Bourg",
+        "lat": "49.574687",
+        "lon": "-1.652356",
+        "type": "BSB",
+        "observation": "30 m au dessus de l'ecole."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.702755,
+          49.276212
+        ]
+      },
+      "properties": {
+        "title": "Hôtel de Ville",
+        "lat": "49.276211826653174",
+        "lon": "-0.7027548551559449",
+        "type": "BSB",
+        "observation": "Sous le porche de l hôtel de ville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.905791,
+          49.151006
+        ]
+      },
+      "properties": {
+        "title": "Place Ferrand",
+        "lat": "49.151006",
+        "lon": "0.905791",
+        "type": "BSB",
+        "observation": "Installée place de la Mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.412576,
+          50.048513
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean du Hornay",
+        "lat": "50.0485131",
+        "lon": "1.412576",
+        "type": "BSB",
+        "observation": "grande boîte à livres devant l entrée du château d' Eu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.800301,
+          49.197558
+        ]
+      },
+      "properties": {
+        "title": "Route du Bec Hellouin",
+        "lat": "49.1975585",
+        "lon": "0.800301",
+        "type": "BSB",
+        "observation": "Tout près de la Mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.954299,
+          49.307054
+        ]
+      },
+      "properties": {
+        "title": "Place de l ourail",
+        "lat": "49.307054",
+        "lon": "0.9542992",
+        "type": "BSB",
+        "observation": "La boite se situe dans l'Aire de jeux."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.082352,
+          49.929815
+        ]
+      },
+      "properties": {
+        "title": "Bout du quai, Place du moulin à vent",
+        "lat": "49.92981474508369",
+        "lon": "1.0823518037796023",
+        "type": "BSB",
+        "observation": "Boîte à livres gérée par le service D Lire, ville de Dieppe."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.438737,
+          49.730666
+        ]
+      },
+      "properties": {
+        "title": "Square Saint Pierre",
+        "lat": "49.730665532527134",
+        "lon": "1.438736915588379",
+        "type": "BSB",
+        "observation": "Petite boîte à lire du Lion s Club."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.137994,
+          49.454894
+        ]
+      },
+      "properties": {
+        "title": "Jardin partagé la Lombardie",
+        "lat": "49.454894319832626",
+        "lon": "1.1379939949950995",
+        "type": "BSB",
+        "observation": "près de la rue de La Lombardie, entre les immeubles Gémeau et Mizar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.128793,
+          49.456864
+        ]
+      },
+      "properties": {
+        "title": "Sapins",
+        "lat": "49.4568641",
+        "lon": "1.1287929000000076",
+        "type": "BSB",
+        "observation": "aire de jeux Granville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.063935,
+          49.442125
+        ]
+      },
+      "properties": {
+        "title": "Presqu'ïle Rollet",
+        "lat": "49.44212531101605",
+        "lon": "1.063935368325815",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.077325,
+          49.42203
+        ]
+      },
+      "properties": {
+        "title": "Jardin des Plantes",
+        "lat": "49.42203014565866",
+        "lon": "1.0773249557281588",
+        "type": "BSB",
+        "observation": "près des bassins de l’allée centrale, côté de la roseraie Est"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.079889,
+          49.427557
+        ]
+      },
+      "properties": {
+        "title": "Square Pinchon",
+        "lat": "49.42755713679254",
+        "lon": "1.079889147546396",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.085726,
+          49.428674
+        ]
+      },
+      "properties": {
+        "title": "Jardin Saint-Sever",
+        "lat": "49.42867362506603",
+        "lon": "1.0857256343628023",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.089459,
+          49.425338
+        ]
+      },
+      "properties": {
+        "title": "Rue du Docteur Dévé",
+        "lat": "49.42533804091429",
+        "lon": "1.0894592693115328",
+        "type": "BSB",
+        "observation": "square au milieu des immeubles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.098343,
+          49.426148
+        ]
+      },
+      "properties": {
+        "title": "Parc Grammont",
+        "lat": "49.426147534058224",
+        "lon": "1.098342745568857",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.092132,
+          49.435898
+        ]
+      },
+      "properties": {
+        "title": "Prairie Saint-Sever ",
+        "lat": "49.4358979",
+        "lon": "1.0921324999999342",
+        "type": "BSB",
+        "observation": "quais bas rive gauche, en tête du pont Corneille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.099004,
+          49.434196
+        ]
+      },
+      "properties": {
+        "title": "Ile Lacroix ",
+        "lat": "49.43419598335373",
+        "lon": "1.099004147359551",
+        "type": "BSB",
+        "observation": "avenue Jacques Chastellain, devant les commerces"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.129737,
+          49.439287
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Pannevert",
+        "lat": "49.439286636478315",
+        "lon": "1.1297369171888931",
+        "type": "BSB",
+        "observation": "près du Moulin de la Pannevert de la promenade du Robec"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.126897,
+          49.443406
+        ]
+      },
+      "properties": {
+        "title": "Rue des Hallettes ",
+        "lat": "49.44340585597065",
+        "lon": "1.1268971359679654",
+        "type": "BSB",
+        "observation": "À l'angle de la rue Charles Muller"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.107438,
+          49.438725
+        ]
+      },
+      "properties": {
+        "title": "Square Thuilleau",
+        "lat": "49.43872536065068",
+        "lon": "1.1074382698974432",
+        "type": "BSB",
+        "observation": "boulevard Gambetta à l'angle de la rue d’Amiens"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.101594,
+          49.438309
+        ]
+      },
+      "properties": {
+        "title": "Place St-Marc",
+        "lat": "49.4383087",
+        "lon": "1.1015937",
+        "type": "BSB",
+        "observation": "angle Nord/Ouest avec la rue Martainville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.095628,
+          49.436943
+        ]
+      },
+      "properties": {
+        "title": "Promenade Eric Tabarly",
+        "lat": "49.436942875594816",
+        "lon": "1.0956281877746505",
+        "type": "BSB",
+        "observation": "quais bas rive droite, au pied du Pont Corneille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.094553,
+          49.439722
+        ]
+      },
+      "properties": {
+        "title": "Place de la Calende",
+        "lat": "49.4397223",
+        "lon": "1.0945529",
+        "type": "BSB",
+        "observation": "devant l’arrêt TEOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.106483,
+          49.447219
+        ]
+      },
+      "properties": {
+        "title": "Place du Boulingrin",
+        "lat": "49.4472189",
+        "lon": "1.1064829",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.104552,
+          49.450705
+        ]
+      },
+      "properties": {
+        "title": "rue de Bihorel ",
+        "lat": "49.4507051",
+        "lon": "1.1045518",
+        "type": "BSB",
+        "observation": "square des Poètes, face à l’église Saint-Joseph"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.082719,
+          49.440358
+        ]
+      },
+      "properties": {
+        "title": "Promenade la France Libre",
+        "lat": "49.440357844416624",
+        "lon": "1.0827190316161932",
+        "type": "BSB",
+        "observation": "quai bas rive droite, devant l’aide de jeux le bateau des pirates"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.07865,
+          49.44388
+        ]
+      },
+      "properties": {
+        "title": "avenue Pasteur",
+        "lat": "49.4438805",
+        "lon": "1.0786498",
+        "type": "BSB",
+        "observation": "Parc de la Madeleine dans le haut de l’avenue Pasteur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0823,
+          49.44921
+        ]
+      },
+      "properties": {
+        "title": "place de l’église Saint-Gervais",
+        "lat": "49.4492101",
+        "lon": "1.0822998",
+        "type": "BSB",
+        "observation": "Pelouse de l’église Saint-Gervais"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.073681,
+          49.450631
+        ]
+      },
+      "properties": {
+        "title": "rue du Renard",
+        "lat": "49.4506314",
+        "lon": "1.0736811",
+        "type": "BSB",
+        "observation": "Square Achille Lefort "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.067683,
+          49.444709
+        ]
+      },
+      "properties": {
+        "title": "Quai Ferdinand de Lesseps ",
+        "lat": "49.4447089",
+        "lon": "1.0676829",
+        "type": "BSB",
+        "observation": "au niveau du hangar E / Strök"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0976,
+          49.446491
+        ]
+      },
+      "properties": {
+        "title": "Parvis Kindarena ",
+        "lat": "49.4464909",
+        "lon": "1.0976001",
+        "type": "BSB",
+        "observation": "près de l’espace vert à l’Est du Kindarena"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.059911,
+          49.451833
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Jean Jaurès",
+        "lat": "49.4518327",
+        "lon": "1.059911",
+        "type": "BSB",
+        "observation": "devant l’entrée du Jardin partagé de la Croix d’Yonville, près de la voie TEOR montant à Mont Saint Aignan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.665684,
+          49.438521
+        ]
+      },
+      "properties": {
+        "title": "Place du village",
+        "lat": "49.4385212",
+        "lon": "1.6656843",
+        "type": "BSB",
+        "observation": "Créée à l'initiative du CCAS, la boîte à lire permet un échange de livres entre les habitants de la commune."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.10981,
+          49.452829
+        ]
+      },
+      "properties": {
+        "title": "rue de Bihorel",
+        "lat": "49.452829",
+        "lon": "1.10981",
+        "type": "BSB",
+        "observation": "La boite est en bas de la rue de Bihorel derrière l'arrêt de bus du 20 à côté des petits commerces qui s'y trouvent."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.648278,
+          49.633783
+        ]
+      },
+      "properties": {
+        "title": "2 rue Max Pol Fouchet",
+        "lat": "49.6337826",
+        "lon": "-1.6482785",
+        "type": "BSB",
+        "observation": "Superbe meuble valises pour livres voyageurs Dans le hall de la Bibliothèque Universitaire de Cherbourg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.492262,
+          49.077299
+        ]
+      },
+      "properties": {
+        "title": "rue Revel de Bretteville",
+        "lat": "49.0772994",
+        "lon": "-0.4922617",
+        "type": "BSB",
+        "observation": "Dans l'ancienne cabine téléphonique au croisement rue Revel de Bretteville et rue de la poste."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.911687,
+          49.279296
+        ]
+      },
+      "properties": {
+        "title": "80 GRANDE RUE",
+        "lat": "49.2792964",
+        "lon": "0.9116869",
+        "type": "BSB",
+        "observation": "SOUS UN PORCHE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.121574,
+          49.278612
+        ]
+      },
+      "properties": {
+        "title": "Avenue Michel d'ornano",
+        "lat": "49.2786124",
+        "lon": "-0.1215741",
+        "type": "BSB",
+        "observation": "Petite boîte à lire remplie de livres au bord de la route."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34811,
+          49.16782
+        ]
+      },
+      "properties": {
+        "title": "33 Avenue Capitaine Georges Guynemer",
+        "lat": "49.1678195",
+        "lon": "-0.3481102",
+        "type": "BSB",
+        "observation": "La boite se situe dans le Parc Decaen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.487876,
+          49.071679
+        ]
+      },
+      "properties": {
+        "lat": "49.071679",
+        "lon": "-0.487876",
+        "type": "BSB",
+        "observation": "La boite se situe dans le centre ville. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.119498,
+          49.470326
+        ]
+      },
+      "properties": {
+        "title": "Mairie de Bois Guillaume",
+        "lat": "49.4703258",
+        "lon": "1.1194977",
+        "type": "BSB",
+        "observation": "La boite est à droite du parvis de la mairie face au parterre de fleurs devant la mairie."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.218898,
+          48.836936
+        ]
+      },
+      "properties": {
+        "title": "8, rue des costils",
+        "lat": "48.8369358",
+        "lon": "-1.2188976",
+        "type": "BSB",
+        "observation": "Petit point lecture local avec des ouvrages divers."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.153135,
+          49.022892
+        ]
+      },
+      "properties": {
+        "title": "résidence François Morel, rue du Puits Carré",
+        "lat": "49.0228916",
+        "lon": "1.1531353",
+        "type": "BSB",
+        "observation": "Boite à lire mise en place par l'association de quartier Carrement Voisins, en face de l'école du Puits Carré."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.152803,
+          49.021873
+        ]
+      },
+      "properties": {
+        "title": "28 rue franklin roosevelt",
+        "lat": "49.0218726",
+        "lon": "1.1528028",
+        "type": "BSB",
+        "observation": "Boite à lire installée par l'association de quartier Carrement Voisins."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.389832,
+          49.198053
+        ]
+      },
+      "properties": {
+        "title": "colline aux oiseaux",
+        "lat": "49.1980529",
+        "lon": "-0.3898322",
+        "type": "BSB",
+        "observation": "A l'entrée de la colline aux oiseaux, à l'intérieur de la colline aux oiseaux."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.185415,
+          48.681697
+        ]
+      },
+      "properties": {
+        "title": "3 Place de la mairie",
+        "lat": "48.681697",
+        "lon": "-1.1854149",
+        "type": "BSB",
+        "observation": "Sous le préau."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.105408,
+          49.285202
+        ]
+      },
+      "properties": {
+        "title": "Rue du Général de Gaulle ",
+        "lat": "49.2852017",
+        "lon": "-0.1054079",
+        "type": "BSB",
+        "observation": "Au milieu du village d art de Guillaume le Conquérant."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.126905,
+          49.399351
+        ]
+      },
+      "properties": {
+        "title": "Place du lavoir ",
+        "lat": "49.399351",
+        "lon": "0.126905",
+        "type": "BSB",
+        "observation": "Entourée de fleurs, près du lavoir, décorée de rondins en bois."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.065739,
+          49.018751
+        ]
+      },
+      "properties": {
+        "title": "Les bouvets ",
+        "lat": "49.0187509",
+        "lon": "0.0657392",
+        "type": "BSB",
+        "observation": "Cabine téléphonique sur le grand parking où se trouvent les conteneurs poubelles."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.125258,
+          49.289483
+        ]
+      },
+      "properties": {
+        "title": "Avenue de l'aquilon",
+        "lat": "49.289483",
+        "lon": "-0.1252578",
+        "type": "BSB",
+        "observation": "Petite maison blanche dans un arbre."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.007205,
+          49.286
+        ]
+      },
+      "properties": {
+        "title": "place lécallier",
+        "lat": "49.2860001",
+        "lon": "1.0072049",
+        "type": "BSB",
+        "observation": "Au niveau du parking."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.007073,
+          49.291892
+        ]
+      },
+      "properties": {
+        "title": "place de la mairie",
+        "lat": "49.291892",
+        "lon": "1.007073",
+        "type": "BSB",
+        "observation": "Se trouve juste à côté des jeux pour enfants."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.568715,
+          48.896642
+        ]
+      },
+      "properties": {
+        "title": "La cale",
+        "lat": "48.8966423",
+        "lon": "-1.5687145",
+        "type": "BSB",
+        "observation": "Il y a même un livre en japonais pour les amateurs..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.616812,
+          49.633206
+        ]
+      },
+      "properties": {
+        "title": "11 avenue de paris",
+        "lat": "49.6332058",
+        "lon": "-1.6168125",
+        "type": "BSB",
+        "observation": "A côté de l'école Doisneau."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.617796,
+          49.623772
+        ]
+      },
+      "properties": {
+        "title": "rue Louis Lanonneur",
+        "lat": "49.623772",
+        "lon": "-1.617796",
+        "type": "BSB",
+        "observation": "A côté du lavoir, au carrefour avec la rue de la source des oiseaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.831631,
+          49.322957
+        ]
+      },
+      "properties": {
+        "title": "Mairie",
+        "lat": "49.3229572",
+        "lon": "0.8316307",
+        "type": "BSB",
+        "observation": "Juste à côté de la mairie."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.25017,
+          49.285677
+        ]
+      },
+      "properties": {
+        "title": "65 Rue des Dunes",
+        "lat": "49.2856765",
+        "lon": "-0.2501697",
+        "type": "BSB",
+        "observation": "Sur la piste cyclable jusqu à la plage, il y a un blanc boite à lire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.145355,
+          49.028047
+        ]
+      },
+      "properties": {
+        "title": "3 Rue du 7E Chasseur",
+        "lat": "49.0280475",
+        "lon": "1.1453545",
+        "type": "BSB",
+        "observation": "Boîte installée devant le cinéma et à côté du McDo."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.087729,
+          49.471058
+        ]
+      },
+      "properties": {
+        "title": "Parc du village",
+        "lat": "49.4710581",
+        "lon": "1.0877293",
+        "type": "BSB",
+        "observation": "Située juste à la 1 ère entrée du parc du Village à Mont Saint Aignan."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11012,
+          49.056185
+        ]
+      },
+      "properties": {
+        "title": "BOURG",
+        "lat": "49.0561849",
+        "lon": "-1.1101203",
+        "type": "BSB",
+        "observation": "Cabine téléphonique transformée joliment en cabine à livres... Plus de 270 livres actuellement."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.360131,
+          49.49527
+        ]
+      },
+      "properties": {
+        "title": "Place de la mairie",
+        "lat": "49.4952703",
+        "lon": "0.3601306",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.177011,
+          49.17254
+        ]
+      },
+      "properties": {
+        "title": "50 rue Aristide Briand",
+        "lat": "49.1725397",
+        "lon": "1.1770114",
+        "type": "BSB",
+        "observation": "Dans le magasin Vival Casino. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.093875,
+          49.448467
+        ]
+      },
+      "properties": {
+        "title": "place Bernard tissot",
+        "lat": "49.4484665",
+        "lon": "1.0938746",
+        "type": "BSB",
+        "observation": "Située juste à la sortie de la gare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.53828,
+          49.63107
+        ]
+      },
+      "properties": {
+        "title": "1058 route de Neufchâtel",
+        "lat": "49.6310701",
+        "lon": "1.5382805",
+        "type": "BSB",
+        "observation": "La ville de Serqueux a mis à la disposition une boîte à lire. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.149003,
+          49.021752
+        ]
+      },
+      "properties": {
+        "title": "Rue du Jardin botanique",
+        "lat": "49.0217522",
+        "lon": "1.1490027",
+        "type": "BSB",
+        "observation": "Dans le jardin Public François Mitterand "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.596229,
+          49.047897
+        ]
+      },
+      "properties": {
+        "title": "40 rue Amiral Tourville",
+        "lat": "49.0478967",
+        "lon": "-1.5962291",
+        "type": "BSB",
+        "observation": "Livres de poches et toutes catégories."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.62916,
+          48.764884
+        ]
+      },
+      "properties": {
+        "title": "Place Fulbert de Beina",
+        "lat": "48.7648836",
+        "lon": "0.6291601",
+        "type": "BSB",
+        "observation": "Boite disponible en place publique et ouverte à tous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.068373,
+          49.91868
+        ]
+      },
+      "properties": {
+        "title": "Square Perotte",
+        "lat": "49.9186803",
+        "lon": "1.0683727",
+        "type": "BSB",
+        "observation": "Elle se trouve dans le square en face de l'école de Broglie."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.97328,
+          49.092571
+        ]
+      },
+      "properties": {
+        "title": "1 Avenue de Turgère",
+        "lat": "49.0925706",
+        "lon": "0.9732805",
+        "type": "BSB",
+        "observation": "Cabine téléphonique transformée en cabane à lire  devant la Mairie et face à l arrêt de car"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.287222,
+          49.261203
+        ]
+      },
+      "properties": {
+        "title": "place Boisset",
+        "lat": "49.2612025",
+        "lon": "-0.2872223",
+        "type": "BSB",
+        "observation": "Installée sous ancien arrêt de bus."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.151076,
+          49.027072
+        ]
+      },
+      "properties": {
+        "title": "place du Général de Gaulle",
+        "lat": "49.0270723",
+        "lon": "1.151076",
+        "type": "BSB",
+        "observation": "Située face à l Hôtel de ville  près du Théâtre et de La Maison des Arts "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.886082,
+          48.838589
+        ]
+      },
+      "properties": {
+        "title": "place Saint Thomas",
+        "lat": "48.838589",
+        "lon": "-0.886082",
+        "type": "BSB",
+        "observation": "Mise en place par les élèves de 4G "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.465443,
+          49.301467
+        ]
+      },
+      "properties": {
+        "title": "Grand rue",
+        "lat": "49.301467",
+        "lon": "-0.465443",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.568788,
+          48.817499
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jozeau-Marigne ",
+        "lat": "48.817499",
+        "lon": "-1.568788",
+        "type": "BSB",
+        "observation": "Devant l'aire de jeux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.721803,
+          49.191068
+        ]
+      },
+      "properties": {
+        "title": "6 bis Avenue de la République",
+        "lat": "49.191068",
+        "lon": "0.7218025",
+        "type": "BSB",
+        "observation": "Au lac  près des sanitaires. Une belle et grande boite qui  je l'espère  restera longtemps en état."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.636832,
+          49.118087
+        ]
+      },
+      "properties": {
+        "title": "route de gasny",
+        "lat": "49.1180866",
+        "lon": "1.6368323",
+        "type": "BSB",
+        "observation": "Au carrefour de la voie verte et de la route de Gasny"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.702697,
+          49.344566
+        ]
+      },
+      "properties": {
+        "title": "119 Les parcs",
+        "lat": "49.3445659",
+        "lon": "-0.7026974",
+        "type": "BSB",
+        "observation": "L'espace Incroyables Comestibles à Longues-sur-Mer évolue... Il compte désormais une boîte à livres... Partage de plantes  échange de livres  semons des graines d idées..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.696318,
+          49.336387
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Merisiers",
+        "lat": "49.336387",
+        "lon": "-0.696318",
+        "type": "BSB",
+        "observation": "La boîte est complétée d un espace de partage de végétaux. Échange de plantes  partage de livres... Semons des graines d'idées"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.25899,
+          49.286402
+        ]
+      },
+      "properties": {
+        "title": "avenue de la mer",
+        "lat": "49.2864022",
+        "lon": "-0.2589901",
+        "type": "BSB",
+        "observation": "Sur l'aire de jeu au début de l'avenue de la mer."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.470443,
+          49.507131
+        ]
+      },
+      "properties": {
+        "title": "25 rue de l'église",
+        "lat": "49.5071305",
+        "lon": "-1.4704431",
+        "type": "BSB",
+        "observation": "Boîte à lire à l office de tourisme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.172625,
+          48.605919
+        ]
+      },
+      "properties": {
+        "title": "Parc d Argentré",
+        "lat": "48.605919",
+        "lon": "0.172625",
+        "type": "BSB",
+        "observation": "La Boîte à Livres est située au c?ur des jardins du Palais d'Argentré  endroit propice à la lecture... Vous y trouverez des romans  des magazines  des BD pour les enfants mais aussi plus les plus grands ! Partager  découvrir et surtout LIRE sont les maîtres-mots de cette aventure !"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.508143,
+          49.149157
+        ]
+      },
+      "properties": {
+        "title": "6 Grande-rue ",
+        "lat": "49.1491568",
+        "lon": "0.508143",
+        "type": "BSB",
+        "observation": "Boîte à lire devant la Mairie  dans une ancienne cabine téléphonique  projet initié par la Mairie."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.666816,
+          49.642336
+        ]
+      },
+      "properties": {
+        "title": "Rue des Hauts Varengs",
+        "lat": "49.6423355",
+        "lon": "-1.6668157",
+        "type": "BSB",
+        "observation": "Elle se trouve à côté du centre social Le Totem."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.254543,
+          49.143429
+        ]
+      },
+      "properties": {
+        "title": "21 Place Mozart",
+        "lat": "49.1434292",
+        "lon": "0.2545425",
+        "type": "BSB",
+        "observation": "A l'initiative d'un habitant Claude G."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.243521,
+          49.1437
+        ]
+      },
+      "properties": {
+        "title": "4 Rue Roger Aini",
+        "lat": "49.1436999",
+        "lon": "0.2435208",
+        "type": "BSB",
+        "observation": "Boite à lire dans le hall d'entrée de l'hôpital. Mise en place par l'hôpital."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.240483,
+          49.14288
+        ]
+      },
+      "properties": {
+        "title": "1 Avenue Taunton",
+        "lat": "49.1428804",
+        "lon": "0.2404834",
+        "type": "BSB",
+        "observation": "A l intérieur du Centre Socioculturel CAF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.21304,
+          49.143456
+        ]
+      },
+      "properties": {
+        "title": "Rue Henri Poincaré",
+        "lat": "49.143456",
+        "lon": "0.21304",
+        "type": "BSB",
+        "observation": "boite installée à l'initiative d'un habitant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.135536,
+          49.487408
+        ]
+      },
+      "properties": {
+        "title": "36 Rue Marceau",
+        "lat": "49.4874079",
+        "lon": "0.1355359",
+        "type": "BSB",
+        "observation": "Elle se trouve dans le hall d'entrée de la clinique des ormeaux  à droite  à disposition de tous  résidents ou non."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.230756,
+          49.416892
+        ]
+      },
+      "properties": {
+        "title": "rue de la république",
+        "lat": "49.41689229800882",
+        "lon": "0.2307558059692383",
+        "type": "BSB",
+        "observation": "Elle est rue de la République  la grande rue qui aboutit au port  sur la droite en allant vers le port."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.079476,
+          49.42194
+        ]
+      },
+      "properties": {
+        "title": "114ter Avenue des Martyrs de la Résistance",
+        "lat": "49.4219401",
+        "lon": "1.0794763",
+        "type": "BSB",
+        "observation": "La boite se situe dans le Jardin des plantes. "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.091266,
+          48.432856
+        ]
+      },
+      "properties": {
+        "title": "Cour Bernadette et Jean Mars",
+        "lat": "48.432856",
+        "lon": "0.091266",
+        "type": "BSB",
+        "observation": "La boîte à lire est une ancienne cabine téléphonique anglaise  offerte par la municipalité de Basingstoke à la Ville d Alençon. Elle entame donc une deuxième vie  tout comme les livres qu on peut y trouver ! Elle se trouve près de la Médiathèque Aveline."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.371935,
+          49.182486
+        ]
+      },
+      "properties": {
+        "title": "36 rue saint manvieu",
+        "lat": "49.1824856",
+        "lon": "-0.3719345",
+        "type": "BSB",
+        "observation": "La boite à lire se trouve au sein du café sauvage (café associatif). Ce n'est pas une boîte à lire à proprement parler mais c'est ce qui s'en rapproche le plus pour le moment sur la ville de Caen  de vraies boîtes sont en projet."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.250635,
+          49.2834
+        ]
+      },
+      "properties": {
+        "title": "rue des dunes",
+        "lat": "49.2834",
+        "lon": "-0.2506346",
+        "type": "BSB",
+        "observation": "Au bord de la piste cyclable qui longe la gare maritime."
+      }
+    }
+  ]
+}

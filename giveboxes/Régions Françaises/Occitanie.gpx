@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.692922" lon="2.425922">
+    <name>Place de la Mairie</name>
+    <desc></desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.113445" lon="0.708512">
+    <name>Avenue Jacques Prévert</name>
+    <desc>_</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.98725" lon="-0.106029">
+    <name>Cami d'Azun</name>
+    <desc>boite à dons avec boîte à livre</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.963066" lon="-0.068021">
+    <name>Prats</name>
+    <desc>proche des sculptures</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.000704" lon="-0.088865">
+    <name>Rue du Neouvielle</name>
+    <desc>derrière le local poubelle HLM</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.953505" lon="4.47699">
+    <name>Place de l'Église</name>
+    <desc>Place l'église sous le tilleul</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Delivrez giveboxes" color="#0000ff" icon="outpost" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

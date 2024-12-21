@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.136306,
+          45.189471
+        ]
+      },
+      "properties": {
+        "title": "Route de l'Ecole",
+        "lat": "45.1894712",
+        "lon": "-0.1363065",
+        "type": "DSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.705122,
+          44.40666
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Convention",
+        "lat": "44.4066601",
+        "lon": "0.7051219",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.660aaf6cf169b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.062676,
+          46.134858
+        ]
+      },
+      "properties": {
+        "title": "D109",
+        "lat": "46.1348577",
+        "lon": "0.062676",
+        "type": "DSB",
+        "observation": "très belle et en très bon état !",
+        "picture": "https://delivrez.fr/public/posts/img.646f697e4ef67.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.388684,
+          43.310162
+        ]
+      },
+      "properties": {
+        "title": "Avenue Lalanne",
+        "lat": "43.3101618",
+        "lon": "-0.3886837",
+        "type": "DSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.589479,
+          44.817678
+        ]
+      },
+      "properties": {
+        "title": "Rue Roustaing",
+        "lat": "44.8176778",
+        "lon": "-0.5894794",
+        "type": "DSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.62485d23bdb3a.png"
+      }
+    }
+  ]
+}

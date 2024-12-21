@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.380814,
+          48.865774
+        ]
+      },
+      "properties": {
+        "title": "Rue Dranem",
+        "lat": "48.8657737",
+        "lon": "2.3808144",
+        "type": "DSB",
+        "observation": "au niveau du square Georges Sarre",
+        "picture": "https://delivrez.fr/public/posts/img.63d3c274f3fa8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.278442,
+          48.827205
+        ]
+      },
+      "properties": {
+        "title": "boite à dons",
+        "lat": "48.8272055",
+        "lon": "2.2784416",
+        "type": "DSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.6314b64647cc0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.90821,
+          49.01196
+        ]
+      },
+      "properties": {
+        "title": "boite a dons dans le parking Auchan au fond",
+        "lat": "49.0119601",
+        "lon": "1.9082102",
+        "type": "DSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.527645,
+          48.945407
+        ]
+      },
+      "properties": {
+        "title": "Rue René Dhal",
+        "lat": "48.9454071",
+        "lon": "1.5276447",
+        "type": "DSB",
+        "observation": "boite a don a côté de la pharmacie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.358971,
+          48.967357
+        ]
+      },
+      "properties": {
+        "title": "L'Inutile Utile",
+        "lat": "48.9673571",
+        "lon": "2.3589715",
+        "type": "DSB",
+        "observation": "Magasin pour rien"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.220847,
+          49.232399
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "49.2323994",
+        "lon": "1.2208467",
+        "type": "DSB",
+        "observation": "a côté de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.66a0eace5a2ce.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.101879,
+          49.442267
+        ]
+      },
+      "properties": {
+        "title": "jardin de l'eglise",
+        "lat": "49.4422672",
+        "lon": "1.1018787",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.654245a22b8c1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.078294,
+          49.422879
+        ]
+      },
+      "properties": {
+        "title": "Rue Dufay",
+        "lat": "49.4228794",
+        "lon": "1.0782935",
+        "type": "DSB",
+        "observation": "spécial jardinage@@__"
+      }
+    }
+  ]
+}

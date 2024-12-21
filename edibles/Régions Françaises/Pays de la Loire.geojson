@@ -1,0 +1,592 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.429419,
+          47.327719
+        ]
+      },
+      "properties": {
+        "title": "Place Saint-Aubin",
+        "lat": "47.3277187",
+        "lon": "-2.4294188",
+        "type": "INE",
+        "observation": "Devant les Halles",
+        "picture": "https://delivrez.fr/public/posts/img.64e5c7e8ba8f4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.165807,
+          47.246659
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Brevin-les-Pins",
+        "lat": "47.246659",
+        "lon": "-2.165807",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.106323,
+          47.482113
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Maumusson",
+        "lat": "47.482113",
+        "lon": "-1.10632299999997",
+        "type": "INE",
+        "observation": "https://www.facebook.com/unefolleide"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83032,
+          46.699679
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Révérend",
+        "lat": "46.699679",
+        "lon": "-1.83032000000003",
+        "type": "INE",
+        "observation": "Le groupe a courageusement démarré à Saint Révérend début janvier 2019 !Plus d'informations via :  revdemain@gmail.com "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.743693,
+          47.343013
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Chalonnes Sur Loire",
+        "lat": "47.343013",
+        "lon": "-0.7436928",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.75346,
+          47.200228
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Le Pellerin",
+        "lat": "47.200228",
+        "lon": "-1.75346000000002",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Incroyables-Comestibles-Le-Pellerin-158239708868429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.651444,
+          47.210335
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Herblain",
+        "lat": "47.210335",
+        "lon": "-1.65144399999997",
+        "type": "INE",
+        "observation": "Rejoignez les : gourlaouen_francoise@orange.fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.540862,
+          47.300324
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Bellevigne-en-Layon",
+        "lat": "47.3003239",
+        "lon": "-0.540862000000061",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.916373,
+          47.255227
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Le Migron",
+        "lat": "47.255227",
+        "lon": "-1.91637300000002",
+        "type": "INE",
+        "observation": "Et c'est parti pour les Incroyables de Frossay ! Rejoignez les en contactant Mathilde :02 28 53 51 62 ou via animation@quai-vert.com et www.quai-vert.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.177491,
+          47.365464
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Ancenis",
+        "lat": "47.365464",
+        "lon": "-1.17749100000003",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.031545,
+          47.28741
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Paimbœuf",
+        "lat": "47.28741",
+        "lon": "-2.03154500000005",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.944529,
+          46.697777
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Gilles-Croix-de-Vie",
+        "lat": "46.697777",
+        "lon": "-1.94452899999999",
+        "type": "INE",
+        "observation": "Contact : Michèle Tramoy - incroyablescomestiblessaintgillescroixdevie@laposte.net"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.363521,
+          48.249116
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Bais",
+        "lat": "48.249116",
+        "lon": "-0.363520999999992",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Incroyables-Comestibles-Bais-255313914808264/?ref=aymt_homepage_pane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.643526,
+          48.085082
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Argentré",
+        "lat": "48.085082",
+        "lon": "-0.643526000000065",
+        "type": "INE",
+        "observation": "Rejoignez les Incroyables d'Argentré en contactant Guillaume ou Jean-Marie : laisnard.guillaume@laposte.net ou argentreic@gmx.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.868363,
+          47.689224
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Segré",
+        "lat": "47.689224",
+        "lon": "-0.868363000000045",
+        "type": "INE",
+        "observation": "Pour toute information, ou pour les rejoindre, contactez Gwénaël : gwenael.madiot@icloud.com -06.18.85.56.3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.879787,
+          47.059407
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Cholet",
+        "lat": "47.059407",
+        "lon": "-0.879786999999965",
+        "type": "INE",
+        "observation": "https://www.facebook.com/incroyablescomestiblescholet4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.727408,
+          47.210082
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Chemillé",
+        "lat": "47.2100819",
+        "lon": "-0.7274078",
+        "type": "INE",
+        "observation": "Pour tout renseignement, contactez Caroline Chauveau au 02 41 30 50 55/06 18 97 48 18. ou par mail : incroyablescomestibles@csc49.fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.950073,
+          46.717269
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Hilaire-de-Riez",
+        "lat": "46.717269",
+        "lon": "-1.950073",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/incroyables.comestibles.paysdelaloire/).Pour les contacter :TAILLE Bernardbernardtaille@laposte.net066619578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.244987,
+          47.445736
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible La Chapelle des Marais",
+        "lat": "47.445736",
+        "lon": "-2.244987",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.399311,
+          47.383706
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Molf",
+        "lat": "47.383706",
+        "lon": "-2.399311",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/incroyables.comestibles.paysdelaloire/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.017365,
+          47.254534
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Viaud",
+        "lat": "47.254534",
+        "lon": "-2.017365",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.365051,
+          47.693126
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Châteaubriant",
+        "lat": "47.693126",
+        "lon": "-1.365051",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.144394,
+          47.328585
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Montoir-de-Bretagne",
+        "lat": "47.328585",
+        "lon": "-2.144394",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incroyables-Comestibles-Montoir-de-Bretagne/582686921742992)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.076416,
+          47.62838
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Redon",
+        "lat": "47.62838",
+        "lon": "-2.076416",
+        "type": "INE",
+        "observation": "http://www.mutuellepaysdevilaine.fr/pollinisons-la-sante-durable/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.502724,
+          47.199744
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Sébastien-sur-Loire",
+        "lat": "47.199744",
+        "lon": "-1.502724",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.758057,
+          48.067068
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Laval",
+        "lat": "48.067068",
+        "lon": "-0.758057",
+        "type": "INE",
+        "observation": "http://www.ouest-france.fr/le-bourny-teste-ses-incroyables-comestibles-975804)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.433716,
+          46.638122
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible La Roche-sur-Yon",
+        "lat": "46.638122",
+        "lon": "-1.433716",
+        "type": "INE",
+        "observation": "https://www.facebook.com/LesIncroyablesComestiblesALaRocheSurYon)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.560303,
+          47.465236
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Angers",
+        "lat": "47.465236",
+        "lon": "-0.560303",
+        "type": "INE",
+        "observation": "https://www.facebook.com/pages/Incroyables-Comestibles-Angers/518952744823248)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.493011,
+          47.763792
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Miré",
+        "lat": "47.763792",
+        "lon": "-0.493011",
+        "type": "INE",
+        "observation": "http://www.facebook.com/IncroyablesComestiblesMire) et participez au mouvement de l'abondance partagée sur le territoire"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.093384,
+          47.301585
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saumur",
+        "lat": "47.301585",
+        "lon": "-0.093384",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncroyablesComestiblesSaumur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.379028,
+          48.372672
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Mamers",
+        "lat": "48.372672",
+        "lon": "0.379028",
+        "type": "INE",
+        "observation": "http://laruchenligne.canalblog.com/archives/2012/11/02/25554142.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.230713,
+          48.085419
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Le Mans",
+        "lat": "48.085419",
+        "lon": "0.230713",
+        "type": "INE",
+        "observation": "Projet en cours de préparation..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.054687,
+          46.55886
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible La Rochelle",
+        "lat": "46.55886",
+        "lon": "-1.054687",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncroyablesComestiblesLaRochelle/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.562977,
+          47.218169
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Nantes",
+        "lat": "47.218169",
+        "lon": "-1.562977",
+        "type": "INE",
+        "observation": "Premières apparitions des incroyables comestibles dans les rues de Nantes. Initiatives menées par l'équipe des Ekovores.Projet en cours de création. À suivre..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.212243,
+          47.279593
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Nazaire",
+        "lat": "47.279593",
+        "lon": "-2.212243",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Incredible.Edible.Region.Nazairienne"
+      }
+    }
+  ]
+}

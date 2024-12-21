@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.795417,
+          47.867416
+        ]
+      },
+      "properties": {
+        "title": "Rue des Ormes",
+        "lat": "47.8674156",
+        "lon": "6.7954172",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.6755b3dbd38ba.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.357278,
+          48.223474
+        ]
+      },
+      "properties": {
+        "title": "D6",
+        "lat": "48.2234736",
+        "lon": "7.3572777",
+        "type": "DSB",
+        "observation": "Rodern"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.092944,
+          47.750768
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Maurice",
+        "lat": "47.7507682",
+        "lon": "7.0929441",
+        "type": "DSB",
+        "observation": "face caserne",
+        "picture": "https://delivrez.fr/public/posts/img.65ec3928de943.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.164283,
+          48.719464
+        ]
+      },
+      "properties": {
+        "title": "La Piscine - libre échange et don",
+        "lat": "48.7194644",
+        "lon": "6.1642833",
+        "type": "DSB",
+        "observation": "tiers lieux associatif avec jardin, don et recyclage@@__5 avenue de metz 54320 maxeville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.766001,
+          49.251014
+        ]
+      },
+      "properties": {
+        "title": "boîte à dons",
+        "lat": "49.2510136",
+        "lon": "3.7660015",
+        "type": "DSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.637a5e414d61c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.058962,
+          47.885767
+        ]
+      },
+      "properties": {
+        "title": "Rue de Saint-Amarin",
+        "lat": "47.8857668",
+        "lon": "7.058962",
+        "type": "DSB",
+        "observation": "9 h 12 h tout les samedis",
+        "picture": "https://delivrez.fr/public/posts/img.632a10740d029.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.774501,
+          47.876956
+        ]
+      },
+      "properties": {
+        "title": "Rue de Lorraine",
+        "lat": "47.8769557",
+        "lon": "6.7745013",
+        "type": "DSB",
+        "observation": "sur la parking  gp moto",
+        "picture": "https://delivrez.fr/public/posts/img.6293a4c19f26a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.677918,
+          49.017556
+        ]
+      },
+      "properties": {
+        "title": "gratuité",
+        "lat": "49.0175564",
+        "lon": "5.6779181",
+        "type": "DSB",
+        "observation": "lieu convivial"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.30952,
+          48.041992
+        ]
+      },
+      "properties": {
+        "title": "Grand-Rue",
+        "lat": "48.0419915",
+        "lon": "7.3095201",
+        "type": "DSB",
+        "observation": "à côté des pompiers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.293179,
+          47.991314
+        ]
+      },
+      "properties": {
+        "title": "recherche grillage à poule",
+        "lat": "47.9913141",
+        "lon": "5.2931789",
+        "type": "DSB",
+        "observation": "bonjour, je recherche grillage à poule de minimum 1m15 de long."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.546992,
+          48.014624
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Europe",
+        "lat": "48.0146245",
+        "lon": "7.5469919",
+        "type": "DSB",
+        "observation": "dans le hall a côté du coiffeur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.99596,
+          47.886441
+        ]
+      },
+      "properties": {
+        "title": "Rue des Fabriques",
+        "lat": "47.8864412",
+        "lon": "6.9959597",
+        "type": "DSB",
+        "observation": "grainotheque de la mediatheque de wesserling"
+      }
+    }
+  ]
+}

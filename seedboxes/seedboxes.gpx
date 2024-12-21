@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="49.357815" lon="0.515574">
+    <name>grainotheque</name>
+    <desc>située dans la mediatheque</desc>
+    <type>Delivrez seedboxes</type>
+    <extensions>
+      <osmand:color>#ffa500</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>club_nature</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.824854" lon="7.483349">
+    <name>Place du Château</name>
+    <desc></desc>
+    <type>Delivrez seedboxes</type>
+    <extensions>
+      <osmand:color>#ffa500</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>club_nature</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.623431" lon="6.753831">
+    <name>Médiathèque de Callian</name>
+    <desc>Dans la médiathèque, large choix</desc>
+    <type>Delivrez seedboxes</type>
+    <extensions>
+      <osmand:color>#ffa500</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>club_nature</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.75387" lon="0.686763">
+    <name>Place de L’Eglise</name>
+    <desc>sous un arbre</desc>
+    <type>Delivrez seedboxes</type>
+    <extensions>
+      <osmand:color>#ffa500</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>club_nature</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.182276" lon="6.903278">
+    <name>Rue du Parc</name>
+    <desc></desc>
+    <type>Delivrez seedboxes</type>
+    <extensions>
+      <osmand:color>#ffa500</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>club_nature</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.232344" lon="6.299311">
+    <name>Rue de l'Église</name>
+    <desc>face boulangerie</desc>
+    <type>Delivrez seedboxes</type>
+    <extensions>
+      <osmand:color>#ffa500</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>club_nature</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="35.582212" lon="-82.599185">
+    <name>#littlefreegardenstand</name>
+    <desc>Books, vegetables, flowers, seed, canned goods, seedlings</desc>
+    <type>Delivrez seedboxes</type>
+    <extensions>
+      <osmand:color>#ffa500</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>club_nature</osmand:icon>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Delivrez seedboxes" color="#ffa500" icon="club_nature" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>

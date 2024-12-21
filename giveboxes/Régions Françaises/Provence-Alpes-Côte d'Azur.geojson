@@ -1,0 +1,142 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.012644,
+          44.111095
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Enfance",
+        "lat": "44.1110946",
+        "lon": "6.0126442",
+        "type": "DSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.648917,
+          44.174929
+        ]
+      },
+      "properties": {
+        "title": "Route de Sisteron",
+        "lat": "44.1749285",
+        "lon": "5.648917",
+        "type": "DSB",
+        "observation": "a côté d'un abri bus",
+        "picture": "https://delivrez.fr/public/posts/img.663b61bf20c9d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.014199,
+          44.111034
+        ]
+      },
+      "properties": {
+        "title": "Place de la petite enfance ( face à l'entrée de la",
+        "lat": "44.1110343",
+        "lon": "6.0141986",
+        "type": "DSB",
+        "observation": "la gratuiterie est un espace où vous pouvez déposer des objets et/ou prendre des objets. Le tout sans échange d'argent. Tout est gratuit. C'est ouvert du mardi au vendredi matin de 9h à midi. Le mardi",
+        "picture": "https://delivrez.fr/public/posts/img.65e981ca0a674.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.353002,
+          44.442085
+        ]
+      },
+      "properties": {
+        "title": "1 Les Garreaux",
+        "lat": "44.4420851",
+        "lon": "6.3530021",
+        "type": "DSB",
+        "observation": "dans l'agence postale Communale 8h15 11h45 du lundi au vendredi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.110454,
+          44.504328
+        ]
+      },
+      "properties": {
+        "title": "Montée du Fraissy",
+        "lat": "44.5043284",
+        "lon": "6.1104535",
+        "type": "DSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.77615,
+          43.956123
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Général Charles de Gaulle",
+        "lat": "43.9561229",
+        "lon": "5.7761504",
+        "type": "DSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.342268,
+          44.134222
+        ]
+      },
+      "properties": {
+        "title": "Boite à dons",
+        "lat": "44.1342216",
+        "lon": "6.3422682",
+        "type": "DSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.635504a53d84c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.165885,
+          44.82065
+        ]
+      },
+      "properties": {
+        "title": "Rue de Pétarel",
+        "lat": "44.8206503",
+        "lon": "6.1658851",
+        "type": "DSB",
+        "observation": "au dessus de la fontaine sur une fenêtre"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.740824,
+          47.627142
+        ]
+      },
+      "properties": {
+        "title": "Rue des Orchidées",
+        "lat": "47.627142",
+        "lon": "-2.7408245",
+        "type": "DSB",
+        "observation": "devant l'accueil du camping",
+        "picture": "https://delivrez.fr/public/posts/img.67022cdbe5b7c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.788643,
+          48.052638
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "48.0526377",
+        "lon": "-1.7886428",
+        "type": "DSB",
+        "observation": "_"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.839946,
+          48.07637
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Maréchal Leclerc",
+        "lat": "48.0763704",
+        "lon": "-1.8399463",
+        "type": "DSB",
+        "observation": "_"
+      }
+    }
+  ]
+}

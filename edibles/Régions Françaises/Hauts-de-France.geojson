@@ -1,0 +1,473 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.239231,
+          50.631648
+        ]
+      },
+      "properties": {
+        "title": "F- Incroyables Comestibles Willems",
+        "lat": "50.6316484",
+        "lon": "3.239231",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.397325,
+          50.328225
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Denain",
+        "lat": "50.328225",
+        "lon": "3.39732500000002",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.165241,
+          50.59252
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Sainghin-en-Mélantois",
+        "lat": "50.59252",
+        "lon": "3.16524100000004",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.061237,
+          50.397772
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Flers-en-Escrebieux",
+        "lat": "50.397772",
+        "lon": "3.06123700000001",
+        "type": "INE",
+        "observation": "http://www.unionecologique-flers.fr/ ou auprès de Marie Agnès : union.ecologique.flers@gmail.com ou 068600277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.884218,
+          50.691652
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Armentières",
+        "lat": "50.691652",
+        "lon": "2.88421800000003",
+        "type": "INE",
+        "observation": "https://www.facebook.com/ICArmentiere"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.081351,
+          50.835488
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Recques-sur-Hem",
+        "lat": "50.835488",
+        "lon": "2.08135100000004",
+        "type": "INE",
+        "observation": "Rejoignez le petit groupe de jardiniers enthousiastes, en contactant Carole par mail : carole.specq@gmail.com ou par téléphone au 06 63 09 77 03."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.144265,
+          50.623252
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Villeneuve-d'Ascq",
+        "lat": "50.6232523",
+        "lon": "3.14426509999998",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.078683,
+          50.605934
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Ronchin",
+        "lat": "50.605934",
+        "lon": "3.07868299999996",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.222805,
+          50.648047
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Sailly-lez-Lannoy",
+        "lat": "50.648047",
+        "lon": "3.22280499999999",
+        "type": "INE",
+        "observation": "Pour toute information, contacter Delphine :  delcoppin@gmail.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.009636,
+          50.714722
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Quesnoy-sur-Deûle",
+        "lat": "50.714722",
+        "lon": "3.009636",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Incroyables-comestibles-de-Quesnoy-sur-Deule-188592881836338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.236633,
+          50.173538
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Cambrai",
+        "lat": "50.173538",
+        "lon": "3.23663299999998",
+        "type": "INE",
+        "observation": "https://www.facebook.com/CambraiIncroyablesComestible"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.721657,
+          50.764103
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Jans-Cappel",
+        "lat": "50.7641026",
+        "lon": "2.72165749999999",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Incroyables-comestibles-Saint-Jans-Cappe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.61989,
+          49.564133
+        ]
+      },
+      "properties": {
+        "title": "F- Incroyables Comestibles Laon",
+        "lat": "49.564133",
+        "lon": "3.61988999999994",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/230143594020935/?fref=ts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.46306,
+          49.147297
+        ]
+      },
+      "properties": {
+        "title": "F- Incroyables Comestibles Coye-la-Forêt",
+        "lat": "49.147297",
+        "lon": "2.46306000000004",
+        "type": "INE",
+        "observation": "Doriane Lapière – Présidente de l’association Tel. : 06 22 42 32 78 Mail : contact@laclairieredessources.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.252208,
+          50.750115
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Omer",
+        "lat": "50.750115",
+        "lon": "2.252208",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.73559,
+          50.736482
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Bailleul",
+        "lat": "50.736482",
+        "lon": "2.73559",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/524957134378599/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.464688,
+          49.278948
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Nogent-sur-Oise",
+        "lat": "49.278948",
+        "lon": "2.46468800000002",
+        "type": "INE",
+        "observation": "Les Incroyables Comestibles ont démarrés à Nogent-sur-Oise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.121147,
+          50.745689
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Roncq",
+        "lat": "50.745689",
+        "lon": "3.121147",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.325081,
+          49.844293
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Harly",
+        "lat": "49.844293",
+        "lon": "3.325081",
+        "type": "INE",
+        "observation": "http://www.aisnenouvelle.fr/article/harly/laccueil-de-loisirs-est-pret"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.633972,
+          50.537872
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Béthune",
+        "lat": "50.537872",
+        "lon": "2.633972",
+        "type": "INE",
+        "observation": "Une belle mobilisation citoyenne a commencé à Béthune pour donner naissance à la démarche participative des Incroyables Comestibles dans la ville.À suivre... ça pousse incroyable !"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375793,
+          51.015483
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Dunkerque",
+        "lat": "51.015483",
+        "lon": "2.375793",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/130546053789210/?fref=t"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.098145,
+          50.61026
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Faches-Thumesnil",
+        "lat": "50.61026",
+        "lon": "3.098145",
+        "type": "INE",
+        "observation": "Ça y est, les Incroyables Comestibles sont déjà dans la ville à Faches-Thumesnil.Plus d'informations à venir... ça pousse !"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.190155,
+          50.686888
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Roubaix",
+        "lat": "50.686888",
+        "lon": "3.190155",
+        "type": "INE",
+        "observation": "Les premières graines de partage des Incroyables Comestibles ont été plantées par les enfants à Roubaix.À suivre, ça pousse..."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.026733,
+          50.629429
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Lille",
+        "lat": "50.629429",
+        "lon": "3.026733",
+        "type": "INE",
+        "observation": "https://www.facebook.com/groups/GuerillaPotagereLille/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.296143,
+          49.90348
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Amiens",
+        "lat": "49.90348",
+        "lon": "2.296143",
+        "type": "INE",
+        "observation": "https://www.facebook.com/incroyables.comestibles.amiens/?ref=bookmarks)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.037621,
+          50.980479
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Oye-Plage",
+        "lat": "50.980479",
+        "lon": "2.037621",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/283017105151707/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.089462,
+          50.934633
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Vieille-Église",
+        "lat": "50.934633",
+        "lon": "2.089462",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.900635,
+          50.939393
+        ]
+      },
+      "properties": {
+        "title": "F – Incroyables Comestibles Calais",
+        "lat": "50.939393",
+        "lon": "1.900635",
+        "type": "INE",
+        "observation": "http://www.facebook.com/groups/283017105151707/"
+      }
+    }
+  ]
+}

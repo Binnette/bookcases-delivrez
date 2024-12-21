@@ -1,0 +1,287 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.767462,
+          48.145531
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Dordives",
+        "lat": "48.145531",
+        "lon": "2.767462",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Incroyables-Comestibles-Dordives-24936800907653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.128604,
+          47.868809
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Saint-Denis-de-l'Hôtel",
+        "lat": "47.868809",
+        "lon": "2.128604",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.375111,
+          47.581201
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Vineuil",
+        "lat": "47.581201",
+        "lon": "1.37511100000006",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.68484,
+          47.394144
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Tours",
+        "lat": "47.394144",
+        "lon": "0.684840000000008",
+        "type": "INE",
+        "observation": "https://www.facebook.com/incroyablescomestiblestour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.122264,
+          47.866604
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Jargeau",
+        "lat": "47.866604",
+        "lon": "2.12226399999997",
+        "type": "INE",
+        "observation": "Pour rejoindre le groupe, contacter Rodolphe : rod.cat@free.fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.219056,
+          47.865635
+        ]
+      },
+      "properties": {
+        "title": "F- Incroyables Comestibles Châteauneuf-sur-Loire",
+        "lat": "47.865635",
+        "lon": "2.21905600000002",
+        "type": "INE",
+        "observation": "https://www.facebook.com/Incroyables.Comestibles.Cs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.897565,
+          47.865408
+        ]
+      },
+      "properties": {
+        "title": "F - Incroyables Comestibles Olivet",
+        "lat": "47.865408",
+        "lon": "1.89756499999999",
+        "type": "INE",
+        "observation": "https://www.facebook.com/incroyablescomestiblesolivet4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.803131,
+          47.817765
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Mézières-lez-Cléry",
+        "lat": "47.817765",
+        "lon": "1.803131",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.61396,
+          46.977207
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Levroux",
+        "lat": "46.977207",
+        "lon": "1.61396",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.653687,
+          47.356502
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Joué-lès-Tours",
+        "lat": "47.356502",
+        "lon": "0.653687",
+        "type": "INE",
+        "observation": "http://incroyable-comestible-jlt.jimdo.com/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.463684,
+          46.732331
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Saint-Amand-Montrond",
+        "lat": "46.732331",
+        "lon": "2.463684",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.906128,
+          47.890564
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Orléans",
+        "lat": "47.890564",
+        "lon": "1.906128",
+        "type": "INE",
+        "observation": "http://animation-orleans-aselqo-madeleine.fr/vegetalisation-responsable/ et contacter Coralie : dh.coralie@live.fr pour rejoindre le groupe du centre-ville"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.329346,
+          47.602459
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Blois",
+        "lat": "47.602459",
+        "lon": "1.329346",
+        "type": "INE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.49321,
+          47.231692
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Menetou-Salon",
+        "lat": "47.231692",
+        "lon": "2.49321",
+        "type": "INE",
+        "observation": "Les Incroyables Comestibles de l'abondance partagée ont bien pris racine à Menetou Salon et ont été présentés lors du 1ier Forum Paix et Solidarité des 26 et 27 octobre 2013."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.400513,
+          47.081345
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Bourges",
+        "lat": "47.081345",
+        "lon": "2.400513",
+        "type": "INE",
+        "observation": "Les citoyens jardiniers solidaires ont donné naissance à la démarche participative citoyenne des Incroyables Comestibles dans la ville de Bourges."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.054443,
+          47.23449
+        ]
+      },
+      "properties": {
+        "title": "Incredible Edible Vierzon",
+        "lat": "47.23449",
+        "lon": "2.054443",
+        "type": "INE",
+        "observation": "https://www.facebook.com/IncroyablesComestiblesAVierzon18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.683655,
+          46.80852
+        ]
+      },
+      "properties": {
+        "title": "F – Incroyables Comestibles Châteauroux",
+        "lat": "46.80852",
+        "lon": "1.683655",
+        "type": "INE"
+      }
+    }
+  ]
+}

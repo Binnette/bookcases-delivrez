@@ -1,0 +1,92 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.512839,
+          46.72565
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "46.7256504",
+        "lon": "-1.5128386",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.66001ba2de69a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.940539,
+          46.527027
+        ]
+      },
+      "properties": {
+        "title": "Boîte à dons",
+        "lat": "46.5270273",
+        "lon": "-0.9405394",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.65919833ab0b2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.19656,
+          47.98847
+        ]
+      },
+      "properties": {
+        "title": "Rue du Pont",
+        "lat": "47.9884699",
+        "lon": "0.1965604",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.65009cd9ef849.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.749523,
+          47.133763
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Tilleuls",
+        "lat": "47.1337633",
+        "lon": "-1.749523",
+        "type": "DSB",
+        "observation": "derrière l'école Jules Verne",
+        "picture": "https://delivrez.fr/public/posts/img.64e8b3bab4075.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.672767,
+          47.666359
+        ]
+      },
+      "properties": {
+        "title": "Rue de Redon",
+        "lat": "47.6663587",
+        "lon": "-1.6727667",
+        "type": "DSB",
+        "observation": "A côté de l'association socioculturelle La barakatous",
+        "picture": "https://delivrez.fr/public/posts/img.64c001432b245.png"
+      }
+    }
+  ]
+}

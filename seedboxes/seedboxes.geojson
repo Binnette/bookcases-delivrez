@@ -1,0 +1,127 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.515574,
+          49.357815
+        ]
+      },
+      "properties": {
+        "title": "grainotheque",
+        "lat": "49.3578154",
+        "lon": "0.5155739",
+        "type": "SES",
+        "observation": "située dans la mediatheque",
+        "picture": "https://delivrez.fr/public/posts/img.67335759bfab8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.483349,
+          48.824854
+        ]
+      },
+      "properties": {
+        "title": "Place du Château",
+        "lat": "48.8248544",
+        "lon": "7.4833489",
+        "type": "SES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.753831,
+          43.623431
+        ]
+      },
+      "properties": {
+        "title": "Médiathèque de Callian",
+        "lat": "43.6234306",
+        "lon": "6.7538311",
+        "type": "SES",
+        "observation": "Dans la médiathèque, large choix",
+        "picture": "https://delivrez.fr/public/posts/img.66c8b93127ba9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.686763,
+          47.75387
+        ]
+      },
+      "properties": {
+        "title": "Place de L’Eglise",
+        "lat": "47.75387",
+        "lon": "0.6867628",
+        "type": "SES",
+        "observation": "sous un arbre",
+        "picture": "https://delivrez.fr/public/posts/img.66bf1539b682f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.903278,
+          49.182276
+        ]
+      },
+      "properties": {
+        "title": "Rue du Parc",
+        "lat": "49.1822756",
+        "lon": "6.9032778",
+        "type": "SES",
+        "picture": "https://delivrez.fr/public/posts/img.66be14a83bbf3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.299311,
+          47.232344
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "47.2323443",
+        "lon": "6.2993115",
+        "type": "SES",
+        "observation": "face boulangerie",
+        "picture": "https://delivrez.fr/public/posts/img.66324bce50e78.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.599185,
+          35.582212
+        ]
+      },
+      "properties": {
+        "title": "#littlefreegardenstand",
+        "lat": "35.5822118",
+        "lon": "-82.5991847",
+        "type": "SES",
+        "observation": "Books, vegetables, flowers, seed, canned goods, seedlings"
+      }
+    }
+  ]
+}
