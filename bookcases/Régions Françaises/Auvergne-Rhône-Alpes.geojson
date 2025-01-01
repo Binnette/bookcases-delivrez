@@ -6,6 +6,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.815113,
+          45.200728
+        ]
+      },
+      "properties": {
+        "title": "La Croix des Mailles",
+        "lat": "45.2007283",
+        "lon": "4.8151133",
+        "type": "BSB",
+        "observation": "En face de l'école tout De suite Direction lavéyron"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.929303,
+          44.394218
+        ]
+      },
+      "properties": {
+        "title": "Rue du Presbytère",
+        "lat": "44.3942183",
+        "lon": "4.9293027",
+        "type": "BSB",
+        "observation": "devant le fablab",
+        "picture": "https://delivrez.fr/public/posts/img.676eb43509959.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.422578,
+          46.37386
+        ]
+      },
+      "properties": {
+        "title": "Rue du Stade",
+        "lat": "46.3738598",
+        "lon": "2.4225779",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.676d2d36eee67.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.674558,
+          46.033727
+        ]
+      },
+      "properties": {
+        "title": "Le Village",
+        "lat": "46.0337267",
+        "lon": "5.6745584",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.676d459ca1990.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.692727,
+          45.997375
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Croix",
+        "lat": "45.9973748",
+        "lon": "5.6927265",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.676d4989d85e0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.318228,
           46.230894
         ]

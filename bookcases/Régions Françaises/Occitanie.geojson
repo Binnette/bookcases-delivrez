@@ -6,6 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.432409,
+          43.457959
+        ]
+      },
+      "properties": {
+        "title": "Le Fort",
+        "lat": "43.4579589",
+        "lon": "1.4324087",
+        "type": "BSB",
+        "observation": "boite a livre en forme de tonneau entre resto et lairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.033776,
+          42.680118
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Toulouse",
+        "lat": "42.6801181",
+        "lon": "3.033776",
+        "type": "BSB",
+        "observation": "devant la mairie annexe",
+        "picture": "https://delivrez.fr/public/posts/img.676e8c20ba0f6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.883899,
           43.605331
         ]

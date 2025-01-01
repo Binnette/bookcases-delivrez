@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.52675,
+          49.585388
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "49.5853881",
+        "lon": "0.5267497",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6767f1e87abee.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.637977,
           49.5144
         ]

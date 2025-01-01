@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.775466,
+          48.719722
+        ]
+      },
+      "properties": {
+        "title": "Route de Dieuze",
+        "lat": "48.7197218",
+        "lon": "6.775466",
+        "type": "BSB",
+        "observation": "périscolaire",
+        "picture": "https://delivrez.fr/public/posts/img.6760398eda06b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.26783,
           48.353436
         ]

@@ -6,6 +6,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.974612,
+          50.32858
+        ]
+      },
+      "properties": {
+        "title": "Rue Lucie Aubrac",
+        "lat": "50.3285802",
+        "lon": "2.9746119",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.676abb8964e7d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.98198,
+          50.325815
+        ]
+      },
+      "properties": {
+        "title": "place de la mairie",
+        "lat": "50.3258153",
+        "lon": "2.9819799",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.676ab7d0aeb22.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.06224,
+          50.34209
+        ]
+      },
+      "properties": {
+        "title": "Rue Fernand Stassin",
+        "lat": "50.34209",
+        "lon": "3.06224",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6759604c3649c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.361005,
+          50.998248
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Général de Gaulle",
+        "lat": "50.9982477",
+        "lon": "2.3610051",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67668983804b2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.355443,
+          50.999393
+        ]
+      },
+      "properties": {
+        "title": "avenue du général de gaule",
+        "lat": "50.9993928",
+        "lon": "2.3554426",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.028895,
           50.30764
         ]

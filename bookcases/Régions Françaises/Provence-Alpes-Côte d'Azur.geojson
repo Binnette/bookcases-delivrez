@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.010613,
+          43.125057
+        ]
+      },
+      "properties": {
+        "title": "Avenue Gabriel Péri",
+        "lat": "43.1250566",
+        "lon": "6.0106131",
+        "type": "BSB",
+        "observation": "a côté de la caisse d'épargne",
+        "picture": "https://delivrez.fr/public/posts/img.67599f92362a8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.034264,
           43.196263
         ]

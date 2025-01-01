@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.457959" lon="1.432409">
+    <name>Le Fort</name>
+    <desc>boite a livre en forme de tonneau entre resto et lairie</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.680118" lon="3.033776">
+    <name>Avenue de Toulouse</name>
+    <desc>devant la mairie annexe</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.605331" lon="3.883899">
     <name>Place François Jaumes 34000 Montpellier</name>
     <desc>Sur la place St Jaumes, devant la façade en tompe-l oeil. Très jolie boite comme un arbre.</desc>

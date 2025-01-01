@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.95108,
+          48.283543
+        ]
+      },
+      "properties": {
+        "title": "Rue du Battant",
+        "lat": "48.2835433",
+        "lon": "6.95108",
+        "type": "DSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.795417,
           47.867416
         ]

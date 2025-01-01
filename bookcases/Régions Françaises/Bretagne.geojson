@@ -6,6 +6,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.723031,
+          47.844909
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Armel",
+        "lat": "47.8449095",
+        "lon": "-2.7230309",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.676ea478e28fb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.817987,
+          47.920186
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Madeleine",
+        "lat": "47.9201861",
+        "lon": "-2.8179874",
+        "type": "BSB",
+        "observation": "dans un petit square 😊",
+        "picture": "https://delivrez.fr/public/posts/img.676d509c30ff5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.766632,
+          47.758305
+        ]
+      },
+      "properties": {
+        "title": "boite a livres",
+        "lat": "47.7583045",
+        "lon": "-2.7666322",
+        "type": "BSB",
+        "observation": "place de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.260477,
+          48.30961
+        ]
+      },
+      "properties": {
+        "title": "Rue du Nerhu",
+        "lat": "48.3096097",
+        "lon": "-4.2604766",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.676c31770091f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.913279,
           47.546088
         ]

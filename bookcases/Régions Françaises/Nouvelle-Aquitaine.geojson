@@ -6,6 +6,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.489662,
+          44.857358
+        ]
+      },
+      "properties": {
+        "title": "boite à livres",
+        "lat": "44.8573585",
+        "lon": "0.4896621",
+        "type": "BSB",
+        "observation": "dans le hall de la gare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.84781,
+          46.182985
+        ]
+      },
+      "properties": {
+        "title": "aire des Monts de Guéret",
+        "lat": "46.1829845",
+        "lon": "1.8478096",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.481498,
           44.870333
         ]
