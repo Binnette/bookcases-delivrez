@@ -6,6 +6,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.44174,
+          42.66625
+        ]
+      },
+      "properties": {
+        "title": "Avenue Sampiero Corso",
+        "lat": "42.6662497",
+        "lon": "9.4417404",
+        "type": "BSB",
+        "observation": "Centre Commercial Leclerc",
+        "picture": "https://delivrez.fr/public/posts/img.6773ebc29ac8f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.440068,
+          42.656906
+        ]
+      },
+      "properties": {
+        "title": "Auchan Furiani",
+        "lat": "42.6569064",
+        "lon": "9.4400681",
+        "type": "BSB",
+        "observation": "Dans l entrée du magasin",
+        "picture": "https://delivrez.fr/public/posts/img.67717e5d7ac4e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.75577,
           42.563277
         ]

@@ -6,6 +6,202 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.914431,
+          48.443169
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Libération",
+        "lat": "48.4431687",
+        "lon": "-1.9144307",
+        "type": "BSB",
+        "observation": "St Pierre de Plesguen - poste",
+        "picture": "https://delivrez.fr/public/posts/img.679639dda904a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.924319,
+          48.58815
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Monnet",
+        "lat": "48.5881495",
+        "lon": "-1.9243185",
+        "type": "BSB",
+        "observation": "St Père Marc en Poulet- face à l'église",
+        "picture": "https://delivrez.fr/public/posts/img.67964859ed1f6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.640847,
+          48.32851
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "48.3285101",
+        "lon": "-1.6408473",
+        "type": "BSB",
+        "observation": "Feins - accollė à l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6792478007d01.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5357,
+          48.332719
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "48.3327194",
+        "lon": "-1.5357001",
+        "type": "BSB",
+        "observation": "Sens de Bretagne - cabine téléphonique",
+        "picture": "https://delivrez.fr/public/posts/img.67924b7d45c28.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.720632,
+          48.298358
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "48.2983579",
+        "lon": "-1.7206318",
+        "type": "BSB",
+        "observation": "cabine verte -  Guipel",
+        "picture": "https://delivrez.fr/public/posts/img.678a4f688cdc3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.875901,
+          48.372756
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "48.3727559",
+        "lon": "-1.8759013",
+        "type": "BSB",
+        "observation": "St Domineuc",
+        "picture": "https://delivrez.fr/public/posts/img.678a5fd73ee4c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.714282,
+          48.357104
+        ]
+      },
+      "properties": {
+        "title": "Rue des Forges",
+        "lat": "48.3571038",
+        "lon": "-1.7142824",
+        "type": "BSB",
+        "observation": "près de la pharmacie",
+        "picture": "https://delivrez.fr/public/posts/img.678697543f8f0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.671587,
+          48.30701
+        ]
+      },
+      "properties": {
+        "title": "Square de l'Armor",
+        "lat": "48.3070097",
+        "lon": "-1.6715871",
+        "type": "BSB",
+        "observation": "arrêt de bus",
+        "picture": "https://delivrez.fr/public/posts/img.678693cb5c1ab.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.660457,
+          48.273213
+        ]
+      },
+      "properties": {
+        "title": "Rue de sla Mairie Sr Médard sur Ille",
+        "lat": "48.2732133",
+        "lon": "-1.6604567",
+        "type": "BSB",
+        "observation": "près de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.677fc0de42ba0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.711263,
+          47.57183
+        ]
+      },
+      "properties": {
+        "title": "saint Armel",
+        "lat": "47.5718304",
+        "lon": "-2.7112635",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67757efe0d64d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.684736,
+          47.50578
+        ]
+      },
+      "properties": {
+        "title": "boite à livres",
+        "lat": "47.5057796",
+        "lon": "-2.6847363",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.677578ff96d99.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.723031,
           47.844909
         ]
@@ -5404,23 +5600,6 @@
         "lon": "-4.2608791",
         "type": "BSB",
         "observation": "Boîte située le long de la route de Brest."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.660064,
-          48.273288
-        ]
-      },
-      "properties": {
-        "title": "PLACE DE L EGLISE",
-        "lat": "48.2732883",
-        "lon": "-1.660064",
-        "type": "BSB",
-        "observation": "dans la cabine téléphonique devant l église"
       }
     },
     {

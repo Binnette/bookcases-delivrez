@@ -6,6 +6,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.009469,
+          47.922545
+        ]
+      },
+      "properties": {
+        "title": "Rue de Verdun",
+        "lat": "47.9225449",
+        "lon": "2.0094686",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67920ca6dfb62.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.679839,
+          47.471245
+        ]
+      },
+      "properties": {
+        "title": "rue Alfred Typhaine - Monnaie 37380",
+        "lat": "47.4712451",
+        "lon": "0.6798389",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.523213,
+          47.911669
+        ]
+      },
+      "properties": {
+        "title": "Rue Marin Galliot",
+        "lat": "47.9116689",
+        "lon": "1.5232132",
+        "type": "BSB",
+        "observation": "sur l'airé de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.677aaf0d7f6f5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.654633,
+          46.820945
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale",
+        "lat": "46.8209447",
+        "lon": "2.6546333",
+        "type": "BSB",
+        "observation": "parc de jeux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.564984,
+          46.882936
+        ]
+      },
+      "properties": {
+        "title": "Route de Levet",
+        "lat": "46.8829355",
+        "lon": "2.564984",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.718785,
           47.394515
         ]

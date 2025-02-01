@@ -6,6 +6,264 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.391728,
+          46.184362
+        ]
+      },
+      "properties": {
+        "title": "D6",
+        "lat": "46.1843624",
+        "lon": "3.3917282",
+        "type": "BSB",
+        "observation": "Derrière la mairie à côté bibliothèque",
+        "picture": "https://delivrez.fr/public/posts/img.6794f6b6d0898.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.223637,
+          45.870511
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Ancienne Cure",
+        "lat": "45.8705114",
+        "lon": "5.223637",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6792260ee8faa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.195817,
+          45.821652
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "45.8216518",
+        "lon": "5.1958168",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67921e48824e6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.701738,
+          46.039138
+        ]
+      },
+      "properties": {
+        "title": "Les Plans",
+        "lat": "46.0391379",
+        "lon": "5.7017382",
+        "type": "BSB",
+        "observation": "a. ote office tourisme",
+        "picture": "https://delivrez.fr/public/posts/img.678b723a45773.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.467333,
+          45.212765
+        ]
+      },
+      "properties": {
+        "title": "Route de la Censé",
+        "lat": "45.2127646",
+        "lon": "6.4673326",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.678671ccc6629.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.929518,
+          45.764059
+        ]
+      },
+      "properties": {
+        "title": "vaulx",
+        "lat": "45.7640592",
+        "lon": "4.9295183",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67866824a238f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.365243,
+          46.290587
+        ]
+      },
+      "properties": {
+        "title": "Rue des Écoles",
+        "lat": "46.2905873",
+        "lon": "3.3652427",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.567115,
+          45.836141
+        ]
+      },
+      "properties": {
+        "title": "Route du Val d'Arly",
+        "lat": "45.8361406",
+        "lon": "6.5671151",
+        "type": "BSB",
+        "observation": "à l'atelier Louis Chabaud",
+        "picture": "https://delivrez.fr/public/posts/img.677d4cb4e03aa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.352144,
+          45.972891
+        ]
+      },
+      "properties": {
+        "title": "biocoop Ambérieu-en-Bugey",
+        "lat": "45.9728912",
+        "lon": "5.3521441",
+        "type": "BSB",
+        "observation": "Sur le parking de Biocoop.",
+        "picture": "https://delivrez.fr/public/posts/img.677275ebcf720.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.81736,
+          46.617984
+        ]
+      },
+      "properties": {
+        "title": "Rue du Square",
+        "lat": "46.6179835",
+        "lon": "2.8173605",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.677a9dd0ea4f5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.082292,
+          45.607519
+        ]
+      },
+      "properties": {
+        "title": "Place de Rosenau",
+        "lat": "45.6075194",
+        "lon": "4.0822915",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6777debe4028f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.054774,
+          46.408738
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "46.4087376",
+        "lon": "3.0547741",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.290591,
+          46.066591
+        ]
+      },
+      "properties": {
+        "title": "Route du Chef Lieu",
+        "lat": "46.066591",
+        "lon": "6.2905914",
+        "type": "BSB",
+        "observation": "salle multifonctions",
+        "picture": "https://delivrez.fr/public/posts/img.6772ad0e56943.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.69704,
+          45.977969
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "45.9779691",
+        "lon": "3.6970404",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67715192694bd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.592596,
+          45.994672
+        ]
+      },
+      "properties": {
+        "title": "Rue Albert Cognet",
+        "lat": "45.9946717",
+        "lon": "3.5925963",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6771487a57f5c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.815113,
           45.200728
         ]
@@ -4981,22 +5239,6 @@
         "lon": "2.8110723",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.6485f7b6b8d77.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.929518,
-          45.764059
-        ]
-      },
-      "properties": {
-        "title": "vaulx",
-        "lat": "45.7640592",
-        "lon": "4.9295183",
-        "type": "BSB"
       }
     },
     {
@@ -14532,23 +14774,6 @@
         "lat": "45.2925185",
         "lon": "3.42371",
         "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.352383,
-          45.972955
-        ]
-      },
-      "properties": {
-        "title": "186 Rue Alexandre Bérard ",
-        "lat": "45.9729551",
-        "lon": "5.3523834",
-        "type": "BSB",
-        "observation": "Sur le parking de Biocoop."
       }
     },
     {

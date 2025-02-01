@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.870547,
+          43.441649
+        ]
+      },
+      "properties": {
+        "title": "Ancien Chemin de Tourves",
+        "lat": "43.441649",
+        "lon": "5.8705474",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.677d0065eb2b5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.040438,
+          43.165739
+        ]
+      },
+      "properties": {
+        "title": "Rue des Lilas",
+        "lat": "43.1657385",
+        "lon": "6.0404377",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67766b6a5e79f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.010613,
           43.125057
         ]

@@ -6,6 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.452319,
+          47.868827
+        ]
+      },
+      "properties": {
+        "title": "Gr Grande Rue",
+        "lat": "47.8688273",
+        "lon": "3.4523193",
+        "type": "BSB",
+        "observation": "vers la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.679658628ab4b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.600169,
+          47.902742
+        ]
+      },
+      "properties": {
+        "title": "Place Colbert",
+        "lat": "47.902742",
+        "lon": "3.6001695",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67964e35de6e9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.561266,
           47.89752
         ]

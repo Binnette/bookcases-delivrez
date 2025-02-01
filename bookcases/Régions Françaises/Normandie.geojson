@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.101366,
+          49.343464
+        ]
+      },
+      "properties": {
+        "title": "Place Lemercier",
+        "lat": "49.3434639",
+        "lon": "0.1013661",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6792669c5b420.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.292805,
+          49.212851
+        ]
+      },
+      "properties": {
+        "title": "La Boite à Livres à la Boite à Idées",
+        "lat": "49.2128509",
+        "lon": "-0.2928053",
+        "type": "BSB",
+        "observation": "Découvert une Boite à Livres dans un petit commerce de proximité"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.52675,
           49.585388
         ]

@@ -6,6 +6,94 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.56183,
+          44.760591
+        ]
+      },
+      "properties": {
+        "title": "Chemin de Couhins",
+        "lat": "44.7605914",
+        "lon": "-0.5618297",
+        "type": "BSB",
+        "observation": "Dans l'espace vert",
+        "picture": "https://delivrez.fr/public/posts/img.678f93f06104a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.540398,
+          44.77138
+        ]
+      },
+      "properties": {
+        "title": "place marc dulout",
+        "lat": "44.7713795",
+        "lon": "-0.5403979",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.678517703c5c7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.422965,
+          46.194298
+        ]
+      },
+      "properties": {
+        "title": "Impasse de la Grange",
+        "lat": "46.1942976",
+        "lon": "-1.4229646",
+        "type": "BSB",
+        "observation": "a l'entrée de la bibliothèque, accessible tout le temps",
+        "picture": "https://delivrez.fr/public/posts/img.677421e3d2bdb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.600776,
+          45.165227
+        ]
+      },
+      "properties": {
+        "title": "Rue de Bordeaux",
+        "lat": "45.1652265",
+        "lon": "0.6007759",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.676ea7432dc8b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.601432,
+          45.164205
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Platanes",
+        "lat": "45.1642054",
+        "lon": "0.6014324",
+        "type": "BSB",
+        "observation": "Devant la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.676ea6ac6b6be.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.489662,
           44.857358
         ]

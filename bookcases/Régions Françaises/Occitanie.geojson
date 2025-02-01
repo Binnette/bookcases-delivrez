@@ -6,6 +6,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.732703,
+          43.791137
+        ]
+      },
+      "properties": {
+        "title": "Boite a livres",
+        "lat": "43.7911372",
+        "lon": "3.7327035",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.915839,
+          42.636258
+        ]
+      },
+      "properties": {
+        "title": "place de la sardane, moulin à vent, Perpignan",
+        "lat": "42.6362581",
+        "lon": "2.9158386",
+        "type": "BSB",
+        "observation": "boite à  livres jaune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.790716,
+          42.511545
+        ]
+      },
+      "properties": {
+        "title": "Square Guy Mâle",
+        "lat": "42.5115449",
+        "lon": "2.7907157",
+        "type": "BSB",
+        "observation": "devant la boulangerie",
+        "picture": "https://delivrez.fr/public/posts/img.677287d2e68d0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.990377,
+          42.668331
+        ]
+      },
+      "properties": {
+        "title": "Saint Nazaire parc du bicentenaire",
+        "lat": "42.6683307",
+        "lon": "2.9903772",
+        "type": "BSB",
+        "observation": "à gauche de l entrée du parc",
+        "picture": "https://delivrez.fr/public/posts/img.676fe4355c8b2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.432409,
           43.457959
         ]

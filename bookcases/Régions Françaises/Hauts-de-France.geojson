@@ -6,6 +6,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.634164,
+          50.077837
+        ]
+      },
+      "properties": {
+        "title": "Rue Pasteur",
+        "lat": "50.077837",
+        "lon": "1.634164",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6775014912a16.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.258314,
+          50.595185
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "50.5951846",
+        "lon": "3.2583142",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67790c1d844eb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.488904,
+          50.514066
+        ]
+      },
+      "properties": {
+        "title": "belle boîte a livre",
+        "lat": "50.5140657",
+        "lon": "2.4889041",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67754bdbb201d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.621104,
+          50.075618
+        ]
+      },
+      "properties": {
+        "title": "Place du Mal Leclerc",
+        "lat": "50.0756182",
+        "lon": "1.6211041",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6774fe1b35e24.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.974612,
           50.32858
         ]

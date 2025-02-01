@@ -6,6 +6,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.551375,
+          49.044901
+        ]
+      },
+      "properties": {
+        "title": "Rue d'Epiais",
+        "lat": "49.0449009",
+        "lon": "2.551375",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.679506491d5c7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.484236,
+          48.800153
+        ]
+      },
+      "properties": {
+        "title": "Avenue Emile Zola",
+        "lat": "48.8001526",
+        "lon": "2.4842358",
+        "type": "BSB",
+        "observation": "A l'entrée du petit parc",
+        "picture": "https://delivrez.fr/public/posts/img.6786b2e01f2c4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.217018,
+          48.845356
+        ]
+      },
+      "properties": {
+        "title": "Rue Dailly",
+        "lat": "48.8453559",
+        "lon": "2.2170176",
+        "type": "BSB",
+        "observation": "sortie de la gare",
+        "picture": "https://delivrez.fr/public/posts/img.678648fde09c6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.716193,
           48.990285
         ]

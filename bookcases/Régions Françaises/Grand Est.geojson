@@ -6,6 +6,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.561716,
+          47.585925
+        ]
+      },
+      "properties": {
+        "title": "Croisée des Lys",
+        "lat": "47.585925",
+        "lon": "7.5617159",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6794f56bdc23a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.135125,
+          48.400122
+        ]
+      },
+      "properties": {
+        "title": "Rue de Nancy au lavoir",
+        "lat": "48.4001218",
+        "lon": "6.1351249",
+        "type": "BSB",
+        "observation": "beaucoup de livres adultes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.208064,
+          48.74143
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Fontaine",
+        "lat": "48.7414298",
+        "lon": "5.208064",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.677a7bff52d0f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.119292,
+          48.299914
+        ]
+      },
+      "properties": {
+        "title": "Rue Pierre Brossolette",
+        "lat": "48.2999145",
+        "lon": "4.119292",
+        "type": "BSB",
+        "observation": "parc près de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.677906659caee.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.118495,
+          48.328097
+        ]
+      },
+      "properties": {
+        "title": "Route Claude Bertrand",
+        "lat": "48.3280967",
+        "lon": "4.1184946",
+        "type": "BSB",
+        "observation": "sous l'abribus",
+        "picture": "https://delivrez.fr/public/posts/img.6777f69d1cd75.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.528214,
+          48.392585
+        ]
+      },
+      "properties": {
+        "title": "Place de la République",
+        "lat": "48.3925846",
+        "lon": "4.5282145",
+        "type": "BSB",
+        "observation": "Mercerie",
+        "picture": "https://delivrez.fr/public/posts/img.6777c54a40053.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.775466,
           48.719722
         ]

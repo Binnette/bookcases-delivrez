@@ -6,6 +6,95 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.122793,
+          46.825995
+        ]
+      },
+      "properties": {
+        "title": "Route de l'Océan",
+        "lat": "46.8259954",
+        "lon": "-1.1227935",
+        "type": "BSB",
+        "observation": "a la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6793c61ba0f13.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54881,
+          47.190498
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livre/dons encastrée",
+        "lat": "47.19049835205082",
+        "lon": "-1.5488097667693719",
+        "type": "BSB",
+        "observation": "Boîte à livres et dons encastrée dans le mur au niveau du 7, rue de l'Erdronnière à Rezé",
+        "picture": "https://delivrez.fr/public/posts/img.678e3dcff0359.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.586582,
+          47.491821
+        ]
+      },
+      "properties": {
+        "title": "Salle Marie Paradis",
+        "lat": "47.491821",
+        "lon": "-0.586582",
+        "type": "BSB",
+        "observation": "Hall d'entrée,  près des chaises",
+        "picture": "https://delivrez.fr/public/posts/img.678b78aa10651.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.148552,
+          47.996536
+        ]
+      },
+      "properties": {
+        "title": "boîte à livres",
+        "lat": "47.9965365",
+        "lon": "-0.1485515",
+        "type": "BSB",
+        "observation": "près de la base aquatique",
+        "picture": "https://delivrez.fr/public/posts/img.677bb6d45f40f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.200752,
+          47.32986
+        ]
+      },
+      "properties": {
+        "title": "Rue Notre Dame",
+        "lat": "47.32986",
+        "lon": "-0.2007516",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67715cdd03759.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.401136,
           48.307938
         ]
