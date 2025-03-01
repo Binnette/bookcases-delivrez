@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.77004,
+          49.172618
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Recette",
+        "lat": "49.1726183",
+        "lon": "3.7700401",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67b2001059f97.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.561716,
           47.585925
         ]

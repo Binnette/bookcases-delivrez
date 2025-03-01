@@ -6,6 +6,198 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.227654,
+          50.540734
+        ]
+      },
+      "properties": {
+        "title": "Rue d'Aire",
+        "lat": "50.5407338",
+        "lon": "2.2276542",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67b8822682232.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.47469,
+          50.535348
+        ]
+      },
+      "properties": {
+        "title": "Place du Rietz",
+        "lat": "50.5353481",
+        "lon": "2.4746903",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67b36eb8c272d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.484215,
+          50.563318
+        ]
+      },
+      "properties": {
+        "title": "Rue des Douves",
+        "lat": "50.5633176",
+        "lon": "2.484215",
+        "type": "BSB",
+        "observation": "a côté du parc de jeux face au bâtiment F",
+        "picture": "https://delivrez.fr/public/posts/img.67acd01e5fbfd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.483327,
+          50.563142
+        ]
+      },
+      "properties": {
+        "title": "Résidence les Sycomores",
+        "lat": "50.5631415",
+        "lon": "2.4833267",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67a384d37b107.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.98183,
+          50.325801
+        ]
+      },
+      "properties": {
+        "title": "Route nationale",
+        "lat": "50.3258009",
+        "lon": "2.9818301",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67a0927df14c1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.040223,
+          50.290134
+        ]
+      },
+      "properties": {
+        "title": "Rue de Bellonne",
+        "lat": "50.2901342",
+        "lon": "3.040223",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.679cca6a5e5e2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.207163,
+          50.322034
+        ]
+      },
+      "properties": {
+        "title": "Résidence Saint-Robert",
+        "lat": "50.3220335",
+        "lon": "3.2071632",
+        "type": "BSB",
+        "observation": "à côté du numéro 14",
+        "picture": "https://delivrez.fr/public/posts/img.679cf9663cf9d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.210687,
+          50.30321
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Jaurès",
+        "lat": "50.3032097",
+        "lon": "3.210687",
+        "type": "BSB",
+        "observation": "bibliothèque municipale",
+        "picture": "https://delivrez.fr/public/posts/img.679cf763c898e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.222401,
+          50.33409
+        ]
+      },
+      "properties": {
+        "title": "Rue d'Auxerre",
+        "lat": "50.3340896",
+        "lon": "3.2224012",
+        "type": "BSB",
+        "observation": "devant le petit parking",
+        "picture": "https://delivrez.fr/public/posts/img.679cfd8025c25.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.23364,
+          50.332014
+        ]
+      },
+      "properties": {
+        "title": "boulevard coquelet",
+        "lat": "50.3320145",
+        "lon": "3.2336402",
+        "type": "BSB",
+        "observation": "devant la bibliothèque municipale",
+        "picture": "https://delivrez.fr/public/posts/img.679cfc185af80.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.586294,
+          50.508376
+        ]
+      },
+      "properties": {
+        "title": "Place de la Libération",
+        "lat": "50.5083759",
+        "lon": "2.586294",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.679e4b387cd51.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.634164,
           50.077837
         ]
@@ -84,23 +276,6 @@
         "lon": "2.9746119",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.676abb8964e7d.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.98198,
-          50.325815
-        ]
-      },
-      "properties": {
-        "title": "place de la mairie",
-        "lat": "50.3258153",
-        "lon": "2.9819799",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.676ab7d0aeb22.png"
       }
     },
     {

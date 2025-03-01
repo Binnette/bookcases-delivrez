@@ -6,6 +6,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.366944,
+          49.646048
+        ]
+      },
+      "properties": {
+        "title": "Place Godard des Vaux",
+        "lat": "49.6460475",
+        "lon": "0.3669442",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67befd4fe48b0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.187566,
+          49.956103
+        ]
+      },
+      "properties": {
+        "title": "Rue Pasteur",
+        "lat": "49.9561027",
+        "lon": "1.1875659",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67bb4046b7b2d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.053984,
+          49.352985
+        ]
+      },
+      "properties": {
+        "title": "Boulevard de la Mer",
+        "lat": "49.3529846",
+        "lon": "0.053984",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.101366,
           49.343464
         ]

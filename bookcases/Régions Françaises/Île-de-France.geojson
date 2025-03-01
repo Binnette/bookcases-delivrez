@@ -6,6 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.316476,
+          49.0657
+        ]
+      },
+      "properties": {
+        "title": "Avenue Georges Sand",
+        "lat": "49.0657005",
+        "lon": "2.3164757",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67b1f759065f8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.242989,
+          48.89384
+        ]
+      },
+      "properties": {
+        "title": "Square Henri Regnault",
+        "lat": "48.8938399",
+        "lon": "2.2429892",
+        "type": "BSB",
+        "observation": "Dans le square Regnault",
+        "picture": "https://delivrez.fr/public/posts/img.6798d12464a3f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.551375,
           49.044901
         ]
@@ -5681,23 +5716,6 @@
         "lon": "2.2530984878540044",
         "type": "BSB",
         "observation": "Dans le Parc des Pléïades"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.242843,
-          48.89361
-        ]
-      },
-      "properties": {
-        "title": "rue Henri Regnault",
-        "lat": "48.8936101",
-        "lon": "2.2428432",
-        "type": "BSB",
-        "observation": "Dans le square Regnault"
       }
     },
     {

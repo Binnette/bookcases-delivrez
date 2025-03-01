@@ -6,6 +6,95 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.158737,
+          47.48244
+        ]
+      },
+      "properties": {
+        "title": "Pre de la Forge",
+        "lat": "47.4824399",
+        "lon": "-2.1587369",
+        "type": "BSB",
+        "observation": "sur la place en face de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.67bf1791dc536.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.623101,
+          47.179146
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "47.1791459",
+        "lon": "-1.623101",
+        "type": "BSB",
+        "observation": "le long de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.67bcb2e48db15.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.995796,
+          47.126691
+        ]
+      },
+      "properties": {
+        "title": "Rue Jules Verne",
+        "lat": "47.126691",
+        "lon": "-0.9957958",
+        "type": "BSB",
+        "observation": "devant le centre social",
+        "picture": "https://delivrez.fr/public/posts/img.67bafc031fc45.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54349,
+          47.230763
+        ]
+      },
+      "properties": {
+        "title": "Avenue Camille Guérin",
+        "lat": "47.2307631",
+        "lon": "-1.5434904",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.67b1f47670d95.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.299643,
+          47.023776
+        ]
+      },
+      "properties": {
+        "title": "Rue Marie Lemonnier",
+        "lat": "47.0237764",
+        "lon": "-2.2996433",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67a8822978a13.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.122793,
           46.825995
         ]
@@ -5220,23 +5309,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.167478,
-          47.24741
-        ]
-      },
-      "properties": {
-        "title": "Place de la Victoire",
-        "lat": "47.2474097",
-        "lon": "-2.1674782",
-        "type": "BSB",
-        "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.998843,
           46.902337
         ]
@@ -5622,23 +5694,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.469725,
-          47.335403
-        ]
-      },
-      "properties": {
-        "title": "Clis",
-        "lat": "47.3354032",
-        "lon": "-2.4697251",
-        "type": "BSB",
-        "observation": "Fait aussi boîte à dons divers"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.337551,
           47.792292
         ]
@@ -6006,23 +6061,6 @@
         "lon": "-0.32134",
         "type": "BSB",
         "observation": "Little Free Library"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.54349,
-          47.230763
-        ]
-      },
-      "properties": {
-        "title": "Avenue Camille Guérin",
-        "lat": "47.2307631",
-        "lon": "-1.5434904",
-        "type": "BSB",
-        "observation": "_"
       }
     },
     {

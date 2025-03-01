@@ -6,6 +6,231 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.954523,
+          46.31769
+        ]
+      },
+      "properties": {
+        "title": "Rue Marx Dormoy",
+        "lat": "46.31769",
+        "lon": "2.9545231",
+        "type": "BSB",
+        "observation": "à côté de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.67bb4632b012b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.275513,
+          45.959053
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Libération",
+        "lat": "45.9590527",
+        "lon": "5.2755129",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67bae39606d0b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.172184,
+          45.996461
+        ]
+      },
+      "properties": {
+        "title": "Rue du Bugey",
+        "lat": "45.996461",
+        "lon": "5.1721843",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67bae01384e3d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.087689,
+          46.022358
+        ]
+      },
+      "properties": {
+        "title": "Lotissement le Moulin",
+        "lat": "46.0223583",
+        "lon": "5.0876886",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67badc7283051.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.821734,
+          46.320273
+        ]
+      },
+      "properties": {
+        "title": "Rue du Fournil",
+        "lat": "46.3202735",
+        "lon": "2.8217345",
+        "type": "BSB",
+        "observation": "place de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.607162,
+          46.395742
+        ]
+      },
+      "properties": {
+        "title": "Rue Frédéric Mistral",
+        "lat": "46.3957416",
+        "lon": "2.6071617",
+        "type": "BSB",
+        "observation": "parc derrière l'église"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.845873,
+          45.79361
+        ]
+      },
+      "properties": {
+        "title": "Rue Pasteur",
+        "lat": "45.7936105",
+        "lon": "4.8458729",
+        "type": "BSB",
+        "observation": "à côté de l'école Montessuy",
+        "picture": "https://delivrez.fr/public/posts/img.67b5f3d700c74.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.880868,
+          45.768855
+        ]
+      },
+      "properties": {
+        "title": "Cours Émile-Zola Square Léon Meiss",
+        "lat": "45.7688548",
+        "lon": "4.8808676",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67b1ac7909ab1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7935,
+          46.35004
+        ]
+      },
+      "properties": {
+        "title": "Place de la République",
+        "lat": "46.3500398",
+        "lon": "3.7934999",
+        "type": "BSB",
+        "observation": "en face de l'Eglise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.153403,
+          45.931532
+        ]
+      },
+      "properties": {
+        "title": "boîte à livres Saint-éloi",
+        "lat": "45.9315319",
+        "lon": "5.1534035",
+        "type": "BSB",
+        "observation": "sous la halle en face de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.67a9fdadade37.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.793607,
+          46.271481
+        ]
+      },
+      "properties": {
+        "title": "Rue du Forgeron",
+        "lat": "46.2714808",
+        "lon": "2.7936074",
+        "type": "BSB",
+        "observation": "mairie",
+        "picture": "https://delivrez.fr/public/posts/img.67a8d5dd8043e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.413157,
+          46.419057
+        ]
+      },
+      "properties": {
+        "title": "Place Saint-Joseph",
+        "lat": "46.4190569",
+        "lon": "2.413157",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67a87164d4f7b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.811005,
+          46.275392
+        ]
+      },
+      "properties": {
+        "title": "Route de Colombier",
+        "lat": "46.2753923",
+        "lon": "2.8110052",
+        "type": "BSB",
+        "observation": "passage à niveau"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.391728,
           46.184362
         ]

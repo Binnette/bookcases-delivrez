@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.877075,
+          45.779776
+        ]
+      },
+      "properties": {
+        "title": "17 Rue Marcel Dutartre",
+        "lat": "45.7797761",
+        "lon": "4.8770747",
+        "type": "DSB",
+        "observation": "Toi toi le Zinc",
+        "picture": "https://delivrez.fr/public/posts/img.67b5e695e974b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.354978,
           44.412968
         ]
@@ -102,24 +120,6 @@
         "type": "DSB",
         "observation": "En face d'un portail de jardin",
         "picture": "https://delivrez.fr/public/posts/img.644a9afda6184.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.874672,
-          45.778678
-        ]
-      },
-      "properties": {
-        "title": "Rue de la doua",
-        "lat": "45.7786782",
-        "lon": "4.8746721",
-        "type": "DSB",
-        "observation": "toi toi le zinc",
-        "picture": "https://delivrez.fr/public/posts/img.62a75c305a685.png"
       }
     },
     {

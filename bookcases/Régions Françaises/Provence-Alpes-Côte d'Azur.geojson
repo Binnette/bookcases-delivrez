@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.944543,
+          43.113055
+        ]
+      },
+      "properties": {
+        "title": "Rue Pilote Pierre Reboul",
+        "lat": "43.1130554",
+        "lon": "5.9445432",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67b8734686353.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.870547,
           43.441649
         ]

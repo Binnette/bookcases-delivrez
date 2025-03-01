@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.779776" lon="4.877075">
+    <name>17 Rue Marcel Dutartre</name>
+    <desc>Toi toi le Zinc</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.283543" lon="6.95108">
     <name>Rue du Battant</name>
     <desc></desc>
@@ -563,16 +573,6 @@
   <wpt lat="43.000704" lon="-0.088865">
     <name>Rue du Neouvielle</name>
     <desc>derrière le local poubelle HLM</desc>
-    <type>Delivrez giveboxes</type>
-    <extensions>
-      <osmand:color>#0000ff</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>outpost</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.778678" lon="4.874672">
-    <name>Rue de la doua</name>
-    <desc>toi toi le zinc</desc>
     <type>Delivrez giveboxes</type>
     <extensions>
       <osmand:color>#0000ff</osmand:color>

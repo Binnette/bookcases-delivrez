@@ -6,6 +6,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.740902,
+          47.621595
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "47.6215947",
+        "lon": "3.7409023",
+        "type": "BSB",
+        "observation": "à côté de la croix",
+        "picture": "https://delivrez.fr/public/posts/img.67acbaadc58f6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.911659,
+          47.144372
+        ]
+      },
+      "properties": {
+        "title": "Chaumard",
+        "lat": "47.1443716",
+        "lon": "3.9116586",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67a88a7b8234d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.332182,
+          47.79968
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "47.7996796",
+        "lon": "3.3321817",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.67965de3dd9fb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.541167,
+          47.669501
+        ]
+      },
+      "properties": {
+        "title": "Place des Tilleuls",
+        "lat": "47.6695008",
+        "lon": "6.5411672",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.679f9db6f26b8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.452319,
           47.868827
         ]
@@ -4528,23 +4598,6 @@
         "lon": "4.0898666",
         "type": "BSB",
         "observation": "En face du monument aux morts"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.332215,
-          47.799706
-        ]
-      },
-      "properties": {
-        "title": "Rue de l'Église",
-        "lat": "47.7997056",
-        "lon": "3.3322145",
-        "type": "BSB",
-        "observation": "_"
       }
     },
     {

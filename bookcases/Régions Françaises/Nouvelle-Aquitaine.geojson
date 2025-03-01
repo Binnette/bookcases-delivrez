@@ -6,6 +6,183 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.013735,
+          46.001807
+        ]
+      },
+      "properties": {
+        "title": "Rue des Rosilières",
+        "lat": "46.0018073",
+        "lon": "-0.0137345",
+        "type": "BSB",
+        "observation": "Juste devant l'entrée de la mairie. Un banc abrité sous un arbre permet de lire au calme",
+        "picture": "https://delivrez.fr/public/posts/img.67b3473a9a4a8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.534357,
+          44.850129
+        ]
+      },
+      "properties": {
+        "title": "Rue Marcel Sembat",
+        "lat": "44.8501287",
+        "lon": "-0.5343569",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67b58ff4ef11c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.888849,
+          44.882716
+        ]
+      },
+      "properties": {
+        "title": "Rue du Port",
+        "lat": "44.8827159",
+        "lon": "0.888849",
+        "type": "BSB",
+        "observation": "dans une petite cabane en pierre dans le parc de parc de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.67b1f07ddc21e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.285657,
+          44.803525
+        ]
+      },
+      "properties": {
+        "title": "boite à livres",
+        "lat": "44.8035255",
+        "lon": "0.2856567",
+        "type": "BSB",
+        "observation": "dans une cabine téléphonique place St Barthélémy",
+        "picture": "https://delivrez.fr/public/posts/img.67ab6cae2a59f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.611496,
+          44.832594
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église Saint-Augustin",
+        "lat": "44.8325945",
+        "lon": "-0.6114962",
+        "type": "BSB",
+        "observation": "En face de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.67a846548d3fa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.477753,
+          44.811136
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Artigotte",
+        "lat": "44.8111363",
+        "lon": "-0.4777531",
+        "type": "BSB",
+        "observation": "Au milieu du bosquet d'arbres",
+        "picture": "https://delivrez.fr/public/posts/img.67a1c52dcd892.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.570418,
+          45.164393
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Isle",
+        "lat": "45.1643927",
+        "lon": "0.5704181",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.679b8ebfe465b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.567001,
+          45.161425
+        ]
+      },
+      "properties": {
+        "title": "Route des Ecluses",
+        "lat": "45.1614248",
+        "lon": "0.5670006",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.679b8f0cc1253.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.547184,
+          45.160278
+        ]
+      },
+      "properties": {
+        "title": "Avenue Léo Lagrange",
+        "lat": "45.1602777",
+        "lon": "1.5471841",
+        "type": "BSB",
+        "observation": "Devant le skatepark",
+        "picture": "https://delivrez.fr/public/posts/img.679f643dd0cf6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.540293,
+          45.160619
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Voltaire",
+        "lat": "45.1606187",
+        "lon": "1.5402926",
+        "type": "BSB",
+        "observation": "Devant la piscine",
+        "picture": "https://delivrez.fr/public/posts/img.679f7be1df162.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.56183,
           44.760591
         ]

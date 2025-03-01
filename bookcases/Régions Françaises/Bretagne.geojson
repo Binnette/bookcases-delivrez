@@ -6,6 +6,183 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.639772,
+          48.091907
+        ]
+      },
+      "properties": {
+        "title": "place du ronceray",
+        "lat": "48.0919065",
+        "lon": "-1.6397724",
+        "type": "BSB",
+        "observation": "Devant le carrefour Market.",
+        "picture": "https://delivrez.fr/public/posts/img.67b9b7d8d2625.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.719621,
+          48.312308
+        ]
+      },
+      "properties": {
+        "title": "La Plousière",
+        "lat": "48.3123075",
+        "lon": "-1.719621",
+        "type": "BSB",
+        "observation": "au bord du canal - 100m du pont",
+        "picture": "https://delivrez.fr/public/posts/img.67bb4c0f2bf3e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.343873,
+          47.776326
+        ]
+      },
+      "properties": {
+        "title": "Avenue Ambroise Croizat",
+        "lat": "47.7763264",
+        "lon": "-3.3438734",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67b84f02a6a87.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.047639,
+          48.454318
+        ]
+      },
+      "properties": {
+        "title": "Place Duclos Pinot",
+        "lat": "48.4543176",
+        "lon": "-2.0476391",
+        "type": "BSB",
+        "observation": "derrière les bancs",
+        "picture": "https://delivrez.fr/public/posts/img.67a78879a812e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.929169,
+          48.371238
+        ]
+      },
+      "properties": {
+        "title": "Rue des Négociants",
+        "lat": "48.3712385",
+        "lon": "-1.9291688",
+        "type": "BSB",
+        "observation": "abribus face à l'église",
+        "picture": "https://delivrez.fr/public/posts/img.67a24ce9e57db.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.005818,
+          48.351121
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Fontaine",
+        "lat": "48.3511206",
+        "lon": "-2.0058177",
+        "type": "BSB",
+        "observation": "Quiou's book - devant l'église",
+        "picture": "https://delivrez.fr/public/posts/img.67a240f88915c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.204346,
+          48.351277
+        ]
+      },
+      "properties": {
+        "title": "Rue Porte Saint-Léonard",
+        "lat": "48.351277",
+        "lon": "-1.2043465",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67a0e5c885f68.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.64079,
+          48.181478
+        ]
+      },
+      "properties": {
+        "title": "Avenue d'Armorique",
+        "lat": "48.1814783",
+        "lon": "-1.6407903",
+        "type": "BSB",
+        "observation": "Belon - place du marché",
+        "picture": "https://delivrez.fr/public/posts/img.6798fdbe1cdc4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.535632,
+          48.332753
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "48.3327533",
+        "lon": "-1.5356317",
+        "type": "BSB",
+        "observation": "Sens de Bretagne - cabine téléphonique",
+        "picture": "https://delivrez.fr/public/posts/img.6798e7b34f4aa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.835018,
+          48.329204
+        ]
+      },
+      "properties": {
+        "title": "Place André Ferré",
+        "lat": "48.3292042",
+        "lon": "-1.835018",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.678a5d1012647.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.914431,
           48.443169
         ]
@@ -53,24 +230,6 @@
         "type": "BSB",
         "observation": "Feins - accollė à l'église",
         "picture": "https://delivrez.fr/public/posts/img.6792478007d01.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.5357,
-          48.332719
-        ]
-      },
-      "properties": {
-        "title": "Place de la Mairie",
-        "lat": "48.3327194",
-        "lon": "-1.5357001",
-        "type": "BSB",
-        "observation": "Sens de Bretagne - cabine téléphonique",
-        "picture": "https://delivrez.fr/public/posts/img.67924b7d45c28.png"
       }
     },
     {
@@ -1787,22 +1946,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.204346,
-          48.351277
-        ]
-      },
-      "properties": {
-        "title": "Rue Porte Saint-Léonard",
-        "lat": "48.351277",
-        "lon": "-1.2043465",
-        "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.635408,
           48.682229
         ]
@@ -2300,24 +2443,6 @@
         "lon": "-1.6538419",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.64c3e82f11727.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.639772,
-          48.091907
-        ]
-      },
-      "properties": {
-        "title": "place du ronceray",
-        "lat": "48.0919065",
-        "lon": "-1.6397724",
-        "type": "BSB",
-        "observation": "Devant le carrefour Market.",
-        "picture": "https://delivrez.fr/public/posts/img.64c3e57c89670.png"
       }
     },
     {
@@ -3813,23 +3938,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.681684,
-          48.10494
-        ]
-      },
-      "properties": {
-        "title": "Place du Colombier",
-        "lat": "48.1049402",
-        "lon": "-1.6816838",
-        "type": "BSB",
-        "observation": "près de  Nature et Decouvertes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.729303,
           48.433581
         ]
@@ -4139,22 +4247,6 @@
         "title": "la reinais",
         "lat": "48.319646",
         "lon": "-1.832164",
-        "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.835034,
-          48.32941
-        ]
-      },
-      "properties": {
-        "title": "place andré ferré",
-        "lat": "48.3294101",
-        "lon": "-1.8350342",
         "type": "BSB"
       }
     },

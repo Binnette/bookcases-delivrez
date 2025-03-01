@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.379183,
+          43.876722
+        ]
+      },
+      "properties": {
+        "title": "sous les arcades place de la mairie",
+        "lat": "43.8767217",
+        "lon": "0.379183",
+        "type": "BSB",
+        "observation": "Valence sur Baïse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.732703,
           43.791137
         ]

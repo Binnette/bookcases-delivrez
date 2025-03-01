@@ -6,6 +6,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.654991,
+          48.051714
+        ]
+      },
+      "properties": {
+        "title": "Place Mirabeau",
+        "lat": "48.051714",
+        "lon": "2.6549913",
+        "type": "BSB",
+        "observation": "sous l abri bus",
+        "picture": "https://delivrez.fr/public/posts/img.67b7321003fc2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.933596,
+          46.535315
+        ]
+      },
+      "properties": {
+        "title": "le magny",
+        "lat": "46.5353152",
+        "lon": "1.9335959",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.567328,
+          46.887928
+        ]
+      },
+      "properties": {
+        "title": "osmery",
+        "lat": "46.8879282",
+        "lon": "2.567328",
+        "type": "BSB",
+        "observation": "la grande bibliothèque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.832308,
+          47.398827
+        ]
+      },
+      "properties": {
+        "title": "Route de Selles Saint-Denis",
+        "lat": "47.3988266",
+        "lon": "1.8323085",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67a4fbfda8285.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.009469,
           47.922545
         ]
