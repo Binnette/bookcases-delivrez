@@ -6,6 +6,278 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.033481,
+          46.251413
+        ]
+      },
+      "properties": {
+        "title": "square jean jacques Rousseau",
+        "lat": "46.2514132",
+        "lon": "6.0334807",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67e3d1565b8f8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.29419,
+          45.746461
+        ]
+      },
+      "properties": {
+        "title": "place Marcel piquand",
+        "lat": "45.7464607",
+        "lon": "6.2941898",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67e93f3d02024.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.123839,
+          45.428238
+        ]
+      },
+      "properties": {
+        "title": "Route de la Croix du Rafour",
+        "lat": "45.4282382",
+        "lon": "6.1238391",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67e541f470aba.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.851534,
+          45.741502
+        ]
+      },
+      "properties": {
+        "title": "Place du Champs de Mars",
+        "lat": "45.7415018",
+        "lon": "4.8515337",
+        "type": "BSB",
+        "observation": "Deux boîtes à livres sur la place,à côté de la fontaine, dont une pour les enfants"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.21917,
+          45.60121
+        ]
+      },
+      "properties": {
+        "title": "Rue du Sermet",
+        "lat": "45.6012103",
+        "lon": "5.2191696",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67e03a82514eb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.141561,
+          45.939959
+        ]
+      },
+      "properties": {
+        "title": "Boite à livres",
+        "lat": "45.9399593",
+        "lon": "6.1415608",
+        "type": "BSB",
+        "observation": "Devant le gymnase",
+        "picture": "https://delivrez.fr/public/posts/img.67d9987c07d30.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.402985,
+          45.257173
+        ]
+      },
+      "properties": {
+        "title": "Route Neuve",
+        "lat": "45.2571726",
+        "lon": "6.4029854",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67d970650cced.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.079907,
+          46.110917
+        ]
+      },
+      "properties": {
+        "title": "Route de Présilly",
+        "lat": "46.110917",
+        "lon": "6.0799071",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67d9660cd7867.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.832584,
+          45.785841
+        ]
+      },
+      "properties": {
+        "title": "Place Jules Ferry Cuire",
+        "lat": "45.7858415",
+        "lon": "4.8325836",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67b5f6ec923ed.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.008525,
+          46.321841
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "46.3218405",
+        "lon": "3.0085252",
+        "type": "BSB",
+        "observation": "Cette boîte à lire est bien à l abri sous un petit préau aux abords de la mairie et d'un parking, et à deux pas du bar-restaurant.",
+        "picture": "https://delivrez.fr/public/posts/img.67bb48d32ce21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.184067,
+          45.648263
+        ]
+      },
+      "properties": {
+        "title": "Place du Village",
+        "lat": "45.6482625",
+        "lon": "5.1840669",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.90901,
+          44.419948
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Louis",
+        "lat": "44.4199478",
+        "lon": "4.9090104",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67c5d0ad979ac.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.063857,
+          45.481492
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "45.4814916",
+        "lon": "6.0638574",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67c462ca10404.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.607644,
+          46.606246
+        ]
+      },
+      "properties": {
+        "title": "Route de Paris",
+        "lat": "46.6062462",
+        "lon": "2.607644",
+        "type": "BSB",
+        "observation": "place de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.67c31a41aca09.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.700971,
+          46.518516
+        ]
+      },
+      "properties": {
+        "title": "Lieu dit Chateloy",
+        "lat": "46.5185157",
+        "lon": "2.7009706",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.705592,
+          46.51203
+        ]
+      },
+      "properties": {
+        "title": "Rue des Cueils",
+        "lat": "46.5120304",
+        "lon": "2.7055919",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.954523,
           46.31769
         ]
@@ -9062,22 +9334,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.832551,
-          45.786063
-        ]
-      },
-      "properties": {
-        "title": "1 place Jules Ferry",
-        "lat": "45.7860634",
-        "lon": "4.8325513",
-        "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.366821,
           44.656363
         ]
@@ -14745,23 +15001,6 @@
         "lon": "3.0828614",
         "type": "BSB",
         "observation": "La Petite Bibliothèque Libre de Beaumont"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.008634,
-          46.321967
-        ]
-      },
-      "properties": {
-        "title": "Place la mairie",
-        "lat": "46.3219665",
-        "lon": "3.0086343",
-        "type": "BSB",
-        "observation": "Cette boîte à lire est bien à l abri sous un petit préau aux abords de la mairie et d'un parking, et à deux pas du bar-restaurant."
       }
     },
     {

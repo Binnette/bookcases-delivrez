@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.964722,
+          43.833527
+        ]
+      },
+      "properties": {
+        "title": "Boulevard du Grand Pré",
+        "lat": "43.833527",
+        "lon": "6.964722",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67cc4509e49bb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.944543,
           43.113055
         ]

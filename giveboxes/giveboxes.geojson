@@ -6,6 +6,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.614895,
+          47.994922
+        ]
+      },
+      "properties": {
+        "title": "place de l'église",
+        "lat": "47.9949217",
+        "lon": "-1.614895",
+        "type": "DSB",
+        "observation": "sous le porche de la médiathèque",
+        "picture": "https://delivrez.fr/public/posts/img.67dfd40faed62.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.933764,
+          46.695218
+        ]
+      },
+      "properties": {
+        "title": "boîte à dons",
+        "lat": "46.6952181",
+        "lon": "-1.9337638",
+        "type": "DSB",
+        "observation": "donnée comme boîte à livres - à côté des toilettes",
+        "picture": "https://delivrez.fr/public/posts/img.67c7073452f4f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.877075,
           45.779776
         ]

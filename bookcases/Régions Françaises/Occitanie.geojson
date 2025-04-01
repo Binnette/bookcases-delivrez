@@ -6,6 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.74328,
+          42.493732
+        ]
+      },
+      "properties": {
+        "title": "école Picasso",
+        "lat": "42.4937318",
+        "lon": "2.7432803",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67d97dba7ea39.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.740927,
+          42.493882
+        ]
+      },
+      "properties": {
+        "title": "pharmacie céret",
+        "lat": "42.4938825",
+        "lon": "2.7409268",
+        "type": "BSB",
+        "observation": "pharmacie normand",
+        "picture": "https://delivrez.fr/public/posts/img.67d97ae2500b0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.379183,
           43.876722
         ]

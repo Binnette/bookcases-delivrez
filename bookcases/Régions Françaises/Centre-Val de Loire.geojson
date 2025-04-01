@@ -6,6 +6,112 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.49746,
+          46.72547
+        ]
+      },
+      "properties": {
+        "title": "Rue Bernard Rey",
+        "lat": "46.7254702",
+        "lon": "2.49746",
+        "type": "BSB",
+        "observation": "Face à la clinique des grainerière",
+        "picture": "https://delivrez.fr/public/posts/img.67c30e1853fd4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.60869,
+          47.412052
+        ]
+      },
+      "properties": {
+        "title": "Place de la Poste",
+        "lat": "47.4120517",
+        "lon": "1.60869",
+        "type": "BSB",
+        "observation": "A côté du banc à proximité et de la poste, de l école et de l'église. Une boîte à lire, installée par le Lions Club en partenariat avec la commune de Mur ",
+        "picture": "https://delivrez.fr/public/posts/img.67d1befe792b1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.900747,
+          48.611518
+        ]
+      },
+      "properties": {
+        "title": "Rue de Laborde",
+        "lat": "48.6115176",
+        "lon": "0.9007471",
+        "type": "BSB",
+        "observation": "mairie",
+        "picture": "https://delivrez.fr/public/posts/img.67d40c7d92c96.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.751708,
+          47.354753
+        ]
+      },
+      "properties": {
+        "title": "Avenue Saint-Exupéry",
+        "lat": "47.3547533",
+        "lon": "1.7517083",
+        "type": "BSB",
+        "observation": "espace saint Exupéry",
+        "picture": "https://delivrez.fr/public/posts/img.67d079e9ed256.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.507484,
+          46.721334
+        ]
+      },
+      "properties": {
+        "title": "Rue Philibert Audebrand",
+        "lat": "46.7213338",
+        "lon": "2.5074843",
+        "type": "BSB",
+        "observation": "dans le parc du musée saint vic",
+        "picture": "https://delivrez.fr/public/posts/img.67c3118032e1a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.508049,
+          46.731601
+        ]
+      },
+      "properties": {
+        "title": "Rue de Verdun",
+        "lat": "46.7316007",
+        "lon": "2.5080491",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.654991,
           48.051714
         ]
@@ -6653,23 +6759,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.497334,
-          46.72532
-        ]
-      },
-      "properties": {
-        "title": "Rue de la caserne",
-        "lat": "46.7253198",
-        "lon": "2.4973336",
-        "type": "BSB",
-        "observation": "Face à la clinique des grainerière"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.600873,
           47.406861
         ]
@@ -7406,23 +7495,6 @@
         "lon": "1.9335308",
         "type": "BSB",
         "observation": "derrière l'église, dans une ancienne cabine téléphonique et dans un frigo, série Biblio Frigo "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.608959,
-          47.411995
-        ]
-      },
-      "properties": {
-        "title": "place de la poste",
-        "lat": "47.411995",
-        "lon": "1.608959",
-        "type": "BSB",
-        "observation": "A côté du banc à proximité et de la poste, de l école et de l'église. Une boîte à lire, installée par le Lions Club en partenariat avec la commune de Mur "
       }
     },
     {

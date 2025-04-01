@@ -6,6 +6,326 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.968118,
+          47.38979
+        ]
+      },
+      "properties": {
+        "title": "Impasse des Sternes",
+        "lat": "47.3897896",
+        "lon": "-0.9681185",
+        "type": "BSB",
+        "observation": "dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.67e6e72ebd3f2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.102158,
+          47.3815
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Hôtel de Ville",
+        "lat": "47.3815003",
+        "lon": "-1.102158",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67e6df5128611.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.371417,
+          47.719698
+        ]
+      },
+      "properties": {
+        "title": "Rue du 11 Novembre",
+        "lat": "47.7196976",
+        "lon": "-1.3714165",
+        "type": "BSB",
+        "observation": "a côté du kiosque a musique, dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.67e001f6ac695.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.618085,
+          46.805008
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Gén de Gaulle",
+        "lat": "46.8050079",
+        "lon": "-1.618085",
+        "type": "BSB",
+        "observation": "Sous le porche de l'école",
+        "picture": "https://delivrez.fr/public/posts/img.67dffbf279fe1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.543586,
+          47.173165
+        ]
+      },
+      "properties": {
+        "title": "Rue Charles Rivière",
+        "lat": "47.1731652",
+        "lon": "-1.5435865",
+        "type": "BSB",
+        "observation": "au 58 tet",
+        "picture": "https://delivrez.fr/public/posts/img.67dc51e867b61.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.486859,
+          47.249483
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Loire",
+        "lat": "47.2494826",
+        "lon": "-1.4868585",
+        "type": "BSB",
+        "observation": "Petite boîte à livre cachée à côté du panneau d'affichage",
+        "picture": "https://delivrez.fr/public/posts/img.67d9ad0b7401d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.711284,
+          47.380163
+        ]
+      },
+      "properties": {
+        "title": "Rue des Chênes",
+        "lat": "47.3801629",
+        "lon": "-1.7112836",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67d6bd237e84e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.293196,
+          47.390944
+        ]
+      },
+      "properties": {
+        "title": "Place Saint Pierre",
+        "lat": "47.3909436",
+        "lon": "-1.2931961",
+        "type": "BSB",
+        "observation": "dans le jardin",
+        "picture": "https://delivrez.fr/public/posts/img.67d462a4034e1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.576626,
+          46.415933
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Océan",
+        "lat": "46.4159333",
+        "lon": "-1.5766264",
+        "type": "BSB",
+        "observation": "A côté de la médiathèque",
+        "picture": "https://delivrez.fr/public/posts/img.67c86772c0085.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.611688,
+          46.740944
+        ]
+      },
+      "properties": {
+        "title": "Place du Champ de Foire",
+        "lat": "46.7409443",
+        "lon": "-1.6116879",
+        "type": "BSB",
+        "observation": "A côté du parc",
+        "picture": "https://delivrez.fr/public/posts/img.67cd88321eb60.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.55541,
+          47.167504
+        ]
+      },
+      "properties": {
+        "title": "Rue Paul Gauguin",
+        "lat": "47.1675037",
+        "lon": "-1.55541",
+        "type": "BSB",
+        "observation": "dans le petit parc",
+        "picture": "https://delivrez.fr/public/posts/img.67cc7ad4e5471.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.251584,
+          46.353115
+        ]
+      },
+      "properties": {
+        "title": "Rue Paul Berjonneau",
+        "lat": "46.3531152",
+        "lon": "-1.2515844",
+        "type": "BSB",
+        "observation": "St Michel en l'Herm - ancien arrêt de bus",
+        "picture": "https://delivrez.fr/public/posts/img.67c87d6c6d05e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.133536,
+          46.908008
+        ]
+      },
+      "properties": {
+        "title": "Rue des artisans",
+        "lat": "46.9080077",
+        "lon": "-1.1335364",
+        "type": "BSB",
+        "observation": "à côté de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.67c49f89a32db.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.685915,
+          47.191655
+        ]
+      },
+      "properties": {
+        "title": "Rue Simone Veil",
+        "lat": "47.191655",
+        "lon": "-1.685915",
+        "type": "BSB",
+        "observation": "dans le square",
+        "picture": "https://delivrez.fr/public/posts/img.67c47972cfb40.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.676196,
+          47.187536
+        ]
+      },
+      "properties": {
+        "title": "Rue Jules Verne",
+        "lat": "47.1875362",
+        "lon": "-1.6761961",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67c4773e64167.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.299643,
+          47.023776
+        ]
+      },
+      "properties": {
+        "title": "Rue Marie Lemonnier",
+        "lat": "47.0237764",
+        "lon": "-2.2996433",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67c46a600cf8f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.454828,
+          47.278426
+        ]
+      },
+      "properties": {
+        "title": "Route de Kermoisan",
+        "lat": "47.2784258",
+        "lon": "-2.4548283",
+        "type": "BSB",
+        "observation": "Kermoisan - arrêt de bus",
+        "picture": "https://delivrez.fr/public/posts/img.67c060aeddd73.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.480965,
+          47.276377
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Plage",
+        "lat": "47.2763767",
+        "lon": "-2.4809653",
+        "type": "BSB",
+        "observation": "Sous le kiosque à l'aire de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.67c055bc4ee6a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.158737,
           47.48244
         ]
@@ -71,23 +391,6 @@
         "type": "BSB",
         "observation": "_",
         "picture": "https://delivrez.fr/public/posts/img.67b1f47670d95.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.299643,
-          47.023776
-        ]
-      },
-      "properties": {
-        "title": "Rue Marie Lemonnier",
-        "lat": "47.0237764",
-        "lon": "-2.2996433",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.67a8822978a13.png"
       }
     },
     {
@@ -646,24 +949,6 @@
         "type": "BSB",
         "observation": "maison des écrivains de la mer",
         "picture": "https://delivrez.fr/public/posts/img.66f7f24d91b19.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.936906,
-          46.694339
-        ]
-      },
-      "properties": {
-        "title": "Quai des Greniers",
-        "lat": "46.6943391",
-        "lon": "-1.9369061",
-        "type": "BSB",
-        "observation": "près du jardin d'enfants",
-        "picture": "https://delivrez.fr/public/posts/img.66f7f4cb10f01.png"
       }
     },
     {
@@ -4564,24 +4849,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.607878,
-          46.74002
-        ]
-      },
-      "properties": {
-        "title": "Rue de L Hôtel de ville place de la Poste",
-        "lat": "46.7400203",
-        "lon": "-1.6078782",
-        "type": "BSB",
-        "observation": "a côté de la boutique d'optique Écouter Voir",
-        "picture": "https://delivrez.fr/public/posts/img.63ff86c8ceffd.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.411711,
           46.934707
         ]
@@ -5285,23 +5552,6 @@
         "type": "BSB",
         "observation": "_",
         "picture": "https://delivrez.fr/public/posts/img.62c3004026041.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.486859,
-          47.249483
-        ]
-      },
-      "properties": {
-        "title": "Rue de la Loire",
-        "lat": "47.2494826",
-        "lon": "-1.4868585",
-        "type": "BSB",
-        "observation": "Petite boîte à livre cachée à côté du panneau d'affichage"
       }
     },
     {

@@ -6,6 +6,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.112757,
+          49.479381
+        ]
+      },
+      "properties": {
+        "title": "Chemin de la Bretèque",
+        "lat": "49.4793814",
+        "lon": "1.1127573",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67e9805250c5c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.042743,
+          49.22985
+        ]
+      },
+      "properties": {
+        "title": "Avenue Georges Landry",
+        "lat": "49.2298498",
+        "lon": "-0.0427434",
+        "type": "BSB",
+        "observation": "Dans le parc pour enfants",
+        "picture": "https://delivrez.fr/public/posts/img.67e6cc1e1974d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.572739,
+          49.381712
+        ]
+      },
+      "properties": {
+        "title": "Route du Bourg",
+        "lat": "49.3817115",
+        "lon": "0.5727395",
+        "type": "BSB",
+        "observation": "école",
+        "picture": "https://delivrez.fr/public/posts/img.67d9463a81eef.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.061611,
+          49.423629
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Macé",
+        "lat": "49.4236293",
+        "lon": "1.0616114",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67cace9990357.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.079469,
+          49.330083
+        ]
+      },
+      "properties": {
+        "title": "Place Marie Lefrançois",
+        "lat": "49.3300827",
+        "lon": "-1.0794687",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.366944,
           49.646048
         ]

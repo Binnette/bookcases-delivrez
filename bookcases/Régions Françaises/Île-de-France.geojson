@@ -6,6 +6,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.376075,
+          48.670106
+        ]
+      },
+      "properties": {
+        "title": "14 rue octave longuet",
+        "lat": "48.6701064",
+        "lon": "2.3760753",
+        "type": "BSB",
+        "observation": "en activité",
+        "picture": "https://delivrez.fr/public/posts/img.67d970b4b950e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.115853,
+          48.489772
+        ]
+      },
+      "properties": {
+        "title": "Laval",
+        "lat": "48.489772",
+        "lon": "3.115853",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67c5638ddfbb0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375457,
+          48.679654
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Gabriel Péri",
+        "lat": "48.6796537",
+        "lon": "2.3754567",
+        "type": "BSB",
+        "observation": "au niveau du rond point",
+        "picture": "https://delivrez.fr/public/posts/img.67c2de66c7bfb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.323098,
+          48.975761
+        ]
+      },
+      "properties": {
+        "title": "Rue Cauchoix",
+        "lat": "48.9757606",
+        "lon": "2.3230978",
+        "type": "BSB",
+        "observation": "dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.67bedf9861fd3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.316476,
           49.0657
         ]

@@ -6,6 +6,589 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.792419,
+          45.370195
+        ]
+      },
+      "properties": {
+        "title": "Place de la mairie",
+        "lat": "45.3701949",
+        "lon": "0.7924188",
+        "type": "BSB",
+        "observation": "Devant la salle des fêtes",
+        "picture": "https://delivrez.fr/public/posts/img.67debd9529f01.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.571135,
+          45.150642
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Bordeaux",
+        "lat": "45.1506417",
+        "lon": "0.5711351",
+        "type": "BSB",
+        "observation": "près de l'école - Montanceix",
+        "picture": "https://delivrez.fr/public/posts/img.67e587d1e3387.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.729899,
+          45.184322
+        ]
+      },
+      "properties": {
+        "title": "Rue Gabriel Lacueille",
+        "lat": "45.1843222",
+        "lon": "0.7298991",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67e6d17528b0d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.984673,
+          45.126919
+        ]
+      },
+      "properties": {
+        "title": "boîte à livres",
+        "lat": "45.1269186",
+        "lon": "0.9846733",
+        "type": "BSB",
+        "observation": "Fossemagne - à côté de la salle",
+        "picture": "https://delivrez.fr/public/posts/img.67e7f979c1f71.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.069672,
+          45.139968
+        ]
+      },
+      "properties": {
+        "title": "Rue Emile Zola",
+        "lat": "45.1399683",
+        "lon": "1.0696719",
+        "type": "BSB",
+        "observation": "juste à côté du panneau sens interdit",
+        "picture": "https://delivrez.fr/public/posts/img.67e7fce7e64f1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.326296,
+          45.130069
+        ]
+      },
+      "properties": {
+        "title": "Rue André Citroën",
+        "lat": "45.1300694",
+        "lon": "1.3262963",
+        "type": "BSB",
+        "observation": "à l'intérieur de Auchan",
+        "picture": "https://delivrez.fr/public/posts/img.67e81d1b12028.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.715247,
+          45.18532
+        ]
+      },
+      "properties": {
+        "title": "Place Louis Magne",
+        "lat": "45.1853199",
+        "lon": "0.7152469",
+        "type": "BSB",
+        "observation": "en face du cardiologue sur la place",
+        "picture": "https://delivrez.fr/public/posts/img.67e6bd79af42a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.728878,
+          45.178977
+        ]
+      },
+      "properties": {
+        "title": "Rue Haute Saint-Georges",
+        "lat": "45.1789771",
+        "lon": "0.7288782",
+        "type": "BSB",
+        "observation": "a côté de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.67e6ce0d0a021.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.721222,
+          45.184411
+        ]
+      },
+      "properties": {
+        "title": "Rue Haute Saint-Georges",
+        "lat": "45.1844107",
+        "lon": "0.721222",
+        "type": "BSB",
+        "observation": "halle du Coderc",
+        "picture": "https://delivrez.fr/public/posts/img.67e6c83cb6217.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.603065,
+          45.163769
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Platanes",
+        "lat": "45.1637693",
+        "lon": "0.6030647",
+        "type": "BSB",
+        "observation": "devant le restaurant d'enfants",
+        "picture": "https://delivrez.fr/public/posts/img.67e6867b2be0e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.199363,
+          44.932074
+        ]
+      },
+      "properties": {
+        "title": "Rue de Tropchaud Pomerol",
+        "lat": "44.9320743",
+        "lon": "-0.1993631",
+        "type": "BSB",
+        "observation": "Salle polyvalente - à côté de l'abri bus",
+        "picture": "https://delivrez.fr/public/posts/img.67e52ebc04436.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.244305,
+          44.913241
+        ]
+      },
+      "properties": {
+        "title": "Rue Etienne Sabatié",
+        "lat": "44.9132407",
+        "lon": "-0.2443052",
+        "type": "BSB",
+        "observation": "boite dans le jardin",
+        "picture": "https://delivrez.fr/public/posts/img.67e42cd035242.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.211548,
+          45.86128
+        ]
+      },
+      "properties": {
+        "title": "Grand Rue",
+        "lat": "45.8612801",
+        "lon": "0.2115482",
+        "type": "BSB",
+        "observation": "A l'entrée de l'école",
+        "picture": "https://delivrez.fr/public/posts/img.67e51ff0a525b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.63093,
+          44.84556
+        ]
+      },
+      "properties": {
+        "title": "Rue Erik Satie",
+        "lat": "44.8455605",
+        "lon": "-0.6309303",
+        "type": "BSB",
+        "observation": "Devant MJC CL2V",
+        "picture": "https://delivrez.fr/public/posts/img.67dee3ddd3bc8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.580079,
+          44.841502
+        ]
+      },
+      "properties": {
+        "title": "Place Gambetta",
+        "lat": "44.8415022",
+        "lon": "-0.580079",
+        "type": "BSB",
+        "observation": "en face de la bouquinerie",
+        "picture": "https://delivrez.fr/public/posts/img.67dac68ca8ee1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.149488,
+          45.259494
+        ]
+      },
+      "properties": {
+        "title": "Place Marquis Jacques François",
+        "lat": "45.2594936",
+        "lon": "1.1494881",
+        "type": "BSB",
+        "observation": "bien fournie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.664919,
+          44.180949
+        ]
+      },
+      "properties": {
+        "title": "Entrée médiathèque",
+        "lat": "44.1809487",
+        "lon": "0.6649193",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.332349,
+          45.698957
+        ]
+      },
+      "properties": {
+        "title": "Place du Solencon",
+        "lat": "45.6989574",
+        "lon": "-0.3323492",
+        "type": "BSB",
+        "observation": "boite en verre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.183817,
+          44.67647
+        ]
+      },
+      "properties": {
+        "title": "Place du 8 Mai 1945",
+        "lat": "44.6764702",
+        "lon": "0.1838169",
+        "type": "BSB",
+        "observation": "elle est murale et rouge",
+        "picture": "https://delivrez.fr/public/posts/img.67cc1f81ea39e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.559249,
+          44.175652
+        ]
+      },
+      "properties": {
+        "title": "Place du 8 Mai 1945",
+        "lat": "44.1756521",
+        "lon": "0.5592488",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67cfdcb8683ff.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.008541,
+          45.926395
+        ]
+      },
+      "properties": {
+        "title": "Place de Verdun",
+        "lat": "45.9263947",
+        "lon": "-1.008541",
+        "type": "BSB",
+        "observation": "maison des associations - Soubise",
+        "picture": "https://delivrez.fr/public/posts/img.67d0386bd0434.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.621505,
+          44.207953
+        ]
+      },
+      "properties": {
+        "title": "Villa de l'hermitage",
+        "lat": "44.2079526",
+        "lon": "0.6215051",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67cfe5953abb9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.966182,
+          45.938436
+        ]
+      },
+      "properties": {
+        "title": "Avenue Marie-François Sadi Carnot",
+        "lat": "45.9384364",
+        "lon": "-0.9661824",
+        "type": "BSB",
+        "observation": "devant le square Parat",
+        "picture": "https://delivrez.fr/public/posts/img.67cf0dba3829b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.051238,
+          45.935937
+        ]
+      },
+      "properties": {
+        "title": "boîte à livres",
+        "lat": "45.9359372",
+        "lon": "-1.0512383",
+        "type": "BSB",
+        "observation": "façade de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.67cf250358a0d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.614331,
+          44.206874
+        ]
+      },
+      "properties": {
+        "title": "Impasse Scaliger",
+        "lat": "44.2068743",
+        "lon": "0.6143314",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.268656,
+          44.785338
+        ]
+      },
+      "properties": {
+        "title": "Route de Pineuilh",
+        "lat": "44.7853384",
+        "lon": "0.2686559",
+        "type": "BSB",
+        "observation": "dans cabane en pierre",
+        "picture": "https://delivrez.fr/public/posts/img.67cc1aaddadca.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.368898,
+          46.203085
+        ]
+      },
+      "properties": {
+        "title": "Rue du Docteur Kemmerer",
+        "lat": "46.2030847",
+        "lon": "-1.3688982",
+        "type": "BSB",
+        "observation": "sous préau, place Anatole France",
+        "picture": "https://delivrez.fr/public/posts/img.67c9c61b76031.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.638976,
+          45.61961
+        ]
+      },
+      "properties": {
+        "title": "Boite a Livres",
+        "lat": "45.6196096",
+        "lon": "-0.638976",
+        "type": "BSB",
+        "observation": "dans l'abribus a coté de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.504129,
+          43.504346
+        ]
+      },
+      "properties": {
+        "title": "Allée de la Maison Forestière",
+        "lat": "43.5043458",
+        "lon": "-1.5041295",
+        "type": "BSB",
+        "observation": "dans petit square",
+        "picture": "https://delivrez.fr/public/posts/img.67c2f24fedd79.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.503695,
+          43.492026
+        ]
+      },
+      "properties": {
+        "title": "Rue d'Euskadi",
+        "lat": "43.4920257",
+        "lon": "-1.5036948",
+        "type": "BSB",
+        "observation": "dans square",
+        "picture": "https://delivrez.fr/public/posts/img.67c302b18c8e1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.50001,
+          43.512112
+        ]
+      },
+      "properties": {
+        "title": "Allée des Couralins",
+        "lat": "43.5121121",
+        "lon": "-1.5000105",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67c2ee477365c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.059887,
+          44.99396
+        ]
+      },
+      "properties": {
+        "title": "boute à livres",
+        "lat": "44.9939597",
+        "lon": "1.059887",
+        "type": "BSB",
+        "observation": "place de l ehlise St Robert",
+        "picture": "https://delivrez.fr/public/posts/img.67c1cf0d76bf4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.502079,
+          44.895228
+        ]
+      },
+      "properties": {
+        "title": "Avenue André Vignau Anglade",
+        "lat": "44.8952284",
+        "lon": "-0.5020787",
+        "type": "BSB",
+        "observation": "Devant l'école",
+        "picture": "https://delivrez.fr/public/posts/img.67c1840540518.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.013735,
           46.001807
         ]
@@ -675,22 +1258,6 @@
         "title": "Rue Albert Schweitzer",
         "lat": "44.1858746",
         "lon": "0.6038043",
-        "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.621505,
-          44.207953
-        ]
-      },
-      "properties": {
-        "title": "Villa de l'hermitage",
-        "lat": "44.2079526",
-        "lon": "0.6215051",
         "type": "BSB"
       }
     },
@@ -8203,23 +8770,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.244305,
-          44.913241
-        ]
-      },
-      "properties": {
-        "title": "Rue Etienne Sabatié",
-        "lat": "44.9132407",
-        "lon": "-0.2443052",
-        "type": "BSB",
-        "observation": "boite dans le jardin"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.165166,
           46.727963
         ]
@@ -11066,40 +11616,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.728878,
-          45.178977
-        ]
-      },
-      "properties": {
-        "title": "Rue Haute Saint-Georges",
-        "lat": "45.1789771",
-        "lon": "0.7288782",
-        "type": "BSB",
-        "observation": "a côté de l'église"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.715247,
-          45.18532
-        ]
-      },
-      "properties": {
-        "title": "Place Louis Magne",
-        "lat": "45.1853199",
-        "lon": "0.7152469",
-        "type": "BSB",
-        "observation": "en face du cardiologue sur la place"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.520907,
           44.830685
         ]
@@ -11212,23 +11728,6 @@
         "lon": "-0.3138203",
         "type": "BSB",
         "observation": "a côté de l'école"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.069672,
-          45.139968
-        ]
-      },
-      "properties": {
-        "title": "Rue Emile Zola",
-        "lat": "45.1399683",
-        "lon": "1.0696719",
-        "type": "BSB",
-        "observation": "juste à côté du panneau sens interdit"
       }
     },
     {
@@ -12266,23 +12765,6 @@
         "lon": "-0.6327025",
         "type": "BSB",
         "observation": "À côté du Foyer Monséjour"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.63093,
-          44.84556
-        ]
-      },
-      "properties": {
-        "title": "Rue Erik Satie",
-        "lat": "44.8455605",
-        "lon": "-0.6309303",
-        "type": "BSB",
-        "observation": "Devant MJC CL2V"
       }
     },
     {
@@ -22487,23 +22969,6 @@
         "lon": "-0.6985513",
         "type": "BSB",
         "observation": "Boite à lire sur une aire de jeux  quartier Villagexpo"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.965148,
-          45.938191
-        ]
-      },
-      "properties": {
-        "title": "avenue Marie François Sadi Carnot",
-        "lat": "45.938191",
-        "lon": "-0.965148",
-        "type": "BSB",
-        "observation": "accrochée au grillage du parc"
       }
     },
     {

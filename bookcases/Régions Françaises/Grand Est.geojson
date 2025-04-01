@@ -6,6 +6,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.629562,
+          48.417862
+        ]
+      },
+      "properties": {
+        "title": "Rue Ettore Bugatti",
+        "lat": "48.4178615",
+        "lon": "7.6295618",
+        "type": "BSB",
+        "observation": "Dans le musée, sur la gauche en rentrant, à côté du présentoir à prospectus.",
+        "picture": "https://delivrez.fr/public/posts/img.67e413384fd38.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.165852,
+          48.698891
+        ]
+      },
+      "properties": {
+        "title": "Parc Bonnet",
+        "lat": "48.6988913",
+        "lon": "6.1658518",
+        "type": "BSB",
+        "observation": "cabane a livres",
+        "picture": "https://delivrez.fr/public/posts/img.67e138b079d89.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.300545,
+          48.341602
+        ]
+      },
+      "properties": {
+        "title": "Rue du Vingt Six Novembre",
+        "lat": "48.3416017",
+        "lon": "7.300545",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.77004,
           49.172618
         ]

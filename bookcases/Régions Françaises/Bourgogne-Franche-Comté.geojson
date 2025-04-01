@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.744171,
+          46.98621
+        ]
+      },
+      "properties": {
+        "title": "Lavoir à livres",
+        "lat": "46.9862099",
+        "lon": "4.7441711",
+        "type": "BSB",
+        "observation": "deux grandes armoires, bien protégé de la pluie",
+        "picture": "https://delivrez.fr/public/posts/img.67d6e44191b82.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.740902,
           47.621595
         ]
@@ -2053,23 +2071,6 @@
         "type": "BSB",
         "observation": "face gendarmerie",
         "picture": "https://delivrez.fr/public/posts/img.649ff1092d748.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.744171,
-          46.98621
-        ]
-      },
-      "properties": {
-        "title": "Lavoir à livres",
-        "lat": "46.9862099",
-        "lon": "4.7441711",
-        "type": "BSB",
-        "observation": "deux grandes armoires, bien protégé de la pluie"
       }
     },
     {

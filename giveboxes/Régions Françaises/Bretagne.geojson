@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.614895,
+          47.994922
+        ]
+      },
+      "properties": {
+        "title": "place de l'église",
+        "lat": "47.9949217",
+        "lon": "-1.614895",
+        "type": "DSB",
+        "observation": "sous le porche de la médiathèque",
+        "picture": "https://delivrez.fr/public/posts/img.67dfd40faed62.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.740824,
           47.627142
         ]

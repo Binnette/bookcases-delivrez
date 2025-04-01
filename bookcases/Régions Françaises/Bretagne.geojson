@@ -6,6 +6,233 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.386893,
+          47.731911
+        ]
+      },
+      "properties": {
+        "title": "Rue des Algues",
+        "lat": "47.7319112",
+        "lon": "-3.3868928",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67e6f0c8c1893.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.23803,
+          48.797398
+        ]
+      },
+      "properties": {
+        "title": "Rue de Tréguier",
+        "lat": "48.7973977",
+        "lon": "-3.2380304",
+        "type": "BSB",
+        "observation": "mairie",
+        "picture": "https://delivrez.fr/public/posts/img.67e16be43e965.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.61487,
+          47.994955
+        ]
+      },
+      "properties": {
+        "title": "place de l'église",
+        "lat": "47.994955",
+        "lon": "-1.61487",
+        "type": "BSB",
+        "observation": "sous le porche de la médiathèque",
+        "picture": "https://delivrez.fr/public/posts/img.67dfd3d9664b2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.073784,
+          48.771489
+        ]
+      },
+      "properties": {
+        "title": "Place du Bourg de Plounez",
+        "lat": "48.7714886",
+        "lon": "-3.0737841",
+        "type": "BSB",
+        "observation": "Eglise",
+        "picture": "https://delivrez.fr/public/posts/img.67de740358f2b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.132752,
+          48.664618
+        ]
+      },
+      "properties": {
+        "title": "Place d'Armor",
+        "lat": "48.6646182",
+        "lon": "-3.1327519",
+        "type": "BSB",
+        "observation": "école",
+        "picture": "https://delivrez.fr/public/posts/img.67dd3126292f9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.457293,
+          47.714441
+        ]
+      },
+      "properties": {
+        "title": "Le Penher",
+        "lat": "47.7144413",
+        "lon": "-3.457293",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67d9b736d51ea.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.754388,
+          48.177385
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Combattants",
+        "lat": "48.1773848",
+        "lon": "-2.7543878",
+        "type": "BSB",
+        "observation": "Juste devant La Poste",
+        "picture": "https://delivrez.fr/public/posts/img.67d86520ba6a2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.432751,
+          47.702197
+        ]
+      },
+      "properties": {
+        "title": "lomener",
+        "lat": "47.702197",
+        "lon": "-3.4327511",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67c5e041c4235.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.208189,
+          48.35479
+        ]
+      },
+      "properties": {
+        "title": "Place Raoul II",
+        "lat": "48.35479",
+        "lon": "-1.2081894",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67b0851893aee.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.821943,
+          47.72766
+        ]
+      },
+      "properties": {
+        "title": "place de l'église",
+        "lat": "47.7276597",
+        "lon": "-1.8219435",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.348107,
+          47.762756
+        ]
+      },
+      "properties": {
+        "title": "Avenue François Billoux",
+        "lat": "47.7627556",
+        "lon": "-3.3481066",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67c73555af4d4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.686222,
+          48.305025
+        ]
+      },
+      "properties": {
+        "title": "Langager",
+        "lat": "48.3050249",
+        "lon": "-1.6862216",
+        "type": "BSB",
+        "observation": "au canal à La Plousiėre",
+        "picture": "https://delivrez.fr/public/posts/img.67bb4b7db7ca1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.408699,
+          48.17305
+        ]
+      },
+      "properties": {
+        "title": "D85",
+        "lat": "48.1730503",
+        "lon": "-3.4086994",
+        "type": "BSB",
+        "observation": "à côté de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.67c1bc2322d9b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.639772,
           48.091907
         ]
@@ -976,23 +1203,6 @@
         "lon": "-2.0509235",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.66d34eca7260c.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.432842,
-          47.702146
-        ]
-      },
-      "properties": {
-        "title": "Route du Perello",
-        "lat": "47.7021463",
-        "lon": "-3.4328416",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.66c9ccec38448.png"
       }
     },
     {
@@ -8411,22 +8621,6 @@
         "lon": "-1.204626",
         "type": "BSB",
         "observation": "A coté de l'aire de jeux"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.208428,
-          48.354651
-        ]
-      },
-      "properties": {
-        "title": "Place Pierre Symon",
-        "lat": "48.3546512",
-        "lon": "-1.2084284",
-        "type": "BSB"
       }
     },
     {

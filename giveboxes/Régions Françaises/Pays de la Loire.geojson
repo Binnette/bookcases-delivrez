@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.933764,
+          46.695218
+        ]
+      },
+      "properties": {
+        "title": "boîte à dons",
+        "lat": "46.6952181",
+        "lon": "-1.9337638",
+        "type": "DSB",
+        "observation": "donnée comme boîte à livres - à côté des toilettes",
+        "picture": "https://delivrez.fr/public/posts/img.67c7073452f4f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.512839,
           46.72565
         ]

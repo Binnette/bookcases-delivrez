@@ -1,5 +1,65 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.72547" lon="2.49746">
+    <name>Rue Bernard Rey</name>
+    <desc>Face à la clinique des grainerière</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.412052" lon="1.60869">
+    <name>Place de la Poste</name>
+    <desc>A côté du banc à proximité et de la poste, de l école et de l'église. Une boîte à lire, installée par le Lions Club en partenariat avec la commune de Mur </desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.611518" lon="0.900747">
+    <name>Rue de Laborde</name>
+    <desc>mairie</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.354753" lon="1.751708">
+    <name>Avenue Saint-Exupéry</name>
+    <desc>espace saint Exupéry</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.721334" lon="2.507484">
+    <name>Rue Philibert Audebrand</name>
+    <desc>dans le parc du musée saint vic</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.731601" lon="2.508049">
+    <name>Rue de Verdun</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.051714" lon="2.654991">
     <name>Place Mirabeau</name>
     <desc>sous l abri bus</desc>
@@ -3880,16 +3940,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.72532" lon="2.497334">
-    <name>Rue de la caserne</name>
-    <desc>Face à la clinique des grainerière</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.406861" lon="0.600873">
     <name>Rue du Clos Poulet</name>
     <desc></desc>
@@ -4323,16 +4373,6 @@
   <wpt lat="47.522889" lon="1.933531">
     <name>place de l eglise</name>
     <desc>derrière l'église, dans une ancienne cabine téléphonique et dans un frigo, série Biblio Frigo </desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.411995" lon="1.608959">
-    <name>place de la poste</name>
-    <desc>A côté du banc à proximité et de la poste, de l école et de l'église. Une boîte à lire, installée par le Lions Club en partenariat avec la commune de Mur </desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

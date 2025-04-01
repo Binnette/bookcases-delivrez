@@ -6,6 +6,126 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.48839,
+          50.474628
+        ]
+      },
+      "properties": {
+        "title": "Place des Frères Viseur",
+        "lat": "50.4746283",
+        "lon": "2.4883903",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67ea933483ad4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.396923,
+          50.638172
+        ]
+      },
+      "properties": {
+        "title": "Rue du Bourg",
+        "lat": "50.6381722",
+        "lon": "2.3969226",
+        "type": "BSB",
+        "observation": "dans l'entrée du magasin cré'atelier papillon",
+        "picture": "https://delivrez.fr/public/posts/img.67da8254777f6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.675731,
+          50.467835
+        ]
+      },
+      "properties": {
+        "title": "Rue Moussy",
+        "lat": "50.4678351",
+        "lon": "2.6757315",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67d6d2b2c1c3e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.45809,
+          50.588728
+        ]
+      },
+      "properties": {
+        "title": "petite boîte à livre",
+        "lat": "50.588728",
+        "lon": "2.4580898",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67d31befc87a2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6652,
+          50.365248
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "50.3652482",
+        "lon": "1.6652001",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67ceb2e319a8d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.564472,
+          50.405218
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Amiral Courbet",
+        "lat": "50.4052184",
+        "lon": "1.5644715",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67cd65d27acb4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.071623,
+          50.301132
+        ]
+      },
+      "properties": {
+        "title": "Rue du Chalet",
+        "lat": "50.3011319",
+        "lon": "3.0716234",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67c07a6b995f5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.227654,
           50.540734
         ]

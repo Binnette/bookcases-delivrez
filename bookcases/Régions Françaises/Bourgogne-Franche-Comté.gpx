@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.98621" lon="4.744171">
+    <name>Lavoir à livres</name>
+    <desc>deux grandes armoires, bien protégé de la pluie</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="47.621595" lon="3.740902">
     <name>Place de la Mairie</name>
     <desc>à côté de la croix</desc>
@@ -1173,16 +1183,6 @@
   <wpt lat="47.637364" lon="4.33906">
     <name>Rue Elsa Triolet</name>
     <desc>face gendarmerie</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.98621" lon="4.744171">
-    <name>Lavoir à livres</name>
-    <desc>deux grandes armoires, bien protégé de la pluie</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>
