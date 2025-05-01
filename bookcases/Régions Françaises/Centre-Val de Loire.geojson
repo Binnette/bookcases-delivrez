@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.511358,
+          47.780193
+        ]
+      },
+      "properties": {
+        "title": "Izy",
+        "lat": "47.7801927",
+        "lon": "1.5113576",
+        "type": "BSB",
+        "observation": "hameau de Josnes",
+        "picture": "https://delivrez.fr/public/posts/img.6800cc6f79442.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.49746,
           46.72547
         ]

@@ -6,6 +6,303 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.019828,
+          45.367639
+        ]
+      },
+      "properties": {
+        "title": "Livres",
+        "lat": "45.3676394",
+        "lon": "-0.0198276",
+        "type": "BSB",
+        "observation": "Mairie de sainte-souline"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.651604,
+          44.842584
+        ]
+      },
+      "properties": {
+        "title": "Route de Bergerac",
+        "lat": "44.8425843",
+        "lon": "0.6516036",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67e167e577f10.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.211627,
+          45.861339
+        ]
+      },
+      "properties": {
+        "title": "Grand Rue",
+        "lat": "45.8613392",
+        "lon": "0.2116269",
+        "type": "BSB",
+        "observation": "A l'entrée de l'école",
+        "picture": "https://delivrez.fr/public/posts/img.67e2bc918784a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.647419,
+          45.103901
+        ]
+      },
+      "properties": {
+        "title": "Route de l'Estuaire",
+        "lat": "45.1039008",
+        "lon": "-0.6474185",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67fbea46c74e2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.056647,
+          45.014841
+        ]
+      },
+      "properties": {
+        "title": "Esplanade du 18 Juin",
+        "lat": "45.0148406",
+        "lon": "-0.056647",
+        "type": "BSB",
+        "observation": "La boite est située juste à côté de la Mairie ! C'est une cabine téléphonique Rouge !",
+        "picture": "https://delivrez.fr/public/posts/img.67e5648bcf17d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.67365,
+          46.01536
+        ]
+      },
+      "properties": {
+        "title": "Place Henri Dezaphie",
+        "lat": "46.0153597",
+        "lon": "0.6736504",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680668d795baf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.67247,
+          46.014691
+        ]
+      },
+      "properties": {
+        "title": "Rue des Orgues",
+        "lat": "46.0146913",
+        "lon": "0.6724697",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680666ced3229.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.214772,
+          46.348133
+        ]
+      },
+      "properties": {
+        "title": "Place de L Hôtel de ville",
+        "lat": "46.3481329",
+        "lon": "2.2147719",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68063ba727478.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.352887,
+          46.016029
+        ]
+      },
+      "properties": {
+        "title": "Rue de Saint-Denis",
+        "lat": "46.0160292",
+        "lon": "-1.352887",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68051950cf2b2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.434519,
+          45.4447
+        ]
+      },
+      "properties": {
+        "title": "Rue James Sclafer",
+        "lat": "45.4447004",
+        "lon": "-0.4345187",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67fa7106c329e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.475547,
+          45.152414
+        ]
+      },
+      "properties": {
+        "title": "Moulin Blanc",
+        "lat": "45.1524143",
+        "lon": "-0.4755473",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67f938e44c28a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.105687,
+          45.825374
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale",
+        "lat": "45.8253738",
+        "lon": "0.1056866",
+        "type": "BSB",
+        "observation": "à l'entrée d'un petit jardin",
+        "picture": "https://delivrez.fr/public/posts/img.67f4d5ca3bde8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.837479,
+          45.742464
+        ]
+      },
+      "properties": {
+        "title": "Route de l'Océan",
+        "lat": "45.7424641",
+        "lon": "-0.8374787",
+        "type": "BSB",
+        "observation": "vers salle des fêtes",
+        "picture": "https://delivrez.fr/public/posts/img.67ee9ef6cb411.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.887906,
+          45.719126
+        ]
+      },
+      "properties": {
+        "title": "Boîte a livre",
+        "lat": "45.7191256",
+        "lon": "-0.8879058",
+        "type": "BSB",
+        "observation": "Entre la mairie et l'école",
+        "picture": "https://delivrez.fr/public/posts/img.67ee9c1d2b5af.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.94436,
+          45.726513
+        ]
+      },
+      "properties": {
+        "title": "Rue Samuel Champlain",
+        "lat": "45.7265132",
+        "lon": "-0.9443598",
+        "type": "BSB",
+        "observation": "A côté de la poste",
+        "picture": "https://delivrez.fr/public/posts/img.67ee98c7983a7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.16572,
+          45.91763
+        ]
+      },
+      "properties": {
+        "title": "Rue du Stade",
+        "lat": "45.9176296",
+        "lon": "0.1657198",
+        "type": "BSB",
+        "observation": "dans le petit abri au bord de la route",
+        "picture": "https://delivrez.fr/public/posts/img.67ed5bece52cc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.794951,
+          45.537045
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "45.5370453",
+        "lon": "1.7949506",
+        "type": "BSB",
+        "observation": "sous la Halle",
+        "picture": "https://delivrez.fr/public/posts/img.67ea864120596.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.792419,
           45.370195
         ]
@@ -214,24 +511,6 @@
         "type": "BSB",
         "observation": "boite dans le jardin",
         "picture": "https://delivrez.fr/public/posts/img.67e42cd035242.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.211548,
-          45.86128
-        ]
-      },
-      "properties": {
-        "title": "Grand Rue",
-        "lat": "45.8612801",
-        "lon": "0.2115482",
-        "type": "BSB",
-        "observation": "A l'entrée de l'école",
-        "picture": "https://delivrez.fr/public/posts/img.67e51ff0a525b.png"
       }
     },
     {
@@ -1739,23 +2018,6 @@
         "type": "BSB",
         "observation": "place de l'église",
         "picture": "https://delivrez.fr/public/posts/img.66c70029b55c0.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.651598,
-          44.842595
-        ]
-      },
-      "properties": {
-        "title": "Place du Bicentenaire",
-        "lat": "44.8425954",
-        "lon": "0.6515977",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.66c63c9229951.png"
       }
     },
     {
@@ -12952,23 +13214,6 @@
         "lon": "-0.6069285",
         "type": "BSB",
         "observation": "La boite est située dans le parc enfant situé juste à côté du laboratoire d'analyses"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.05688,
-          45.014657
-        ]
-      },
-      "properties": {
-        "title": "9 esplanade du 18 juin",
-        "lat": "45.0146572",
-        "lon": "-0.0568804",
-        "type": "BSB",
-        "observation": "La boite est située juste à côté de la Mairie ! C'est une cabine téléphonique Rouge !"
       }
     },
     {

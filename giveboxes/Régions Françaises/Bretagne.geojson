@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.802276,
+          47.489951
+        ]
+      },
+      "properties": {
+        "title": "Rue de Pratel Vihan",
+        "lat": "47.4899512",
+        "lon": "-2.8022761",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.67f965a3a6457.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.614895,
           47.994922
         ]

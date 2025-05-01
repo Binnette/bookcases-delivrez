@@ -6,6 +6,305 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.243124,
+          48.858293
+        ]
+      },
+      "properties": {
+        "title": "Rue d'Ottwiller",
+        "lat": "48.8582926",
+        "lon": "7.2431237",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680fbbc11c19e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.625963,
+          48.820755
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale",
+        "lat": "48.820755",
+        "lon": "7.6259633",
+        "type": "BSB",
+        "observation": "au coin de la mairie, devant la bibliothèque",
+        "picture": "https://delivrez.fr/public/posts/img.680fa8a277ebb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.416066,
+          48.877727
+        ]
+      },
+      "properties": {
+        "title": "Sparsbach",
+        "lat": "48.8777267",
+        "lon": "7.4160656",
+        "type": "BSB",
+        "observation": "Fontaine",
+        "picture": "https://delivrez.fr/public/posts/img.680a5c9a79741.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.070019,
+          48.739295
+        ]
+      },
+      "properties": {
+        "title": "Sarrebourg - magasin Carrefour (ancien Cora)",
+        "lat": "48.7392948",
+        "lon": "7.070019",
+        "type": "BSB",
+        "observation": "à l'intérieur de l'entrée principale",
+        "picture": "https://delivrez.fr/public/posts/img.68079e6f46c61.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.905085,
+          48.468793
+        ]
+      },
+      "properties": {
+        "title": "Gr Grande Rue",
+        "lat": "48.4687926",
+        "lon": "3.9050854",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680640f02f084.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.945734,
+          48.580926
+        ]
+      },
+      "properties": {
+        "title": "Rue Foch",
+        "lat": "48.5809259",
+        "lon": "6.9457335",
+        "type": "BSB",
+        "observation": "mur de la Salle des Fêtes",
+        "picture": "https://delivrez.fr/public/posts/img.67fe7337de30e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.94481,
+          48.579405
+        ]
+      },
+      "properties": {
+        "title": "Cirey sur Vesouze",
+        "lat": "48.5794047",
+        "lon": "6.9448097",
+        "type": "BSB",
+        "observation": "à gauche de l'école",
+        "picture": "https://delivrez.fr/public/posts/img.67fe71d571ccd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.637091,
+          48.449654
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "48.4496536",
+        "lon": "3.6370908",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67fe5ec102e32.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.844737,
+          48.407262
+        ]
+      },
+      "properties": {
+        "title": "Rue du Docteur Raoult",
+        "lat": "48.4072617",
+        "lon": "6.8447367",
+        "type": "BSB",
+        "observation": "devant l'école élémentaire Maurice Courtin",
+        "picture": "https://delivrez.fr/public/posts/img.67fe5d58f3866.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.772651,
+          48.46406
+        ]
+      },
+      "properties": {
+        "title": "Place des Anciens Combattants",
+        "lat": "48.4640603",
+        "lon": "3.7726514",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67fe4df27ff20.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.719847,
+          48.211275
+        ]
+      },
+      "properties": {
+        "title": "Rue Général de Gaulle",
+        "lat": "48.2112748",
+        "lon": "6.719847",
+        "type": "BSB",
+        "observation": "devant l'hôtel de ville",
+        "picture": "https://delivrez.fr/public/posts/img.67fd3061d0f7a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.716368,
+          48.206682
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Lattre de Tassigny",
+        "lat": "48.2066825",
+        "lon": "6.7163676",
+        "type": "BSB",
+        "observation": "maison de la croix rouge",
+        "picture": "https://delivrez.fr/public/posts/img.67fd2e59aa30a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.603213,
+          48.13855
+        ]
+      },
+      "properties": {
+        "title": "Gr Grande Rue- Cheminémil",
+        "lat": "48.13855",
+        "lon": "6.6032132",
+        "type": "BSB",
+        "observation": "sur la place en face de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.67fd2654e4868.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.596288,
+          48.033573
+        ]
+      },
+      "properties": {
+        "title": "Rue de Seux",
+        "lat": "48.0335733",
+        "lon": "6.5962883",
+        "type": "BSB",
+        "observation": "devant l'école",
+        "picture": "https://delivrez.fr/public/posts/img.67fd20461d34c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.302259,
+          48.342205
+        ]
+      },
+      "properties": {
+        "title": "Place du Marché",
+        "lat": "48.3422047",
+        "lon": "7.3022587",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.949681,
+          48.455179
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Tournelle",
+        "lat": "48.4551791",
+        "lon": "6.9496809",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67f5343b69139.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.223068,
+          48.408686
+        ]
+      },
+      "properties": {
+        "title": "Route Sans Nom",
+        "lat": "48.408686",
+        "lon": "6.223068",
+        "type": "BSB",
+        "observation": "dans le lavoir",
+        "picture": "https://delivrez.fr/public/posts/img.67f4e18fb36de.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.629562,
           48.417862
         ]
@@ -1865,23 +2164,6 @@
         "lon": "7.2795731",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.6649ec4786284.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.243124,
-          48.858293
-        ]
-      },
-      "properties": {
-        "title": "Rue d'Ottwiller",
-        "lat": "48.8582926",
-        "lon": "7.2431237",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.6649e9c5b4df4.png"
       }
     },
     {
@@ -5289,40 +5571,6 @@
         "lon": "6.098175",
         "type": "BSB",
         "observation": "place salle des fêtes"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.053329,
-          48.731649
-        ]
-      },
-      "properties": {
-        "title": "A SAVERNE",
-        "lat": "48.7316494",
-        "lon": "7.0533293",
-        "type": "BSB",
-        "observation": "La cabine téléphonique rouge des écluses a été déplacée sur la place juste à droite devant la gare"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.053136,
-          48.731767
-        ]
-      },
-      "properties": {
-        "title": "Sarrebourg",
-        "lat": "48.7317673",
-        "lon": "7.0531364",
-        "type": "BSB",
-        "observation": "Cabine téléphonique à gauche du centre socio culturel"
       }
     },
     {
@@ -11733,23 +11981,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.845265,
-          48.407404
-        ]
-      },
-      "properties": {
-        "title": "1 rue docteur raoult",
-        "lat": "48.4074045",
-        "lon": "6.8452647",
-        "type": "BSB",
-        "observation": "Boîte en libre service. A côté de l école primaire du centre."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.085554,
           47.712875
         ]
@@ -12754,23 +12985,6 @@
         "lon": "6.0172071",
         "type": "BSB",
         "observation": "Livres à emprunter ou à échanger librement"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.067903,
-          48.739198
-        ]
-      },
-      "properties": {
-        "title": "Route de phalsbourg ",
-        "lat": "48.739198",
-        "lon": "7.0679028",
-        "type": "BSB",
-        "observation": "Une Boite a lire a l'entrée du magasin Cora."
       }
     },
     {

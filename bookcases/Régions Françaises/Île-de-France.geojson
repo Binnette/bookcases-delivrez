@@ -6,6 +6,125 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.825118,
+          48.644555
+        ]
+      },
+      "properties": {
+        "title": "Boite à livre gare SNCF",
+        "lat": "48.6445553",
+        "lon": "2.8251183",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.681107bcaa436.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.242921,
+          48.893801
+        ]
+      },
+      "properties": {
+        "title": "Square Henri Regnault",
+        "lat": "48.8938007",
+        "lon": "2.2429207",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6798d142459de.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.313691,
+          48.675456
+        ]
+      },
+      "properties": {
+        "title": "Rue du Bois de Balizy",
+        "lat": "48.6754562",
+        "lon": "2.3136913",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67ec1cf891a21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.089644,
+          48.897405
+        ]
+      },
+      "properties": {
+        "title": "Place du Marché Neuf",
+        "lat": "48.897405",
+        "lon": "2.0896439",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67ffdf6f82151.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.147119,
+          48.947639
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Longueil",
+        "lat": "48.9476393",
+        "lon": "2.1471193",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67ffb52740d65.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.147907,
+          48.947678
+        ]
+      },
+      "properties": {
+        "title": "Rue de Paris",
+        "lat": "48.9476777",
+        "lon": "2.1479068",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67ffae7ccb9c1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.539775,
+          48.976344
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "48.9763437",
+        "lon": "1.5397745",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67ffb5e802949.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.376075,
           48.670106
         ]

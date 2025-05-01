@@ -6,6 +6,113 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.948013,
+          45.30562
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Rafour",
+        "lat": "45.3056196",
+        "lon": "4.9480128",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680e00678f601.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.750725,
+          44.559411
+        ]
+      },
+      "properties": {
+        "title": "Place du Marche",
+        "lat": "44.5594107",
+        "lon": "4.7507247",
+        "type": "BSB",
+        "observation": "à côté restaurant  Le Ksar",
+        "picture": "https://delivrez.fr/public/posts/img.680a0e7704b70.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.471561,
+          46.248933
+        ]
+      },
+      "properties": {
+        "title": "Habère-Poche",
+        "lat": "46.2489329",
+        "lon": "6.4715608",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.67efd8236c43a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.122194,
+          45.939234
+        ]
+      },
+      "properties": {
+        "title": "Route d'Annecy",
+        "lat": "45.939234",
+        "lon": "6.1221936",
+        "type": "BSB",
+        "observation": "Située à l entrée du parking de la pharmacie.",
+        "picture": "https://delivrez.fr/public/posts/img.67d99bd9cfd6f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.597728,
+          44.554672
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "44.5546718",
+        "lon": "4.5977277",
+        "type": "BSB",
+        "observation": "sous un petit préau",
+        "picture": "https://delivrez.fr/public/posts/img.6804d657449ad.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7935,
+          46.35004
+        ]
+      },
+      "properties": {
+        "title": "Place de la République",
+        "lat": "46.3500398",
+        "lon": "3.7934999",
+        "type": "BSB",
+        "observation": "en face de l'Eglise",
+        "picture": "https://delivrez.fr/public/posts/img.67ee648325a8a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.033481,
           46.251413
         ]
@@ -409,23 +516,6 @@
         "lon": "4.8808676",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.67b1ac7909ab1.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.7935,
-          46.35004
-        ]
-      },
-      "properties": {
-        "title": "Place de la République",
-        "lat": "46.3500398",
-        "lon": "3.7934999",
-        "type": "BSB",
-        "observation": "en face de l'Eglise"
       }
     },
     {
@@ -7127,23 +7217,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.471584,
-          46.248955
-        ]
-      },
-      "properties": {
-        "title": "Place de l'Eglise",
-        "lat": "46.2489546",
-        "lon": "6.4715843",
-        "type": "BSB",
-        "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           4.909101,
           45.505697
         ]
@@ -11757,23 +11830,6 @@
         "lon": "3.7350296974182133",
         "type": "BSB",
         "observation": "INSTALLEE PAR LE LIONS CLUB AMBERT LIVRADOIS ET LA MUNICIPALITE D'AMBERT"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.121884,
-          45.939202
-        ]
-      },
-      "properties": {
-        "title": "100 route d Annecy",
-        "lat": "45.9392024",
-        "lon": "6.1218838",
-        "type": "BSB",
-        "observation": "Située à l entrée du parking de la pharmacie."
       }
     },
     {

@@ -6,6 +6,452 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.343044,
+          46.43599
+        ]
+      },
+      "properties": {
+        "title": "laverie place d'armes",
+        "lat": "46.4359903",
+        "lon": "5.343044",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.667217,
+          47.240846
+        ]
+      },
+      "properties": {
+        "title": "boîte à livre",
+        "lat": "47.2408461",
+        "lon": "5.6672174",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67fe243058230.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.615674,
+          47.858679
+        ]
+      },
+      "properties": {
+        "title": "boîte à livres",
+        "lat": "47.8586792",
+        "lon": "3.6156738",
+        "type": "BSB",
+        "observation": "à côté de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6804f1a5ee09b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.177011,
+          47.199916
+        ]
+      },
+      "properties": {
+        "title": "Rue Joseph Bruley",
+        "lat": "47.199916",
+        "lon": "4.1770106",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6801105a39a16.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.476145,
+          47.17577
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "47.1757701",
+        "lon": "5.4761448",
+        "type": "BSB",
+        "observation": "dans le tonneau",
+        "picture": "https://delivrez.fr/public/posts/img.67ff6a4fada2a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.377496,
+          47.820592
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Thermes",
+        "lat": "47.8205922",
+        "lon": "6.3774963",
+        "type": "BSB",
+        "observation": "parc des thermes",
+        "picture": "https://delivrez.fr/public/posts/img.67fbd6467f1f6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.385903,
+          47.863208
+        ]
+      },
+      "properties": {
+        "title": "D57E. sous l'abri bus",
+        "lat": "47.8632083",
+        "lon": "6.3859033",
+        "type": "BSB",
+        "observation": "à côté du récupérateur de bio déchets",
+        "picture": "https://delivrez.fr/public/posts/img.67fd0d6383d83.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.641513,
+          47.257915
+        ]
+      },
+      "properties": {
+        "title": "boîte à livre",
+        "lat": "47.2579151",
+        "lon": "5.6415134",
+        "type": "BSB",
+        "observation": "à côté de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.67fcd6cc1ee2e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.311248,
+          47.788595
+        ]
+      },
+      "properties": {
+        "title": "Gr Grande Rue Ste Marie en Chaux",
+        "lat": "47.7885955",
+        "lon": "6.3112478",
+        "type": "BSB",
+        "observation": "à côté de la mairie - sous le toit",
+        "picture": "https://delivrez.fr/public/posts/img.67fbba8346770.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.287048,
+          47.772074
+        ]
+      },
+      "properties": {
+        "title": "Rue du Faubourg",
+        "lat": "47.7720738",
+        "lon": "6.2870479",
+        "type": "BSB",
+        "observation": "fontaine à livres",
+        "picture": "https://delivrez.fr/public/posts/img.67fbb59eac60f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.586027,
+          47.449509
+        ]
+      },
+      "properties": {
+        "title": "Quai Mavia",
+        "lat": "47.4495091",
+        "lon": "5.5860267",
+        "type": "BSB",
+        "observation": "sur la Saône",
+        "picture": "https://delivrez.fr/public/posts/img.67fb7c579eb3d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.261803,
+          47.726195
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Forge - Mailleroncourt",
+        "lat": "47.7261953",
+        "lon": "6.2618034",
+        "type": "BSB",
+        "observation": "entre le pont et l'abreuvoir",
+        "picture": "https://delivrez.fr/public/posts/img.67fa8243678da.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.389655,
+          47.192913
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Pasteur",
+        "lat": "47.1929131",
+        "lon": "5.3896553",
+        "type": "BSB",
+        "observation": "à côté du cinéma l'Empire",
+        "picture": "https://delivrez.fr/public/posts/img.67f90334bc60b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.341671,
+          47.112023
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Europe La Perrière sur Saône",
+        "lat": "47.1120231",
+        "lon": "5.3416706",
+        "type": "BSB",
+        "observation": "dans. la guitoune à côté de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.67f8f570a60ab.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.968732,
+          47.66455
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Patis",
+        "lat": "47.6645503",
+        "lon": "5.9687321",
+        "type": "BSB",
+        "observation": "près du carrefour du monument aux morts",
+        "picture": "https://delivrez.fr/public/posts/img.67f8d8fe8486b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.224616,
+          47.126463
+        ]
+      },
+      "properties": {
+        "title": "Brazey en Plaine",
+        "lat": "47.1264632",
+        "lon": "5.2246159",
+        "type": "BSB",
+        "observation": "sous l'abri bus",
+        "picture": "https://delivrez.fr/public/posts/img.67f7c1b42b1be.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.008142,
+          47.270094
+        ]
+      },
+      "properties": {
+        "title": "boîte à livres",
+        "lat": "47.2700941",
+        "lon": "5.0081416",
+        "type": "BSB",
+        "observation": "à côté de l'arrêt de bus B 15",
+        "picture": "https://delivrez.fr/public/posts/img.67f686ceb6d19.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.970404,
+          47.225975
+        ]
+      },
+      "properties": {
+        "title": "Rue Richebourg",
+        "lat": "47.2259753",
+        "lon": "4.9704042",
+        "type": "BSB",
+        "observation": "devant le jardin pour enfants",
+        "picture": "https://delivrez.fr/public/posts/img.67f674ec82b47.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.035325,
+          47.926329
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "47.9263287",
+        "lon": "6.0353248",
+        "type": "BSB",
+        "observation": "au carrefour",
+        "picture": "https://delivrez.fr/public/posts/img.67f6247201b81.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.877765,
+          47.141536
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue  - Meuilley",
+        "lat": "47.1415363",
+        "lon": "4.877765",
+        "type": "BSB",
+        "observation": "devant le ProxiMarché",
+        "picture": "https://delivrez.fr/public/posts/img.67f52b82134d9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.843915,
+          47.139124
+        ]
+      },
+      "properties": {
+        "title": "Rue des Magniens Arcenant",
+        "lat": "47.1391244",
+        "lon": "4.8439155",
+        "type": "BSB",
+        "observation": "devant la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.67f52718ef30d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.695409,
+          47.147875
+        ]
+      },
+      "properties": {
+        "title": "D33 Thorey sur Ouche",
+        "lat": "47.1478746",
+        "lon": "4.6954088",
+        "type": "BSB",
+        "observation": "sous l'abri bus",
+        "picture": "https://delivrez.fr/public/posts/img.67f51dcd60c9c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.629449,
+          46.951251
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Liberté",
+        "lat": "46.9512507",
+        "lon": "4.6294494",
+        "type": "BSB",
+        "observation": "à côté des toilettes dans le parc de l'hôtel de ville à Nolay",
+        "picture": "https://delivrez.fr/public/posts/img.67efc97a890aa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.13946,
+          46.69349
+        ]
+      },
+      "properties": {
+        "title": "VIVAL TOULON SUR ARROUX",
+        "lat": "46.69349",
+        "lon": "4.13946",
+        "type": "BSB",
+        "observation": "Little Free Library",
+        "picture": "https://delivrez.fr/public/posts/img.67ee7c037ad83.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.861785,
+          47.490031
+        ]
+      },
+      "properties": {
+        "title": "Route de Vézelay",
+        "lat": "47.4900311",
+        "lon": "3.8617847",
+        "type": "BSB",
+        "observation": "dans le square derrière l'église",
+        "picture": "https://delivrez.fr/public/posts/img.67eaa4036153c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.744171,
           46.98621
         ]
@@ -554,23 +1000,6 @@
         "lon": "3.2047621",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.66c89361c205b.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.667315,
-          47.24093
-        ]
-      },
-      "properties": {
-        "title": "Grande Rue",
-        "lat": "47.2409296",
-        "lon": "5.6673153",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.669298adb5c25.png"
       }
     },
     {
@@ -1751,23 +2180,6 @@
         "lon": "4.4827742",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.64e35d3057c03.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.431032,
-          46.806874
-        ]
-      },
-      "properties": {
-        "title": "Avenue François Mitterrand",
-        "lat": "46.8068739",
-        "lon": "4.4310321",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.64e321e4c6e7c.png"
       }
     },
     {
@@ -4113,23 +4525,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.00707,
-          47.270815
-        ]
-      },
-      "properties": {
-        "title": "Cours des Petites Loueres",
-        "lat": "47.270815",
-        "lon": "5.0070696",
-        "type": "BSB",
-        "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5.9387,
           46.758792
         ]
@@ -4878,23 +5273,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.13946,
-          46.69349
-        ]
-      },
-      "properties": {
-        "title": "VIVAL TOULON SUR ARROUX",
-        "lat": "46.69349",
-        "lon": "4.13946",
-        "type": "BSB",
-        "observation": "Little Free Library"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.77823,
           46.53803
         ]
@@ -5595,23 +5973,6 @@
         "lat": "47.8123909",
         "lon": "6.3804544",
         "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.376834,
-          47.820215
-        ]
-      },
-      "properties": {
-        "title": "Thermes",
-        "lat": "47.820214893508044",
-        "lon": "6.376833915710449",
-        "type": "BSB",
-        "observation": "Boîte à Lire dans le parc thermal"
       }
     },
     {

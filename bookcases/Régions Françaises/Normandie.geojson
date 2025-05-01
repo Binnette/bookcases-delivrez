@@ -6,6 +6,262 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.225968,
+          49.378979
+        ]
+      },
+      "properties": {
+        "title": "Rue des Mannevilles",
+        "lat": "49.378979",
+        "lon": "-1.225968",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680bab5b88713.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.240031,
+          49.30651
+        ]
+      },
+      "properties": {
+        "title": "Rue de Caligny",
+        "lat": "49.3065103",
+        "lon": "-1.2400308",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680b7daf34f11.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.567916,
+          48.77563
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Casino",
+        "lat": "48.7756299",
+        "lon": "-1.5679162",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680cf4775ec1e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.23222,
+          49.672608
+        ]
+      },
+      "properties": {
+        "title": "Rue du Village",
+        "lat": "49.6726076",
+        "lon": "0.2322197",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680bc08d4ace7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.785092,
+          49.721105
+        ]
+      },
+      "properties": {
+        "title": "Place Général de Gaulle",
+        "lat": "49.7211051",
+        "lon": "0.7850915",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68079014d5de8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.230798,
+          49.41691
+        ]
+      },
+      "properties": {
+        "title": "Place Albert Sorel",
+        "lat": "49.4169096",
+        "lon": "0.2307984",
+        "type": "BSB",
+        "observation": "Elle est rue de la République  la grande rue qui aboutit au port  sur la droite en allant vers le port.",
+        "picture": "https://delivrez.fr/public/posts/img.67ff88a4e16d9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.722286,
+          49.75575
+        ]
+      },
+      "properties": {
+        "title": "Route des Hameaux",
+        "lat": "49.7557502",
+        "lon": "0.7222855",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68077fd441ad0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.269494,
+          49.642706
+        ]
+      },
+      "properties": {
+        "title": "Villainville",
+        "lat": "49.6427063",
+        "lon": "0.2694943",
+        "type": "BSB",
+        "observation": "a côté de la salle des fêtes",
+        "picture": "https://delivrez.fr/public/posts/img.67f3e84eb97b8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.402559,
+          49.832272
+        ]
+      },
+      "properties": {
+        "title": "Rue du Presbytère",
+        "lat": "49.8322723",
+        "lon": "1.4025595",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6804bd2d507db.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.233142,
+          49.42298
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Charles V",
+        "lat": "49.4229798",
+        "lon": "0.233142",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67ffb373e328d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.157202,
+          49.253697
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Libération",
+        "lat": "49.2536968",
+        "lon": "-0.1572019",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67ff78f8b23da.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.237904,
+          49.681354
+        ]
+      },
+      "properties": {
+        "title": "Villainville parc de jeux",
+        "lat": "49.6813539",
+        "lon": "0.2379044",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.134172,
+          49.880338
+        ]
+      },
+      "properties": {
+        "title": "Place de la Gare",
+        "lat": "49.8803376",
+        "lon": "1.1341718",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67efc27f62bf1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.639458,
+          49.786981
+        ]
+      },
+      "properties": {
+        "title": "Rue du Huit Mai 1945",
+        "lat": "49.786981",
+        "lon": "0.6394576",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67ee960532643.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.637952,
+          49.78681
+        ]
+      },
+      "properties": {
+        "title": "Place Robert Gabel",
+        "lat": "49.7868101",
+        "lon": "0.6379517",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67ee97e6d92bd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.112757,
           49.479381
         ]
@@ -8134,23 +8390,6 @@
         "lon": "0.1355359",
         "type": "BSB",
         "observation": "Elle se trouve dans le hall d'entrée de la clinique des ormeaux  à droite  à disposition de tous  résidents ou non."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.230756,
-          49.416892
-        ]
-      },
-      "properties": {
-        "title": "rue de la république",
-        "lat": "49.41689229800882",
-        "lon": "0.2307558059692383",
-        "type": "BSB",
-        "observation": "Elle est rue de la République  la grande rue qui aboutit au port  sur la droite en allant vers le port."
       }
     },
     {

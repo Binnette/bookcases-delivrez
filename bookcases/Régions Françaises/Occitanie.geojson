@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.108865,
+          43.803168
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Peyral",
+        "lat": "43.8031676",
+        "lon": "3.1088647",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680fa064bdf21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.607156,
+          43.422502
+        ]
+      },
+      "properties": {
+        "title": "Quai Baptiste Guitard",
+        "lat": "43.4225019",
+        "lon": "3.6071556",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67f7dc90e65b9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.74328,
           42.493732
         ]

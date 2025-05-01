@@ -6,6 +6,161 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.638685,
+          50.247427
+        ]
+      },
+      "properties": {
+        "title": "Rue du Maréchal Joffre",
+        "lat": "50.2474266",
+        "lon": "3.6386845",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6810bcc185561.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.080289,
+          50.367683
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "50.367683",
+        "lon": "3.0802894",
+        "type": "BSB",
+        "observation": "Située sous porche de Douai mairie du beffroi.",
+        "picture": "https://delivrez.fr/public/posts/img.680e57ad73a27.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.078516,
+          50.373115
+        ]
+      },
+      "properties": {
+        "title": "Promenade des Bénédictins anglais",
+        "lat": "50.3731147",
+        "lon": "3.0785156",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680e5b06cf2b9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.162955,
+          50.262123
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Simon Dumont",
+        "lat": "50.2621234",
+        "lon": "3.1629547",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680c8632da8cf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.483243,
+          50.563151
+        ]
+      },
+      "properties": {
+        "title": "Résidence les Sycomores",
+        "lat": "50.5631514",
+        "lon": "2.4832427",
+        "type": "BSB",
+        "observation": "2ieme boîte à livre face au bâtiment F",
+        "picture": "https://delivrez.fr/public/posts/img.67acceed2a8d8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.56004,
+          50.514998
+        ]
+      },
+      "properties": {
+        "title": "Rue Léon Blum",
+        "lat": "50.5149976",
+        "lon": "2.5600397",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680798de59d0a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.564144,
+          50.522179
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Jaurès",
+        "lat": "50.5221786",
+        "lon": "2.5641441",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68079704f0a69.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.385424,
+          50.066043
+        ]
+      },
+      "properties": {
+        "title": "Avenue du 18 Juin 1940",
+        "lat": "50.0660431",
+        "lon": "1.385424",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68050857d3f8f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.472496,
+          50.508392
+        ]
+      },
+      "properties": {
+        "title": "Rue Raoul Briquet",
+        "lat": "50.508392",
+        "lon": "2.4724956",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67fa97e96823c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.48839,
           50.474628
         ]
@@ -8939,23 +9094,6 @@
         "lon": "3.1919679",
         "type": "BSB",
         "observation": "La boite à lire se situe à l'entrée de l'église Saint Michel. "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.080378,
-          50.367478
-        ]
-      },
-      "properties": {
-        "title": "83 Rue de la Mairie",
-        "lat": "50.3674776",
-        "lon": "3.0803782",
-        "type": "BSB",
-        "observation": "Située sous porche de Douai mairie du beffroi."
       }
     },
     {

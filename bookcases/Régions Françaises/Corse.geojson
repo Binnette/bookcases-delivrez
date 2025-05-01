@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.759019,
+          42.567786
+        ]
+      },
+      "properties": {
+        "title": "Aire de jeux monument C. Colomb",
+        "lat": "42.5677864",
+        "lon": "8.7590186",
+        "type": "BSB",
+        "observation": "Dans une cabine téléphonique",
+        "picture": "https://delivrez.fr/public/posts/img.67fb576eef6fa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.44174,
           42.66625
         ]

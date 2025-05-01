@@ -6,6 +6,270 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.3924,
+          47.161787
+        ]
+      },
+      "properties": {
+        "title": "Rue des Encloses",
+        "lat": "47.1617867",
+        "lon": "-1.3924",
+        "type": "BSB",
+        "observation": "sur le parking de la gare",
+        "picture": "https://delivrez.fr/public/posts/img.6804c382c83f9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.465443,
+          47.174905
+        ]
+      },
+      "properties": {
+        "title": "Rue du Bignonnet",
+        "lat": "47.1749052",
+        "lon": "-1.4654426",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6804b84d7e1b7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.290858,
+          48.352699
+        ]
+      },
+      "properties": {
+        "title": "D202",
+        "lat": "48.3526993",
+        "lon": "0.290858",
+        "type": "BSB",
+        "observation": "à la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.680220b72b1d1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.231973,
+          48.31496
+        ]
+      },
+      "properties": {
+        "title": "Place Saint Malo",
+        "lat": "48.3149601",
+        "lon": "0.2319729",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68021dfb5bfee.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.346662,
+          48.355508
+        ]
+      },
+      "properties": {
+        "title": "Place Saint-Pierre",
+        "lat": "48.3555083",
+        "lon": "0.3466625",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68021a1f6036e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.245811,
+          48.376635
+        ]
+      },
+      "properties": {
+        "title": "Place Maxime Boisseau",
+        "lat": "48.3766355",
+        "lon": "0.2458114",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67fd03090fcd6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.647765,
+          47.192941
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Port",
+        "lat": "47.1929414",
+        "lon": "-1.6477654",
+        "type": "BSB",
+        "observation": "a côté des jardins potagers",
+        "picture": "https://delivrez.fr/public/posts/img.67fbd87208ea6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.570841,
+          47.209385
+        ]
+      },
+      "properties": {
+        "title": "Rue de Gigant",
+        "lat": "47.209385",
+        "lon": "-1.5708412",
+        "type": "BSB",
+        "observation": "dans le square",
+        "picture": "https://delivrez.fr/public/posts/img.67fa9a6295a50.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.179265,
+          47.717549
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "47.7175491",
+        "lon": "-1.179265",
+        "type": "BSB",
+        "observation": "a la bibliothèque",
+        "picture": "https://delivrez.fr/public/posts/img.67f949f1668f4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.907646,
+          47.949372
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Motte",
+        "lat": "47.9493719",
+        "lon": "-0.9076458",
+        "type": "BSB",
+        "observation": "dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.67f952640ebac.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.239169,
+          47.485104
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "47.4851035",
+        "lon": "-1.2391693",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.67f93cfb536ae.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.466979,
+          47.24082
+        ]
+      },
+      "properties": {
+        "title": "Allée Robert Cheval",
+        "lat": "47.24082",
+        "lon": "-1.466979",
+        "type": "BSB",
+        "observation": "dans la guinguette",
+        "picture": "https://delivrez.fr/public/posts/img.67f929970d479.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.445983,
+          47.782939
+        ]
+      },
+      "properties": {
+        "title": "Vival",
+        "lat": "47.7829386",
+        "lon": "-1.4459829",
+        "type": "BSB",
+        "observation": "devant le magasin Vival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.037706,
+          47.561257
+        ]
+      },
+      "properties": {
+        "title": "Rue Brossays du Perray",
+        "lat": "47.5612567",
+        "lon": "-1.0377063",
+        "type": "BSB",
+        "observation": "place du marché",
+        "picture": "https://delivrez.fr/public/posts/img.67f005d0edbce.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.228945,
+          47.431283
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Vieille Cour",
+        "lat": "47.4312826",
+        "lon": "-1.2289454",
+        "type": "BSB",
+        "observation": "dans le super U",
+        "picture": "https://delivrez.fr/public/posts/img.67efff71b26e5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.968118,
           47.38979
         ]
@@ -4515,23 +4779,6 @@
         "lon": "-1.5096641",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.649fe17838b90.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.465443,
-          47.174905
-        ]
-      },
-      "properties": {
-        "title": "Rue du Bignonnet",
-        "lat": "47.1749052",
-        "lon": "-1.4654426",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.649fdf60c7d8b.png"
       }
     },
     {

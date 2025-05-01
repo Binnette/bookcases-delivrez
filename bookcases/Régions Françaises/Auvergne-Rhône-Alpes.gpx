@@ -1,5 +1,65 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.30562" lon="4.948013">
+    <name>Chemin du Rafour</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.559411" lon="4.750725">
+    <name>Place du Marche</name>
+    <desc>à côté restaurant  Le Ksar</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.248933" lon="6.471561">
+    <name>Habère-Poche</name>
+    <desc>_</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.939234" lon="6.122194">
+    <name>Route d'Annecy</name>
+    <desc>Située à l entrée du parking de la pharmacie.</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.554672" lon="4.597728">
+    <name>Place de la Mairie</name>
+    <desc>sous un petit préau</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.35004" lon="3.7935">
+    <name>Place de la République</name>
+    <desc>en face de l'Eglise</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.251413" lon="6.033481">
     <name>square jean jacques Rousseau</name>
     <desc></desc>
@@ -233,16 +293,6 @@
   <wpt lat="45.768855" lon="4.880868">
     <name>Cours Émile-Zola Square Léon Meiss</name>
     <desc></desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.35004" lon="3.7935">
-    <name>Place de la République</name>
-    <desc>en face de l'Eglise</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>
@@ -4091,16 +4141,6 @@ Recyclée d'abord en bar, aujourd'hui, elle</desc>
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.248955" lon="6.471584">
-    <name>Place de l'Eglise</name>
-    <desc>_</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.505697" lon="4.909101">
     <name>Route de Berardier</name>
     <desc>Devant le Vival</desc>
@@ -6824,16 +6864,6 @@ Recyclée d'abord en bar, aujourd'hui, elle</desc>
   <wpt lat="45.54949" lon="3.73503">
     <name>LA GARE</name>
     <desc>INSTALLEE PAR LE LIONS CLUB AMBERT LIVRADOIS ET LA MUNICIPALITE D'AMBERT</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.939202" lon="6.121884">
-    <name>100 route d Annecy</name>
-    <desc>Située à l entrée du parking de la pharmacie.</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

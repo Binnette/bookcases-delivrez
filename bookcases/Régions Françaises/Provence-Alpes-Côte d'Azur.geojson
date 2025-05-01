@@ -6,6 +6,72 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.016869,
+          44.118795
+        ]
+      },
+      "properties": {
+        "title": "Impasse Lou Calamel",
+        "lat": "44.1187949",
+        "lon": "5.0168689",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680e0d9806254.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.963796,
+          44.538105
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Château",
+        "lat": "44.538105",
+        "lon": "5.9637956",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.680659496f991.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.016192,
+          44.516327
+        ]
+      },
+      "properties": {
+        "title": "boîte à livres",
+        "lat": "44.5163267",
+        "lon": "6.0161924",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.601426,
+          44.868953
+        ]
+      },
+      "properties": {
+        "title": "Clos du Vas",
+        "lat": "44.8689527",
+        "lon": "6.6014259",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.964722,
           43.833527
         ]

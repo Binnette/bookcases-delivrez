@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.976811,
+          44.477446
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "44.4774465",
+        "lon": "5.9768111",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.6806461719a2d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.012644,
           44.111095
         ]
