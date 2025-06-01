@@ -6,6 +6,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.034192,
+          47.361806
+        ]
+      },
+      "properties": {
+        "title": "Route du Marillais",
+        "lat": "47.3618062",
+        "lon": "-1.0341918",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683a11e8eb642.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.287777,
+          47.346529
+        ]
+      },
+      "properties": {
+        "title": "Rue de Vieille Cour",
+        "lat": "47.3465293",
+        "lon": "-1.287777",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6831f7c9d8ca7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54362,
+          47.230625
+        ]
+      },
+      "properties": {
+        "title": "Rue du Coudray",
+        "lat": "47.2306249",
+        "lon": "-1.5436198",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.681cdca21112a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.503334,
+          47.200734
+        ]
+      },
+      "properties": {
+        "title": "Rue des berlaguts",
+        "lat": "47.2007344",
+        "lon": "-1.503334",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68239d6704d90.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.458623,
+          47.230772
+        ]
+      },
+      "properties": {
+        "title": "Rue des Vallées",
+        "lat": "47.2307717",
+        "lon": "-1.4586233",
+        "type": "BSB",
+        "observation": "a côté de l'abri du car",
+        "picture": "https://delivrez.fr/public/posts/img.681cb642ead59.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.045718,
+          47.260673
+        ]
+      },
+      "properties": {
+        "title": "Rue Foch",
+        "lat": "47.2606728",
+        "lon": "-1.0457177",
+        "type": "BSB",
+        "observation": "a la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6819a268b2190.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.3924,
           47.161787
         ]
@@ -637,24 +742,6 @@
         "type": "BSB",
         "observation": "devant le centre social",
         "picture": "https://delivrez.fr/public/posts/img.67bafc031fc45.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.54349,
-          47.230763
-        ]
-      },
-      "properties": {
-        "title": "Avenue Camille Guérin",
-        "lat": "47.2307631",
-        "lon": "-1.5434904",
-        "type": "BSB",
-        "observation": "_",
-        "picture": "https://delivrez.fr/public/posts/img.67b1f47670d95.png"
       }
     },
     {

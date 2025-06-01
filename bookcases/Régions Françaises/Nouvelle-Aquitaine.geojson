@@ -6,6 +6,197 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.724813,
+          44.80375
+        ]
+      },
+      "properties": {
+        "title": "Rue Yvon Dumain",
+        "lat": "44.8037503",
+        "lon": "0.724813",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683b14519079d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.591855,
+          44.87781
+        ]
+      },
+      "properties": {
+        "title": "La Junie",
+        "lat": "44.8778104",
+        "lon": "0.5918547",
+        "type": "BSB",
+        "observation": "prendre le chemin à pied suite à l'impasse",
+        "picture": "https://delivrez.fr/public/posts/img.6839635f6f700.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.287912,
+          45.847168
+        ]
+      },
+      "properties": {
+        "title": "Cr Marchande",
+        "lat": "45.8471677",
+        "lon": "0.2879118",
+        "type": "BSB",
+        "observation": "Juste à côté de la maison de santé",
+        "picture": "https://delivrez.fr/public/posts/img.6837328c981d4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.585203,
+          44.86898
+        ]
+      },
+      "properties": {
+        "title": "Route de Terrefort",
+        "lat": "44.8689803",
+        "lon": "0.5852029",
+        "type": "BSB",
+        "observation": "Ecole"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.181583,
+          45.689468
+        ]
+      },
+      "properties": {
+        "title": "Les Tremières",
+        "lat": "45.6894676",
+        "lon": "-1.1815829",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6829a6cd93407.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.362504,
+          45.263336
+        ]
+      },
+      "properties": {
+        "title": "Place de la Liberté",
+        "lat": "45.263336",
+        "lon": "0.3625044",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6828e5f11d977.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.621782,
+          44.857853
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Maréchal de Lattre de Tassigny",
+        "lat": "44.8578533",
+        "lon": "-0.6217822",
+        "type": "BSB",
+        "observation": "Au niveau de l'arrêt de tram \"Stade Stéhélin\"",
+        "picture": "https://delivrez.fr/public/posts/img.681de31208687.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.60092,
+          45.053842
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg-Sud",
+        "lat": "45.0538418",
+        "lon": "-0.6009197",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.682125,
+          44.925796
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "44.925796",
+        "lon": "0.6821254",
+        "type": "BSB",
+        "observation": "sous le grand porche de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.681a30e3d93ea.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.507434,
+          45.850761
+        ]
+      },
+      "properties": {
+        "title": "Place de L’Eglise",
+        "lat": "45.8507606",
+        "lon": "0.5074336",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.681371160ce25.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.496495,
+          44.848244
+        ]
+      },
+      "properties": {
+        "title": "Avenue de l'Île de France",
+        "lat": "44.8482435",
+        "lon": "-0.496495",
+        "type": "BSB",
+        "observation": "Devant l'école Joséphine Baker",
+        "picture": "https://delivrez.fr/public/posts/img.681240cfe916a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.019828,
           45.367639
         ]

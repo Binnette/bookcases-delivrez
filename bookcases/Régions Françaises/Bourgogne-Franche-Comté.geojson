@@ -6,6 +6,178 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.647315,
+          47.691125
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Belle Fontaine",
+        "lat": "47.6911245",
+        "lon": "6.6473152",
+        "type": "BSB",
+        "observation": "sur le parking",
+        "picture": "https://delivrez.fr/public/posts/img.6835817a100aa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.33513,
+          47.014843
+        ]
+      },
+      "properties": {
+        "title": "Rue despa e gil ert hrillote L’Eglise",
+        "lat": "47.0148433",
+        "lon": "4.3351296",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683566d833021.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.152945,
+          47.171365
+        ]
+      },
+      "properties": {
+        "title": "salle des fêtes",
+        "lat": "47.1713652",
+        "lon": "4.1529446",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683576b9c0fa4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.787897,
+          47.177495
+        ]
+      },
+      "properties": {
+        "title": "Montreuillon",
+        "lat": "47.177495",
+        "lon": "3.7878967",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6829a9a92f0a5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.923788,
+          47.557287
+        ]
+      },
+      "properties": {
+        "title": "Rue de Delle",
+        "lat": "47.5572867",
+        "lon": "6.9237883",
+        "type": "BSB",
+        "observation": "bourogne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.590293,
+          47.012858
+        ]
+      },
+      "properties": {
+        "title": "Rue du Chateau",
+        "lat": "47.0128576",
+        "lon": "4.5902932",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6829ac9a83cf9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.011869,
+          47.106304
+        ]
+      },
+      "properties": {
+        "title": "Lavault",
+        "lat": "47.1063035",
+        "lon": "4.0118685",
+        "type": "BSB",
+        "observation": "vers la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.68148f5f9b969.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.029964,
+          46.461492
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Croix de la Teppe",
+        "lat": "46.4614916",
+        "lon": "6.0299637",
+        "type": "BSB",
+        "observation": "paupotte",
+        "picture": "https://delivrez.fr/public/posts/img.681711b53c05c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.662873,
+          46.43404
+        ]
+      },
+      "properties": {
+        "title": "Rue Porte de Paris",
+        "lat": "46.4340402",
+        "lon": "4.662873",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.093316,
+          46.980584
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "46.9805837",
+        "lon": "3.0933156",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68147431e1322.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.343044,
           46.43599
         ]

@@ -6,6 +6,108 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.010014,
+          43.20968
+        ]
+      },
+      "properties": {
+        "title": "Rue de Bigorre",
+        "lat": "43.2096795",
+        "lon": "-0.0100137",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68381b015890c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.52759,
+          43.359122
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Anatole France",
+        "lat": "43.3591217",
+        "lon": "3.52759",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683341ef4b12e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.323772,
+          43.521203
+        ]
+      },
+      "properties": {
+        "title": "église de Neffiès",
+        "lat": "43.5212033",
+        "lon": "3.3237717",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6832ec1e1e7d2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.091694,
+          44.294941
+        ]
+      },
+      "properties": {
+        "title": "Rue Gambetta",
+        "lat": "44.2949405",
+        "lon": "4.0916937",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.682994583dbad.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.004073,
+          42.616143
+        ]
+      },
+      "properties": {
+        "title": "Place des Évadés de France",
+        "lat": "42.6161432",
+        "lon": "3.0040728",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.681f6939aaee7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.524864,
+          43.288415
+        ]
+      },
+      "properties": {
+        "title": "Parking du Rouergue",
+        "lat": "43.2884147",
+        "lon": "3.5248638",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68136fb6021b7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.108865,
           43.803168
         ]

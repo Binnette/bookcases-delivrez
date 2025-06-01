@@ -6,6 +6,233 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.640259,
+          48.336729
+        ]
+      },
+      "properties": {
+        "title": "boite à livre",
+        "lat": "48.3367289",
+        "lon": "-3.6402594",
+        "type": "BSB",
+        "observation": "dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.6834416ac4f19.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.915407,
+          48.383475
+        ]
+      },
+      "properties": {
+        "title": "boite a livres",
+        "lat": "48.3834748",
+        "lon": "-3.9154074",
+        "type": "BSB",
+        "observation": "a côté de la boulangerie",
+        "picture": "https://delivrez.fr/public/posts/img.6831b47889bdf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.128361,
+          48.545839
+        ]
+      },
+      "properties": {
+        "title": "Rue Kergillouard",
+        "lat": "48.5458395",
+        "lon": "-3.1283608",
+        "type": "BSB",
+        "observation": "sur air camping car",
+        "picture": "https://delivrez.fr/public/posts/img.68307f2a461af.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.503808,
+          48.718813
+        ]
+      },
+      "properties": {
+        "title": "Rue des Écoles",
+        "lat": "48.7188126",
+        "lon": "-3.5038083",
+        "type": "BSB",
+        "observation": "près de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.682f020648327.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.489658,
+          48.745812
+        ]
+      },
+      "properties": {
+        "title": "Rue du Calvaire",
+        "lat": "48.7458119",
+        "lon": "-3.4896577",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.682eedbc25a04.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.575614,
+          48.800362
+        ]
+      },
+      "properties": {
+        "title": "Rue des Îles",
+        "lat": "48.8003619",
+        "lon": "-3.5756142",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.682db9fc336a9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91855,
+          47.870789
+        ]
+      },
+      "properties": {
+        "title": "Place de L Hôtel de ville",
+        "lat": "47.870789",
+        "lon": "-3.9185503",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6829c3e93af0d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.371888,
+          48.808023
+        ]
+      },
+      "properties": {
+        "title": "Place d'Aiguilles",
+        "lat": "48.8080227",
+        "lon": "-3.3718883",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68286b1dc9aef.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.543759,
+          47.87657
+        ]
+      },
+      "properties": {
+        "title": "Place Guthiern",
+        "lat": "47.87657",
+        "lon": "-3.5437587",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.681a3f59335b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16825,
+          48.480672
+        ]
+      },
+      "properties": {
+        "title": "Rue du Val Guillaume",
+        "lat": "48.4806724",
+        "lon": "-2.1682498",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6818d56699688.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.457031,
+          48.751836
+        ]
+      },
+      "properties": {
+        "title": "Route de Perros Guirec",
+        "lat": "48.7518362",
+        "lon": "-3.4570305",
+        "type": "BSB",
+        "observation": "dans le magasin Leclerc en face des caisses",
+        "picture": "https://delivrez.fr/public/posts/img.68188c6ed2288.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.522006,
+          47.900195
+        ]
+      },
+      "properties": {
+        "title": "Rue du Moulin d'Or",
+        "lat": "47.900195",
+        "lon": "-3.5220064",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.681648eaa0657.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.26323,
+          48.46602
+        ]
+      },
+      "properties": {
+        "title": "boite de Leclerc",
+        "lat": "48.4660198",
+        "lon": "-4.2632296",
+        "type": "BSB",
+        "observation": "sur le parking du Leclerc",
+        "picture": "https://delivrez.fr/public/posts/img.681485a179a89.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.978211,
           48.681376
         ]

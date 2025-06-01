@@ -6,6 +6,263 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.751199,
+          44.642611
+        ]
+      },
+      "properties": {
+        "title": "D86",
+        "lat": "44.6426109",
+        "lon": "4.7511991",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6839be19b872f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.419585,
+          45.821208
+        ]
+      },
+      "properties": {
+        "title": "Rue du Rhône",
+        "lat": "45.8212082",
+        "lon": "5.4195849",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683421121ccae.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1836,
+          45.630894
+        ]
+      },
+      "properties": {
+        "title": "Rue Guyot Dessaigne",
+        "lat": "45.6308944",
+        "lon": "3.1836003",
+        "type": "BSB",
+        "observation": "boite à livres et jeux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.150152,
+          46.1546
+        ]
+      },
+      "properties": {
+        "title": "Route du Mont",
+        "lat": "46.1546002",
+        "lon": "4.1501521",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68287b50032d9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.142032,
+          46.156873
+        ]
+      },
+      "properties": {
+        "title": "Montée de la Girouette",
+        "lat": "46.156873",
+        "lon": "4.1420322",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68287a26ecbfc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.311672,
+          45.331166
+        ]
+      },
+      "properties": {
+        "title": "Place des Champagnes",
+        "lat": "45.3311657",
+        "lon": "6.3116722",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6825b306d8c14.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.087244,
+          45.120793
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Allards",
+        "lat": "45.1207929",
+        "lon": "4.0872444",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6824673f662eb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80486,
+          45.259323
+        ]
+      },
+      "properties": {
+        "title": "Refuge à livres",
+        "lat": "45.2593231",
+        "lon": "6.8048601",
+        "type": "BSB",
+        "observation": "situé en façade du Musée d'Archéologie de Sollières-Envers",
+        "picture": "https://delivrez.fr/public/posts/img.6821b48f0ea39.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.932868,
+          46.032721
+        ]
+      },
+      "properties": {
+        "title": "Chemin Rural de la Gare au Pont Claret",
+        "lat": "46.0327213",
+        "lon": "6.9328677",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6819bbd305c39.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.720161,
+          44.489712
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Source",
+        "lat": "44.4897123",
+        "lon": "4.720161",
+        "type": "BSB",
+        "observation": "Dans le magasin super U à droite en rentrant",
+        "picture": "https://delivrez.fr/public/posts/img.6814df139bb37.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.853271,
+          44.477275
+        ]
+      },
+      "properties": {
+        "title": "Place Saint Paulin",
+        "lat": "44.4772752",
+        "lon": "4.8532707",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6814efa8dc3f8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.752385,
+          44.486314
+        ]
+      },
+      "properties": {
+        "title": "Place des Cedres",
+        "lat": "44.4863142",
+        "lon": "4.7523848",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6814e303c6aec.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.696506,
+          44.575551
+        ]
+      },
+      "properties": {
+        "title": "Rochemaure. La Blache",
+        "lat": "44.575551",
+        "lon": "4.6965057",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6814d18dc027b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.311718,
+          46.406093
+        ]
+      },
+      "properties": {
+        "title": "D33",
+        "lat": "46.4060932",
+        "lon": "3.3117179",
+        "type": "BSB",
+        "observation": "place à côté des pompiers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.118006,
+          46.658247
+        ]
+      },
+      "properties": {
+        "title": "Route de Limoise",
+        "lat": "46.658247",
+        "lon": "3.1180064",
+        "type": "BSB",
+        "observation": "devant l'école"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.948013,
           45.30562
         ]
@@ -8587,23 +8844,6 @@
         "lon": "4.7793375",
         "type": "BSB",
         "observation": "boite à livres"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.720127,
-          44.489682
-        ]
-      },
-      "properties": {
-        "title": "Lotissement le Verger",
-        "lat": "44.489682",
-        "lon": "4.7201274",
-        "type": "BSB",
-        "observation": "Dans le magasin super U à droite en rentrant"
       }
     },
     {

@@ -6,6 +6,73 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.278847,
+          47.953248
+        ]
+      },
+      "properties": {
+        "title": "D136",
+        "lat": "47.9532477",
+        "lon": "1.2788474",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683b56f4689de.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.23908,
+          47.956964
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Gare",
+        "lat": "47.9569641",
+        "lon": "1.23908",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683b53c5a7619.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.237163,
+          47.997607
+        ]
+      },
+      "properties": {
+        "title": "Place Chanzy",
+        "lat": "47.9976069",
+        "lon": "1.2371632",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.448969,
+          47.15657
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livres",
+        "lat": "47.1565699",
+        "lon": "0.4489692",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.681c70d57fa64.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.511358,
           47.780193
         ]

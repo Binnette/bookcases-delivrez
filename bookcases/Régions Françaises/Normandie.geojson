@@ -6,6 +6,213 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.299494,
+          49.61862
+        ]
+      },
+      "properties": {
+        "title": "boite à livre",
+        "lat": "49.61862",
+        "lon": "-1.2994939",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68397b4fa0589.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.413484,
+          50.014812
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Chapelle",
+        "lat": "50.0148121",
+        "lon": "1.4134836",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683315784f863.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.409448,
+          49.694312
+        ]
+      },
+      "properties": {
+        "title": "boîte à livres",
+        "lat": "49.6943116",
+        "lon": "-1.4094484",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6829f7199edcf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.250063,
+          49.285175
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Boivin Champeaux",
+        "lat": "49.285175",
+        "lon": "-0.2500635",
+        "type": "BSB",
+        "observation": "beaucoup de livres mais assez anciens propre",
+        "picture": "https://delivrez.fr/public/posts/img.6829a70fef76c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.665543,
+          49.823075
+        ]
+      },
+      "properties": {
+        "title": "ancienne cabine téléphonique",
+        "lat": "49.8230749",
+        "lon": "0.6655434",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6823cb74a8f29.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.497717,
+          50.016068
+        ]
+      },
+      "properties": {
+        "title": "Rue Jules Verne",
+        "lat": "50.0160683",
+        "lon": "1.4977167",
+        "type": "BSB",
+        "observation": "Little Free Library",
+        "picture": "https://delivrez.fr/public/posts/img.681cd3a4510e5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.084218,
+          49.931856
+        ]
+      },
+      "properties": {
+        "title": "Cultivons le goût de lire",
+        "lat": "49.9318556",
+        "lon": "1.0842184",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68238190660fd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.662112,
+          49.837167
+        ]
+      },
+      "properties": {
+        "title": "ancienne cabine téléphonique",
+        "lat": "49.8371667",
+        "lon": "0.6621117",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.681e0793d68fc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.395604,
+          50.009328
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Croix de Pierre",
+        "lat": "50.0093283",
+        "lon": "1.3956044",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.681fa4d834844.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.447828,
+          49.682129
+        ]
+      },
+      "properties": {
+        "title": "La Vallée des Moulins",
+        "lat": "49.6821287",
+        "lon": "-1.4478282",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.681bb1f0272b7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.111603,
+          49.495447
+        ]
+      },
+      "properties": {
+        "title": "Boîte aux livres Coty",
+        "lat": "49.4954475",
+        "lon": "0.1116028",
+        "type": "BSB",
+        "observation": "À l'étage près de la salle de sport, juste en face des escalators",
+        "picture": "https://delivrez.fr/public/posts/img.681a34ddd824a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.259495,
+          49.672609
+        ]
+      },
+      "properties": {
+        "title": "Quai Henri Chardon",
+        "lat": "49.6726086",
+        "lon": "-1.2594951",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6818e04285e55.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.225968,
           49.378979
         ]
@@ -4058,23 +4265,6 @@
         "title": "VIVAL HARFLEUR",
         "lat": "49.50890",
         "lon": "0.18973",
-        "type": "BSB",
-        "observation": "Little Free Library"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.49763,
-          50.01622
-        ]
-      },
-      "properties": {
-        "title": "VIVAL INCHEVILLE",
-        "lat": "50.01622",
-        "lon": "1.49763",
         "type": "BSB",
         "observation": "Little Free Library"
       }

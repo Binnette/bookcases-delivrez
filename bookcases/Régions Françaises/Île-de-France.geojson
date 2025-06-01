@@ -6,6 +6,73 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.973732,
+          48.874236
+        ]
+      },
+      "properties": {
+        "title": "Eglise feucherolles",
+        "lat": "48.8742361",
+        "lon": "1.9737321",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6831d8b48f958.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.987144,
+          48.826545
+        ]
+      },
+      "properties": {
+        "title": "rue Massenet",
+        "lat": "48.826545",
+        "lon": "1.9871436",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.682c24e32f1ea.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.383544,
+          48.679546
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Meder",
+        "lat": "48.6795455",
+        "lon": "2.383544",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6820a9cebb903.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.477123,
+          48.823438
+        ]
+      },
+      "properties": {
+        "title": "12 Avenue Joseph Jougla",
+        "lat": "48.8234384",
+        "lon": "2.4771234",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.825118,
           48.644555
         ]
@@ -2794,23 +2861,6 @@
         "lon": "2.8198292",
         "type": "BSB",
         "observation": "face à l'école"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.30326,
-          48.890455
-        ]
-      },
-      "properties": {
-        "title": "Avenue de la Porte d'Asnières",
-        "lat": "48.8904547",
-        "lon": "2.3032597",
-        "type": "BSB",
-        "observation": "livre religieux islam pour converti@@__"
       }
     },
     {
