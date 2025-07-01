@@ -6,6 +6,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.655384,
+          42.485076
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "42.4850757",
+        "lon": "2.6553837",
+        "type": "BSB",
+        "observation": "wc à côté de la boîte à livres",
+        "picture": "https://delivrez.fr/public/posts/img.685916e61537f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.829833,
+          43.523944
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Gare",
+        "lat": "43.5239436",
+        "lon": "2.8298334",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684d8a12bcd43.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.443291,
+          44.44808
+        ]
+      },
+      "properties": {
+        "title": "Rue Daurade",
+        "lat": "44.4480801",
+        "lon": "1.4432909",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684864c221669.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.882423,
+          43.216471
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Poste",
+        "lat": "43.2164711",
+        "lon": "0.8824231",
+        "type": "BSB",
+        "observation": "boite a livre dans le parc à enfant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.071576,
+          43.560743
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Maréchal de Lattre de Tassigny",
+        "lat": "43.5607427",
+        "lon": "4.0715764",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6845d2c507635.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.010014,
           43.20968
         ]

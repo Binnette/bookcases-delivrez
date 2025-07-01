@@ -6,6 +6,194 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.714255,
+          45.366333
+        ]
+      },
+      "properties": {
+        "title": "Avenue nationale",
+        "lat": "45.3663332",
+        "lon": "1.7142545",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68501cc01aa3d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.830631,
+          45.583477
+        ]
+      },
+      "properties": {
+        "title": "Allée des Soupirs",
+        "lat": "45.5834771",
+        "lon": "-0.830631",
+        "type": "BSB",
+        "observation": "a la bibliothèque municipale",
+        "picture": "https://delivrez.fr/public/posts/img.684050cf9595d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.538871,
+          45.021363
+        ]
+      },
+      "properties": {
+        "title": "Avenue Edouard Dupuy",
+        "lat": "45.0213633",
+        "lon": "0.5388707",
+        "type": "BSB",
+        "observation": "sur le mur de la communauté de communes",
+        "picture": "https://delivrez.fr/public/posts/img.684589afdb555.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.541271,
+          45.021858
+        ]
+      },
+      "properties": {
+        "title": "Rue Gabriel Reymond",
+        "lat": "45.0218581",
+        "lon": "0.541271",
+        "type": "BSB",
+        "observation": "dans le renfoncement du magasin Ptites fripes",
+        "picture": "https://delivrez.fr/public/posts/img.6845848e83a78.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.550742,
+          46.176179
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "46.176179",
+        "lon": "2.550742",
+        "type": "BSB",
+        "observation": "En face l'auberge",
+        "picture": "https://delivrez.fr/public/posts/img.683c57aae1714.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.424951,
+          46.188569
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Couture",
+        "lat": "46.1885693",
+        "lon": "2.4249508",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.272684,
+          46.136452
+        ]
+      },
+      "properties": {
+        "title": "La Josnière",
+        "lat": "46.1364524",
+        "lon": "1.2726835",
+        "type": "BSB",
+        "observation": "Après caserne des pompiers"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.201354,
+          46.038219
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Erables",
+        "lat": "46.0382195",
+        "lon": "1.2013543",
+        "type": "BSB",
+        "observation": "Bascule"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.840061,
+          45.419038
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "45.4190384",
+        "lon": "0.8400611",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.83907,
+          45.419321
+        ]
+      },
+      "properties": {
+        "title": "Rue du Vieux Puits",
+        "lat": "45.4193209",
+        "lon": "0.8390696",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.992535,
+          45.342377
+        ]
+      },
+      "properties": {
+        "title": "Rue André Dumas",
+        "lat": "45.3423772",
+        "lon": "0.9925354",
+        "type": "BSB",
+        "observation": "près du monument aux morts"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.724813,
           44.80375
         ]

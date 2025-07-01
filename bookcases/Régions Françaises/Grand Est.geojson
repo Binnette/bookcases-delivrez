@@ -6,6 +6,182 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.194619,
+          47.885859
+        ]
+      },
+      "properties": {
+        "title": "Rue de Rimbach à Jungholtz",
+        "lat": "47.8858586",
+        "lon": "7.1946186",
+        "type": "BSB",
+        "observation": "sous le préau de l'école",
+        "picture": "https://delivrez.fr/public/posts/img.6853d74dda8f9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.214164,
+          47.681376
+        ]
+      },
+      "properties": {
+        "title": "Rue de Thann Spechbach le Haut",
+        "lat": "47.6813764",
+        "lon": "7.2141643",
+        "type": "BSB",
+        "observation": "les Poppins  - 359",
+        "picture": "https://delivrez.fr/public/posts/img.6853e5ee1c83b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.561324,
+          48.612205
+        ]
+      },
+      "properties": {
+        "title": "Furdenheim Rue de la Mairie",
+        "lat": "48.6122049",
+        "lon": "7.5613236",
+        "type": "BSB",
+        "observation": "dans le jardin de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.684edd29be15f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.244273,
+          48.946712
+        ]
+      },
+      "properties": {
+        "title": "rue principale",
+        "lat": "48.9467121",
+        "lon": "4.2442734",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684aeb7e61c85.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.300221,
+          48.973566
+        ]
+      },
+      "properties": {
+        "title": "Gr Grande Rue",
+        "lat": "48.9735664",
+        "lon": "4.3002205",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684ae8cddf749.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.130824,
+          48.059804
+        ]
+      },
+      "properties": {
+        "title": "Chemin Zewenett",
+        "lat": "48.0598044",
+        "lon": "7.1308244",
+        "type": "BSB",
+        "observation": "cabane",
+        "picture": "https://delivrez.fr/public/posts/img.6849c99364f37.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.667177,
+          49.101112
+        ]
+      },
+      "properties": {
+        "title": "Voie de la Liberté",
+        "lat": "49.1011116",
+        "lon": "4.6671773",
+        "type": "BSB",
+        "observation": "Somme-Tourbe abribus",
+        "picture": "https://delivrez.fr/public/posts/img.68430c8077299.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.320735,
+          48.955993
+        ]
+      },
+      "properties": {
+        "title": "Rue des Postes",
+        "lat": "48.9559928",
+        "lon": "4.3207352",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683dd5a407f5f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.741975,
+          48.819433
+        ]
+      },
+      "properties": {
+        "title": "Rue du Faubourg Schweighouse sur Moder",
+        "lat": "48.8194328",
+        "lon": "7.7419752",
+        "type": "BSB",
+        "observation": "Dans le parc à côté de la bibliothèque",
+        "picture": "https://delivrez.fr/public/posts/img.683d7a1a301ec.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.365898,
+          48.618727
+        ]
+      },
+      "properties": {
+        "title": "Rue Général Patton",
+        "lat": "48.6187272",
+        "lon": "6.3658978",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683c034768d8f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.386266,
           48.955645
         ]

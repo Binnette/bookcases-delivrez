@@ -6,6 +6,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.605586,
+          49.728122
+        ]
+      },
+      "properties": {
+        "title": "Rue des Tilleuls",
+        "lat": "49.7281225",
+        "lon": "1.605586",
+        "type": "BSB",
+        "observation": "Près de l'arrêt de bus",
+        "picture": "https://delivrez.fr/public/posts/img.685eec75c1609.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.618527,
+          49.789854
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "49.7898543",
+        "lon": "0.6185268",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68416a67b3f1a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.785758,
+          49.16701
+        ]
+      },
+      "properties": {
+        "title": "Place du Général Chrétien",
+        "lat": "49.1670101",
+        "lon": "0.7857583",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6846e738ae05f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.694595,
+          48.735495
+        ]
+      },
+      "properties": {
+        "title": "Rue Désiré Guillemarre",
+        "lat": "48.7354951",
+        "lon": "0.6945954",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6842a8eaaa22d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.299494,
           49.61862
         ]

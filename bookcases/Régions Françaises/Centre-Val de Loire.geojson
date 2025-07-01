@@ -6,6 +6,126 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.583729,
+          47.459848
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale",
+        "lat": "47.4598479",
+        "lon": "2.5837291",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68625d56882fe.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.703543,
+          47.464752
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "47.4647521",
+        "lon": "2.7035428",
+        "type": "BSB",
+        "observation": "à côté de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.686258a4ba866.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.085741,
+          47.918548
+        ]
+      },
+      "properties": {
+        "title": "Place du Puits",
+        "lat": "47.9185483",
+        "lon": "1.0857415",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6849d1c6b6958.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.664261,
+          47.93172
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Vallée",
+        "lat": "47.9317197",
+        "lon": "1.6642613",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684ea10fe6eec.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.067893,
+          47.870514
+        ]
+      },
+      "properties": {
+        "title": "D141A",
+        "lat": "47.8705145",
+        "lon": "1.0678927",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6849cedbf3c6f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.28243,
+          47.953033
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "47.9530329",
+        "lon": "1.2824303",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68488b49cc09b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.921652,
+          47.386741
+        ]
+      },
+      "properties": {
+        "title": "Cabine aux livres",
+        "lat": "47.3867408",
+        "lon": "1.9216522",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683dd54f6fe87.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.278847,
           47.953248
         ]

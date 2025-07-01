@@ -6,6 +6,73 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.708421,
+          48.581924
+        ]
+      },
+      "properties": {
+        "title": "boite a livre",
+        "lat": "48.581924",
+        "lon": "2.708421",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6856f750ed6e0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.484396,
+          48.870769
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Pierre Timbaud",
+        "lat": "48.8707693",
+        "lon": "2.4843958",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684d42ac6116b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.482046,
+          48.873923
+        ]
+      },
+      "properties": {
+        "title": "Rue du Quatrième Zouave",
+        "lat": "48.8739231",
+        "lon": "2.4820456",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684d3f3210d18.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.594428,
+          48.512105
+        ]
+      },
+      "properties": {
+        "title": "Rue des Bosses",
+        "lat": "48.5121053",
+        "lon": "2.5944285",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.973732,
           48.874236
         ]

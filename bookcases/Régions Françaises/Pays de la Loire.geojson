@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.387848,
+          47.827114
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "47.8271136",
+        "lon": "-0.387848",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684ed73b2c563.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.010945,
+          48.020674
+        ]
+      },
+      "properties": {
+        "title": "Rue nationale",
+        "lat": "48.0206741",
+        "lon": "0.0109453",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684ecd74dc8a6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.034192,
           47.361806
         ]

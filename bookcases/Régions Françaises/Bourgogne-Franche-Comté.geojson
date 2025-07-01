@@ -6,6 +6,129 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.083129,
+          46.903644
+        ]
+      },
+      "properties": {
+        "title": "Rue des Bords du Doubs",
+        "lat": "46.903644",
+        "lon": "5.0831293",
+        "type": "BSB",
+        "observation": "Sous le auvent de la mairie.",
+        "picture": "https://delivrez.fr/public/posts/img.685fe9e63260d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.950512,
+          47.138821
+        ]
+      },
+      "properties": {
+        "title": "musée nuits st george",
+        "lat": "47.1388215",
+        "lon": "4.9505118",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.685ed93723e8a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.226452,
+          47.283761
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "47.2837612",
+        "lon": "3.2264524",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.686244f70b070.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.981514,
+          46.905478
+        ]
+      },
+      "properties": {
+        "title": "Route de Chalon",
+        "lat": "46.9054781",
+        "lon": "4.9815143",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6860e189bff04.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.784652,
+          47.034985
+        ]
+      },
+      "properties": {
+        "title": "Rue de Rans",
+        "lat": "47.0349852",
+        "lon": "5.7846524",
+        "type": "BSB",
+        "observation": "dans l'entrée du supermarché",
+        "picture": "https://delivrez.fr/public/posts/img.684806aa7eab9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.496788,
+          46.671478
+        ]
+      },
+      "properties": {
+        "title": "Rue Robert Morland",
+        "lat": "46.6714785",
+        "lon": "5.4967878",
+        "type": "BSB",
+        "observation": "en bas de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6842c1168228c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.720895,
+          47.021526
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "47.0215261",
+        "lon": "5.7208953",
+        "type": "BSB",
+        "observation": "Dans la cours de l'école",
+        "picture": "https://delivrez.fr/public/posts/img.683ffce091240.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.647315,
           47.691125
         ]
@@ -8885,23 +9008,6 @@
         "lon": "4.845121",
         "type": "BSB",
         "observation": "Dans la salle d attente de la gare"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.083131,
-          46.903723
-        ]
-      },
-      "properties": {
-        "title": "1 rue des Bords-du-Doubs",
-        "lat": "46.9037228",
-        "lon": "5.0831313",
-        "type": "BSB",
-        "observation": "Sous le auvent de la mairie."
       }
     },
     {

@@ -6,6 +6,371 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.344811,
+          45.32069
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "45.3206905",
+        "lon": "6.3448107",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.685e837782240.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.159711,
+          45.063155
+        ]
+      },
+      "properties": {
+        "title": "Passage des Ecoliers",
+        "lat": "45.0631548",
+        "lon": "4.1597112",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.685ec3c202f57.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.066065,
+          45.52478
+        ]
+      },
+      "properties": {
+        "title": "Route de Saint-Jean Soleymieux",
+        "lat": "45.5247805",
+        "lon": "4.066065",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68602c6d3bd35.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.834312,
+          45.958664
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "45.9586635",
+        "lon": "5.8343119",
+        "type": "BSB",
+        "observation": "Entre assureur et herboriste sous le porche",
+        "picture": "https://delivrez.fr/public/posts/img.685abec4e68e6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.707423,
+          44.443658
+        ]
+      },
+      "properties": {
+        "title": "Boulevard des Barrys",
+        "lat": "44.4436575",
+        "lon": "4.7074235",
+        "type": "BSB",
+        "observation": "dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.683dcd9c4fd26.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.831954,
+          46.474466
+        ]
+      },
+      "properties": {
+        "title": "Place du Marché",
+        "lat": "46.4744663",
+        "lon": "2.8319539",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6856b7756aa75.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.320152,
+          45.587338
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Salière",
+        "lat": "45.5873384",
+        "lon": "5.3201519",
+        "type": "BSB",
+        "observation": "devant l'école",
+        "picture": "https://delivrez.fr/public/posts/img.68514a0031e6e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37587,
+          45.587536
+        ]
+      },
+      "properties": {
+        "title": "Rue Centrale",
+        "lat": "45.5875358",
+        "lon": "5.3758702",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.685146d623583.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.736215,
+          45.449594
+        ]
+      },
+      "properties": {
+        "title": "29 RN 86 école de verlieu",
+        "lat": "45.4495937",
+        "lon": "4.7362151",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.088226,
+          46.117214
+        ]
+      },
+      "properties": {
+        "title": "Route de Vicq",
+        "lat": "46.1172136",
+        "lon": "3.088226",
+        "type": "BSB",
+        "observation": "en face ancienne balance",
+        "picture": "https://delivrez.fr/public/posts/img.68458cf1bf83e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.024918,
+          44.727581
+        ]
+      },
+      "properties": {
+        "title": "Rue Général Bovet",
+        "lat": "44.7275806",
+        "lon": "5.0249184",
+        "type": "BSB",
+        "observation": "en bas des toilettes",
+        "picture": "https://delivrez.fr/public/posts/img.68457fd3e93a1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.024435,
+          44.727308
+        ]
+      },
+      "properties": {
+        "title": "Rue Aristide Dumont",
+        "lat": "44.7273077",
+        "lon": "5.0244352",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68457f77c33a2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.842489,
+          45.939912
+        ]
+      },
+      "properties": {
+        "title": "La Poste",
+        "lat": "45.9399123",
+        "lon": "2.8424889",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68457e3b721a5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.072515,
+          45.9196
+        ]
+      },
+      "properties": {
+        "title": "Avenue de l'Europe",
+        "lat": "45.9196",
+        "lon": "3.0725149",
+        "type": "BSB",
+        "observation": "office de tourisme"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.769465,
+          44.824967
+        ]
+      },
+      "properties": {
+        "title": "Larzalier",
+        "lat": "44.8249665",
+        "lon": "4.7694653",
+        "type": "BSB",
+        "observation": "jeux d'enfants",
+        "picture": "https://delivrez.fr/public/posts/img.684458251a7d4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.743882,
+          46.53445
+        ]
+      },
+      "properties": {
+        "title": "place, Salle de Spectacle",
+        "lat": "46.5344495",
+        "lon": "3.7438821",
+        "type": "BSB",
+        "observation": "sur la face de la salle de spectacle",
+        "picture": "https://delivrez.fr/public/posts/img.683c59b3162dc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.673021,
+          46.601789
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Cure",
+        "lat": "46.6017894",
+        "lon": "3.6730215",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683c553fa63b6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.882537,
+          46.221825
+        ]
+      },
+      "properties": {
+        "title": "Lapeyrouse",
+        "lat": "46.2218248",
+        "lon": "2.8825372",
+        "type": "BSB",
+        "observation": "place mairie à l'intérieur porche",
+        "picture": "https://delivrez.fr/public/posts/img.683c619a3e5fa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8713,
+          46.225426
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Liberte",
+        "lat": "46.2254265",
+        "lon": "2.8713003",
+        "type": "BSB",
+        "observation": "salle des fêtes",
+        "picture": "https://delivrez.fr/public/posts/img.683c608b9df11.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.631728,
+          46.167054
+        ]
+      },
+      "properties": {
+        "title": "Place du Donjon",
+        "lat": "46.1670543",
+        "lon": "2.6317281",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683c5a8c21d1f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.070843,
+          46.100448
+        ]
+      },
+      "properties": {
+        "title": "Rue Alain Chanselme",
+        "lat": "46.1004485",
+        "lon": "3.070843",
+        "type": "BSB",
+        "observation": "place mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.751199,
           44.642611
         ]
@@ -414,23 +779,6 @@
         "lon": "6.1238391",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.67e541f470aba.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.851534,
-          45.741502
-        ]
-      },
-      "properties": {
-        "title": "Place du Champs de Mars",
-        "lat": "45.7415018",
-        "lon": "4.8515337",
-        "type": "BSB",
-        "observation": "Deux boîtes à livres sur la place,à côté de la fontaine, dont une pour les enfants"
       }
     },
     {
@@ -7277,23 +7625,6 @@
         "lon": "4.7050359",
         "type": "BSB",
         "observation": "Dans le parc quartier des Roches"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.707473,
-          44.443741
-        ]
-      },
-      "properties": {
-        "title": "Boulevard des Barrys",
-        "lat": "44.4437406",
-        "lon": "4.7074727",
-        "type": "BSB",
-        "observation": "dans le parc"
       }
     },
     {

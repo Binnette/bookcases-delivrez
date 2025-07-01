@@ -6,6 +6,294 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.937048,
+          49.419804
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Armistice",
+        "lat": "49.4198038",
+        "lon": "2.9370485",
+        "type": "BSB",
+        "observation": "ancienne cabine téléphonique recyclée en boite à livresur la D81",
+        "picture": "https://delivrez.fr/public/posts/img.685a4c7ef11f7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.968397,
+          49.396313
+        ]
+      },
+      "properties": {
+        "title": "Place des Fêtes",
+        "lat": "49.3963127",
+        "lon": "2.9683971",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.685a495eeb12e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.561748,
+          50.524037
+        ]
+      },
+      "properties": {
+        "title": "Rue Paul Vaillant Couturier",
+        "lat": "50.5240366",
+        "lon": "2.561748",
+        "type": "BSB",
+        "observation": "dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.6858365adeb77.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.563538,
+          50.521236
+        ]
+      },
+      "properties": {
+        "title": "a l'abri bus a côté de l'école",
+        "lat": "50.5212357",
+        "lon": "2.5635385",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6858317fa9206.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.493579,
+          50.494521
+        ]
+      },
+      "properties": {
+        "title": "parc de calonnix",
+        "lat": "50.4945206",
+        "lon": "2.4935794",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68582ac0927b0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.045593,
+          50.371247
+        ]
+      },
+      "properties": {
+        "title": "Rue d'Abbeville",
+        "lat": "50.3712467",
+        "lon": "2.0455935",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.975839,
+          50.273536
+        ]
+      },
+      "properties": {
+        "title": "Rue de Flandre",
+        "lat": "50.2735358",
+        "lon": "3.9758387",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6848641f6aa83.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9682,
+          50.272945
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Gare",
+        "lat": "50.2729452",
+        "lon": "3.9682004",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6847fa1cecfd8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.136635,
+          50.684066
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Halte",
+        "lat": "50.684066",
+        "lon": "2.1366348",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.683c04360885c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.134178,
+          49.525307
+        ]
+      },
+      "properties": {
+        "title": "Route de Noyon",
+        "lat": "49.5253073",
+        "lon": "3.1341784",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.103003,
+          49.530262
+        ]
+      },
+      "properties": {
+        "title": "Rue Isidore de Pommery",
+        "lat": "49.5302624",
+        "lon": "3.1030034",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.257745,
+          50.635693
+        ]
+      },
+      "properties": {
+        "title": "Cité les Morins",
+        "lat": "50.6356933",
+        "lon": "2.2577453",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684696017c106.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.654053,
+          49.591132
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Jaurès",
+        "lat": "49.5911317",
+        "lon": "3.6540527",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684472b249435.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.632011,
+          49.545268
+        ]
+      },
+      "properties": {
+        "title": "Chemin de l'Hippodrome",
+        "lat": "49.545268",
+        "lon": "3.6320114",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68446c8dd7ea0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.683258,
+          49.573139
+        ]
+      },
+      "properties": {
+        "title": "Place du 11 Novembre 1918",
+        "lat": "49.5731393",
+        "lon": "3.6832579",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684464e5e5da6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.585499,
+          50.633766
+        ]
+      },
+      "properties": {
+        "title": "Avenue Charles Dickens",
+        "lat": "50.6337662",
+        "lon": "1.5854994",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68456812ebf3e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.977458,
+          50.277923
+        ]
+      },
+      "properties": {
+        "title": "Boussois",
+        "lat": "50.2779227",
+        "lon": "3.9774577",
+        "type": "BSB",
+        "observation": "Derrière l'église"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.684104,
           50.621048
         ]
@@ -5800,23 +6088,6 @@
         "lon": "3.1427805",
         "type": "BSB",
         "observation": "La boîte à livres est située dans le hall du cinéma Le méliès."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.937142,
-          49.419951
-        ]
-      },
-      "properties": {
-        "title": "2 rue des Bois",
-        "lat": "49.4199508",
-        "lon": "2.9371417",
-        "type": "BSB",
-        "observation": "ancienne cabine téléphonique recyclée en boite à livresur la D81"
       }
     },
     {

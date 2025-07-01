@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.297974,
+          43.620444
+        ]
+      },
+      "properties": {
+        "title": "Place Gambetta",
+        "lat": "43.6204439",
+        "lon": "5.2979743",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6846aabc5c0c8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.016869,
           44.118795
         ]

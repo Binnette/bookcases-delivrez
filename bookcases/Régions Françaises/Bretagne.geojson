@@ -6,6 +6,110 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.344143,
+          48.190444
+        ]
+      },
+      "properties": {
+        "title": "Saint-Michel",
+        "lat": "48.1904435",
+        "lon": "-3.3441432",
+        "type": "BSB",
+        "observation": "parking du cimetière",
+        "picture": "https://delivrez.fr/public/posts/img.686006fed6b4f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.535063,
+          47.899116
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "47.8991163",
+        "lon": "-3.5350632",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.685804d12b8d7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.599195,
+          48.524864
+        ]
+      },
+      "properties": {
+        "title": "Place Eugène Forest",
+        "lat": "48.5248643",
+        "lon": "-4.599195",
+        "type": "BSB",
+        "observation": "Beaucoup de littérature blanche, amateur de SFFF, ne perdez pas votre temps.",
+        "picture": "https://delivrez.fr/public/posts/img.685829e805a09.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.07593,
+          47.748538
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "47.7485378",
+        "lon": "-3.0759297",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68455bcf33e7f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.079139,
+          47.748044
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Rabine",
+        "lat": "47.7480438",
+        "lon": "-3.0791389",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684558da6a42f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.599476,
+          48.380483
+        ]
+      },
+      "properties": {
+        "title": "École Kroas Saliou",
+        "lat": "48.3804826",
+        "lon": "-4.5994764",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.684072ff4d6e9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.640259,
           48.336729
         ]
