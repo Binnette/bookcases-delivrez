@@ -1,6 +1,6 @@
 # bookcases-delivrez
 
-**Data last updated on: 2025-07-01**
+**Data last updated on: 2025-08-01**
 
 Public bookcases extracted from delivrez.fr
 

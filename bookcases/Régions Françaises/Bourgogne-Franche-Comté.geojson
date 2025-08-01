@@ -6,6 +6,131 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.060143,
+          46.485923
+        ]
+      },
+      "properties": {
+        "title": "Place Centrale Les Rousses",
+        "lat": "46.4859235",
+        "lon": "6.0601425",
+        "type": "BSB",
+        "observation": "Médiathèque",
+        "picture": "https://delivrez.fr/public/posts/img.687ba4bcd3994.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.015778,
+          46.536417
+        ]
+      },
+      "properties": {
+        "title": "Route Blanche à Morbier",
+        "lat": "46.5364168",
+        "lon": "6.0157785",
+        "type": "BSB",
+        "observation": "en face de la mairie - à côté de la comtoise - derrière la fontaine",
+        "picture": "https://delivrez.fr/public/posts/img.68790e8c1fe18.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.861093,
+          46.391976
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Gare",
+        "lat": "46.3919765",
+        "lon": "5.8610932",
+        "type": "BSB",
+        "observation": "devant le n 2bis",
+        "picture": "https://delivrez.fr/public/posts/img.6878f2a05ba14.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.180582,
+          46.720216
+        ]
+      },
+      "properties": {
+        "title": "Route de Louhans Simard",
+        "lat": "46.7202155",
+        "lon": "5.1805825",
+        "type": "BSB",
+        "observation": "Devant l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6874d2d095fa9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.856296,
+          46.753171
+        ]
+      },
+      "properties": {
+        "title": "Rue de Saône à Lux",
+        "lat": "46.753171",
+        "lon": "4.856296",
+        "type": "BSB",
+        "observation": "devant La Porte Ouverte",
+        "picture": "https://delivrez.fr/public/posts/img.6874d2c6a2b32.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.027161,
+          47.470759
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "47.4707593",
+        "lon": "4.0271607",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.686fe90c69c61.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.990964,
+          47.184516
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Maltournée",
+        "lat": "47.1845163",
+        "lon": "5.9909637",
+        "type": "BSB",
+        "observation": "beaucoup de choix",
+        "picture": "https://delivrez.fr/public/posts/img.686940f496fdf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.083129,
           46.903644
         ]

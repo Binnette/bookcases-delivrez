@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.419123,
+          43.556859
+        ]
+      },
+      "properties": {
+        "title": "celony",
+        "lat": "43.5568594",
+        "lon": "5.4191228",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.679955,
+          44.264767
+        ]
+      },
+      "properties": {
+        "title": "Cours de la Liberté",
+        "lat": "44.2647666",
+        "lon": "4.6799546",
+        "type": "BSB",
+        "observation": "à côté de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.687fa80459f1b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.297974,
           43.620444
         ]

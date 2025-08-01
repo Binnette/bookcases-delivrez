@@ -6,6 +6,128 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.181509,
+          49.0277
+        ]
+      },
+      "properties": {
+        "title": "Rue de Fauville",
+        "lat": "49.0277004",
+        "lon": "1.1815087",
+        "type": "BSB",
+        "observation": "dans l'Inter",
+        "picture": "https://delivrez.fr/public/posts/img.6880adede3b68.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.368203,
+          49.219342
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Grâce de Dieu",
+        "lat": "49.2193418",
+        "lon": "-0.3682026",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687a7713693d0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.706629,
+          49.276585
+        ]
+      },
+      "properties": {
+        "title": "Place Charles de Gaulle",
+        "lat": "49.2765851",
+        "lon": "-0.7066291",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687a5c3c65e8e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.157202,
+          49.253697
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Libération",
+        "lat": "49.2536968",
+        "lon": "-0.1572019",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6879225ae6853.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.384891,
+          49.232137
+        ]
+      },
+      "properties": {
+        "title": "Rue du Bourg",
+        "lat": "49.2321365",
+        "lon": "-0.3848912",
+        "type": "BSB",
+        "observation": "petite boite a livres",
+        "picture": "https://delivrez.fr/public/posts/img.68776fa19be40.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.536047,
+          49.218079
+        ]
+      },
+      "properties": {
+        "title": "rue sainte croix",
+        "lat": "49.2180786",
+        "lon": "-1.5360468",
+        "type": "BSB",
+        "observation": "a côté de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.68737c878c1b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.784572,
+          49.379584
+        ]
+      },
+      "properties": {
+        "title": "Place du Terminus",
+        "lat": "49.3795843",
+        "lon": "-1.7845718",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687366412fede.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.605586,
           49.728122
         ]
@@ -447,23 +569,6 @@
         "lon": "0.233142",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.67ffb373e328d.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.157202,
-          49.253697
-        ]
-      },
-      "properties": {
-        "title": "Rue de la Libération",
-        "lat": "49.2536968",
-        "lon": "-0.1572019",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.67ff78f8b23da.png"
       }
     },
     {
@@ -4200,23 +4305,6 @@
         "lon": "0.6511876",
         "type": "BSB",
         "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.536047,
-          49.218079
-        ]
-      },
-      "properties": {
-        "title": "rue sainte croix",
-        "lat": "49.2180786",
-        "lon": "-1.5360468",
-        "type": "BSB",
-        "observation": "a côté de la mairie"
       }
     },
     {

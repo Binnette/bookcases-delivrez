@@ -6,6 +6,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.213777,
+          43.501007
+        ]
+      },
+      "properties": {
+        "title": "Rue Basse",
+        "lat": "43.5010073",
+        "lon": "2.2137771",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.688248f4e3dbe.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.214512,
+          43.500751
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "43.5007513",
+        "lon": "2.2145117",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68824818a935d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.733256,
+          44.917272
+        ]
+      },
+      "properties": {
+        "title": "Carennac",
+        "lat": "44.9172716",
+        "lon": "1.7332562",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687bcf71a4f5f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.34903,
+          43.83967
+        ]
+      },
+      "properties": {
+        "title": "Quai Georges Clemenceau",
+        "lat": "43.83967",
+        "lon": "4.3490305",
+        "type": "BSB",
+        "observation": "ambulant. dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.6877b63fcff54.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.798057,
+          43.606344
+        ]
+      },
+      "properties": {
+        "title": "Allée des Cerisiers",
+        "lat": "43.6063441",
+        "lon": "2.7980574",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6878fb52f10cb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.655384,
           42.485076
         ]

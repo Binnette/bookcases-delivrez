@@ -6,6 +6,109 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.821961,
+          47.857524
+        ]
+      },
+      "properties": {
+        "title": "Rue de Lorraine",
+        "lat": "47.8575239",
+        "lon": "6.8219608",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6888dedf3914d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.762695,
+          47.8802
+        ]
+      },
+      "properties": {
+        "title": "Rue Nouvelle",
+        "lat": "47.8801999",
+        "lon": "6.762695",
+        "type": "BSB",
+        "observation": "devant le centre de loisirs",
+        "picture": "https://delivrez.fr/public/posts/img.6888b0a735cd5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.772265,
+          47.949025
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jules Ferry",
+        "lat": "47.9490248",
+        "lon": "6.7722645",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.688501692df62.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.032066,
+          48.746859
+        ]
+      },
+      "properties": {
+        "title": "place de Verdun",
+        "lat": "48.7468592",
+        "lon": "5.0320665",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.369178,
+          49.290979
+        ]
+      },
+      "properties": {
+        "title": "Rue du Munet",
+        "lat": "49.2909791",
+        "lon": "4.3691777",
+        "type": "BSB",
+        "observation": "Betheniville",
+        "picture": "https://delivrez.fr/public/posts/img.687b769dc5335.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.389458,
+          49.047298
+        ]
+      },
+      "properties": {
+        "title": "Rue des Templiers",
+        "lat": "49.0472983",
+        "lon": "4.3894583",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68763f358c0a8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.194619,
           47.885859
         ]
@@ -2648,23 +2751,6 @@
         "type": "BSB",
         "observation": "au cœur du parc des poules et cigognes",
         "picture": "https://delivrez.fr/public/posts/img.667fe6a9099a1.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.389564,
-          49.047314
-        ]
-      },
-      "properties": {
-        "title": "Rue des Templiers",
-        "lat": "49.0473137",
-        "lon": "4.389564",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.6645cb21213cf.png"
       }
     },
     {

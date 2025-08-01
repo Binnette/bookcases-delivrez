@@ -6,6 +6,145 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.185182,
+          48.115876
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église en face de la bibliothèque munic",
+        "lat": "48.1158755",
+        "lon": "1.1851824",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68865fd1e057d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.022034,
+          47.764454
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "47.7644538",
+        "lon": "2.0220338",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6888da01bf897.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.652328,
+          47.03332
+        ]
+      },
+      "properties": {
+        "title": "Place du Colonel Bouyer",
+        "lat": "47.0333196",
+        "lon": "2.6523284",
+        "type": "BSB",
+        "observation": "Salle communale",
+        "picture": "https://delivrez.fr/public/posts/img.68871d741258a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.383602,
+          47.06077
+        ]
+      },
+      "properties": {
+        "title": "Mairie de Trouy",
+        "lat": "47.0607698",
+        "lon": "2.3836017",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6883a9b5bfbea.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.087153,
+          47.810698
+        ]
+      },
+      "properties": {
+        "title": "Rue Clément Ader",
+        "lat": "47.8106976",
+        "lon": "1.087153",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687be3553de83.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.165976,
+          47.843135
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale",
+        "lat": "47.8431347",
+        "lon": "1.1659758",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687aa2234d93a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.350171,
+          48.079646
+        ]
+      },
+      "properties": {
+        "title": "1 Rue Anatole France Foyer Jeunes Travailleurs",
+        "lat": "48.079646",
+        "lon": "1.350171",
+        "type": "BSB",
+        "observation": "Boîte à livres à l'intérieur",
+        "picture": "https://delivrez.fr/public/posts/img.6876991ad0b72.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.254161,
+          47.566692
+        ]
+      },
+      "properties": {
+        "title": "Route de Chaon",
+        "lat": "47.5666922",
+        "lon": "2.254161",
+        "type": "BSB",
+        "observation": "rue des écoles",
+        "picture": "https://delivrez.fr/public/posts/img.686270020c9c5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.583729,
           47.459848
         ]
@@ -2746,24 +2885,6 @@
         "lon": "1.6974087",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.6487052a304de.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.254235,
-          47.566632
-        ]
-      },
-      "properties": {
-        "title": "Route de Chaon",
-        "lat": "47.5666319",
-        "lon": "2.254235",
-        "type": "BSB",
-        "observation": "rue des écoles",
-        "picture": "https://delivrez.fr/public/posts/img.6485d4a12a129.png"
       }
     },
     {

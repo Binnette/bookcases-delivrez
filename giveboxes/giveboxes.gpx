@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.429612" lon="0.079939">
+    <name>Rue Balzac</name>
+    <desc>parc des promenades</desc>
+    <type>Delivrez giveboxes</type>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>outpost</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.477446" lon="5.976811">
     <name>Place de l'Église</name>
     <desc></desc>

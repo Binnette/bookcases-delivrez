@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.266427,
+          48.722186
+        ]
+      },
+      "properties": {
+        "title": "Rue Léonard de Vinci",
+        "lat": "48.7221865",
+        "lon": "2.2664273",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6876854996ede.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.708421,
           48.581924
         ]

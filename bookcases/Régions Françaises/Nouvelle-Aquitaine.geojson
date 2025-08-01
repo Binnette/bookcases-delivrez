@@ -6,6 +6,367 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.610187,
+          44.866934
+        ]
+      },
+      "properties": {
+        "title": "Boite à lire Cheneraie",
+        "lat": "44.8669343",
+        "lon": "-0.6101871",
+        "type": "BSB",
+        "observation": "Parc de la Cheneraie",
+        "picture": "https://delivrez.fr/public/posts/img.688a3c9117902.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.113114,
+          44.828751
+        ]
+      },
+      "properties": {
+        "title": "Église - Sainte-Terre",
+        "lat": "44.828751",
+        "lon": "-0.113114",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6888f335c42fd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.135402,
+          44.819738
+        ]
+      },
+      "properties": {
+        "title": "Jardin de la Lamproie - Sainte-Terre",
+        "lat": "44.8197375",
+        "lon": "-0.1354015",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6888ede2152a7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.902576,
+          45.288324
+        ]
+      },
+      "properties": {
+        "title": "Route des Marceaux",
+        "lat": "45.2883242",
+        "lon": "-0.9025763",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6888c3b69b0a5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.080296,
+          45.260047
+        ]
+      },
+      "properties": {
+        "title": "Route des Lacs",
+        "lat": "45.2600472",
+        "lon": "-1.0802961",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68874933bddb4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.59513,
+          43.371598
+        ]
+      },
+      "properties": {
+        "title": "Rue Charles Moureu",
+        "lat": "43.3715985",
+        "lon": "-0.5951303",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68861804c860e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.10327,
+          45.269851
+        ]
+      },
+      "properties": {
+        "title": "Route du Pin Sec",
+        "lat": "45.2698509",
+        "lon": "-1.1032697",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68838dd603852.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.944789,
+          45.2765
+        ]
+      },
+      "properties": {
+        "title": "Route de Plassan",
+        "lat": "45.2764997",
+        "lon": "-0.9447885",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68823db63bc07.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.332613,
+          46.574957
+        ]
+      },
+      "properties": {
+        "title": "Jardin des anglais (Blossac)",
+        "lat": "46.574957",
+        "lon": "0.3326132",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68807fa338392.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.888172,
+          45.271631
+        ]
+      },
+      "properties": {
+        "title": "la cabine d'Artiguillon",
+        "lat": "45.2716315",
+        "lon": "-0.8881717",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687fe1c7caeb2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.82195,
+          45.146014
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Exupéry",
+        "lat": "45.146014",
+        "lon": "-0.8219497",
+        "type": "BSB",
+        "observation": "La poste",
+        "picture": "https://delivrez.fr/public/posts/img.687fc8072fccd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.002253,
+          45.248552
+        ]
+      },
+      "properties": {
+        "title": "Rue de Saint-Laurent",
+        "lat": "45.248552",
+        "lon": "-1.002253",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687d0a7bb1ccc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.064078,
+          45.186196
+        ]
+      },
+      "properties": {
+        "title": "ancienne gare Hourtin",
+        "lat": "45.1861963",
+        "lon": "-1.0640775",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687cfe97b0a59.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.795588,
+          45.476623
+        ]
+      },
+      "properties": {
+        "title": "Place Parias",
+        "lat": "45.4766228",
+        "lon": "-0.7955882",
+        "type": "BSB",
+        "observation": "Mise en place par la Municipalité.",
+        "picture": "https://delivrez.fr/public/posts/img.686ac86e1f316.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.105445,
+          44.742718
+        ]
+      },
+      "properties": {
+        "title": "Boulevard de la Plage",
+        "lat": "44.7427181",
+        "lon": "-1.1054446",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68764c02ec09b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.101536,
+          44.740392
+        ]
+      },
+      "properties": {
+        "title": "Allée Gambetta",
+        "lat": "44.7403922",
+        "lon": "-1.1015359",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687640fcd4774.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.017816,
+          44.640122
+        ]
+      },
+      "properties": {
+        "title": "Rue du Port",
+        "lat": "44.6401225",
+        "lon": "-1.0178159",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6874d5c8a3f10.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.713801,
+          45.367463
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jean Vinatier",
+        "lat": "45.3674633",
+        "lon": "1.7138005",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687112c61843e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.678543,
+          45.040813
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jeanne d'Arc",
+        "lat": "45.0408134",
+        "lon": "-0.6785433",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.686a425522de1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.369262,
+          46.313413
+        ]
+      },
+      "properties": {
+        "title": "Rue de Boussantin",
+        "lat": "46.3134128",
+        "lon": "-0.3692622",
+        "type": "BSB",
+        "observation": "derrière la mairie aux abords du Parc",
+        "picture": "https://delivrez.fr/public/posts/img.686a233d5d40f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.002634,
+          45.599437
+        ]
+      },
+      "properties": {
+        "title": "Allée de l'Estuaire",
+        "lat": "45.5994373",
+        "lon": "-1.0026338",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68694c8db161b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.714255,
           45.366333
         ]
@@ -9654,24 +10015,6 @@
         "type": "BSB",
         "observation": "terrain de boules et petit pont",
         "picture": "https://delivrez.fr/public/posts/img.62caf4610c16a.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.369262,
-          46.313413
-        ]
-      },
-      "properties": {
-        "title": "Rue de Boussantin",
-        "lat": "46.3134128",
-        "lon": "-0.3692622",
-        "type": "BSB",
-        "observation": "derrière la mairie aux abords du Parc",
-        "picture": "https://delivrez.fr/public/posts/img.62caf688c7919.png"
       }
     },
     {
@@ -21275,23 +21618,6 @@
         "lon": "-0.4952477",
         "type": "BSB",
         "observation": "devant la mairie, jolie boite à livre dans une ancienne cabine téléphonique anglaise rouge"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.79562,
-          45.476857
-        ]
-      },
-      "properties": {
-        "title": "Place Parias",
-        "lat": "45.476857",
-        "lon": "-0.7956205",
-        "type": "BSB",
-        "observation": "Mise en place par la Municipalité."
       }
     },
     {

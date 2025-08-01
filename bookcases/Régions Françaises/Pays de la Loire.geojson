@@ -6,6 +6,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.560226,
+          47.467746
+        ]
+      },
+      "properties": {
+        "title": "Rue Kellermann",
+        "lat": "47.4677458",
+        "lon": "-0.5602258",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6888a034118a5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.182263,
+          47.365396
+        ]
+      },
+      "properties": {
+        "title": "Cabine à livres",
+        "lat": "47.3653957",
+        "lon": "-1.1822626",
+        "type": "BSB",
+        "observation": "Boîte à livres sous forme de cabine téléphonique anglaise rouge, placée juste à l'entrée parking de la médiathèque.",
+        "picture": "https://delivrez.fr/public/posts/img.6883897dc1a2e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.154698,
+          47.132443
+        ]
+      },
+      "properties": {
+        "title": "Rue du Marché",
+        "lat": "47.1324426",
+        "lon": "-0.1546981",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68835d0178040.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.478987,
+          47.054115
+        ]
+      },
+      "properties": {
+        "title": "boite a livre",
+        "lat": "47.0541152",
+        "lon": "-1.4789868",
+        "type": "BSB",
+        "observation": "près des jeux, le long des lacs",
+        "picture": "https://delivrez.fr/public/posts/img.6873e9bfdfa13.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.387848,
           47.827114
         ]
@@ -6441,23 +6511,6 @@
         "lon": "-1.0134661",
         "type": "BSB",
         "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.182263,
-          47.365396
-        ]
-      },
-      "properties": {
-        "title": "Cabine à livres",
-        "lat": "47.3653957",
-        "lon": "-1.1822626",
-        "type": "BSB",
-        "observation": "Boîte à livres sous forme de cabine téléphonique anglaise rouge, placée juste à l'entrée parking de la médiathèque."
       }
     },
     {

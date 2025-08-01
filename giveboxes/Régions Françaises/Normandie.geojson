@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.079939,
+          48.429612
+        ]
+      },
+      "properties": {
+        "title": "Rue Balzac",
+        "lat": "48.4296124",
+        "lon": "0.0799392",
+        "type": "DSB",
+        "observation": "parc des promenades",
+        "picture": "https://delivrez.fr/public/posts/img.68639c5e0317a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.220847,
           49.232399
         ]

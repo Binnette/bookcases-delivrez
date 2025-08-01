@@ -6,6 +6,318 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.584451,
+          48.769687
+        ]
+      },
+      "properties": {
+        "title": "Rue de Trozoul",
+        "lat": "48.7696866",
+        "lon": "-3.5844508",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68873c024a9ca.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.593961,
+          47.60417
+        ]
+      },
+      "properties": {
+        "title": "Route d'Armorique",
+        "lat": "47.6041704",
+        "lon": "-2.5939611",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.629676,
+          47.579563
+        ]
+      },
+      "properties": {
+        "title": "Place de L’Ancienne Gare",
+        "lat": "47.5795635",
+        "lon": "-2.6296761",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.909966,
+          48.669283
+        ]
+      },
+      "properties": {
+        "title": "Square du Grand Saconnex",
+        "lat": "48.6692832",
+        "lon": "-3.9099662",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6885e2d5ac055.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.203009,
+          48.068633
+        ]
+      },
+      "properties": {
+        "title": "Rue Emile Maze",
+        "lat": "48.0686327",
+        "lon": "-3.2030087",
+        "type": "BSB",
+        "observation": "sous le hangar, à côté de l'air de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.68836f7deedb3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.827001,
+          48.344693
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Liberté",
+        "lat": "48.3446935",
+        "lon": "-1.8270008",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68823e813c714.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.822645,
+          48.6402
+        ]
+      },
+      "properties": {
+        "title": "Place du Bourg",
+        "lat": "48.6402005",
+        "lon": "-3.8226454",
+        "type": "BSB",
+        "observation": "Armoire sous un abri, contre le mur de la Bibliothèque.",
+        "picture": "https://delivrez.fr/public/posts/img.687ba53613622.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.600996,
+          48.491102
+        ]
+      },
+      "properties": {
+        "title": "Espace Carouet",
+        "lat": "48.4911024",
+        "lon": "-2.6009956",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687f76324a580.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.409041,
+          48.634231
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Sezny",
+        "lat": "48.6342312",
+        "lon": "-4.4090415",
+        "type": "BSB",
+        "observation": "à côté du tabac",
+        "picture": "https://delivrez.fr/public/posts/img.687f624dde24e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.077898,
+          48.688899
+        ]
+      },
+      "properties": {
+        "title": "Rue de Beg ar Rest",
+        "lat": "48.6888991",
+        "lon": "-4.0778981",
+        "type": "BSB",
+        "observation": "Port",
+        "picture": "https://delivrez.fr/public/posts/img.687e061a3d9e3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.052576,
+          48.695496
+        ]
+      },
+      "properties": {
+        "title": "Rue du Pount ar C Hantel",
+        "lat": "48.6954957",
+        "lon": "-4.0525763",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687df958e5dea.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.330297,
+          48.092789
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Barre",
+        "lat": "48.0927887",
+        "lon": "-4.3302966",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687cfcdc82c07.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.981501,
+          48.685649
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Rive",
+        "lat": "48.6856491",
+        "lon": "-3.9815012",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.687cb07657aef.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.927417,
+          48.632845
+        ]
+      },
+      "properties": {
+        "title": "Rue du Croissant",
+        "lat": "48.6328448",
+        "lon": "-3.9274169",
+        "type": "BSB",
+        "observation": "près de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.687b95249cba2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.846156,
+          48.630235
+        ]
+      },
+      "properties": {
+        "title": "Rue du Port",
+        "lat": "48.630235",
+        "lon": "-3.8461561",
+        "type": "BSB",
+        "observation": "le port",
+        "picture": "https://delivrez.fr/public/posts/img.687a12aedf9fd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83886,
+          48.680801
+        ]
+      },
+      "properties": {
+        "title": "Route de Kermebel",
+        "lat": "48.6808014",
+        "lon": "-3.8388598",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6878c475d63a1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.832157,
+          48.705665
+        ]
+      },
+      "properties": {
+        "title": "Rue du Port",
+        "lat": "48.7056646",
+        "lon": "-3.8321568",
+        "type": "BSB",
+        "observation": "près de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6878bd0309b94.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.646794,
+          48.691127
+        ]
+      },
+      "properties": {
+        "title": "Place du Port",
+        "lat": "48.6911273",
+        "lon": "-3.6467944",
+        "type": "BSB",
+        "observation": "port",
+        "picture": "https://delivrez.fr/public/posts/img.68779865d614e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.344143,
           48.190444
         ]
@@ -5311,23 +5623,6 @@
         "lat": "48.34706",
         "lon": "-2.26315",
         "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.822343,
-          48.640268
-        ]
-      },
-      "properties": {
-        "title": "20 place du Bourg,",
-        "lat": "48.6402677",
-        "lon": "-3.8223432",
-        "type": "BSB",
-        "observation": "Armoire sous un abri, contre le mur de la Bibliothèque."
       }
     },
     {
