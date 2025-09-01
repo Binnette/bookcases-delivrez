@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.419839,
+          47.496055
+        ]
+      },
+      "properties": {
+        "title": "dans le parc",
+        "lat": "47.4960546",
+        "lon": "-1.4198389",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a899603407f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.657729,
+          46.288059
+        ]
+      },
+      "properties": {
+        "title": "jardin du Casino",
+        "lat": "46.2880589",
+        "lon": "2.6577295",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a4940aed899.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.079939,
           48.429612
         ]

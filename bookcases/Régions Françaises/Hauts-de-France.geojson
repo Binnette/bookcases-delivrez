@@ -6,6 +6,314 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.127664,
+          50.670487
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Macé",
+        "lat": "50.6704873",
+        "lon": "3.1276638",
+        "type": "BSB",
+        "observation": "Située dans le petit square juste à coté de l office de tourisme.",
+        "picture": "https://delivrez.fr/public/posts/img.689b3ccb5a8f3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.418086,
+          50.554188
+        ]
+      },
+      "properties": {
+        "title": "sous l arrêt de bus",
+        "lat": "50.5541879",
+        "lon": "2.4180856",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a9c4fba201f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.672931,
+          50.48065
+        ]
+      },
+      "properties": {
+        "title": "Rue de Boulogne",
+        "lat": "50.4806497",
+        "lon": "2.6729315",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.689f089848a0b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.067162,
+          50.63342
+        ]
+      },
+      "properties": {
+        "title": "Rue Gustave Delory",
+        "lat": "50.6334205",
+        "lon": "3.0671616",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.689b5e8db23df.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0497,
+          50.660368
+        ]
+      },
+      "properties": {
+        "title": "place verte",
+        "lat": "50.6603684",
+        "lon": "3.0496998",
+        "type": "BSB",
+        "observation": "Tournai",
+        "picture": "https://delivrez.fr/public/posts/img.689b305d314d1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.124614,
+          50.782945
+        ]
+      },
+      "properties": {
+        "title": "Rue Marthe Nollet",
+        "lat": "50.7829451",
+        "lon": "3.1246145",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68975788b8408.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.950515,
+          50.723679
+        ]
+      },
+      "properties": {
+        "title": "Quai de la Marine",
+        "lat": "50.723679",
+        "lon": "2.9505147",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68933725e5b3c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.040744,
+          50.288468
+        ]
+      },
+      "properties": {
+        "title": "Rue du Presbytere",
+        "lat": "50.2884679",
+        "lon": "4.0407438",
+        "type": "BSB",
+        "observation": "derrière l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6892010c0b925.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.604345,
+          50.539834
+        ]
+      },
+      "properties": {
+        "title": "Rue Pierre Mendès France",
+        "lat": "50.5398345",
+        "lon": "2.6043449",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68922a9c7fcb6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.965237,
+          50.284242
+        ]
+      },
+      "properties": {
+        "title": "Place de la Croix Saint Ghislain",
+        "lat": "50.2842425",
+        "lon": "3.9652365",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68920a38e35e8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.985531,
+          50.28567
+        ]
+      },
+      "properties": {
+        "title": "Rue Louis Blériot",
+        "lat": "50.2856704",
+        "lon": "3.9855306",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.689207acaa125.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.987809,
+          50.285138
+        ]
+      },
+      "properties": {
+        "title": "Square Hélène Boucher",
+        "lat": "50.2851384",
+        "lon": "3.9878089",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.111257,
+          50.588329
+        ]
+      },
+      "properties": {
+        "title": "Rue Faidherbe",
+        "lat": "50.5883292",
+        "lon": "3.1112571",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6891a5e3b044b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.000254,
+          50.59338
+        ]
+      },
+      "properties": {
+        "title": "Rue Auguste Potié",
+        "lat": "50.5933803",
+        "lon": "3.000254",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.688f64a79047d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.064607,
+          50.627876
+        ]
+      },
+      "properties": {
+        "title": "Rue Jeanne d'Arc",
+        "lat": "50.6278756",
+        "lon": "3.0646073",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.688e1223a1623.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.432194,
+          50.438362
+        ]
+      },
+      "properties": {
+        "title": "Rue Henri Durre",
+        "lat": "50.4383623",
+        "lon": "3.4321942",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.688f2bf12325a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.419133,
+          50.443814
+        ]
+      },
+      "properties": {
+        "title": "boîte à livres de la gare",
+        "lat": "50.4438139",
+        "lon": "3.4191326",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.688f2992039e0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.212921,
+          50.832574
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Antoine",
+        "lat": "50.8325741",
+        "lon": "2.2129209",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6881fabc85ff0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.487111,
           50.370701
         ]
@@ -1875,24 +2183,6 @@
         "type": "BSB",
         "observation": "tres bien tenue",
         "picture": "https://delivrez.fr/public/posts/img.66d8209f96d91.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.0497,
-          50.660368
-        ]
-      },
-      "properties": {
-        "title": "place verte",
-        "lat": "50.6603684",
-        "lon": "3.0496998",
-        "type": "BSB",
-        "observation": "Tournai",
-        "picture": "https://delivrez.fr/public/posts/img.66d96c9d236d9.png"
       }
     },
     {
@@ -6183,23 +6473,6 @@
         "lon": "2.632083892822266",
         "type": "BSB",
         "observation": "La boite se trouve à l'entrée du parc, à l'opposé du kiosque à musique."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.127719,
-          50.670405
-        ]
-      },
-      "properties": {
-        "title": "Rue Jean Macé",
-        "lat": "50.670404912938885",
-        "lon": "3.1277185678482056",
-        "type": "BSB",
-        "observation": "Située dans le petit square juste à coté de l office de tourisme."
       }
     },
     {

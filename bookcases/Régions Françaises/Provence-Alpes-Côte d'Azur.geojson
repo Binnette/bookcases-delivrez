@@ -6,6 +6,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.293846,
+          43.710707
+        ]
+      },
+      "properties": {
+        "title": "22 ave giacobi",
+        "lat": "43.7107069",
+        "lon": "7.2938456",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.689e2e01c3bc1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.049074,
+          44.05822
+        ]
+      },
+      "properties": {
+        "title": "Avenue Notre Dame de Santé",
+        "lat": "44.0582201",
+        "lon": "5.0490743",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.688b73816ff3a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.049723,
+          43.996623
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Coudoulets",
+        "lat": "43.9966225",
+        "lon": "5.0497229",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.688b55385a756.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.419123,
           43.556859
         ]

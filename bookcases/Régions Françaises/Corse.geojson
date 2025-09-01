@@ -6,6 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.158281,
+          42.30377
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livres de la Gare de Corte",
+        "lat": "42.3037702",
+        "lon": "9.1582808",
+        "type": "BSB",
+        "observation": "dans le hall de la Gare",
+        "picture": "https://delivrez.fr/public/posts/img.68a735f1ad897.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.447777,
+          42.702427
+        ]
+      },
+      "properties": {
+        "title": "boite à livres Gare de Bastia",
+        "lat": "42.7024273",
+        "lon": "9.4477769",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a594fb945e6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.759019,
           42.567786
         ]

@@ -6,6 +6,382 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.380737,
+          48.359685
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Osiers",
+        "lat": "48.3596852",
+        "lon": "-1.3807369",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68af4b599029c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.132548,
+          47.536477
+        ]
+      },
+      "properties": {
+        "title": "Place Maufra",
+        "lat": "47.5364766",
+        "lon": "-3.1325482",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68aee13599594.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.119028,
+          47.494571
+        ]
+      },
+      "properties": {
+        "title": "Place de la Chapelle",
+        "lat": "47.4945706",
+        "lon": "-3.1190275",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ad831b59a14.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.135899,
+          47.523996
+        ]
+      },
+      "properties": {
+        "title": "Route du Roch",
+        "lat": "47.523996",
+        "lon": "-3.1358986",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ad8678ba9b5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.420036,
+          48.394604
+        ]
+      },
+      "properties": {
+        "title": "Le Terras",
+        "lat": "48.3946038",
+        "lon": "-1.4200363",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ac5f32f28aa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.112149,
+          47.486302
+        ]
+      },
+      "properties": {
+        "title": "Place du Léry",
+        "lat": "47.4863024",
+        "lon": "-3.1121488",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68aacce9a6bda.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.964329,
+          48.072408
+        ]
+      },
+      "properties": {
+        "title": "Quai des Récollets",
+        "lat": "48.072408",
+        "lon": "-2.9643294",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a98b6e0860c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.129508,
+          47.489998
+        ]
+      },
+      "properties": {
+        "title": "Rue des Châteaux d'Eau",
+        "lat": "47.4899982",
+        "lon": "-3.1295084",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a85a44da969.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.579143,
+          48.570751
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Plage",
+        "lat": "48.5707507",
+        "lon": "-2.5791432",
+        "type": "BSB",
+        "observation": "port Morvan",
+        "picture": "https://delivrez.fr/public/posts/img.68a70c991f525.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.027167,
+          47.587174
+        ]
+      },
+      "properties": {
+        "title": "Môle Loïc Caradec",
+        "lat": "47.5871737",
+        "lon": "-3.0271668",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a7095984385.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.035058,
+          48.216175
+        ]
+      },
+      "properties": {
+        "title": "Rue Roc Hell",
+        "lat": "48.2161755",
+        "lon": "-3.0350583",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a601605e8f0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.958543,
+          48.395727
+        ]
+      },
+      "properties": {
+        "title": "Rue du Sémaphore",
+        "lat": "48.3957268",
+        "lon": "-4.9585427",
+        "type": "BSB",
+        "observation": "au centre médico social",
+        "picture": "https://delivrez.fr/public/posts/img.68a5b9fa57f93.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.19963,
+          48.787202
+        ]
+      },
+      "properties": {
+        "title": "Place du Bourg",
+        "lat": "48.7872016",
+        "lon": "-3.1996296",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a5bdce73267.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.679665,
+          48.337885
+        ]
+      },
+      "properties": {
+        "title": "Route de Moncontour",
+        "lat": "48.3378853",
+        "lon": "-2.6796647",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a43b0268a59.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.131593,
+          47.765721
+        ]
+      },
+      "properties": {
+        "title": "Place Yves Rocher",
+        "lat": "47.7657208",
+        "lon": "-2.1315934",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a080436cfc2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.100982,
+          47.484804
+        ]
+      },
+      "properties": {
+        "title": "Boulevard des Émigrés",
+        "lat": "47.4848037",
+        "lon": "-3.1009819",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a0b4976973c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.345642,
+          48.438785
+        ]
+      },
+      "properties": {
+        "title": "Rue du Clos Aux Moines",
+        "lat": "48.438785",
+        "lon": "-1.3456417",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.368939,
+          47.718744
+        ]
+      },
+      "properties": {
+        "title": "Route Sans Nom",
+        "lat": "47.7187438",
+        "lon": "-3.3689388",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.689afe1bc439b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.206471,
+          48.063785
+        ]
+      },
+      "properties": {
+        "title": "Rue des Chesnots",
+        "lat": "48.0637849",
+        "lon": "-2.2064706",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.374763,
+          47.745334
+        ]
+      },
+      "properties": {
+        "title": "Rue de Kerlin",
+        "lat": "47.7453344",
+        "lon": "-3.3747634",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6895f42b5cc96.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.120257,
+          48.447601
+        ]
+      },
+      "properties": {
+        "title": "Place des Tilleuls",
+        "lat": "48.4476008",
+        "lon": "-3.1202567",
+        "type": "BSB",
+        "observation": "sur le parking de la place centrale",
+        "picture": "https://delivrez.fr/public/posts/img.6893b455324c3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.339472,
+          48.09964
+        ]
+      },
+      "properties": {
+        "title": "Place Vincent Sivy",
+        "lat": "48.0996397",
+        "lon": "-3.3394724",
+        "type": "BSB",
+        "observation": "à côté de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.688cb17a9b222.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.584451,
           48.769687
         ]

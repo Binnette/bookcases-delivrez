@@ -6,6 +6,251 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.980568,
+          49.234547
+        ]
+      },
+      "properties": {
+        "title": "Mairie du Bec Thomas",
+        "lat": "49.2345472",
+        "lon": "0.9805683",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a9b6c7e728a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.345292,
+          49.173663
+        ]
+      },
+      "properties": {
+        "title": "Rue Grentheville",
+        "lat": "49.1736634",
+        "lon": "-0.3452922",
+        "type": "BSB",
+        "observation": "boîte éphémère sur le muret d'une maison",
+        "picture": "https://delivrez.fr/public/posts/img.68974a6cdee14.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.390381,
+          48.697262
+        ]
+      },
+      "properties": {
+        "title": "Rue des Écoles",
+        "lat": "48.6972623",
+        "lon": "-1.3903807",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.146929,
+          49.005737
+        ]
+      },
+      "properties": {
+        "title": "Rue Marcel Gambier",
+        "lat": "49.0057368",
+        "lon": "0.1469293",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.689f7e3e73d50.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.117994,
+          49.286965
+        ]
+      },
+      "properties": {
+        "title": "Avenue Charles de Gaulle",
+        "lat": "49.2869651",
+        "lon": "-0.1179939",
+        "type": "BSB",
+        "observation": "dans un tout petit parc sans arbres, au bord de la route",
+        "picture": "https://delivrez.fr/public/posts/img.689b932e6dbac.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.124646,
+          49.287723
+        ]
+      },
+      "properties": {
+        "title": "Avenue Charles de Gaulle",
+        "lat": "49.2877227",
+        "lon": "-0.1246459",
+        "type": "BSB",
+        "observation": "vers l'entrée du parc, sous les arbres",
+        "picture": "https://delivrez.fr/public/posts/img.689b8f3be474c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.597537,
+          49.167221
+        ]
+      },
+      "properties": {
+        "title": "Rue de Jersey",
+        "lat": "49.167221",
+        "lon": "-1.5975366",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.689b88651dbee.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.115059,
+          49.292541
+        ]
+      },
+      "properties": {
+        "title": "Jardin du Casino",
+        "lat": "49.2925407",
+        "lon": "-0.1150592",
+        "type": "BSB",
+        "observation": "à l'entrée du petit jardin",
+        "picture": "https://delivrez.fr/public/posts/img.689a49f381867.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.112277,
+          49.293046
+        ]
+      },
+      "properties": {
+        "title": "Place Marcel Proust",
+        "lat": "49.293046",
+        "lon": "-0.1122769",
+        "type": "BSB",
+        "observation": "sur un terrain de pétanque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.351925,
+          49.166593
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jeanne d'Arc",
+        "lat": "49.1665934",
+        "lon": "-0.3519253",
+        "type": "BSB",
+        "observation": "au muret d'une maison, sous un petit arbre rafraîchissant",
+        "picture": "https://delivrez.fr/public/posts/img.68975203124c8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34699,
+          49.167211
+        ]
+      },
+      "properties": {
+        "title": "Avenue Capitaine Georges Guynemer",
+        "lat": "49.1672106",
+        "lon": "-0.3469904",
+        "type": "BSB",
+        "observation": "en plein milieu, malheureusement pas d'ombre...",
+        "picture": "https://delivrez.fr/public/posts/img.68974ec4cb1e1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.345219,
+          49.172727
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Leroy",
+        "lat": "49.172727",
+        "lon": "-0.3452187",
+        "type": "BSB",
+        "observation": "boîte éphémère sur un muret de maison",
+        "picture": "https://delivrez.fr/public/posts/img.68974abb82c38.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34638,
+          49.176372
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livre",
+        "lat": "49.1763723",
+        "lon": "-0.3463798",
+        "type": "BSB",
+        "observation": "dans la gare routière",
+        "picture": "https://delivrez.fr/public/posts/img.689746597347b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.900284,
+          48.800608
+        ]
+      },
+      "properties": {
+        "title": "Rue Bernard Amand",
+        "lat": "48.8006081",
+        "lon": "-0.9002844",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6891c5e52fd94.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.181509,
           49.0277
         ]

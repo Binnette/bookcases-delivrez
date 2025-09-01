@@ -6,6 +6,498 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.434287,
+          46.632296
+        ]
+      },
+      "properties": {
+        "title": "rue du gendarme combolio",
+        "lat": "46.6322962",
+        "lon": "1.4342875",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.657103,
+          47.256006
+        ]
+      },
+      "properties": {
+        "title": "Rue Ernest Pinard",
+        "lat": "47.2560065",
+        "lon": "1.6571034",
+        "type": "BSB",
+        "observation": "au Moulin",
+        "picture": "https://delivrez.fr/public/posts/img.68b02f5732af5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.407731,
+          47.08401
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Communes",
+        "lat": "47.0840097",
+        "lon": "2.4077306",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a862dc0ff6d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.911497,
+          47.907465
+        ]
+      },
+      "properties": {
+        "title": "Rue Eugène Vignat",
+        "lat": "47.907465",
+        "lon": "1.9114967",
+        "type": "BSB",
+        "observation": "C est une grande boite transparente, à côté des bancs entourant le petit lac.",
+        "picture": "https://delivrez.fr/public/posts/img.689c8258e50fa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30741,
+          47.809568
+        ]
+      },
+      "properties": {
+        "title": "Rue Orleanaise",
+        "lat": "47.8095683",
+        "lon": "2.30741",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68aa09ce0f9e4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.661205,
+          47.540171
+        ]
+      },
+      "properties": {
+        "title": "Gr Grande Rue",
+        "lat": "47.5401711",
+        "lon": "2.6612045",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a869a6e7d4c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.682337,
+          47.648199
+        ]
+      },
+      "properties": {
+        "title": "rue de Gien à Saint Brisson sur Loire",
+        "lat": "47.6481991",
+        "lon": "2.6823368",
+        "type": "BSB",
+        "observation": "sous abri dédié",
+        "picture": "https://delivrez.fr/public/posts/img.68a6fc9bc3cf5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.490518,
+          47.726469
+        ]
+      },
+      "properties": {
+        "title": "Route de Gien",
+        "lat": "47.7264686",
+        "lon": "2.4905175",
+        "type": "BSB",
+        "observation": "arrêt Bus",
+        "picture": "https://delivrez.fr/public/posts/img.68a44ea5daa13.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.543521,
+          47.698226
+        ]
+      },
+      "properties": {
+        "title": "Route de Gien",
+        "lat": "47.6982262",
+        "lon": "2.543521",
+        "type": "BSB",
+        "observation": "mairie",
+        "picture": "https://delivrez.fr/public/posts/img.68a45bc1d8a3f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.601528,
+          47.597988
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "47.5979883",
+        "lon": "2.6015283",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a0aa477d7f6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.492371,
+          47.619949
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "47.6199492",
+        "lon": "2.4923713",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6899fbb6d0a5d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.212495,
+          47.712544
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "47.7125439",
+        "lon": "2.2124945",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6899bab1bfda8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.178389,
+          46.752738
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Jaurès",
+        "lat": "46.7527383",
+        "lon": "2.1783885",
+        "type": "BSB",
+        "observation": "sous l'ancienne hall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.881823,
+          46.658354
+        ]
+      },
+      "properties": {
+        "title": "Impasse de l'Église",
+        "lat": "46.6583537",
+        "lon": "1.8818233",
+        "type": "BSB",
+        "observation": "en face de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6897139343dc2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.537422,
+          46.846475
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Jaurès",
+        "lat": "46.8464748",
+        "lon": "1.5374217",
+        "type": "BSB",
+        "observation": "a côté des jeux pour enfants",
+        "picture": "https://delivrez.fr/public/posts/img.6895a9ee620da.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.825118,
+          46.849787
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "46.8497875",
+        "lon": "2.8251178",
+        "type": "BSB",
+        "observation": "devant la place",
+        "picture": "https://delivrez.fr/public/posts/img.6895ab017bef5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.338153,
+          46.930615
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Rabelais",
+        "lat": "46.930615",
+        "lon": "1.3381533",
+        "type": "BSB",
+        "observation": "devant la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6894841d663f2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.174847,
+          46.986784
+        ]
+      },
+      "properties": {
+        "title": "Place du Vieux Château",
+        "lat": "46.9867842",
+        "lon": "1.1748474",
+        "type": "BSB",
+        "observation": "a côté de l'Office du tourisme.",
+        "picture": "https://delivrez.fr/public/posts/img.689464f7445cb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.299116,
+          47.252346
+        ]
+      },
+      "properties": {
+        "title": "Chemin de l'École",
+        "lat": "47.2523458",
+        "lon": "0.2991159",
+        "type": "BSB",
+        "observation": "ANCIENNE CABINE TELEPHONIQUE SUR LE PARKING DE L EGLISE",
+        "picture": "https://delivrez.fr/public/posts/img.6890ba1392e45.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.686183,
+          47.384445
+        ]
+      },
+      "properties": {
+        "title": "Rue des Prébendes",
+        "lat": "47.3844446",
+        "lon": "0.6861835",
+        "type": "BSB",
+        "observation": "Située sur le parvis sud-est du jardin des Prébendes.",
+        "picture": "https://delivrez.fr/public/posts/img.688c9f770af4b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.082403,
+          47.026928
+        ]
+      },
+      "properties": {
+        "title": "Rue du Professeur Debré",
+        "lat": "47.0269283",
+        "lon": "1.0824033",
+        "type": "BSB",
+        "observation": "le long de la mairie, à côté des jeux pour enfants",
+        "picture": "https://delivrez.fr/public/posts/img.689369ddb7d1d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.099851,
+          47.059295
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Bondoire",
+        "lat": "47.0592945",
+        "lon": "1.0998511",
+        "type": "BSB",
+        "observation": "place de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.68935f9aa76a6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.014867,
+          47.12286
+        ]
+      },
+      "properties": {
+        "title": "Rue du 11 Novembre",
+        "lat": "47.1228598",
+        "lon": "1.0148671",
+        "type": "BSB",
+        "observation": "angle de la rue",
+        "picture": "https://delivrez.fr/public/posts/img.68934eac7ed0d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.005475,
+          47.148246
+        ]
+      },
+      "properties": {
+        "title": "Rue des Petites Maisons",
+        "lat": "47.1482456",
+        "lon": "1.0054752",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68932a055b82d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.629879,
+          47.276616
+        ]
+      },
+      "properties": {
+        "title": "Rue du Val de l'Indre",
+        "lat": "47.2766163",
+        "lon": "0.6298791",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.6891deb3035d0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.467368,
+          47.261509
+        ]
+      },
+      "properties": {
+        "title": "Place de la République",
+        "lat": "47.2615088",
+        "lon": "0.4673678",
+        "type": "BSB",
+        "observation": "dans une cabine téléphonique de style anglais",
+        "picture": "https://delivrez.fr/public/posts/img.6891bfd4a2448.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.355322,
+          47.29483
+        ]
+      },
+      "properties": {
+        "title": "Rue des Déportés",
+        "lat": "47.29483",
+        "lon": "0.3553217",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6890adac6ba37.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.781148,
+          47.683528
+        ]
+      },
+      "properties": {
+        "title": "Rue du Général de Gaulle",
+        "lat": "47.6835284",
+        "lon": "1.7811484",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.688a476125ac2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.185182,
           48.115876
         ]
@@ -3771,23 +4263,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.629879,
-          47.276616
-        ]
-      },
-      "properties": {
-        "title": "Rue du Val de l'Indre",
-        "lat": "47.2766163",
-        "lon": "0.6298791",
-        "type": "BSB",
-        "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.872806,
           47.471672
         ]
@@ -5300,23 +5775,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.299168,
-          47.252331
-        ]
-      },
-      "properties": {
-        "title": "57 Rue Principale",
-        "lat": "47.2523307",
-        "lon": "0.2991676",
-        "type": "BSB",
-        "observation": "ANCIENNE CABINE TELEPHONIQUE SUR LE PARKING DE L EGLISE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.472639,
           47.689568
         ]
@@ -5483,22 +5941,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.407795,
-          47.084124
-        ]
-      },
-      "properties": {
-        "title": "63 chemin des commnes",
-        "lat": "47.0841243",
-        "lon": "2.4077952",
-        "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.804042,
           47.560268
         ]
@@ -5592,23 +6034,6 @@
         "lat": "47.481288",
         "lon": "0.883656",
         "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.686348,
-          47.384416
-        ]
-      },
-      "properties": {
-        "title": "40, rue des Prébendes",
-        "lat": "47.3844156",
-        "lon": "0.6863477",
-        "type": "BSB",
-        "observation": "Située sur le parvis sud-est du jardin des Prébendes."
       }
     },
     {
@@ -7498,23 +7923,6 @@
         "lat": "46.8094906",
         "lon": "1.6910657",
         "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.911541,
-          47.907383
-        ]
-      },
-      "properties": {
-        "title": "Parc pasteur",
-        "lat": "47.9073826",
-        "lon": "1.9115405",
-        "type": "BSB",
-        "observation": "C est une grande boite transparente, à côté des bancs entourant le petit lac."
       }
     },
     {

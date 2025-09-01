@@ -6,6 +6,144 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.486023,
+          48.80854
+        ]
+      },
+      "properties": {
+        "title": "boite à livres Avenue Gabriel Péri",
+        "lat": "48.8085399",
+        "lon": "2.4860234",
+        "type": "BSB",
+        "observation": "à l'entrée du square victor basch",
+        "picture": "https://delivrez.fr/public/posts/img.68a74d78676bb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333132,
+          48.855071
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Benoît",
+        "lat": "48.8550706",
+        "lon": "2.333132",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a9716b15962.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.184189,
+          48.560864
+        ]
+      },
+      "properties": {
+        "title": "Rue des Cosnardières",
+        "lat": "48.5608642",
+        "lon": "2.1841894",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a578648cb57.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.319338,
+          48.840149
+        ]
+      },
+      "properties": {
+        "title": "Allée de la Deuxième D.b",
+        "lat": "48.8401492",
+        "lon": "2.319338",
+        "type": "BSB",
+        "observation": "boîte à livre dans le jardin au dessus de la gare, en plein soleil",
+        "picture": "https://delivrez.fr/public/posts/img.68a1b4e970054.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.399258,
+          48.875305
+        ]
+      },
+      "properties": {
+        "title": "parc du Télégraphe",
+        "lat": "48.8753052",
+        "lon": "2.3992583",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6893236d421f5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.396212,
+          48.870817
+        ]
+      },
+      "properties": {
+        "title": "square des saint-simoniens",
+        "lat": "48.8708167",
+        "lon": "2.3962124",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68923a22e9691.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.012009,
+          48.529465
+        ]
+      },
+      "properties": {
+        "title": "Rue de Chartres",
+        "lat": "48.5294652",
+        "lon": "2.0120086",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6891eeb02cb19.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.01051,
+          48.526909
+        ]
+      },
+      "properties": {
+        "title": "Place Bad Wiessee",
+        "lat": "48.5269087",
+        "lon": "2.01051",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6891eb0e74553.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.266427,
           48.722186
         ]

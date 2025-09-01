@@ -6,6 +6,127 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.95962,
+          43.086805
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "43.0868051",
+        "lon": "2.95962",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68af4cb3d79fc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.126976,
+          44.875401
+        ]
+      },
+      "properties": {
+        "title": "Albaret le Comtal",
+        "lat": "44.8754012",
+        "lon": "3.1269761",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a866d714f08.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.76478,
+          43.522677
+        ]
+      },
+      "properties": {
+        "title": "Place centrale",
+        "lat": "43.5226772",
+        "lon": "0.7647804",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a46de9222a8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.884093,
+          43.656315
+        ]
+      },
+      "properties": {
+        "title": "Avenue Charles de Gaulle",
+        "lat": "43.6563145",
+        "lon": "3.8840929",
+        "type": "BSB",
+        "observation": "Sous le kiosk",
+        "picture": "https://delivrez.fr/public/posts/img.68a03108013eb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.59222,
+          43.165435
+        ]
+      },
+      "properties": {
+        "title": "Rue Théophile Delcassé",
+        "lat": "43.1654347",
+        "lon": "1.5922202",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.689b423bb9962.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.438356,
+          43.605983
+        ]
+      },
+      "properties": {
+        "title": "Rue Valade",
+        "lat": "43.605983",
+        "lon": "1.4383559",
+        "type": "BSB",
+        "observation": "boite acollée au nr 40 face à l'université",
+        "picture": "https://delivrez.fr/public/posts/img.689b15d3ce7bf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.438014,
+          44.444675
+        ]
+      },
+      "properties": {
+        "title": "Allées Fénelon",
+        "lat": "44.4446747",
+        "lon": "1.438014",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6899e2fa40736.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.213777,
           43.501007
         ]
@@ -2231,23 +2352,6 @@
         "lon": "3.8560287",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.65673006604a9.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.438356,
-          43.605983
-        ]
-      },
-      "properties": {
-        "title": "Rue Valade",
-        "lat": "43.605983",
-        "lon": "1.4383559",
-        "type": "BSB",
-        "observation": "boite acollée au nr 40 face à l'université"
       }
     },
     {

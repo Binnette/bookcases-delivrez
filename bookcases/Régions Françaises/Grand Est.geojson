@@ -6,6 +6,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.162923,
+          48.662864
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Général Leclerc",
+        "lat": "48.6628644",
+        "lon": "6.1629226",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.160678,
+          49.105196
+        ]
+      },
+      "properties": {
+        "title": "jardin botanique",
+        "lat": "49.1051958",
+        "lon": "6.1606784",
+        "type": "BSB",
+        "observation": "accolé à une maison",
+        "picture": "https://delivrez.fr/public/posts/img.68af3ea0ae36a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.159302,
+          48.692872
+        ]
+      },
+      "properties": {
+        "title": "Parc de la cure d'air, Sentier des Vignes",
+        "lat": "48.6928724",
+        "lon": "6.1593023",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a453c17aa63.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.334805,
+          48.89457
+        ]
+      },
+      "properties": {
+        "title": "Rue de Nuisement",
+        "lat": "48.89457",
+        "lon": "4.334805",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a1d80e0bed2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.838381,
+          47.963575
+        ]
+      },
+      "properties": {
+        "title": "Rue des Grands Meix",
+        "lat": "47.9635753",
+        "lon": "6.838381",
+        "type": "BSB",
+        "observation": "face a l'école  maternelle sous le préaux",
+        "picture": "https://delivrez.fr/public/posts/img.688cd910dcfe2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.821961,
           47.857524
         ]

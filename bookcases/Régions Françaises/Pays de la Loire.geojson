@@ -6,6 +6,471 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.464407,
+          47.410219
+        ]
+      },
+      "properties": {
+        "title": "Rue du Port",
+        "lat": "47.4102193",
+        "lon": "-2.4644074",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68af22ec22b39.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.34483,
+          47.264528
+        ]
+      },
+      "properties": {
+        "title": "Boulevard des Océanides",
+        "lat": "47.2645281",
+        "lon": "-2.3448296",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68acb7732edc5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.166938,
+          47.247162
+        ]
+      },
+      "properties": {
+        "title": "Place de la Victoire",
+        "lat": "47.2471616",
+        "lon": "-2.1669378",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a83cad7d30f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.507292,
+          47.620646
+        ]
+      },
+      "properties": {
+        "title": "Rue du Prieuré",
+        "lat": "47.6206463",
+        "lon": "-0.5072918",
+        "type": "BSB",
+        "observation": "Buffet vitré installé en avril 2015 par les bénévoles de la bibliothèque de Cheffes, sous le porche du square de la mairie.",
+        "picture": "https://delivrez.fr/public/posts/img.68a0801ec59a2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.183329,
+          47.524509
+        ]
+      },
+      "properties": {
+        "title": "Place du Commerce",
+        "lat": "47.524509",
+        "lon": "-1.183329",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a89f7c45a50.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.957174,
+          46.758569
+        ]
+      },
+      "properties": {
+        "title": "Rue Georges Clemenceau",
+        "lat": "46.7585694",
+        "lon": "-0.9571743",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ab3aabdb752.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.919724,
+          46.715873
+        ]
+      },
+      "properties": {
+        "title": "Rue des Vieux Métiers",
+        "lat": "46.7158733",
+        "lon": "-0.9197242",
+        "type": "BSB",
+        "observation": "derrière la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.68ab37c859152.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.419835,
+          47.496054
+        ]
+      },
+      "properties": {
+        "title": "dans le parc",
+        "lat": "47.4960538",
+        "lon": "-1.4198352",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a89986259eb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.499127,
+          47.440063
+        ]
+      },
+      "properties": {
+        "title": "Rue du Maquis de Saffré",
+        "lat": "47.4400633",
+        "lon": "-1.4991265",
+        "type": "BSB",
+        "observation": "devant l'église",
+        "picture": "https://delivrez.fr/public/posts/img.68a8912ba4cb9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.31675,
+          47.244088
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Littoral",
+        "lat": "47.244088",
+        "lon": "-2.3167503",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68a49aab5389f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.80692,
+          46.640601
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livres landevieille",
+        "lat": "46.6406006",
+        "lon": "-1.80692",
+        "type": "BSB",
+        "observation": "Derrière la mairie dans le petit square"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.668382,
+          47.459304
+        ]
+      },
+      "properties": {
+        "title": "Place de la Croisée",
+        "lat": "47.459304",
+        "lon": "-0.6683824",
+        "type": "BSB",
+        "observation": "Devant la salle Le Carré d'As",
+        "picture": "https://delivrez.fr/public/posts/img.68a1c4ea1b688.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.198707,
+          47.843472
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Épervier",
+        "lat": "47.8434725",
+        "lon": "-0.1987072",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.210712,
+          47.832815
+        ]
+      },
+      "properties": {
+        "title": "Place des Comtes de Belin",
+        "lat": "47.832815",
+        "lon": "0.2107124",
+        "type": "BSB",
+        "observation": "place de l'église et de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.030844,
+          47.901391
+        ]
+      },
+      "properties": {
+        "title": "Rue de la mairie",
+        "lat": "47.9013909",
+        "lon": "-0.030844",
+        "type": "BSB",
+        "observation": "place de l'église"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.027211,
+          47.889719
+        ]
+      },
+      "properties": {
+        "title": "La Suze sur Sarthe",
+        "lat": "47.8897186",
+        "lon": "0.027211",
+        "type": "BSB",
+        "observation": "Place de l'église, devant l'hôtel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.250174,
+          47.949756
+        ]
+      },
+      "properties": {
+        "title": "Poillé sur Vègre",
+        "lat": "47.9497558",
+        "lon": "-0.2501744",
+        "type": "BSB",
+        "observation": "Intersection de la place Madeleine, contrebas du distributeur de pain, direction D79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.330425,
+          47.839504
+        ]
+      },
+      "properties": {
+        "title": "Place Domaine Guéranger",
+        "lat": "47.839504",
+        "lon": "-0.3304253",
+        "type": "BSB",
+        "observation": "milieu de la place en forme, forme de sablé",
+        "picture": "https://delivrez.fr/public/posts/img.689b93fe53302.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.035114,
+          48.250078
+        ]
+      },
+      "properties": {
+        "title": "Route de Roche Brune",
+        "lat": "48.2500781",
+        "lon": "-0.0351143",
+        "type": "BSB",
+        "observation": "Sur le parking de l'espace associatif au niveau de l'air de jeux pour enfants",
+        "picture": "https://delivrez.fr/public/posts/img.689a1223cecb0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0471,
+          47.796552
+        ]
+      },
+      "properties": {
+        "title": "place de la république",
+        "lat": "47.796552",
+        "lon": "-0.0471004",
+        "type": "BSB",
+        "observation": "au milieu de la place avant la Charette"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.467899,
+          47.614394
+        ]
+      },
+      "properties": {
+        "title": "Rue du Val de Sarthe",
+        "lat": "47.6143941",
+        "lon": "-0.4678993",
+        "type": "BSB",
+        "observation": "derrière la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6898d07194891.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.129279,
+          48.182922
+        ]
+      },
+      "properties": {
+        "title": "Place de la République",
+        "lat": "48.1829217",
+        "lon": "-0.1292788",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.198348,
+          48.159571
+        ]
+      },
+      "properties": {
+        "title": "Rue du Maine",
+        "lat": "48.1595708",
+        "lon": "-0.1983477",
+        "type": "BSB",
+        "observation": "place de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.546067,
+          47.380772
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "47.380772",
+        "lon": "-2.5460671",
+        "type": "BSB",
+        "observation": "Boite située près du calvaire.",
+        "picture": "https://delivrez.fr/public/posts/img.688efc1dee303.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.301151,
+          47.020109
+        ]
+      },
+      "properties": {
+        "title": "Place Roger Ganachaud",
+        "lat": "47.0201089",
+        "lon": "-2.3011507",
+        "type": "BSB",
+        "observation": "dans le square ganachaud",
+        "picture": "https://delivrez.fr/public/posts/img.688f8787f0593.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.543401,
+          47.381521
+        ]
+      },
+      "properties": {
+        "title": "Rue du Fort Baron",
+        "lat": "47.3815207",
+        "lon": "-2.5434006",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.341294,
+          47.259036
+        ]
+      },
+      "properties": {
+        "title": "Boulevard du Port",
+        "lat": "47.259036",
+        "lon": "-2.3412939",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.688a2b5619f6b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.560226,
           47.467746
         ]
@@ -3444,23 +3909,6 @@
         "lon": "-1.5541081",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.65bfa2df765de.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.166798,
-          47.247151
-        ]
-      },
-      "properties": {
-        "title": "Place de la Victoire",
-        "lat": "47.2471507",
-        "lon": "-2.166798",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.65be66a1680e8.png"
       }
     },
     {
@@ -8437,23 +8885,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.546219,
-          47.380773
-        ]
-      },
-      "properties": {
-        "title": "Place de l'église",
-        "lat": "47.380773",
-        "lon": "-2.5462186",
-        "type": "BSB",
-        "observation": "Boite située près du calvaire."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.231745,
           47.815351
         ]
@@ -9205,23 +9636,6 @@
         "lon": "-1.064832",
         "type": "BSB",
         "observation": "En face l église"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.506958,
-          47.620626
-        ]
-      },
-      "properties": {
-        "title": "Square Renée Goujon",
-        "lat": "47.6206264",
-        "lon": "-0.5069582",
-        "type": "BSB",
-        "observation": "Buffet vitré installé en avril 2015 par les bénévoles de la bibliothèque de Cheffes, sous le porche du square de la mairie."
       }
     },
     {
