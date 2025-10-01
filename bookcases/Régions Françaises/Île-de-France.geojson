@@ -6,6 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.277568,
+          48.550675
+        ]
+      },
+      "properties": {
+        "title": "Route d'Arpajon",
+        "lat": "48.5506749",
+        "lon": "2.2775679",
+        "type": "BSB",
+        "observation": "Au croisement de la route d Arpajon et la route de Marolles, sur le petit parking de l'épicerie",
+        "picture": "https://delivrez.fr/public/posts/img.68b7eef61fa23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.274358,
+          48.431336
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "48.4313363",
+        "lon": "2.2743576",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c43b78c5220.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.486023,
           48.80854
         ]
@@ -4312,23 +4347,6 @@
         "lon": "2.0858503",
         "type": "BSB",
         "observation": "Au croisement des deux rues."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.277524,
-          48.550752
-        ]
-      },
-      "properties": {
-        "title": "2 route d Arpajon",
-        "lat": "48.5507521",
-        "lon": "2.2775242",
-        "type": "BSB",
-        "observation": "Au croisement de la route d Arpajon et la route de Marolles, sur le petit parking de l'épicerie"
       }
     },
     {

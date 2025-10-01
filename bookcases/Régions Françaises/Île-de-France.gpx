@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.550675" lon="2.277568">
+    <name>Route d'Arpajon</name>
+    <desc>Au croisement de la route d Arpajon et la route de Marolles, sur le petit parking de l'épicerie</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.431336" lon="2.274358">
+    <name>Rue de la Mairie</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.80854" lon="2.486023">
     <name>boite à livres Avenue Gabriel Péri</name>
     <desc>à l'entrée du square victor basch</desc>
@@ -2483,16 +2503,6 @@
   <wpt lat="49.043038" lon="2.08585">
     <name>10 Avenue Adolphe Chauvin</name>
     <desc>Au croisement des deux rues.</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.550752" lon="2.277524">
-    <name>2 route d Arpajon</name>
-    <desc>Au croisement de la route d Arpajon et la route de Marolles, sur le petit parking de l'épicerie</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

@@ -6,6 +6,95 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.806299,
+          46.878821
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Cuisance",
+        "lat": "46.8788205",
+        "lon": "5.8062993",
+        "type": "BSB",
+        "observation": "Dans l'arrêt de bus",
+        "picture": "https://delivrez.fr/public/posts/img.68ce933001c8b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.531747,
+          47.512088
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Ancien Couvent",
+        "lat": "47.512088",
+        "lon": "4.5317472",
+        "type": "BSB",
+        "observation": "dans la cour partagée entre la librairie et l'épicerie",
+        "picture": "https://delivrez.fr/public/posts/img.68caad7de350e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.681397,
+          46.996513
+        ]
+      },
+      "properties": {
+        "title": "Route du Barrage",
+        "lat": "46.9965135",
+        "lon": "3.6813974",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68bc29e03c2a6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.706843,
+          47.562879
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "47.5628794",
+        "lon": "6.7068432",
+        "type": "BSB",
+        "observation": "près de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.68b2f0cf0d5e9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.318048,
+          47.500171
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "47.5001705",
+        "lon": "6.3180479",
+        "type": "BSB",
+        "observation": "mairie",
+        "picture": "https://delivrez.fr/public/posts/img.68b2fc8b3e397.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.582404,
           46.832298
         ]

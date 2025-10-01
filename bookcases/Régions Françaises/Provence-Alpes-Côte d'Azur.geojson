@@ -6,6 +6,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.048683,
+          44.528768
+        ]
+      },
+      "properties": {
+        "title": "Serviolan",
+        "lat": "44.5287683",
+        "lon": "6.0486833",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c52160c904d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.058938,
+          44.581798
+        ]
+      },
+      "properties": {
+        "title": "charance",
+        "lat": "44.5817976",
+        "lon": "6.0589384",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c6b81bcd227.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.164615,
+          43.382897
+        ]
+      },
+      "properties": {
+        "title": "Place Bellot",
+        "lat": "43.382897",
+        "lon": "5.1646154",
+        "type": "BSB",
+        "observation": "Au niveau de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.68b8375fbc121.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.293846,
           43.710707
         ]

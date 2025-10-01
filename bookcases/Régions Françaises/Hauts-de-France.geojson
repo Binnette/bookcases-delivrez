@@ -6,6 +6,369 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.081809,
+          50.489778
+        ]
+      },
+      "properties": {
+        "title": "205, Rue de l'Offrande",
+        "lat": "50.4897781",
+        "lon": "3.0818094",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.68da47c1bf199.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.055994,
+          50.477268
+        ]
+      },
+      "properties": {
+        "title": "Rue Léon Blum",
+        "lat": "50.4772681",
+        "lon": "3.0559938",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.68da49bc90ab9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.802303,
+          50.431385
+        ]
+      },
+      "properties": {
+        "title": "Rue Paul Bert",
+        "lat": "50.4313851",
+        "lon": "2.8023033",
+        "type": "BSB",
+        "observation": "dans le jardin du Louvre lens",
+        "picture": "https://delivrez.fr/public/posts/img.68d7c575728e3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.238192,
+          50.17041
+        ]
+      },
+      "properties": {
+        "title": "Allée des Soupirs",
+        "lat": "50.17041",
+        "lon": "3.2381924",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68d11b4b56bde.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.931335,
+          50.332577
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Abreuvoir",
+        "lat": "50.332577",
+        "lon": "2.9313349",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68caa4d35a6ff.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.26567,
+          50.193438
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Jaurès",
+        "lat": "50.1934384",
+        "lon": "3.2656697",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68d667e94a83f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.842004,
+          50.535874
+        ]
+      },
+      "properties": {
+        "title": "Rue Pasteur",
+        "lat": "50.5358739",
+        "lon": "2.8420039",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68cbf9eaa7e31.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.987493,
+          50.320435
+        ]
+      },
+      "properties": {
+        "title": "Rue d'Artois",
+        "lat": "50.3204351",
+        "lon": "2.9874927",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ca9a43b21fd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.014094,
+          50.335739
+        ]
+      },
+      "properties": {
+        "title": "Rue du Vieux Chemin de Vitry",
+        "lat": "50.3357391",
+        "lon": "3.0140936",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ca8fa97c0dd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.319161,
+          50.426827
+        ]
+      },
+      "properties": {
+        "title": "Rue Emile Ledoux",
+        "lat": "50.4268272",
+        "lon": "3.3191608",
+        "type": "BSB",
+        "observation": "Juste devant la mairie.",
+        "picture": "https://delivrez.fr/public/posts/img.68b959eca049f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.69429,
+          50.314738
+        ]
+      },
+      "properties": {
+        "title": "Rue de Montreuil",
+        "lat": "50.3147385",
+        "lon": "1.6942901",
+        "type": "BSB",
+        "observation": "Petite boîte à lire de couleur rouge, à proximité du camping",
+        "picture": "https://delivrez.fr/public/posts/img.68b1616b548be.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.226799,
+          50.674059
+        ]
+      },
+      "properties": {
+        "title": "Rue du Fresnoy",
+        "lat": "50.674059",
+        "lon": "3.2267988",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ac88a239750.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.373139,
+          50.417941
+        ]
+      },
+      "properties": {
+        "title": "Rue Victor Renard",
+        "lat": "50.4179406",
+        "lon": "3.3731391",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b9565d60dd9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.464408,
+          50.36975
+        ]
+      },
+      "properties": {
+        "title": "Rue Henri Maurice",
+        "lat": "50.3697503",
+        "lon": "3.4644079",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68bc1728ce274.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.818139,
+          50.483399
+        ]
+      },
+      "properties": {
+        "title": "Rue Pierre Malvoisin",
+        "lat": "50.4833988",
+        "lon": "2.8181386",
+        "type": "BSB",
+        "observation": "devant la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.68bc3299bb77d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.479274,
+          50.382953
+        ]
+      },
+      "properties": {
+        "title": "Rue Anatole France",
+        "lat": "50.3829527",
+        "lon": "3.4792738",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68bc139729468.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.479342,
+          50.492818
+        ]
+      },
+      "properties": {
+        "title": "Rue de Longwy",
+        "lat": "50.4928181",
+        "lon": "2.4793416",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b959179cd55.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.38558,
+          50.433498
+        ]
+      },
+      "properties": {
+        "title": "Rue Roger Salengro",
+        "lat": "50.4334977",
+        "lon": "3.3855803",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b94f3fd21c2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.375378,
+          50.197103
+        ]
+      },
+      "properties": {
+        "title": "Rue du 8 Mai 1945",
+        "lat": "50.1971032",
+        "lon": "3.3753778",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b31266e9db4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.387448,
+          50.19355
+        ]
+      },
+      "properties": {
+        "title": "Rue Lucien Sampaix",
+        "lat": "50.1935502",
+        "lon": "3.3874479",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b2bb7f6ce9f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.130991,
+          50.727425
+        ]
+      },
+      "properties": {
+        "title": "Rue Blaise Pascal",
+        "lat": "50.7274252",
+        "lon": "3.1309914",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b172da5ee23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.127664,
           50.670487
         ]
@@ -2260,23 +2623,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.226997,
-          50.674242
-        ]
-      },
-      "properties": {
-        "title": "Rue du Fresnoy",
-        "lat": "50.6742423",
-        "lon": "3.2269966",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.66c864778cbde.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.839254,
           50.704608
         ]
@@ -4025,23 +4371,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.055994,
-          50.477268
-        ]
-      },
-      "properties": {
-        "title": "Rue Léon Blum",
-        "lat": "50.4772681",
-        "lon": "3.0559938",
-        "type": "BSB",
-        "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           2.294766,
           49.895517
         ]
@@ -5749,23 +6078,6 @@
         "title": "Rue du Moulin",
         "lat": "50.0364449",
         "lon": "3.4552807",
-        "type": "BSB",
-        "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.081809,
-          50.489778
-        ]
-      },
-      "properties": {
-        "title": "205, Rue de l'Offrande",
-        "lat": "50.4897781",
-        "lon": "3.0818094",
         "type": "BSB",
         "observation": "_"
       }
@@ -8926,23 +9238,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.694147,
-          50.314846
-        ]
-      },
-      "properties": {
-        "title": "29 Route de Montreuil",
-        "lat": "50.3148459",
-        "lon": "1.6941466",
-        "type": "BSB",
-        "observation": "Petite boîte à lire de couleur rouge, à proximité du camping"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.025753,
           50.631146
         ]
@@ -9867,23 +10162,6 @@
         "lon": "3.0865894",
         "type": "BSB",
         "observation": "Ancienne cabine téléphonique aménagée et peinte en multicolore, face au laboratoire."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.319152,
-          50.42688
-        ]
-      },
-      "properties": {
-        "title": "300 rue Émile d'Herbometz",
-        "lat": "50.4268798",
-        "lon": "3.3191521",
-        "type": "BSB",
-        "observation": "Juste devant la mairie."
       }
     },
     {

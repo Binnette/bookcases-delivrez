@@ -1,5 +1,55 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.606919" lon="1.666131">
+    <name>Boites à lire</name>
+    <desc>J'en suis le concepteur et elle existe depuis 2017. Sa localisation précise est 30 rue de la garenne au moine 28230 EPERNON</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.899177" lon="1.902617">
+    <name>Place du Vieux Marché</name>
+    <desc>Une petite boîte transparente sur une place fréquentée, avec des bancs, des vélos du réseau urbain et un parking.</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.511826" lon="1.55108">
+    <name>Rue de la Chapelle</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.689664" lon="2.474805">
+    <name>Rue de Villemurlin</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.742119" lon="2.442043">
+    <name>Rue de la Mairie</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.632296" lon="1.434287">
     <name>rue du gendarme combolio</name>
     <desc></desc>
@@ -4383,16 +4433,6 @@
   <wpt lat="48.001178" lon="2.516693">
     <name>200 route de bellegarde</name>
     <desc>La boîte à livres est dans le HALL du GARAGE MASSING station service AVIA</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.899006" lon="1.902682">
-    <name>Place du vieux marché</name>
-    <desc>Une petite boîte transparente sur une place fréquentée, avec des bancs, des vélos du réseau urbain et un parking.</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

@@ -6,6 +6,142 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.572352,
+          48.81479
+        ]
+      },
+      "properties": {
+        "title": "Allée de la Plage",
+        "lat": "48.8147895",
+        "lon": "-1.5723522",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68d6624c74e51.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.844172,
+          49.564637
+        ]
+      },
+      "properties": {
+        "title": "Place des Tamaris",
+        "lat": "49.5646373",
+        "lon": "-1.8441722",
+        "type": "BSB",
+        "observation": "a cote des toilettes publiques",
+        "picture": "https://delivrez.fr/public/posts/img.68d2c334380c8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.579672,
+          49.641132
+        ]
+      },
+      "properties": {
+        "title": "mairie tourlaville",
+        "lat": "49.6411317",
+        "lon": "-1.5796717",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.579898,
+          49.647085
+        ]
+      },
+      "properties": {
+        "title": "Résidence Diderot",
+        "lat": "49.647085",
+        "lon": "-1.5798983",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.527362,
+          48.739082
+        ]
+      },
+      "properties": {
+        "title": "Route du Hamel",
+        "lat": "48.739082",
+        "lon": "-1.5273617",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68cba8cadbefe.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.152917,
+          49.021756
+        ]
+      },
+      "properties": {
+        "title": "Rue Franklin Delano Roosevelt",
+        "lat": "49.0217558",
+        "lon": "1.1529172",
+        "type": "BSB",
+        "observation": "Boite à lire installée par l'association de quartier Carrement Voisins.",
+        "picture": "https://delivrez.fr/public/posts/img.68ada961312aa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7263,
+          48.319389
+        ]
+      },
+      "properties": {
+        "title": "Rue du Cheval Blanc",
+        "lat": "48.3193894",
+        "lon": "0.7263002",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68bb338e5f791.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.743104,
+          48.34679
+        ]
+      },
+      "properties": {
+        "title": "rue du verger",
+        "lat": "48.3467903",
+        "lon": "0.7431041",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68bb3017e19da.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.980568,
           49.234547
         ]
@@ -8219,23 +8355,6 @@
         "lon": "1.1531353",
         "type": "BSB",
         "observation": "Boite à lire mise en place par l'association de quartier Carrement Voisins, en face de l'école du Puits Carré."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.152803,
-          49.021873
-        ]
-      },
-      "properties": {
-        "title": "28 rue franklin roosevelt",
-        "lat": "49.0218726",
-        "lon": "1.1528028",
-        "type": "BSB",
-        "observation": "Boite à lire installée par l'association de quartier Carrement Voisins."
       }
     },
     {

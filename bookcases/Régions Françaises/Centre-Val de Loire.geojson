@@ -6,6 +6,93 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.666131,
+          48.606919
+        ]
+      },
+      "properties": {
+        "title": "Boites à lire",
+        "lat": "48.6069188",
+        "lon": "1.6661312",
+        "type": "BSB",
+        "observation": "J'en suis le concepteur et elle existe depuis 2017. Sa localisation précise est 30 rue de la garenne au moine 28230 EPERNON",
+        "picture": "https://delivrez.fr/public/posts/img.68cd4fd0d70f9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.902617,
+          47.899177
+        ]
+      },
+      "properties": {
+        "title": "Place du Vieux Marché",
+        "lat": "47.8991772",
+        "lon": "1.9026171",
+        "type": "BSB",
+        "observation": "Une petite boîte transparente sur une place fréquentée, avec des bancs, des vélos du réseau urbain et un parking.",
+        "picture": "https://delivrez.fr/public/posts/img.68c01d7b8e058.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.55108,
+          48.511826
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Chapelle",
+        "lat": "48.5118261",
+        "lon": "1.5510802",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c2e6f70040d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.474805,
+          47.689664
+        ]
+      },
+      "properties": {
+        "title": "Rue de Villemurlin",
+        "lat": "47.6896638",
+        "lon": "2.474805",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b41a3e34358.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.442043,
+          47.742119
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "47.7421188",
+        "lon": "2.4420427",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b41851b88a2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.434287,
           46.632296
         ]
@@ -7536,23 +7623,6 @@
         "lon": "2.5166932",
         "type": "BSB",
         "observation": "La boîte à livres est dans le HALL du GARAGE MASSING station service AVIA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.902682,
-          47.899006
-        ]
-      },
-      "properties": {
-        "title": "Place du vieux marché",
-        "lat": "47.8990058",
-        "lon": "1.9026823",
-        "type": "BSB",
-        "observation": "Une petite boîte transparente sur une place fréquentée, avec des bancs, des vélos du réseau urbain et un parking."
       }
     },
     {

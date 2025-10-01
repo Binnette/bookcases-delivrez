@@ -6,6 +6,164 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.065979,
+          46.784289
+        ]
+      },
+      "properties": {
+        "title": "place Clémenceau",
+        "lat": "46.7842893",
+        "lon": "-1.0659788",
+        "type": "BSB",
+        "observation": "mur de la crêperie (face à la boulangerie)",
+        "picture": "https://delivrez.fr/public/posts/img.68cd9a6bba341.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.427285,
+          46.653814
+        ]
+      },
+      "properties": {
+        "title": "Centre Viollet le Duc",
+        "lat": "46.6538139",
+        "lon": "-1.4272845",
+        "type": "BSB",
+        "observation": "A coté de la fontaine",
+        "picture": "https://delivrez.fr/public/posts/img.68b83ad23d828.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.037742,
+          47.560718
+        ]
+      },
+      "properties": {
+        "title": "Place du Marché",
+        "lat": "47.5607177",
+        "lon": "-1.0377416",
+        "type": "BSB",
+        "observation": "a côté de la bibliothèque",
+        "picture": "https://delivrez.fr/public/posts/img.68c56f269c911.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.429805,
+          46.668989
+        ]
+      },
+      "properties": {
+        "title": "Rue la Fayette",
+        "lat": "46.668989",
+        "lon": "-1.4298048",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c2e46a774c4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.012949,
+          46.870636
+        ]
+      },
+      "properties": {
+        "title": "Rue nationale",
+        "lat": "46.8706363",
+        "lon": "-1.0129488",
+        "type": "BSB",
+        "observation": "Rotary club face à une école",
+        "picture": "https://delivrez.fr/public/posts/img.68c1b2586de69.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.402908,
+          46.661432
+        ]
+      },
+      "properties": {
+        "title": "Rue du Général Guérin",
+        "lat": "46.6614321",
+        "lon": "-1.4029081",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68bf094fe9c4a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.20253,
+          48.338269
+        ]
+      },
+      "properties": {
+        "title": "Route des Vallées",
+        "lat": "48.3382686",
+        "lon": "0.20253",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b8088d94c66.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.423611,
+          46.660292
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Launois",
+        "lat": "46.6602917",
+        "lon": "-1.4236106",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b83cd3e9684.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.887633,
+          47.067085
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Guy Chouteau",
+        "lat": "47.0670851",
+        "lon": "-0.8876334",
+        "type": "BSB",
+        "observation": "devant le sacré coeur",
+        "picture": "https://delivrez.fr/public/posts/img.68b3fc1531b2a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.464407,
           47.410219
         ]
@@ -6499,23 +6657,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.012949,
-          46.870636
-        ]
-      },
-      "properties": {
-        "title": "Rue nationale",
-        "lat": "46.8706363",
-        "lon": "-1.0129488",
-        "type": "BSB",
-        "observation": "Rotary club face à une école"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.532557,
           47.399494
         ]
@@ -9704,23 +9845,6 @@
         "lon": "-0.5627044",
         "type": "BSB",
         "observation": "Un frigo en guise de boîte à livres, une belle initiatives de la bibliothèque de Marigné!"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.427085,
-          46.653995
-        ]
-      },
-      "properties": {
-        "title": "Place viollet le duc",
-        "lat": "46.653994857045106",
-        "lon": "-1.4270853996276855",
-        "type": "BSB",
-        "observation": "A coté de la fontaine"
       }
     },
     {

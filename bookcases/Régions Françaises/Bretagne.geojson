@@ -6,6 +6,368 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.632452,
+          47.8164
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Mélaine",
+        "lat": "47.8164003",
+        "lon": "-3.6324519",
+        "type": "BSB",
+        "observation": "jardin public",
+        "picture": "https://delivrez.fr/public/posts/img.68d94785566d9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.414805,
+          48.060809
+        ]
+      },
+      "properties": {
+        "title": "au restaurant",
+        "lat": "48.0608087",
+        "lon": "-3.4148053",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68cd2f3888c8d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.994386,
+          47.72077
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-André",
+        "lat": "47.7207697",
+        "lon": "-2.9943857",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ce6b55d0020.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.285154,
+          48.081476
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "48.0814764",
+        "lon": "-2.2851537",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68cd33d773739.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.985912,
+          47.667012
+        ]
+      },
+      "properties": {
+        "title": "Rue du Lait",
+        "lat": "47.6670122",
+        "lon": "-2.9859123",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68cd213255dd0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.089935,
+          48.846068
+        ]
+      },
+      "properties": {
+        "title": "Kermen",
+        "lat": "48.8460678",
+        "lon": "-3.0899353",
+        "type": "BSB",
+        "observation": "bateau debout",
+        "picture": "https://delivrez.fr/public/posts/img.68cbe0083029c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.382588,
+          47.811714
+        ]
+      },
+      "properties": {
+        "title": "Rue Mère Yvonne Aimée",
+        "lat": "47.8117139",
+        "lon": "-2.3825884",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ca7a4a9e1e3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.728447,
+          47.649009
+        ]
+      },
+      "properties": {
+        "title": "Limur",
+        "lat": "47.6490089",
+        "lon": "-2.7284472",
+        "type": "BSB",
+        "observation": "très bien garnie et en bon état"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.041682,
+          48.492678
+        ]
+      },
+      "properties": {
+        "title": "Place du Villers",
+        "lat": "48.4926776",
+        "lon": "-4.0416822",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c806476eea5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.879965,
+          47.542275
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Butte",
+        "lat": "47.5422752",
+        "lon": "-2.8799651",
+        "type": "BSB",
+        "observation": "La boite à Livres est dans l entrée du magasin, toujours des livres et beaucoup de renouvellement surtout en été",
+        "picture": "https://delivrez.fr/public/posts/img.68c51f21182a7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.075862,
+          47.748513
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "47.7485128",
+        "lon": "-3.0758622",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c6be6940254.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.697556,
+          48.120593
+        ]
+      },
+      "properties": {
+        "title": "Rue Henri le Guilloux",
+        "lat": "48.1205926",
+        "lon": "-1.6975563",
+        "type": "BSB",
+        "observation": "hopital - jardin de Cécile étoile",
+        "picture": "https://delivrez.fr/public/posts/img.68bc7f7c1e374.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.838695,
+          47.541998
+        ]
+      },
+      "properties": {
+        "title": "Rue du Morbihan",
+        "lat": "47.541998",
+        "lon": "-2.838695",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c417157b88e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.808353,
+          47.541885
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Dolmen",
+        "lat": "47.5418852",
+        "lon": "-2.8083535",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c42519dc433.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.984153,
+          48.190505
+        ]
+      },
+      "properties": {
+        "title": "Rue du Château",
+        "lat": "48.1905047",
+        "lon": "-3.9841527",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c14f97bdb48.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.722043,
+          47.546865
+        ]
+      },
+      "properties": {
+        "title": "Sarzeau campagne atlantique",
+        "lat": "47.5468646",
+        "lon": "-2.7220429",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68bfe8888dacb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.802714,
+          48.29553
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "48.2955299",
+        "lon": "-1.802714",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68bc359d99d74.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.078406,
+          47.718232
+        ]
+      },
+      "properties": {
+        "title": "Rue Mané er Groez",
+        "lat": "47.7182324",
+        "lon": "-3.078406",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68bed8021f73d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.793287,
+          47.539781
+        ]
+      },
+      "properties": {
+        "title": "Hent Pont Leyeu",
+        "lat": "47.5397808",
+        "lon": "-2.7932871",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68bebfd45ef43.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.188839,
+          48.364624
+        ]
+      },
+      "properties": {
+        "title": "Rue Joseph Fournier",
+        "lat": "48.3646243",
+        "lon": "-1.1888386",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68bb02d936581.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.138878,
+          48.157372
+        ]
+      },
+      "properties": {
+        "title": "Place Saint-Hubert",
+        "lat": "48.1573719",
+        "lon": "-4.1388782",
+        "type": "BSB",
+        "observation": "bibliothèque Jeanne laurent",
+        "picture": "https://delivrez.fr/public/posts/img.68b6f0b3d22d9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.380737,
           48.359685
         ]
@@ -740,23 +1102,6 @@
         "type": "BSB",
         "observation": "Beaucoup de littérature blanche, amateur de SFFF, ne perdez pas votre temps.",
         "picture": "https://delivrez.fr/public/posts/img.685829e805a09.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.07593,
-          47.748538
-        ]
-      },
-      "properties": {
-        "title": "Place de la Mairie",
-        "lat": "47.7485378",
-        "lon": "-3.0759297",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.68455bcf33e7f.png"
       }
     },
     {
@@ -1883,23 +2228,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.91298,
-          47.546368
-        ]
-      },
-      "properties": {
-        "title": "Rue du Gén de Gaulle",
-        "lat": "47.5463682",
-        "lon": "-2.9129803",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.67263fcb1423d.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.961148,
           47.76513
         ]
@@ -2716,23 +3044,6 @@
         "lon": "-1.852479",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.6678508632562.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.891027,
-          47.546917
-        ]
-      },
-      "properties": {
-        "title": "Parking de la petite plage de Kervoyal",
-        "lat": "47.546917",
-        "lon": "-2.8910266",
-        "type": "BSB",
-        "observation": "Cabane à livres"
       }
     },
     {
@@ -5764,23 +6075,6 @@
         "lon": "-1.329665",
         "type": "BSB",
         "observation": "Boite à livre à l entrée du local d'une Boutique sans Argent. Elle est abrité sous un abri vitré ouvert en permanence.Informations :  Association Recycl'Roch - https://www.facebook.com/RecyclRoch/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.87996,
-          47.54249
-        ]
-      },
-      "properties": {
-        "title": "Supermarché UNICO, rond-point de Kerjouanno",
-        "lat": "47.54249",
-        "lon": "-2.87996",
-        "type": "BSB",
-        "observation": "La boite à Livres est dans l entrée du magasin, toujours des livres et beaucoup de renouvellement surtout en été"
       }
     },
     {

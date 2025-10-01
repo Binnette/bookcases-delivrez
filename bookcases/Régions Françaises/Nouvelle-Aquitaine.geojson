@@ -6,6 +6,197 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.444194,
+          45.612549
+        ]
+      },
+      "properties": {
+        "title": "Rue du Faubourg Saint-Martin",
+        "lat": "45.6125487",
+        "lon": "0.4441939",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68d69f0043d14.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.374534,
+          44.686592
+        ]
+      },
+      "properties": {
+        "title": "Place de Beguey",
+        "lat": "44.6865922",
+        "lon": "-0.3745335",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.153072,
+          44.52043
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "44.5204304",
+        "lon": "-0.1530718",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68cbbfa6e931d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.399541,
+          43.359172
+        ]
+      },
+      "properties": {
+        "title": "Cambo Les Bains 1",
+        "lat": "43.3591716",
+        "lon": "-1.3995412",
+        "type": "BSB",
+        "observation": "derrière  l’aire de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.68c53986bd4ae.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.322758,
+          46.532762
+        ]
+      },
+      "properties": {
+        "title": "place des marronniers",
+        "lat": "46.5327619",
+        "lon": "-0.3227584",
+        "type": "BSB",
+        "observation": "contre l'église",
+        "picture": "https://delivrez.fr/public/posts/img.68c070d423157.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.58175,
+          44.896567
+        ]
+      },
+      "properties": {
+        "title": "Route du Viraillot",
+        "lat": "44.8965673",
+        "lon": "0.5817503",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c1692443857.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.617443,
+          44.882964
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Verdun",
+        "lat": "44.8829636",
+        "lon": "-0.6174425",
+        "type": "BSB",
+        "observation": "Parc Treulon",
+        "picture": "https://delivrez.fr/public/posts/img.68b851b957185.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.544777,
+          44.90636
+        ]
+      },
+      "properties": {
+        "title": "Route des Penauds",
+        "lat": "44.90636",
+        "lon": "0.5447767",
+        "type": "BSB",
+        "observation": "devant la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.68b9801ea44ff.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.406318,
+          43.334371
+        ]
+      },
+      "properties": {
+        "title": "Mairie d’Itsaxou",
+        "lat": "43.3343706",
+        "lon": "-1.4063178",
+        "type": "BSB",
+        "observation": "Près de l’espace France Services",
+        "picture": "https://delivrez.fr/public/posts/img.68b8159e47cc9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.13316,
+          45.796211
+        ]
+      },
+      "properties": {
+        "title": "Avenue Pasteur",
+        "lat": "45.7962115",
+        "lon": "1.1331603",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b311d65b867.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.985889,
+          45.583688
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Suzac",
+        "lat": "45.5836876",
+        "lon": "-0.9858895",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b1a9463ad06.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.259143,
           44.774769
         ]

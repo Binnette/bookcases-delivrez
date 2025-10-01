@@ -6,6 +6,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.492676,
+          48.37993
+        ]
+      },
+      "properties": {
+        "title": "67140 St Pierre",
+        "lat": "48.3799297",
+        "lon": "7.492676",
+        "type": "BSB",
+        "observation": "Ou cabane à livres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.33106,
+          48.402799
+        ]
+      },
+      "properties": {
+        "title": "boite du hohwald",
+        "lat": "48.4027991",
+        "lon": "7.3310601",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.166787,
+          49.106403
+        ]
+      },
+      "properties": {
+        "title": "jardin botanique",
+        "lat": "49.1064026",
+        "lon": "6.1667867",
+        "type": "BSB",
+        "observation": "Dans le cadre de sa politique culturelle et associative  la Ville de Metz a mis en place un réseau de boîtes à livres.",
+        "picture": "https://delivrez.fr/public/posts/img.68af3e4353d63.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.162923,
           48.662864
         ]
@@ -14189,23 +14240,6 @@
         "lon": "7.4884334",
         "type": "BSB",
         "observation": "Boite à lire proposée par la Ville d'Obernai. "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.167024,
-          49.106549
-        ]
-      },
-      "properties": {
-        "title": "Place Philippe de Vigneulles ",
-        "lat": "49.1065487",
-        "lon": "6.1670236",
-        "type": "BSB",
-        "observation": "Dans le cadre de sa politique culturelle et associative  la Ville de Metz a mis en place un réseau de boîtes à livres."
       }
     },
     {

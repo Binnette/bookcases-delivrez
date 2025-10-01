@@ -6,6 +6,197 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.185834,
+          45.734049
+        ]
+      },
+      "properties": {
+        "title": "Tignieu",
+        "lat": "45.7340495",
+        "lon": "5.1858339",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68da4d3303235.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.288925,
+          44.665472
+        ]
+      },
+      "properties": {
+        "title": "Place de L’Eglise",
+        "lat": "44.6654717",
+        "lon": "4.288925",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c98757c3c53.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.203325,
+          46.023955
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "46.0239547",
+        "lon": "3.203325",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68d3bd4dd82fc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.352452,
+          44.782378
+        ]
+      },
+      "properties": {
+        "title": "Rue Trempe",
+        "lat": "44.7823783",
+        "lon": "2.3524517",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68cd766999cde.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.012428,
+          46.135447
+        ]
+      },
+      "properties": {
+        "title": "noailly",
+        "lat": "46.1354467",
+        "lon": "4.0124283",
+        "type": "BSB",
+        "observation": "devant l'epicerie",
+        "picture": "https://delivrez.fr/public/posts/img.68b45d28d6a60.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.73225,
+          45.414165
+        ]
+      },
+      "properties": {
+        "title": "Place du Marronnier",
+        "lat": "45.4141653",
+        "lon": "4.7322497",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c6ee739ba9f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.222352,
+          46.077213
+        ]
+      },
+      "properties": {
+        "title": "Route de Gannat",
+        "lat": "46.0772129",
+        "lon": "3.2223516",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c1350a432fd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.967183,
+          45.038233
+        ]
+      },
+      "properties": {
+        "title": "Rue de Naquera",
+        "lat": "45.038233",
+        "lon": "3.9671834",
+        "type": "BSB",
+        "observation": "À côté \"Les Genêts d'or\"",
+        "picture": "https://delivrez.fr/public/posts/img.68bc868823c26.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.771136,
+          45.940803
+        ]
+      },
+      "properties": {
+        "title": "parc hopital",
+        "lat": "45.9408026",
+        "lon": "4.7711357",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68b45d7391656.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.169897,
+          46.009272
+        ]
+      },
+      "properties": {
+        "title": "Rue de Boisy",
+        "lat": "46.0092716",
+        "lon": "6.1698973",
+        "type": "BSB",
+        "observation": "A collé au magasin Vival",
+        "picture": "https://delivrez.fr/public/posts/img.68b45b8422218.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.998274,
+          45.928198
+        ]
+      },
+      "properties": {
+        "title": "Ajouter par JP",
+        "lat": "45.9281983",
+        "lon": "5.9982736",
+        "type": "BSB",
+        "observation": "A côté de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.68b4515955e6a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.802851,
           46.17158
         ]
@@ -122,24 +313,6 @@
         "type": "BSB",
         "observation": "devant office du tourisme",
         "picture": "https://delivrez.fr/public/posts/img.68a70e08d3339.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.012597,
-          46.135422
-        ]
-      },
-      "properties": {
-        "title": "Place Verdun",
-        "lat": "46.135422",
-        "lon": "4.0125971",
-        "type": "BSB",
-        "observation": "devant l'epicerie",
-        "picture": "https://delivrez.fr/public/posts/img.68a71af869dfa.png"
       }
     },
     {

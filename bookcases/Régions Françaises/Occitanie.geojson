@@ -6,6 +6,94 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.382784,
+          44.735832
+        ]
+      },
+      "properties": {
+        "title": "Allée de la République",
+        "lat": "44.7358324",
+        "lon": "1.3827839",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68cee6a964ddd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.748473,
+          42.486147
+        ]
+      },
+      "properties": {
+        "title": "Rue Joseph Parayre",
+        "lat": "42.4861467",
+        "lon": "2.7484733",
+        "type": "BSB",
+        "observation": "original",
+        "picture": "https://delivrez.fr/public/posts/img.68cac2a9c8f83.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.034468,
+          42.603427
+        ]
+      },
+      "properties": {
+        "title": "Rue du Sillage",
+        "lat": "42.6034267",
+        "lon": "3.0344683",
+        "type": "BSB",
+        "observation": "bibliosillage",
+        "picture": "https://delivrez.fr/public/posts/img.68cbaf3501b08.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.535733,
+          43.4056
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale",
+        "lat": "43.4055995",
+        "lon": "2.5357332",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c7f7415e94f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.502115,
+          44.522172
+        ]
+      },
+      "properties": {
+        "title": "Gare de Mende",
+        "lat": "44.5221717",
+        "lon": "3.502115",
+        "type": "BSB",
+        "observation": "Dans la salle des pas perdus",
+        "picture": "https://delivrez.fr/public/posts/img.68b417f411d24.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.95962,
           43.086805
         ]

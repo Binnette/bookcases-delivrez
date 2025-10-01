@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.37993" lon="7.492676">
+    <name>67140 St Pierre</name>
+    <desc>Ou cabane à livres</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.402799" lon="7.33106">
+    <name>boite du hohwald</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.106403" lon="6.166787">
+    <name>jardin botanique</name>
+    <desc>Dans le cadre de sa politique culturelle et associative  la Ville de Metz a mis en place un réseau de boîtes à livres.</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.662864" lon="6.162923">
     <name>Avenue du Général Leclerc</name>
     <desc></desc>
@@ -8263,16 +8293,6 @@
   <wpt lat="48.462091" lon="7.488433">
     <name>rue de la gare</name>
     <desc>Boite à lire proposée par la Ville d'Obernai. </desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.106549" lon="6.167024">
-    <name>Place Philippe de Vigneulles </name>
-    <desc>Dans le cadre de sa politique culturelle et associative  la Ville de Metz a mis en place un réseau de boîtes à livres.</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>
