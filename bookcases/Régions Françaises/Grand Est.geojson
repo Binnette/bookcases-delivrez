@@ -6,6 +6,430 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.409273,
+          48.021226
+        ]
+      },
+      "properties": {
+        "title": "Arrêt Logelheim Grand Rue",
+        "lat": "48.0212256",
+        "lon": "7.4092727",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6904c6361ac5f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.384654,
+          48.010683
+        ]
+      },
+      "properties": {
+        "title": "Route de Bâle",
+        "lat": "48.0106835",
+        "lon": "7.3846538",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6904c7bf25ee8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.308002,
+          48.094637
+        ]
+      },
+      "properties": {
+        "title": "Rue Robert Schuman - Parc de Mauriac",
+        "lat": "48.0946369",
+        "lon": "7.3080022",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69047f9c45f87.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.352197,
+          48.617632
+        ]
+      },
+      "properties": {
+        "title": "Dombasle sur Meurthe - Square du Maroc",
+        "lat": "48.6176317",
+        "lon": "6.3521967",
+        "type": "BSB",
+        "observation": "derrière l'arrêt de bus",
+        "picture": "https://delivrez.fr/public/posts/img.6900bf507e324.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.350962,
+          48.620198
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Général Leclerc",
+        "lat": "48.6201983",
+        "lon": "6.3509617",
+        "type": "BSB",
+        "observation": "en face de la salle des sports",
+        "picture": "https://delivrez.fr/public/posts/img.6900bd77bf747.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.990725,
+          48.775528
+        ]
+      },
+      "properties": {
+        "title": "Rue du Nieul",
+        "lat": "48.7755283",
+        "lon": "7.990725",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68e61070b8529.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.531355,
+          48.782184
+        ]
+      },
+      "properties": {
+        "title": "Rue du Quai",
+        "lat": "48.7821844",
+        "lon": "6.5313551",
+        "type": "BSB",
+        "observation": "En face du musée George de la Tour, près du parking, dans une cabine téléphonique, vous trouverez de charmantes étagères recouvertes de bouquins. Original et surprenant !",
+        "picture": "https://delivrez.fr/public/posts/img.68fa4f5abab5d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.705445,
+          49.129088
+        ]
+      },
+      "properties": {
+        "title": "Avenue de l'Étang",
+        "lat": "49.1290883",
+        "lon": "6.705445",
+        "type": "BSB",
+        "observation": "Foyer d'Huchet",
+        "picture": "https://delivrez.fr/public/posts/img.68fa19a85d495.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.752846,
+          49.038426
+        ]
+      },
+      "properties": {
+        "title": "Lixing les St Avold - Rue de Saint-Avold",
+        "lat": "49.0384258",
+        "lon": "6.7528456",
+        "type": "BSB",
+        "observation": "devant le 5bis",
+        "picture": "https://delivrez.fr/public/posts/img.68f8dd68502bb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.345996,
+          48.077861
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Joseph - intersection avec rue de Turckh",
+        "lat": "48.0778611",
+        "lon": "7.345996",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68eca1a00f844.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.112358,
+          48.837004
+        ]
+      },
+      "properties": {
+        "title": "Hirschland - Place de la Mairie",
+        "lat": "48.8370035",
+        "lon": "7.1123576",
+        "type": "BSB",
+        "observation": "à gauche du monument aux morts",
+        "picture": "https://delivrez.fr/public/posts/img.68f4ca1d10ceb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.069859,
+          49.109619
+        ]
+      },
+      "properties": {
+        "title": "Rue Poincaré",
+        "lat": "49.1096192",
+        "lon": "7.0698591",
+        "type": "BSB",
+        "observation": "À droite de la Mairie (Hôtel de ville)",
+        "picture": "https://delivrez.fr/public/posts/img.68ee6c37ce3c7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.353567,
+          48.070577
+        ]
+      },
+      "properties": {
+        "title": "Avenue Joffre - Cercle St Martin",
+        "lat": "48.0705774",
+        "lon": "7.3535667",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ec9f6f46e4c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.666013,
+          48.93378
+        ]
+      },
+      "properties": {
+        "title": "Reichshoffen - Rue de la Liberté",
+        "lat": "48.93378",
+        "lon": "7.6660133",
+        "type": "BSB",
+        "observation": "dans le parc du groupe scolaire",
+        "picture": "https://delivrez.fr/public/posts/img.68e8ed634f9e0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.375335,
+          48.08986
+        ]
+      },
+      "properties": {
+        "title": "Rue du prunier - Graines Voltz",
+        "lat": "48.0898597",
+        "lon": "7.3753351",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ebc6f94f2ed.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.366067,
+          48.070769
+        ]
+      },
+      "properties": {
+        "title": "Avenue d'Alsace - devant la CEA",
+        "lat": "48.0707688",
+        "lon": "7.3660669",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ec9d2d54df8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.745842,
+          48.939173
+        ]
+      },
+      "properties": {
+        "title": "Grand Rue",
+        "lat": "48.9391731",
+        "lon": "7.7458421",
+        "type": "BSB",
+        "observation": "devant la Caisse D'ÉPARGNE",
+        "picture": "https://delivrez.fr/public/posts/img.68e7bf3c0d3c0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.280581,
+          48.907769
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale à Frohmuhl",
+        "lat": "48.9077689",
+        "lon": "7.2805807",
+        "type": "BSB",
+        "observation": "place du lavoir",
+        "picture": "https://delivrez.fr/public/posts/img.68e5058040f95.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.345815,
+          48.900265
+        ]
+      },
+      "properties": {
+        "title": "Zittersheim- Rue Principale",
+        "lat": "48.900265",
+        "lon": "7.345815",
+        "type": "BSB",
+        "observation": "abribus à côté de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.68e5057dcdf4a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.996474,
+          48.697462
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église à Xouaxange",
+        "lat": "48.6974624",
+        "lon": "6.996474",
+        "type": "BSB",
+        "observation": "abribus en face de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.68e5057b9ef9f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.889993,
+          48.596313
+        ]
+      },
+      "properties": {
+        "title": "boîte à livres de Frémonville",
+        "lat": "48.5963133",
+        "lon": "6.8899933",
+        "type": "BSB",
+        "observation": "entre l'église et la mairie sur le mur extérieur de l'abribus",
+        "picture": "https://delivrez.fr/public/posts/img.68e505799d564.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.148868,
+          48.120095
+        ]
+      },
+      "properties": {
+        "title": "Rue de Saint-Aignan - Chaumont",
+        "lat": "48.120095",
+        "lon": "5.1488683",
+        "type": "BSB",
+        "observation": "près des feux tricolores",
+        "picture": "https://delivrez.fr/public/posts/img.68e50577c864d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.704015,
+          48.234639
+        ]
+      },
+      "properties": {
+        "title": "Passerelle des Anciens Combattants",
+        "lat": "48.2346385",
+        "lon": "4.7040146",
+        "type": "BSB",
+        "observation": "Bar sur Aube - dans le jardin",
+        "picture": "https://delivrez.fr/public/posts/img.68e505759903c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.524552,
+          49.144685
+        ]
+      },
+      "properties": {
+        "title": "Route de Watronville",
+        "lat": "49.1446852",
+        "lon": "5.5245522",
+        "type": "BSB",
+        "observation": "petite boîte en bois à l angle du bâtiment communal",
+        "picture": "https://delivrez.fr/public/posts/img.68e1391f7e2a0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.492676,
           48.37993
         ]
@@ -1963,24 +2387,6 @@
         "lon": "6.2239751",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.672a2c177f82c.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.069859,
-          49.109619
-        ]
-      },
-      "properties": {
-        "title": "Rue Poincaré",
-        "lat": "49.1096192",
-        "lon": "7.0698591",
-        "type": "BSB",
-        "observation": "À droite de la Mairie (Hôtel de ville)",
-        "picture": "https://delivrez.fr/public/posts/img.67289a08dae87.png"
       }
     },
     {
@@ -4144,23 +4550,6 @@
         "lon": "6.0553029",
         "type": "BSB",
         "observation": "en bois contre mur Est Républicain"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.524552,
-          49.144685
-        ]
-      },
-      "properties": {
-        "title": "Route de Watronville",
-        "lat": "49.1446852",
-        "lon": "5.5245522",
-        "type": "BSB",
-        "observation": "petite boîte en bois à l angle du bâtiment communal"
       }
     },
     {
@@ -6625,23 +7014,6 @@
         "lon": "5.4070692",
         "type": "BSB",
         "observation": "boite a livre dans le centre commercial Cora"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.639438,
-          48.924423
-        ]
-      },
-      "properties": {
-        "title": "Rue du Président Poincaré",
-        "lat": "48.9244231",
-        "lon": "6.6394376",
-        "type": "BSB",
-        "observation": "devant l'entrée de la bibliotheque"
       }
     },
     {
@@ -12212,23 +12584,6 @@
         "lon": "6.5809426",
         "type": "BSB",
         "observation": "Cette boîte à lire se trouve à l entrée de la médiathèque. Les cartons sont souvent remplis de magazines que les bibliothécaires sortent des rayons."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.531313,
-          48.782201
-        ]
-      },
-      "properties": {
-        "title": "Place Jeanne d'Arc",
-        "lat": "48.78220057747244",
-        "lon": "6.531313061714173",
-        "type": "BSB",
-        "observation": "En face du musée George de la Tour, près du parking, dans une cabine téléphonique, vous trouverez de charmantes étagères recouvertes de bouquins. Original et surprenant !"
       }
     },
     {

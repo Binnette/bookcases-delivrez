@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.656092" lon="6.875415">
+    <name>Rue Frédéric Mistral</name>
+    <desc>Livres sont posés sur un banc près de la pharmacie</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.344959" lon="6.330072">
+    <name>Boîte à livre du Mulet</name>
+    <desc>À côté de la maison du mulet</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.094494" lon="6.230919">
+    <name>Avenue des charrois</name>
+    <desc>Juste en face le garage des alpes</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.087698" lon="6.078075">
+    <name>office de tourisme</name>
+    <desc>pres de l'Office de tourisme</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.528768" lon="6.048683">
     <name>Serviolan</name>
     <desc></desc>
@@ -3823,16 +3863,6 @@
   <wpt lat="43.537671" lon="6.459993">
     <name>avenue jean boyer</name>
     <desc>Dans le parc Haussmann, vous retrouverez une aire de Jeux pour enfants , de la pelouse, des jets d eau ainsi que des espaces paysagés et ombragés...Possibilité de pique nique et de trouver une belle boite à livres.</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.655965" lon="6.875113">
-    <name>Place de la Mairie</name>
-    <desc>Livres sont posés sur un banc près de la pharmacie</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

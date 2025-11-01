@@ -6,6 +6,112 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.745327,
+          50.488169
+        ]
+      },
+      "properties": {
+        "title": "Vermelles",
+        "lat": "50.4881686",
+        "lon": "2.7453274",
+        "type": "BSB",
+        "observation": "Square André Vaniet",
+        "picture": "https://delivrez.fr/public/posts/img.690334f144f83.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.575364,
+          49.20195
+        ]
+      },
+      "properties": {
+        "title": "Rue du Quémiset",
+        "lat": "49.2019498",
+        "lon": "2.5753637",
+        "type": "BSB",
+        "observation": "\" livres vagabonds \"",
+        "picture": "https://delivrez.fr/public/posts/img.68fe26ceb81e8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.47324,
+          50.506187
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Jaurès",
+        "lat": "50.5061868",
+        "lon": "2.4732401",
+        "type": "BSB",
+        "observation": "dans le hall du cinéma",
+        "picture": "https://delivrez.fr/public/posts/img.68fb6e7c325fd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.468188,
+          50.882703
+        ]
+      },
+      "properties": {
+        "title": "Place de la mairie",
+        "lat": "50.882703",
+        "lon": "2.4681882",
+        "type": "BSB",
+        "observation": "dans un jolie moulin",
+        "picture": "https://delivrez.fr/public/posts/img.68f663f229677.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.385024,
+          50.887773
+        ]
+      },
+      "properties": {
+        "title": "mairie parking",
+        "lat": "50.887773",
+        "lon": "2.3850236",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68eb7f04912cd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.695671,
+          50.539198
+        ]
+      },
+      "properties": {
+        "title": "Rue Alfred Baudrin",
+        "lat": "50.5391978",
+        "lon": "2.6956712",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68ebcf516175b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.081809,
           50.489778
         ]

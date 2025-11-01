@@ -6,6 +6,129 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.137849,
+          43.922326
+        ]
+      },
+      "properties": {
+        "title": "Place Stalingrad",
+        "lat": "43.9223258",
+        "lon": "2.1378491",
+        "type": "BSB",
+        "observation": "dans la gare attention aux horaires",
+        "picture": "https://delivrez.fr/public/posts/img.6904b1452e3d1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.756542,
+          44.152968
+        ]
+      },
+      "properties": {
+        "title": "Place des Tilleuls - cour intérieure",
+        "lat": "44.1529683",
+        "lon": "1.7565422",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68f5fd595c381.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.76478,
+          43.522677
+        ]
+      },
+      "properties": {
+        "title": "Place centrale",
+        "lat": "43.5226772",
+        "lon": "0.7647804",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68c7f7102959b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.531236,
+          43.353993
+        ]
+      },
+      "properties": {
+        "title": "Quai Antonin Gros",
+        "lat": "43.3539931",
+        "lon": "3.5312355",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68f4c0cf480fc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.281797,
+          43.317104
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Pasteur",
+        "lat": "43.3171044",
+        "lon": "3.2817974",
+        "type": "BSB",
+        "observation": "sur le canal",
+        "picture": "https://delivrez.fr/public/posts/img.68f36b064b870.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.857754,
+          43.247676
+        ]
+      },
+      "properties": {
+        "title": "Route Neuve",
+        "lat": "43.2476763",
+        "lon": "2.8577537",
+        "type": "BSB",
+        "observation": "sur le canal",
+        "picture": "https://delivrez.fr/public/posts/img.68f219b809892.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.236075,
+          43.960732
+        ]
+      },
+      "properties": {
+        "title": "Rue Paul Riquet",
+        "lat": "43.9607319",
+        "lon": "1.2360746",
+        "type": "BSB",
+        "observation": "sur le port",
+        "picture": "https://delivrez.fr/public/posts/img.68ecc8e49a4e6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.382784,
           44.735832
         ]
@@ -121,23 +244,6 @@
         "lon": "3.1269761",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.68a866d714f08.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.76478,
-          43.522677
-        ]
-      },
-      "properties": {
-        "title": "Place centrale",
-        "lat": "43.5226772",
-        "lon": "0.7647804",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.68a46de9222a8.png"
       }
     },
     {

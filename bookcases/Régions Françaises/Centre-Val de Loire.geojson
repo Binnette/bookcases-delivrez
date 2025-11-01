@@ -6,6 +6,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.098212,
+          48.262162
+        ]
+      },
+      "properties": {
+        "title": "La Passerelle",
+        "lat": "48.2621621",
+        "lon": "1.0982116",
+        "type": "BSB",
+        "observation": "très grande boîte à livres à côté de la Poste",
+        "picture": "https://delivrez.fr/public/posts/img.6900c7fadb7a5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.615909,
+          48.566684
+        ]
+      },
+      "properties": {
+        "title": "Rue du Moulin À Vent",
+        "lat": "48.5666841",
+        "lon": "1.6159094",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68fc872703448.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.424577,
+          47.119819
+        ]
+      },
+      "properties": {
+        "title": "Place Bouchard",
+        "lat": "47.1198191",
+        "lon": "0.4245765",
+        "type": "BSB",
+        "observation": "devant le bureau de poste",
+        "picture": "https://delivrez.fr/public/posts/img.68f501702a629.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.537593,
+          48.002948
+        ]
+      },
+      "properties": {
+        "title": "Ladon - boite à livres au croisement",
+        "lat": "48.0029483",
+        "lon": "2.5375933",
+        "type": "BSB",
+        "observation": "en face de la boucherie",
+        "picture": "https://delivrez.fr/public/posts/img.68e50573a44ee.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.666131,
           48.606919
         ]

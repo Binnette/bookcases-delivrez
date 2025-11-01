@@ -6,6 +6,95 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.029424,
+          45.748384
+        ]
+      },
+      "properties": {
+        "title": "Place de la Fontaine",
+        "lat": "45.7483843",
+        "lon": "3.0294239",
+        "type": "BSB",
+        "observation": "lavoir",
+        "picture": "https://delivrez.fr/public/posts/img.68fcaf2def894.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.697373,
+          46.357366
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie - Saint Angel",
+        "lat": "46.3573656",
+        "lon": "2.6973734",
+        "type": "BSB",
+        "observation": "à côté de l'arrêt bus, face à la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5833,
+          45.948937
+        ]
+      },
+      "properties": {
+        "title": "Montée de la Guillardière",
+        "lat": "45.9489374",
+        "lon": "4.5833002",
+        "type": "BSB",
+        "observation": "une belle boites à livres près du parking",
+        "picture": "https://delivrez.fr/public/posts/img.68ce8b5fae7dc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.903822,
+          45.595616
+        ]
+      },
+      "properties": {
+        "title": "Rue Commandant Bulle",
+        "lat": "45.5956159",
+        "lon": "5.9038222",
+        "type": "BSB",
+        "observation": "devant l'école",
+        "picture": "https://delivrez.fr/public/posts/img.68ea4ee54bedd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.755559,
+          45.168695
+        ]
+      },
+      "properties": {
+        "title": "Avenue du 8 Mai 1945",
+        "lat": "45.1686947",
+        "lon": "5.7555585",
+        "type": "BSB",
+        "observation": "Nouveaux livres régulièrement",
+        "picture": "https://delivrez.fr/public/posts/img.68e8e4944aa97.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.185834,
           45.734049
         ]
@@ -9772,23 +9861,6 @@
         "lon": "4.6952389",
         "type": "BSB",
         "observation": "à l'entrée du stade"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.583589,
-          45.948782
-        ]
-      },
-      "properties": {
-        "title": "Place de Presberg",
-        "lat": "45.9487816",
-        "lon": "4.5835891",
-        "type": "BSB",
-        "observation": "une belle boites à livres près du parking"
       }
     },
     {

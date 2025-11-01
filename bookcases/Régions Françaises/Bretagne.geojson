@@ -6,6 +6,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.334763,
+          47.915327
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "47.9153267",
+        "lon": "-3.3347633",
+        "type": "BSB",
+        "observation": "Ancienne cabine téléphonique",
+        "picture": "https://delivrez.fr/public/posts/img.68d7d2bb1f653.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.371908,
+          48.095112
+        ]
+      },
+      "properties": {
+        "title": "boite à livres - St Didier",
+        "lat": "48.0951117",
+        "lon": "-1.3719083",
+        "type": "BSB",
+        "observation": "devant l'église",
+        "picture": "https://delivrez.fr/public/posts/img.68e5056fa7f9b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.343925,
+          47.917637
+        ]
+      },
+      "properties": {
+        "title": "boîte à livre",
+        "lat": "47.9176367",
+        "lon": "-3.343925",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68e3cef40de7e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.694502,
+          48.091822
+        ]
+      },
+      "properties": {
+        "title": "Rue honoré commeurec",
+        "lat": "48.091822",
+        "lon": "-1.6945022",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.632452,
           47.8164
         ]
@@ -6869,23 +6938,6 @@
         "lon": "-1.6059507",
         "type": "BSB",
         "observation": "Grande armoire dans l'abribus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.334701,
-          47.915398
-        ]
-      },
-      "properties": {
-        "title": "Place de la mairie",
-        "lat": "47.9153976",
-        "lon": "-3.3347013",
-        "type": "BSB",
-        "observation": "Ancienne cabine téléphonique"
       }
     },
     {

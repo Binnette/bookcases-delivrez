@@ -6,6 +6,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.674653,
+          48.963491
+        ]
+      },
+      "properties": {
+        "title": "dans le parc à droite du groupe scolaire André Tur",
+        "lat": "48.9634908",
+        "lon": "2.6746531",
+        "type": "BSB",
+        "observation": "très belle boîte étanche en aluminium",
+        "picture": "https://delivrez.fr/public/posts/img.6900ef47af952.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.675613,
+          48.963931
+        ]
+      },
+      "properties": {
+        "title": "à droite du groupe scolaire André Turcat",
+        "lat": "48.9639308",
+        "lon": "2.675613",
+        "type": "BSB",
+        "observation": "dans le parc, très belle boîte à livre en aluminium.",
+        "picture": "https://delivrez.fr/public/posts/img.6900f2f20d586.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.642578,
+          48.975719
+        ]
+      },
+      "properties": {
+        "title": "boite a livre",
+        "lat": "48.9757192",
+        "lon": "2.6425783",
+        "type": "BSB",
+        "observation": "gare de mitry claye",
+        "picture": "https://delivrez.fr/public/posts/img.68e2780e660dd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.633646,
+          48.839228
+        ]
+      },
+      "properties": {
+        "title": "livre rer lognes",
+        "lat": "48.8392281",
+        "lon": "2.6336463",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68e37a377715c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.277568,
           48.550675
         ]

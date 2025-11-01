@@ -6,6 +6,77 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.875415,
+          43.656092
+        ]
+      },
+      "properties": {
+        "title": "Rue Frédéric Mistral",
+        "lat": "43.6560917",
+        "lon": "6.875415",
+        "type": "BSB",
+        "observation": "Livres sont posés sur un banc près de la pharmacie",
+        "picture": "https://delivrez.fr/public/posts/img.68e39cd6c3bf4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.330072,
+          44.344959
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livre du Mulet",
+        "lat": "44.3449594",
+        "lon": "6.3300721",
+        "type": "BSB",
+        "observation": "À côté de la maison du mulet",
+        "picture": "https://delivrez.fr/public/posts/img.68f4eb6b6a7c1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.230919,
+          44.094494
+        ]
+      },
+      "properties": {
+        "title": "Avenue des charrois",
+        "lat": "44.0944942",
+        "lon": "6.2309192",
+        "type": "BSB",
+        "observation": "Juste en face le garage des alpes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.078075,
+          43.087698
+        ]
+      },
+      "properties": {
+        "title": "office de tourisme",
+        "lat": "43.0876983",
+        "lon": "6.0780754",
+        "type": "BSB",
+        "observation": "pres de l'Office de tourisme",
+        "picture": "https://delivrez.fr/public/posts/img.68e103aef0be1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.048683,
           44.528768
         ]
@@ -6555,23 +6626,6 @@
         "lon": "6.4599928",
         "type": "BSB",
         "observation": "Dans le parc Haussmann, vous retrouverez une aire de Jeux pour enfants , de la pelouse, des jets d eau ainsi que des espaces paysagés et ombragés...Possibilité de pique nique et de trouver une belle boite à livres."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.875113,
-          43.655965
-        ]
-      },
-      "properties": {
-        "title": "Place de la Mairie",
-        "lat": "43.65596543715114",
-        "lon": "6.875113248825074",
-        "type": "BSB",
-        "observation": "Livres sont posés sur un banc près de la pharmacie"
       }
     },
     {

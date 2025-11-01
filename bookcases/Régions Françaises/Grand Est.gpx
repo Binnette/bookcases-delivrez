@@ -1,5 +1,245 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.021226" lon="7.409273">
+    <name>Arrêt Logelheim Grand Rue</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.010683" lon="7.384654">
+    <name>Route de Bâle</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.094637" lon="7.308002">
+    <name>Rue Robert Schuman - Parc de Mauriac</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.617632" lon="6.352197">
+    <name>Dombasle sur Meurthe - Square du Maroc</name>
+    <desc>derrière l'arrêt de bus</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.620198" lon="6.350962">
+    <name>Avenue du Général Leclerc</name>
+    <desc>en face de la salle des sports</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.775528" lon="7.990725">
+    <name>Rue du Nieul</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.782184" lon="6.531355">
+    <name>Rue du Quai</name>
+    <desc>En face du musée George de la Tour, près du parking, dans une cabine téléphonique, vous trouverez de charmantes étagères recouvertes de bouquins. Original et surprenant !</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.129088" lon="6.705445">
+    <name>Avenue de l'Étang</name>
+    <desc>Foyer d'Huchet</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.038426" lon="6.752846">
+    <name>Lixing les St Avold - Rue de Saint-Avold</name>
+    <desc>devant le 5bis</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.077861" lon="7.345996">
+    <name>Rue Saint-Joseph - intersection avec rue de Turckh</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.837004" lon="7.112358">
+    <name>Hirschland - Place de la Mairie</name>
+    <desc>à gauche du monument aux morts</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.109619" lon="7.069859">
+    <name>Rue Poincaré</name>
+    <desc>À droite de la Mairie (Hôtel de ville)</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.070577" lon="7.353567">
+    <name>Avenue Joffre - Cercle St Martin</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.93378" lon="7.666013">
+    <name>Reichshoffen - Rue de la Liberté</name>
+    <desc>dans le parc du groupe scolaire</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.08986" lon="7.375335">
+    <name>Rue du prunier - Graines Voltz</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.070769" lon="7.366067">
+    <name>Avenue d'Alsace - devant la CEA</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.939173" lon="7.745842">
+    <name>Grand Rue</name>
+    <desc>devant la Caisse D'ÉPARGNE</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.907769" lon="7.280581">
+    <name>Rue Principale à Frohmuhl</name>
+    <desc>place du lavoir</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.900265" lon="7.345815">
+    <name>Zittersheim- Rue Principale</name>
+    <desc>abribus à côté de l'église</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.697462" lon="6.996474">
+    <name>Rue de l'Église à Xouaxange</name>
+    <desc>abribus en face de l'église</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.596313" lon="6.889993">
+    <name>boîte à livres de Frémonville</name>
+    <desc>entre l'église et la mairie sur le mur extérieur de l'abribus</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.120095" lon="5.148868">
+    <name>Rue de Saint-Aignan - Chaumont</name>
+    <desc>près des feux tricolores</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.234639" lon="4.704015">
+    <name>Passerelle des Anciens Combattants</name>
+    <desc>Bar sur Aube - dans le jardin</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.144685" lon="5.524552">
+    <name>Route de Watronville</name>
+    <desc>petite boîte en bois à l angle du bâtiment communal</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.37993" lon="7.492676">
     <name>67140 St Pierre</name>
     <desc>Ou cabane à livres</desc>
@@ -1113,16 +1353,6 @@
   <wpt lat="48.748328" lon="6.223975">
     <name>Place de l'École</name>
     <desc></desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.109619" lon="7.069859">
-    <name>Rue Poincaré</name>
-    <desc>À droite de la Mairie (Hôtel de ville)</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>
@@ -2373,16 +2603,6 @@
   <wpt lat="48.902417" lon="6.055303">
     <name>boite a livre</name>
     <desc>en bois contre mur Est Républicain</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.144685" lon="5.524552">
-    <name>Route de Watronville</name>
-    <desc>petite boîte en bois à l angle du bâtiment communal</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>
@@ -3783,16 +4003,6 @@
   <wpt lat="49.142836" lon="5.407069">
     <name>boite à livre</name>
     <desc>boite a livre dans le centre commercial Cora</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.924423" lon="6.639438">
-    <name>Rue du Président Poincaré</name>
-    <desc>devant l'entrée de la bibliotheque</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>
@@ -7093,16 +7303,6 @@
   <wpt lat="49.062629" lon="6.580943">
     <name>Centre culturel Créanto, rue de Metz</name>
     <desc>Cette boîte à lire se trouve à l entrée de la médiathèque. Les cartons sont souvent remplis de magazines que les bibliothécaires sortent des rayons.</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.782201" lon="6.531313">
-    <name>Place Jeanne d'Arc</name>
-    <desc>En face du musée George de la Tour, près du parking, dans une cabine téléphonique, vous trouverez de charmantes étagères recouvertes de bouquins. Original et surprenant !</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

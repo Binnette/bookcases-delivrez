@@ -6,6 +6,182 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.089921,
+          47.27096
+        ]
+      },
+      "properties": {
+        "title": "Route d'Alligny",
+        "lat": "47.2709603",
+        "lon": "4.089921",
+        "type": "BSB",
+        "observation": "En face du monument aux morts",
+        "picture": "https://delivrez.fr/public/posts/img.68f3b1e0cfd72.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.007791,
+          47.285982
+        ]
+      },
+      "properties": {
+        "title": "Rue Germinal",
+        "lat": "47.2859818",
+        "lon": "5.0077906",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68f8eb26b2963.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.609913,
+          47.766545
+        ]
+      },
+      "properties": {
+        "title": "Rue Pinon",
+        "lat": "47.7665455",
+        "lon": "3.6099126",
+        "type": "BSB",
+        "observation": "vers l'école",
+        "picture": "https://delivrez.fr/public/posts/img.68f797488517e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.938305,
+          47.730427
+        ]
+      },
+      "properties": {
+        "title": "Rue de Nitry",
+        "lat": "47.7304275",
+        "lon": "3.9383055",
+        "type": "BSB",
+        "observation": "arrêt Tacot",
+        "picture": "https://delivrez.fr/public/posts/img.68f262abe3e79.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.939011,
+          47.735185
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "47.735185",
+        "lon": "3.9390112",
+        "type": "BSB",
+        "observation": "vers l'église",
+        "picture": "https://delivrez.fr/public/posts/img.68f25c43550b5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.958051,
+          47.726813
+        ]
+      },
+      "properties": {
+        "title": "Gr Grande Rue",
+        "lat": "47.7268131",
+        "lon": "3.9580511",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68f2590b57202.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.957313,
+          47.546274
+        ]
+      },
+      "properties": {
+        "title": "Route de Genouilly",
+        "lat": "47.5462741",
+        "lon": "3.9573133",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68f24ba51c203.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.969264,
+          47.566506
+        ]
+      },
+      "properties": {
+        "title": "Gr Grande Rue",
+        "lat": "47.5665062",
+        "lon": "3.9692645",
+        "type": "BSB",
+        "observation": "vers la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.68f250916a821.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.780578,
+          47.528931
+        ]
+      },
+      "properties": {
+        "title": "Rue Haute",
+        "lat": "47.5289308",
+        "lon": "3.7805782",
+        "type": "BSB",
+        "observation": "à côté de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.68e8df33a4561.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.481468,
+          47.885018
+        ]
+      },
+      "properties": {
+        "title": "Route de Guerchy",
+        "lat": "47.8850183",
+        "lon": "3.4814678",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68e0f1f9ba5f8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.806299,
           46.878821
         ]
@@ -5789,23 +5965,6 @@
         "lon": "3.3926001",
         "type": "BSB",
         "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.089867,
-          47.271013
-        ]
-      },
-      "properties": {
-        "title": "D20",
-        "lat": "47.2710126",
-        "lon": "4.0898666",
-        "type": "BSB",
-        "observation": "En face du monument aux morts"
       }
     },
     {

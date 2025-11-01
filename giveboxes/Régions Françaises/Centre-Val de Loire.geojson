@@ -1,4 +1,23 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.462758,
+          47.9034
+        ]
+      },
+      "properties": {
+        "title": "Binas - boite a livres et autres dons",
+        "lat": "47.9034",
+        "lon": "1.4627583",
+        "type": "DSB",
+        "observation": "devant l'hôtel Les Acacias",
+        "picture": "https://delivrez.fr/public/posts/img.68e5057185de7.png"
+      }
+    }
+  ]
 }

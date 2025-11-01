@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.780115,
+          49.52783
+        ]
+      },
+      "properties": {
+        "title": "Rue du Pré Aux Anes",
+        "lat": "49.52783",
+        "lon": "-1.780115",
+        "type": "DSB",
+        "observation": "boite de troc",
+        "picture": "https://delivrez.fr/public/posts/img.68e242a8e8ac0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.079939,
           48.429612
         ]

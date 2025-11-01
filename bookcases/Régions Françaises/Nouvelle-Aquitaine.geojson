@@ -6,6 +6,358 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.457555,
+          44.691953
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg Nord",
+        "lat": "44.6919534",
+        "lon": "0.4575551",
+        "type": "BSB",
+        "observation": "dans un petit parc  avec aire de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.68fe22a8c7422.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.144098,
+          44.576536
+        ]
+      },
+      "properties": {
+        "title": "Parc Castera",
+        "lat": "44.5765356",
+        "lon": "-0.1440985",
+        "type": "BSB",
+        "observation": "boîtes à livres à l'entrée du parc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.617393,
+          44.88297
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Verdun",
+        "lat": "44.88297",
+        "lon": "-0.6173925",
+        "type": "BSB",
+        "observation": "Parc Treulon",
+        "picture": "https://delivrez.fr/public/posts/img.68d419238375d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.644335,
+          46.569742
+        ]
+      },
+      "properties": {
+        "title": "Rue du Moulin Saint-Léger",
+        "lat": "46.569742",
+        "lon": "0.6443345",
+        "type": "BSB",
+        "observation": "Dans une ancienne cabine téléphonique au coin de la mairie.",
+        "picture": "https://delivrez.fr/public/posts/img.68e3b2cacad4d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.439038,
+          45.415444
+        ]
+      },
+      "properties": {
+        "title": "Bourg de Sarroux",
+        "lat": "45.4154441",
+        "lon": "2.4390377",
+        "type": "BSB",
+        "observation": "en face la salle du foyer rural",
+        "picture": "https://delivrez.fr/public/posts/img.68f49e66823e8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.240871,
+          44.374263
+        ]
+      },
+      "properties": {
+        "title": "D143",
+        "lat": "44.3742629",
+        "lon": "0.2408707",
+        "type": "BSB",
+        "observation": "près de la halle",
+        "picture": "https://delivrez.fr/public/posts/img.68e7b905a8604.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.30613,
+          44.25682
+        ]
+      },
+      "properties": {
+        "title": "sur le canal",
+        "lat": "44.2568199",
+        "lon": "0.3061298",
+        "type": "BSB",
+        "observation": "capitainerie",
+        "picture": "https://delivrez.fr/public/posts/img.68e7902b6656b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.181499,
+          44.439296
+        ]
+      },
+      "properties": {
+        "title": "Rue Nompar de Caumont",
+        "lat": "44.4392963",
+        "lon": "0.1814992",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68e6572ae8727.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.140269,
+          44.461018
+        ]
+      },
+      "properties": {
+        "title": "Allée de Pont des Sables",
+        "lat": "44.4610182",
+        "lon": "0.1402691",
+        "type": "BSB",
+        "observation": "canal",
+        "picture": "https://delivrez.fr/public/posts/img.68e63f6725843.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.036133,
+          44.523319
+        ]
+      },
+      "properties": {
+        "title": "Route de Hure",
+        "lat": "44.5233194",
+        "lon": "0.0361326",
+        "type": "BSB",
+        "observation": "canal",
+        "picture": "https://delivrez.fr/public/posts/img.68e62e3ad4104.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.000134,
+          44.545232
+        ]
+      },
+      "properties": {
+        "title": "Route de Saint-Louis",
+        "lat": "44.5452316",
+        "lon": "1.337E-4",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68e50d5979a8e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.14921,
+          44.561769
+        ]
+      },
+      "properties": {
+        "title": "D226",
+        "lat": "44.5617691",
+        "lon": "-0.1492104",
+        "type": "BSB",
+        "observation": "sur le canal",
+        "picture": "https://delivrez.fr/public/posts/img.68e4fcf93e43c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.154786,
+          45.584765
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "45.5847649",
+        "lon": "0.1547863",
+        "type": "BSB",
+        "observation": "mairie",
+        "picture": "https://delivrez.fr/public/posts/img.68e3e977efd8c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.843046,
+          46.679361
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Étoile",
+        "lat": "46.6793614",
+        "lon": "0.8430463",
+        "type": "BSB",
+        "observation": "boulangerie",
+        "picture": "https://delivrez.fr/public/posts/img.68e3aad0ccdc8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.553129,
+          45.642792
+        ]
+      },
+      "properties": {
+        "title": "boîte à livre",
+        "lat": "45.6427916",
+        "lon": "-0.5531294",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68e28a65772f9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.209955,
+          44.496614
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "44.4966144",
+        "lon": "-0.2099549",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68e37354dd60a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.67075,
+          44.414425
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Plaine",
+        "lat": "44.4144248",
+        "lon": "0.67075",
+        "type": "BSB",
+        "observation": "Parc de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.68e27030eee2d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.125463,
+          43.312553
+        ]
+      },
+      "properties": {
+        "title": "Route d'Eslourenties",
+        "lat": "43.3125528",
+        "lon": "-0.1254628",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68e0e0480617a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.488284,
+          46.266894
+        ]
+      },
+      "properties": {
+        "title": "10 Grande rue",
+        "lat": "46.266894",
+        "lon": "-0.4882844",
+        "type": "BSB",
+        "observation": "Abri-livres ouvert 24h /24h à l'entrée du parking de la Maison des Associations"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.212838,
+          44.899344
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Général de Gaulle",
+        "lat": "44.8993444",
+        "lon": "-0.2128378",
+        "type": "BSB",
+        "observation": "Devant l'école"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.444194,
           45.612549
         ]
@@ -102,24 +454,6 @@
         "lon": "0.5817503",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.68c1692443857.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.617443,
-          44.882964
-        ]
-      },
-      "properties": {
-        "title": "Avenue de Verdun",
-        "lat": "44.8829636",
-        "lon": "-0.6174425",
-        "type": "BSB",
-        "observation": "Parc Treulon",
-        "picture": "https://delivrez.fr/public/posts/img.68b851b957185.png"
       }
     },
     {
@@ -15245,23 +15579,6 @@
         "lon": "-0.821433",
         "type": "BSB",
         "observation": "La boîte à livres se situe entre la Poste et l Office de Tourisme dans le petit patio."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.644289,
-          46.56969
-        ]
-      },
-      "properties": {
-        "title": "2 rue du Moulin Sain Léger",
-        "lat": "46.5696904",
-        "lon": "0.6442893",
-        "type": "BSB",
-        "observation": "Dans une ancienne cabine téléphonique au coin de la mairie."
       }
     },
     {

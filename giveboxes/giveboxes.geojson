@@ -6,6 +6,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.462758,
+          47.9034
+        ]
+      },
+      "properties": {
+        "title": "Binas - boite a livres et autres dons",
+        "lat": "47.9034",
+        "lon": "1.4627583",
+        "type": "DSB",
+        "observation": "devant l'hôtel Les Acacias",
+        "picture": "https://delivrez.fr/public/posts/img.68e5057185de7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.780115,
+          49.52783
+        ]
+      },
+      "properties": {
+        "title": "Rue du Pré Aux Anes",
+        "lat": "49.52783",
+        "lon": "-1.780115",
+        "type": "DSB",
+        "observation": "boite de troc",
+        "picture": "https://delivrez.fr/public/posts/img.68e242a8e8ac0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.419839,
           47.496055
         ]

@@ -6,6 +6,73 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.550051,
+          46.416948
+        ]
+      },
+      "properties": {
+        "title": "Route de Jard sur Mer",
+        "lat": "46.4169482",
+        "lon": "-1.5500513",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68fe1bbd9133d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.683789,
+          46.421231
+        ]
+      },
+      "properties": {
+        "title": "Rue du Moulin",
+        "lat": "46.421231",
+        "lon": "-0.6837892",
+        "type": "BSB",
+        "observation": "sur la vitrine du Vival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.964701,
+          46.773526
+        ]
+      },
+      "properties": {
+        "title": "Fradiniere",
+        "lat": "46.7735261",
+        "lon": "-1.9647006",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.521976,
+          47.36447
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Aubance",
+        "lat": "47.3644704",
+        "lon": "-0.5219764",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.68f3938ab3ef8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.065979,
           46.784289
         ]
