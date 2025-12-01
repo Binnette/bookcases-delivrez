@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.071588,
+          47.779738
+        ]
+      },
+      "properties": {
+        "title": "Rue Arsène Duguyot",
+        "lat": "47.7797379",
+        "lon": "3.0715876",
+        "type": "BSB",
+        "observation": "mairie",
+        "picture": "https://delivrez.fr/public/posts/img.69147ca5a7443.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.089921,
           47.27096
         ]

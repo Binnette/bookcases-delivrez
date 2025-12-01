@@ -6,6 +6,110 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.699369,
+          47.649442
+        ]
+      },
+      "properties": {
+        "title": "Rue de la claye",
+        "lat": "47.6494415",
+        "lon": "-0.6993693",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.054233,
+          46.555941
+        ]
+      },
+      "properties": {
+        "title": "Rue du Puits",
+        "lat": "46.5559411",
+        "lon": "-1.0542329",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.690c801da53b6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95528,
+          46.7449
+        ]
+      },
+      "properties": {
+        "title": "Route de Soullans",
+        "lat": "46.7449",
+        "lon": "-1.95528",
+        "type": "BSB",
+        "observation": "rond Point du Pissot",
+        "picture": "https://delivrez.fr/public/posts/img.6913117d5fdf0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.247442,
+          47.501057
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Fontaine",
+        "lat": "47.5010571",
+        "lon": "-0.2474419",
+        "type": "BSB",
+        "observation": "FONTAINE-MILON (49)",
+        "picture": "https://delivrez.fr/public/posts/img.69133b87e01e4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.81095,
+          47.103752
+        ]
+      },
+      "properties": {
+        "title": "PLACE DE RETZ",
+        "lat": "47.103752",
+        "lon": "-1.8109505",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.691468dcf339e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.084839,
+          46.739478
+        ]
+      },
+      "properties": {
+        "title": "Rue nationale",
+        "lat": "46.7394778",
+        "lon": "-1.084839",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.690c9c7bcee4d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.550051,
           46.416948
         ]
@@ -33,22 +137,6 @@
         "lon": "-0.6837892",
         "type": "BSB",
         "observation": "sur la vitrine du Vival"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.964701,
-          46.773526
-        ]
-      },
-      "properties": {
-        "title": "Fradiniere",
-        "lat": "46.7735261",
-        "lon": "-1.9647006",
-        "type": "BSB"
       }
     },
     {
@@ -6164,24 +6252,6 @@
         "type": "BSB",
         "observation": "_",
         "picture": "https://delivrez.fr/public/posts/img.636a0e7d6ef1d.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.054402,
-          46.555873
-        ]
-      },
-      "properties": {
-        "title": "place des halles",
-        "lat": "46.5558726",
-        "lon": "-1.054402",
-        "type": "BSB",
-        "observation": "_",
-        "picture": "https://delivrez.fr/public/posts/img.634c22bb363ff.png"
       }
     },
     {

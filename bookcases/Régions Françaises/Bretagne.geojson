@@ -6,6 +6,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.38922,
+          48.144912
+        ]
+      },
+      "properties": {
+        "title": "Place des Anciens Combattants",
+        "lat": "48.1449116",
+        "lon": "-3.3892197",
+        "type": "BSB",
+        "observation": "dans la cabine téléphonique",
+        "picture": "https://delivrez.fr/public/posts/img.69233376dd9ec.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.333355,
+          48.512214
+        ]
+      },
+      "properties": {
+        "title": "Place Arthur Cade",
+        "lat": "48.5122144",
+        "lon": "-2.3333549",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6919d65ee7cb2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.11079,
+          48.6361
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Grève",
+        "lat": "48.6361004",
+        "lon": "-2.1107902",
+        "type": "BSB",
+        "observation": "Jolie boite à lire, bien fournie.",
+        "picture": "https://delivrez.fr/public/posts/img.6910a9769634e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.018378,
+          48.635655
+        ]
+      },
+      "properties": {
+        "title": "boite à  livres",
+        "lat": "48.6356547",
+        "lon": "-2.0183778",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.334763,
           47.915327
         ]
@@ -8668,23 +8737,6 @@
         "lon": "-1.8757984",
         "type": "BSB",
         "observation": "Un parking est tout près."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.110693,
-          48.636203
-        ]
-      },
-      "properties": {
-        "title": "devant la poste",
-        "lat": "48.6362031",
-        "lon": "-2.110693",
-        "type": "BSB",
-        "observation": "Jolie boite à lire, bien fournie."
       }
     },
     {

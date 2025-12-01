@@ -6,6 +6,129 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.461485,
+          43.5412
+        ]
+      },
+      "properties": {
+        "title": "Cours national",
+        "lat": "43.5412002",
+        "lon": "3.4614847",
+        "type": "BSB",
+        "observation": "3 boites",
+        "picture": "https://delivrez.fr/public/posts/img.6925bf5b2e51a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.069427,
+          43.93096
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Source de Label",
+        "lat": "43.9309598",
+        "lon": "3.0694266",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69160ae0eab4e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.006266,
+          43.928038
+        ]
+      },
+      "properties": {
+        "title": "saint jean d'alcas",
+        "lat": "43.9280379",
+        "lon": "3.0062664",
+        "type": "BSB",
+        "observation": "boite à livres sous l'abri bus à l'entrée du village",
+        "picture": "https://delivrez.fr/public/posts/img.691616af5b0d3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.019944,
+          43.031319
+        ]
+      },
+      "properties": {
+        "title": "Prat Bonrepaux",
+        "lat": "43.0313191",
+        "lon": "1.0199438",
+        "type": "BSB",
+        "observation": "Centre village",
+        "picture": "https://delivrez.fr/public/posts/img.69089cbedd059.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.954791,
+          43.018163
+        ]
+      },
+      "properties": {
+        "title": "Urau",
+        "lat": "43.0181631",
+        "lon": "0.9547914",
+        "type": "BSB",
+        "observation": "Aire CC devant mairie",
+        "picture": "https://delivrez.fr/public/posts/img.69089cbac5858.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.910636,
+          43.900302
+        ]
+      },
+      "properties": {
+        "title": "Lapeyre",
+        "lat": "43.9003022",
+        "lon": "2.9106363",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.690f6c0350174.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.943817,
+          43.893798
+        ]
+      },
+      "properties": {
+        "title": "Boulevard de l'Ayrolle",
+        "lat": "43.8937983",
+        "lon": "2.9438167",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.690f678def685.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.137849,
           43.922326
         ]
@@ -5125,23 +5248,6 @@
         "lon": "2.7258196",
         "type": "BSB",
         "observation": "boite a livres dans une cabine téléphonique"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.006266,
-          43.928038
-        ]
-      },
-      "properties": {
-        "title": "saint jean d'alcas",
-        "lat": "43.9280379",
-        "lon": "3.0062664",
-        "type": "BSB",
-        "observation": "boite à livres sous l'abri bus à l'entrée du village"
       }
     },
     {

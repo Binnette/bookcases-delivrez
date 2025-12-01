@@ -6,6 +6,297 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.44429,
+          45.248317
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "45.2483172",
+        "lon": "-0.4442898",
+        "type": "BSB",
+        "observation": "à côté de la salle des associations"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.396591,
+          45.270932
+        ]
+      },
+      "properties": {
+        "title": "lac de Montendre",
+        "lat": "45.2709324",
+        "lon": "-0.396591",
+        "type": "BSB",
+        "observation": "à côté de l'espace de jeux, sous l'abris d'une table de pique-nique.",
+        "picture": "https://delivrez.fr/public/posts/img.69247e40aedf5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.276496,
+          44.545976
+        ]
+      },
+      "properties": {
+        "title": "Route de Villandraut",
+        "lat": "44.5459764",
+        "lon": "-0.2764956",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6922d1ef96c0b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.375425,
+          44.867108
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Ducs de la Force",
+        "lat": "44.8671083",
+        "lon": "0.375425",
+        "type": "BSB",
+        "observation": "Adossée à la maire",
+        "picture": "https://delivrez.fr/public/posts/img.69076f3adaffb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.609266,
+          44.877231
+        ]
+      },
+      "properties": {
+        "title": "Allée du Brion",
+        "lat": "44.8772306",
+        "lon": "-0.6092659",
+        "type": "BSB",
+        "observation": "devant l'école",
+        "picture": "https://delivrez.fr/public/posts/img.6914b003d89a6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.124947,
+          45.741349
+        ]
+      },
+      "properties": {
+        "title": "16 Rue des Tilleuls, 17530 Arvert",
+        "lat": "45.7413487",
+        "lon": "-1.124947",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6910c36faca73.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.183122,
+          45.218127
+        ]
+      },
+      "properties": {
+        "title": "Rue de Vassiac",
+        "lat": "45.2181274",
+        "lon": "-0.1831224",
+        "type": "BSB",
+        "observation": "Devant le stade et la salle de la Plaine des sports",
+        "picture": "https://delivrez.fr/public/posts/img.69134ef431af6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.563914,
+          45.170179
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Jaurès",
+        "lat": "45.1701788",
+        "lon": "1.5639136",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.10533,
+          45.736082
+        ]
+      },
+      "properties": {
+        "title": "espace Chaland, 1 Pl. du Marché, 17530 Arvert",
+        "lat": "45.7360822",
+        "lon": "-1.10533",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.621611,
+          45.742161
+        ]
+      },
+      "properties": {
+        "title": "Rue Marcelin Berthelot",
+        "lat": "45.742161",
+        "lon": "-0.6216107",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.690b4aaf258d8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.789334,
+          45.643435
+        ]
+      },
+      "properties": {
+        "title": "Rue du Point du Jour",
+        "lat": "45.6434351",
+        "lon": "-0.789334",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.690a318512010.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.748005,
+          45.601065
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Seudre",
+        "lat": "45.6010652",
+        "lon": "-0.7480054",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6909da2d16b4f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.710107,
+          45.636152
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "45.6361518",
+        "lon": "-0.7101074",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6908cdec41f77.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.712246,
+          44.914989
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg E",
+        "lat": "44.914989",
+        "lon": "0.712246",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6908afe13aa25.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.501977,
+          45.049715
+        ]
+      },
+      "properties": {
+        "title": "Rue des Gombauds",
+        "lat": "45.049715",
+        "lon": "-0.5019767",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69073630c5770.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.746641,
+          45.634846
+        ]
+      },
+      "properties": {
+        "title": "Route de Meursac",
+        "lat": "45.6348458",
+        "lon": "-0.7466415",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69078f48291a5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.462023,
+          44.851248
+        ]
+      },
+      "properties": {
+        "title": "Avenue Aristide Briand",
+        "lat": "44.8512483",
+        "lon": "0.4620233",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6906257096538.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.457555,
           44.691953
         ]
@@ -12430,23 +12721,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.609266,
-          44.877231
-        ]
-      },
-      "properties": {
-        "title": "Allée du Brion",
-        "lat": "44.8772306",
-        "lon": "-0.6092659",
-        "type": "BSB",
-        "observation": "devant l'école"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.631553,
           43.356231
         ]
@@ -21131,23 +21405,6 @@
         "lon": "-0.5779557",
         "type": "BSB",
         "observation": "Nouvelle boite à lire à Bordeaux au centre d animation Argonne Nansouty. "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.375439,
-          44.867
-        ]
-      },
-      "properties": {
-        "title": "6 Avenue des Ducs de la Force",
-        "lat": "44.8669999",
-        "lon": "0.3754394",
-        "type": "BSB",
-        "observation": "Adossée à la maire"
       }
     },
     {

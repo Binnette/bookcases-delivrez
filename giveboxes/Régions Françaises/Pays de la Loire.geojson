@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.358593,
+          47.29412
+        ]
+      },
+      "properties": {
+        "title": "Avenue Henri Bertho",
+        "lat": "47.2941195",
+        "lon": "-2.3585927",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.6921a7dc8e128.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.419839,
           47.496055
         ]

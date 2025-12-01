@@ -6,6 +6,232 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.361938,
+          48.065136
+        ]
+      },
+      "properties": {
+        "title": "Cercle St Martin",
+        "lat": "48.0651357",
+        "lon": "7.3619378",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6921c5edd8ce9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.469059,
+          48.594982
+        ]
+      },
+      "properties": {
+        "title": "Traenheim - Rue de l'École",
+        "lat": "48.5949821",
+        "lon": "7.4690588",
+        "type": "BSB",
+        "observation": "sous le préau près de l'aire de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.6921d807cb399.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.378868,
+          48.126083
+        ]
+      },
+      "properties": {
+        "title": "Mairie de Houssen",
+        "lat": "48.1260834",
+        "lon": "7.3788683",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69189254c3c1e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.350207,
+          48.741705
+        ]
+      },
+      "properties": {
+        "title": "Champenoux - Rue Saint-Barthélémy",
+        "lat": "48.741705",
+        "lon": "6.3502067",
+        "type": "BSB",
+        "observation": "près de la fontaine",
+        "picture": "https://delivrez.fr/public/posts/img.68fb767e36b4d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.133848,
+          48.038624
+        ]
+      },
+      "properties": {
+        "title": "Devant la gare de Munster",
+        "lat": "48.0386238",
+        "lon": "7.1338482",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.691365737f000.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.601364,
+          47.782548
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "47.7825482",
+        "lon": "5.6013645",
+        "type": "BSB",
+        "observation": "syndicat d'initiative",
+        "picture": "https://delivrez.fr/public/posts/img.6915ac8ff412e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.613378,
+          48.845015
+        ]
+      },
+      "properties": {
+        "title": "Val de Moder - Rue de la Gare",
+        "lat": "48.8450147",
+        "lon": "7.613378",
+        "type": "BSB",
+        "observation": "au carrefour en face de la brasserie",
+        "picture": "https://delivrez.fr/public/posts/img.690b63316de64.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.743737,
+          49.814755
+        ]
+      },
+      "properties": {
+        "title": "Place de Nouzonville",
+        "lat": "49.814755",
+        "lon": "4.7437367",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6909cbc8d82ff.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.339047,
+          47.528315
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Synagogue - Maison des associations",
+        "lat": "47.5283153",
+        "lon": "7.3390465",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6908c0ff82e3d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.835946,
+          48.802357
+        ]
+      },
+      "properties": {
+        "title": "Haguenau magasin Carrefour",
+        "lat": "48.8023568",
+        "lon": "7.8359462",
+        "type": "BSB",
+        "observation": "entrée 1 à gauche",
+        "picture": "https://delivrez.fr/public/posts/img.6908bf5e879c4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.47745,
+          47.634547
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Gare",
+        "lat": "47.6345473",
+        "lon": "7.4774497",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69086a7dbe5ec.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.521385,
+          49.924752
+        ]
+      },
+      "properties": {
+        "title": "L'ancienne cabine téléphonique",
+        "lat": "49.9247519",
+        "lon": "4.5213853",
+        "type": "BSB",
+        "observation": "Une boîte à livres a qu'à installer dans une ancienne cabine téléphonique"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.880565,
+          49.145733
+        ]
+      },
+      "properties": {
+        "title": "9, rue des Écoles",
+        "lat": "49.1457333",
+        "lon": "5.880565",
+        "type": "BSB",
+        "observation": "en face le numéro 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.409273,
           48.021226
         ]

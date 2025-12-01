@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="49.025483" lon="3.026975">
+    <name>Place de Verdun</name>
+    <desc>La boîte a lire se trouve juste devant l entree De la mairie.</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.963491" lon="2.674653">
     <name>dans le parc à droite du groupe scolaire André Tur</name>
     <desc>très belle boîte étanche en aluminium</desc>
@@ -2983,16 +2993,6 @@
   <wpt lat="48.808124" lon="2.494959">
     <name>piscine Brossolette</name>
     <desc>A l intérieur de la piscine</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.025462" lon="3.026831">
-    <name>Mairie</name>
-    <desc>La boîte a lire se trouve juste devant l entree De la mairie.</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.68069,
+          47.391315
+        ]
+      },
+      "properties": {
+        "title": "Frigo solidaire",
+        "lat": "47.3913154",
+        "lon": "0.6806899",
+        "type": "INE",
+        "observation": "Place des Halles, rue Gaston Pailhou Tours. Dans la cour, à l'angle du restaurant Le Mastroquet",
+        "picture": "https://delivrez.fr/public/posts/img.6924ad4e70e58.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.767462,
           48.145531
         ]

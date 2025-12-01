@@ -6,6 +6,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.616946,
+          50.559672
+        ]
+      },
+      "properties": {
+        "title": "rue de l'étang",
+        "lat": "50.559672",
+        "lon": "1.6169458",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.297666,
+          50.417474
+        ]
+      },
+      "properties": {
+        "title": "Hameau d'Elpret",
+        "lat": "50.4174743",
+        "lon": "3.2976658",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.690629341f64c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.745327,
           50.488169
         ]

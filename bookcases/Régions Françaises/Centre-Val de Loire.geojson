@@ -6,6 +6,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.66662,
+          48.5659
+        ]
+      },
+      "properties": {
+        "title": "livres",
+        "lat": "48.5659",
+        "lon": "1.6666201",
+        "type": "BSB",
+        "observation": "préau",
+        "picture": "https://delivrez.fr/public/posts/img.69271f0390402.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.599519,
+          47.378107
+        ]
+      },
+      "properties": {
+        "title": "Rue du Bourg",
+        "lat": "47.3781068",
+        "lon": "0.5995195",
+        "type": "BSB",
+        "observation": "placis de la loire",
+        "picture": "https://delivrez.fr/public/posts/img.692054576e2cd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.098212,
           48.262162
         ]
@@ -4624,23 +4660,6 @@
         "type": "BSB",
         "observation": "côté du terrain multisports",
         "picture": "https://delivrez.fr/public/posts/img.61714a24b8061.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.128041,
-          47.236895
-        ]
-      },
-      "properties": {
-        "title": "cabine téléphonique",
-        "lat": "47.2368949",
-        "lon": "0.1280412",
-        "type": "BSB",
-        "observation": "_"
       }
     },
     {

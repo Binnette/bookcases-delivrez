@@ -6,6 +6,198 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.542571,
+          45.174941
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Fusillés",
+        "lat": "45.1749409",
+        "lon": "5.5425706",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6911f390991fa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.526906,
+          45.127055
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Fusillés",
+        "lat": "45.1270551",
+        "lon": "5.5269059",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6913147bb8fdc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.542605,
+          45.174219
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Fusillés",
+        "lat": "45.1742193",
+        "lon": "5.5426047",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6911f6689ac97.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.573367,
+          46.167832
+        ]
+      },
+      "properties": {
+        "title": "Saint-Christophe en Bourbonnais",
+        "lat": "46.167832",
+        "lon": "3.573367",
+        "type": "BSB",
+        "observation": "Place de la Marianne - à côté du panneau d'affichage",
+        "picture": "https://delivrez.fr/public/posts/img.69134e2d22c43.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.592551,
+          46.165436
+        ]
+      },
+      "properties": {
+        "title": "Isserpent",
+        "lat": "46.1654365",
+        "lon": "3.592551",
+        "type": "BSB",
+        "observation": "Place Pierre Froment - Face à la mairie - Arrêt bus - cantine scolaire",
+        "picture": "https://delivrez.fr/public/posts/img.691350d3b7156.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.517699,
+          46.178829
+        ]
+      },
+      "properties": {
+        "title": "Bost",
+        "lat": "46.1788285",
+        "lon": "3.5176993",
+        "type": "BSB",
+        "observation": "Parking salle des fêtes",
+        "picture": "https://delivrez.fr/public/posts/img.69134919411c2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.658596,
+          46.183417
+        ]
+      },
+      "properties": {
+        "title": "Le Breuil",
+        "lat": "46.183417",
+        "lon": "3.6585959",
+        "type": "BSB",
+        "observation": "Vival - parking Eglise",
+        "picture": "https://delivrez.fr/public/posts/img.691355f048823.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.58901,
+          45.128074
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Fusillés",
+        "lat": "45.1280742",
+        "lon": "5.5890105",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6914a2f28eff4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.189438,
+          45.900622
+        ]
+      },
+      "properties": {
+        "title": "carrefour market",
+        "lat": "45.9006224",
+        "lon": "5.1894385",
+        "type": "BSB",
+        "observation": "à l'entrée du supermarché",
+        "picture": "https://delivrez.fr/public/posts/img.690e036195b45.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.694133,
+          44.376734
+        ]
+      },
+      "properties": {
+        "title": "Avenue Maréchal Juin",
+        "lat": "44.3767336",
+        "lon": "4.694133",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.690f10b430f33.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.683647,
+          44.365673
+        ]
+      },
+      "properties": {
+        "title": "Chemin de Sérignan",
+        "lat": "44.365673",
+        "lon": "4.6836466",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6905deb8d275f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.029424,
           45.748384
         ]

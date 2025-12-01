@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.916843,
+          44.009582
+        ]
+      },
+      "properties": {
+        "title": "Pl. de la Mairie",
+        "lat": "44.0095815",
+        "lon": "5.9168426",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69130d6ea4156.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.520251,
+          44.541201
+        ]
+      },
+      "properties": {
+        "title": "Les Fachins",
+        "lat": "44.541201",
+        "lon": "6.5202505",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6914705576d43.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.875415,
           43.656092
         ]
