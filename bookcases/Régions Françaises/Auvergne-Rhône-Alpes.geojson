@@ -6,6 +6,73 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.753632,
+          44.553324
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Alexis",
+        "lat": "44.5533237",
+        "lon": "4.7536315",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6943e92c92195.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.502197,
+          44.557339
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église Saint-Louis",
+        "lat": "44.557339",
+        "lon": "4.5021968",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6942c0e10636e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.120627,
+          45.913067
+        ]
+      },
+      "properties": {
+        "title": "square de l'évêché",
+        "lat": "45.9130667",
+        "lon": "6.1206267",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.022025,
+          44.72751
+        ]
+      },
+      "properties": {
+        "title": "Quai de Verdun",
+        "lat": "44.72751",
+        "lon": "5.022025",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.693832a9a3e7d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.542571,
           45.174941
         ]
@@ -3010,23 +3077,6 @@
         "lon": "4.1731705",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.674b12cb9bdb1.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.833151,
-          45.757165
-        ]
-      },
-      "properties": {
-        "title": "Station Métro D",
-        "lat": "45.7571654",
-        "lon": "4.8331515",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.6741a306225ca.png"
       }
     },
     {

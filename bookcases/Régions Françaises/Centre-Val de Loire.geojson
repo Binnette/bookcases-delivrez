@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.626198,
+          47.962708
+        ]
+      },
+      "properties": {
+        "title": "Chevillon sur Huillard - Gr Grande Rue",
+        "lat": "47.9627085",
+        "lon": "2.6261984",
+        "type": "BSB",
+        "observation": "sous l'abri à gauche de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.693a9d90893ca.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.66662,
           48.5659
         ]
@@ -4792,23 +4810,6 @@
         "title": "Rue Pasteur",
         "lat": "46.6339323",
         "lon": "1.0644167",
-        "type": "BSB",
-        "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.991595,
-          47.127822
-        ]
-      },
-      "properties": {
-        "title": "rue vignemont",
-        "lat": "47.1278223",
-        "lon": "0.9915948",
         "type": "BSB",
         "observation": "_"
       }

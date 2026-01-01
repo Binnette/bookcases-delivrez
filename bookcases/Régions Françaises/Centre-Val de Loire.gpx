@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.962708" lon="2.626198">
+    <name>Chevillon sur Huillard - Gr Grande Rue</name>
+    <desc>sous l'abri à gauche de la mairie</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.5659" lon="1.66662">
     <name>livres</name>
     <desc>préau</desc>
@@ -2742,16 +2752,6 @@
   </wpt>
   <wpt lat="46.633932" lon="1.064417">
     <name>Rue Pasteur</name>
-    <desc>_</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.127822" lon="0.991595">
-    <name>rue vignemont</name>
     <desc>_</desc>
     <type>Delivrez bookcases</type>
     <extensions>

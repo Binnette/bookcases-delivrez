@@ -6,6 +6,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.706786,
+          50.010542
+        ]
+      },
+      "properties": {
+        "title": "Route de Secheval",
+        "lat": "50.0105423",
+        "lon": "4.7067865",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.694fe339417cf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.323024,
+          48.688465
+        ]
+      },
+      "properties": {
+        "title": "Ligny en Barrois - Place de la République",
+        "lat": "48.688465",
+        "lon": "5.3230237",
+        "type": "BSB",
+        "observation": "devant la boulangerie",
+        "picture": "https://delivrez.fr/public/posts/img.6946d69cdced1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.517267,
+          48.668547
+        ]
+      },
+      "properties": {
+        "title": "Willgotheim - Rue du Kochersberg",
+        "lat": "48.6685467",
+        "lon": "7.5172667",
+        "type": "BSB",
+        "observation": "au bord de la route",
+        "picture": "https://delivrez.fr/public/posts/img.692872c4ecbc4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.438865,
+          48.634505
+        ]
+      },
+      "properties": {
+        "title": "Allée des Platanes",
+        "lat": "48.634505",
+        "lon": "7.438865",
+        "type": "BSB",
+        "observation": "à côté de l'école",
+        "picture": "https://delivrez.fr/public/posts/img.69244aa58f859.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.978563,
+          48.394021
+        ]
+      },
+      "properties": {
+        "title": "Boite à livres banc",
+        "lat": "48.394021",
+        "lon": "6.9785629",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.693186500fecc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.463545,
+          48.531756
+        ]
+      },
+      "properties": {
+        "title": "Rue de Rosheim",
+        "lat": "48.5317562",
+        "lon": "7.4635454",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69318e9969bde.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.361938,
           48.065136
         ]

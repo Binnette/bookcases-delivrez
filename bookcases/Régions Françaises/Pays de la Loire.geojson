@@ -6,6 +6,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.588823,
+          47.195913
+        ]
+      },
+      "properties": {
+        "title": "Boulevard de Chantenay",
+        "lat": "47.195913",
+        "lon": "-1.588823",
+        "type": "BSB",
+        "observation": "devant le navibus",
+        "picture": "https://delivrez.fr/public/posts/img.695143dfc583d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.607503,
+          47.218396
+        ]
+      },
+      "properties": {
+        "title": "cremetterie",
+        "lat": "47.2183965",
+        "lon": "-1.6075025",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.151234,
+          48.323996
+        ]
+      },
+      "properties": {
+        "title": "Rue du Général Leclerc",
+        "lat": "48.3239962",
+        "lon": "0.1512336",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69481d9d84119.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.574522,
+          47.903613
+        ]
+      },
+      "properties": {
+        "title": "Tresson - Impasse du Prieuré",
+        "lat": "47.9036133",
+        "lon": "0.5745217",
+        "type": "BSB",
+        "observation": "à côté de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.693adca02d5bd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.484771,
+          47.247154
+        ]
+      },
+      "properties": {
+        "title": "École de musique",
+        "lat": "47.2471538",
+        "lon": "-1.4847711",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69394561d5810.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.491902,
+          47.257105
+        ]
+      },
+      "properties": {
+        "title": "Avenue de l'Aubinière",
+        "lat": "47.2571051",
+        "lon": "-1.4919022",
+        "type": "BSB",
+        "observation": "devant le foyer",
+        "picture": "https://delivrez.fr/public/posts/img.6932ff1701a38.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.869494,
+          47.065215
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Jeanne d'Arc",
+        "lat": "47.0652152",
+        "lon": "-0.8694942",
+        "type": "BSB",
+        "observation": "a la gare",
+        "picture": "https://delivrez.fr/public/posts/img.6934061a8c47c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.840251,
+          47.270967
+        ]
+      },
+      "properties": {
+        "title": "L'Angle",
+        "lat": "47.2709669",
+        "lon": "-1.840251",
+        "type": "BSB",
+        "observation": "dans l'abri du car",
+        "picture": "https://delivrez.fr/public/posts/img.692c41541d13b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.699369,
           47.649442
         ]
@@ -6911,23 +7051,6 @@
         "lon": "-2.456218",
         "type": "BSB",
         "observation": "Une petite boîte au coin de la rue"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.50435,
-          47.444722
-        ]
-      },
-      "properties": {
-        "title": "Rue Jean Jaurès",
-        "lat": "47.4447217",
-        "lon": "-0.5043499",
-        "type": "BSB",
-        "observation": "_"
       }
     },
     {

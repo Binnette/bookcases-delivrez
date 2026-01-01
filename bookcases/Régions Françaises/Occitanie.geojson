@@ -6,6 +6,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.236874,
+          43.45782
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Brèche",
+        "lat": "43.4578198",
+        "lon": "3.2368738",
+        "type": "BSB",
+        "observation": "devant école primaire",
+        "picture": "https://delivrez.fr/public/posts/img.693941f12aca2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.222042,
+          43.471986
+        ]
+      },
+      "properties": {
+        "title": "Place Vieille",
+        "lat": "43.4719863",
+        "lon": "3.2220421",
+        "type": "BSB",
+        "observation": "a gauche de l entrée église",
+        "picture": "https://delivrez.fr/public/posts/img.693930f2e39d6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.178197,
+          42.939265
+        ]
+      },
+      "properties": {
+        "title": "Rte du Lac",
+        "lat": "42.9392652",
+        "lon": "-0.1781971",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.692b181f9c39b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.461485,
           43.5412
         ]

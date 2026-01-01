@@ -6,6 +6,184 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.007483,
+          48.696583
+        ]
+      },
+      "properties": {
+        "title": "Place de la Liberté",
+        "lat": "48.6965833",
+        "lon": "-3.0074833",
+        "type": "BSB",
+        "observation": "devant l'église",
+        "picture": "https://delivrez.fr/public/posts/img.694aa313328a5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.985187,
+          48.749304
+        ]
+      },
+      "properties": {
+        "title": "Rue Yves le Bitter",
+        "lat": "48.7493035",
+        "lon": "-2.9851865",
+        "type": "BSB",
+        "observation": "En face de l'école maternelle et des pompes funèbres.",
+        "picture": "https://delivrez.fr/public/posts/img.694ab2eab2222.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.983057,
+          48.66615
+        ]
+      },
+      "properties": {
+        "title": "Rue du Manoir",
+        "lat": "48.66615",
+        "lon": "-2.9830567",
+        "type": "BSB",
+        "observation": "Entre le parking, l'église et les toilettes.",
+        "picture": "https://delivrez.fr/public/posts/img.694ac5a1b7345.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96212,
+          48.670572
+        ]
+      },
+      "properties": {
+        "title": "Lieu dit Saint Laurent",
+        "lat": "48.6705717",
+        "lon": "-2.96212",
+        "type": "BSB",
+        "observation": "À côté d'une croix en pierre.",
+        "picture": "https://delivrez.fr/public/posts/img.694ac380349c9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.884901,
+          48.676946
+        ]
+      },
+      "properties": {
+        "title": "Le Palus",
+        "lat": "48.6769457",
+        "lon": "-2.8849012",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.694abf0a41d55.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.933098,
+          48.673953
+        ]
+      },
+      "properties": {
+        "title": "Rue de Dixmude",
+        "lat": "48.6739533",
+        "lon": "-2.9330983",
+        "type": "BSB",
+        "observation": "En face de la salle des fêtes.",
+        "picture": "https://delivrez.fr/public/posts/img.694abc23cabd7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.948738,
+          48.727115
+        ]
+      },
+      "properties": {
+        "title": "Route de la Corniche",
+        "lat": "48.727115",
+        "lon": "-2.9487383",
+        "type": "BSB",
+        "observation": "A côté des toilettes publiques.",
+        "picture": "https://delivrez.fr/public/posts/img.694aab0b16e99.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.964018,
+          48.713667
+        ]
+      },
+      "properties": {
+        "title": "Rue Straed Alain le Nerrant",
+        "lat": "48.713667",
+        "lon": "-2.964018",
+        "type": "BSB",
+        "observation": "Sur le parking en face de la crêperie.",
+        "picture": "https://delivrez.fr/public/posts/img.694aa78976212.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.49742,
+          48.375998
+        ]
+      },
+      "properties": {
+        "title": "Rue Anne René Thébault",
+        "lat": "48.3759983",
+        "lon": "-1.49742",
+        "type": "BSB",
+        "observation": "devant la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.694166c5e0a71.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.523349,
+          48.11446
+        ]
+      },
+      "properties": {
+        "title": "livres devant l'église",
+        "lat": "48.1144597",
+        "lon": "-1.5233488",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.693409ec55af7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.38922,
           48.144912
         ]
@@ -5184,23 +5362,6 @@
         "lon": "-1.8467031",
         "type": "BSB",
         "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.007511,
-          48.696483
-        ]
-      },
-      "properties": {
-        "title": "Place de la Liberté",
-        "lat": "48.696483",
-        "lon": "-3.0075114",
-        "type": "BSB",
-        "observation": "devant l'église"
       }
     },
     {

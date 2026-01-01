@@ -6,6 +6,78 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.964815,
+          49.04368
+        ]
+      },
+      "properties": {
+        "title": "St Amand - Place de l'Église",
+        "lat": "49.04368",
+        "lon": "-0.964815",
+        "type": "BSB",
+        "observation": "maisonnette derrière l'abribus en face de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.69429e22a1dfb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.032483,
+          48.987138
+        ]
+      },
+      "properties": {
+        "title": "Domjean - Rue Dame Gonnor",
+        "lat": "48.9871383",
+        "lon": "-1.0324833",
+        "type": "BSB",
+        "observation": "en face du St Michel sous l'abribus",
+        "picture": "https://delivrez.fr/public/posts/img.6942963e75266.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.40772,
+          49.244299
+        ]
+      },
+      "properties": {
+        "title": "Le Petit Andély - Rue de Marville",
+        "lat": "49.2442991",
+        "lon": "1.4077199",
+        "type": "BSB",
+        "observation": "dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.694418076f4b9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.314142,
+          49.302472
+        ]
+      },
+      "properties": {
+        "title": "Boulevard du Calvados",
+        "lat": "49.3024722",
+        "lon": "-0.3141419",
+        "type": "BSB",
+        "observation": "proche du manège",
+        "picture": "https://delivrez.fr/public/posts/img.693e953060db1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.390032,
           49.331133
         ]
@@ -3070,23 +3142,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.407747,
-          49.244517
-        ]
-      },
-      "properties": {
-        "title": "Parc Nicolas Poussin",
-        "lat": "49.2445172",
-        "lon": "1.4077471",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.64d88cc53e389.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.222131,
           48.841791
         ]
@@ -4552,23 +4607,6 @@
         "lon": "-0.0092979",
         "type": "BSB",
         "observation": "boite jaune . face la tabac"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.033163,
-          48.986838
-        ]
-      },
-      "properties": {
-        "title": "Place Saint-Michel",
-        "lat": "48.9868377",
-        "lon": "-1.033163",
-        "type": "BSB",
-        "observation": "dans arrêt de bus"
       }
     },
     {

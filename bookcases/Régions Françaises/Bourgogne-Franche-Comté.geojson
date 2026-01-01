@@ -6,6 +6,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.307555,
+          48.290123
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "48.2901233",
+        "lon": "3.3075551",
+        "type": "BSB",
+        "observation": "vers l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6946d2bc06290.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.345051,
+          48.317345
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue Barrault",
+        "lat": "48.317345",
+        "lon": "3.3450512",
+        "type": "BSB",
+        "observation": "vers l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6946d6b86999c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.322123,
+          48.044791
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "48.0447906",
+        "lon": "3.3221233",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6946b193e72a4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.315131,
+          48.025272
+        ]
+      },
+      "properties": {
+        "title": "Rue de la République",
+        "lat": "48.0252719",
+        "lon": "3.3151312",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6946af7004341.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.217573,
+          48.080317
+        ]
+      },
+      "properties": {
+        "title": "Place Saint Louis",
+        "lat": "48.0803168",
+        "lon": "3.2175725",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6946b6550c6f1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.547635,
+          46.806027
+        ]
+      },
+      "properties": {
+        "title": "Rue Comoy",
+        "lat": "46.8060267",
+        "lon": "3.5476351",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6943eb1f16cfd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.710038,
+          46.847313
+        ]
+      },
+      "properties": {
+        "title": "Thaix, Rue Saint-Martin",
+        "lat": "46.847313",
+        "lon": "3.7100381",
+        "type": "BSB",
+        "observation": "vers la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.693826e07f414.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.649109,
+          47.482309
+        ]
+      },
+      "properties": {
+        "title": "Route de Châtel Censoir",
+        "lat": "47.4823092",
+        "lon": "3.6491088",
+        "type": "BSB",
+        "observation": "dans l'abri bus en bois",
+        "picture": "https://delivrez.fr/public/posts/img.6936c5f706205.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.071588,
           47.779738
         ]

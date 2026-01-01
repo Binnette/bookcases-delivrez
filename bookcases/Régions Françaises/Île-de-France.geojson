@@ -6,6 +6,107 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.305589,
+          48.84359
+        ]
+      },
+      "properties": {
+        "title": "boite a livre",
+        "lat": "48.8435899",
+        "lon": "2.3055892",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.180007,
+          48.445183
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Champins",
+        "lat": "48.4451833",
+        "lon": "2.1800067",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69494fff0e4be.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.310104,
+          49.001875
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Laitières",
+        "lat": "49.0018753",
+        "lon": "2.3101041",
+        "type": "BSB",
+        "observation": "juste devant l'école des Sources",
+        "picture": "https://delivrez.fr/public/posts/img.6945a8c46f72c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.424565,
+          48.855825
+        ]
+      },
+      "properties": {
+        "title": "Paris",
+        "lat": "48.8558252",
+        "lon": "2.4245647",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.908285,
+          48.809438
+        ]
+      },
+      "properties": {
+        "title": "Chemin Pierreux",
+        "lat": "48.8094376",
+        "lon": "1.9082849",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69410e215d67a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.361147,
+          48.63015
+        ]
+      },
+      "properties": {
+        "title": "Rue Roger Clavier",
+        "lat": "48.6301505",
+        "lon": "2.361147",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.692c5214b4772.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.026975,
           49.025483
         ]

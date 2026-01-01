@@ -6,6 +6,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.650235,
+          44.660997
+        ]
+      },
+      "properties": {
+        "title": "Rue des Champs Elysées",
+        "lat": "44.6609966",
+        "lon": "6.6502349",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.694a5cde1d54e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.45161,
+          43.527917
+        ]
+      },
+      "properties": {
+        "title": "carrefour salamandrier",
+        "lat": "43.5279168",
+        "lon": "6.4516103",
+        "type": "BSB",
+        "observation": "grande boîte à livre dans la galerie",
+        "picture": "https://delivrez.fr/public/posts/img.6947dbbd7600d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.717607,
+          44.429117
+        ]
+      },
+      "properties": {
+        "title": "Route de Nyons",
+        "lat": "44.4291167",
+        "lon": "5.7176067",
+        "type": "BSB",
+        "observation": "devant l'Office du tourisme",
+        "picture": "https://delivrez.fr/public/posts/img.69397d271d9c9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.916843,
           44.009582
         ]

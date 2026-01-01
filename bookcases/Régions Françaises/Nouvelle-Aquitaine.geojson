@@ -6,6 +6,162 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.023187,
+          43.47338
+        ]
+      },
+      "properties": {
+        "title": "boite à livres dans abri bus",
+        "lat": "43.47338",
+        "lon": "-1.0231867",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.694e9dfc1bf0a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.523019,
+          45.50567
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Seugne",
+        "lat": "45.5056696",
+        "lon": "-0.5230195",
+        "type": "BSB",
+        "observation": "A l'entrée du camping municipal.",
+        "picture": "https://delivrez.fr/public/posts/img.694d4a9fdd96c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.460569,
+          44.629801
+        ]
+      },
+      "properties": {
+        "title": "Rue Eugène Mazelie",
+        "lat": "44.629801",
+        "lon": "0.460569",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.692b0181e4af3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.601253,
+          44.854002
+        ]
+      },
+      "properties": {
+        "title": "Parc bordelais",
+        "lat": "44.8540017",
+        "lon": "-0.6012533",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69401e3a2e5ef.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.750521,
+          46.104709
+        ]
+      },
+      "properties": {
+        "title": "Square du Château",
+        "lat": "46.1047093",
+        "lon": "-0.7505211",
+        "type": "BSB",
+        "observation": "derrière la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.693ab84770a19.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.355854,
+          46.1856
+        ]
+      },
+      "properties": {
+        "title": "Allée des Fleurs la Petite Brous",
+        "lat": "46.1855998",
+        "lon": "-0.3558539",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69384576ad38e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.390201,
+          45.248138
+        ]
+      },
+      "properties": {
+        "title": "Place Claude Poget",
+        "lat": "45.2481377",
+        "lon": "-0.3902014",
+        "type": "BSB",
+        "observation": "a côté de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.692b07471e9aa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.253782,
+          45.325203
+        ]
+      },
+      "properties": {
+        "title": "Route de la Gare",
+        "lat": "45.3252033",
+        "lon": "-0.2537823",
+        "type": "BSB",
+        "observation": "face à l'ancienne gare",
+        "picture": "https://delivrez.fr/public/posts/img.692af3c343939.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.594495,
+          44.832727
+        ]
+      },
+      "properties": {
+        "title": "Place Gavinies",
+        "lat": "44.8327267",
+        "lon": "-0.5944951",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.44429,
           45.248317
         ]
@@ -18770,22 +18926,6 @@
         "lon": "-0.44602",
         "type": "BSB",
         "observation": "Inaugurée le 28 Mai 2018"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.460598,
-          44.629703
-        ]
-      },
-      "properties": {
-        "title": "8 rue Eugène Mazelie",
-        "lat": "44.6297029",
-        "lon": "0.4605977",
-        "type": "BSB"
       }
     },
     {

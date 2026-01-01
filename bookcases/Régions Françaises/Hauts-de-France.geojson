@@ -6,6 +6,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.537588,
+          49.342768
+        ]
+      },
+      "properties": {
+        "title": "Braine - Rue du Jeu de Paume",
+        "lat": "49.3427679",
+        "lon": "3.5375878",
+        "type": "BSB",
+        "observation": "dans le jardin municipal",
+        "picture": "https://delivrez.fr/public/posts/img.69454f7b0cba7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.007887,
+          49.419265
+        ]
+      },
+      "properties": {
+        "title": "Menneville - Rue du Centre",
+        "lat": "49.4192654",
+        "lon": "4.0078875",
+        "type": "BSB",
+        "observation": "cabine téléphonique à côté de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.69469a43dad76.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.616946,
           50.559672
         ]
@@ -2913,23 +2949,6 @@
         "type": "BSB",
         "observation": "près du musée de la vie rurale",
         "picture": "https://delivrez.fr/public/posts/img.66b631f6b9b08.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.008193,
-          49.420022
-        ]
-      },
-      "properties": {
-        "title": "Rue du Centre",
-        "lat": "49.4200217",
-        "lon": "4.0081927",
-        "type": "BSB",
-        "observation": "près de la mairie"
       }
     },
     {
