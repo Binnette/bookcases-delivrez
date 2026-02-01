@@ -6,6 +6,183 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.165134,
+          44.395983
+        ]
+      },
+      "properties": {
+        "title": "Place Marsan",
+        "lat": "44.3959829",
+        "lon": "-1.1651342",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.697770849c0f4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.060314,
+          44.639002
+        ]
+      },
+      "properties": {
+        "title": "Place de la Claire",
+        "lat": "44.6390025",
+        "lon": "-1.0603139",
+        "type": "BSB",
+        "observation": "en face de la boucherie",
+        "picture": "https://delivrez.fr/public/posts/img.697760aad0c0b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.017816,
+          44.640122
+        ]
+      },
+      "properties": {
+        "title": "Rue du Port",
+        "lat": "44.6401225",
+        "lon": "-1.0178159",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69763cdcf03a3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.488442,
+          45.323875
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale",
+        "lat": "45.3238749",
+        "lon": "-0.488442",
+        "type": "BSB",
+        "observation": "à côté de l'école/ mairie, sous un porche",
+        "picture": "https://delivrez.fr/public/posts/img.6972568f30a51.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.494331,
+          45.614091
+        ]
+      },
+      "properties": {
+        "title": "St Germain les Belles - Rue du Petit Barry",
+        "lat": "45.6140914",
+        "lon": "1.4943313",
+        "type": "BSB",
+        "observation": "place du 17 mars 1962",
+        "picture": "https://delivrez.fr/public/posts/img.6967993349639.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.189077,
+          46.205663
+        ]
+      },
+      "properties": {
+        "title": "Vival livres",
+        "lat": "46.2056629",
+        "lon": "-0.1890768",
+        "type": "BSB",
+        "observation": "Boîte à livres situé sur la placette en face vival",
+        "picture": "https://delivrez.fr/public/posts/img.696a5fca4d9fb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.161696,
+          46.223154
+        ]
+      },
+      "properties": {
+        "title": "Cabane à bouquins",
+        "lat": "46.2231545",
+        "lon": "-0.1616961",
+        "type": "BSB",
+        "observation": "Près du lavoir de l'autre côté de la route en face l'air de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.696a4c05330c4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.129302,
+          46.227546
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livres super u",
+        "lat": "46.2275459",
+        "lon": "-0.1293019",
+        "type": "BSB",
+        "observation": "Boîte à livres dans le super u du côté du snack",
+        "picture": "https://delivrez.fr/public/posts/img.696a52da01f76.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.139215,
+          45.391698
+        ]
+      },
+      "properties": {
+        "title": "Lanouaille - lPlace de l'Ancienne Halle",
+        "lat": "45.3916983",
+        "lon": "1.139215",
+        "type": "BSB",
+        "observation": "devant l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6968e7f6affa3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.188287,
+          46.042754
+        ]
+      },
+      "properties": {
+        "title": "Route de Perideau",
+        "lat": "46.0427544",
+        "lon": "0.1882873",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6957a601cbf4d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.023187,
           43.47338
         ]
@@ -1064,22 +1241,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.165134,
-          44.395983
-        ]
-      },
-      "properties": {
-        "title": "Place Marsan",
-        "lat": "44.3959829",
-        "lon": "-1.1651342",
-        "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.859217,
           44.905572
         ]
@@ -1759,23 +1920,6 @@
         "lon": "-1.1015359",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.687640fcd4774.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.017816,
-          44.640122
-        ]
-      },
-      "properties": {
-        "title": "Rue du Port",
-        "lat": "44.6401225",
-        "lon": "-1.0178159",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.6874d5c8a3f10.png"
       }
     },
     {

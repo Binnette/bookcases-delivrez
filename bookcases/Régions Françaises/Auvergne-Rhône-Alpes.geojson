@@ -6,6 +6,302 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.903573,
+          45.990327
+        ]
+      },
+      "properties": {
+        "title": "Impasse Montmorency",
+        "lat": "45.9903268",
+        "lon": "4.9035728",
+        "type": "BSB",
+        "observation": "pres du plan d eau",
+        "picture": "https://delivrez.fr/public/posts/img.697b58b319b86.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.071177,
+          45.174934
+        ]
+      },
+      "properties": {
+        "title": "D67 crepol bibliotheque",
+        "lat": "45.1749335",
+        "lon": "5.0711768",
+        "type": "BSB",
+        "observation": "face à l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6973772106dc3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04802,
+          45.093264
+        ]
+      },
+      "properties": {
+        "title": "devant mairie peyrins",
+        "lat": "45.0932639",
+        "lon": "5.0480198",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69736a03e7e5c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.10908,
+          45.269673
+        ]
+      },
+      "properties": {
+        "title": "Route de Saint Clair",
+        "lat": "45.2696726",
+        "lon": "5.1090798",
+        "type": "BSB",
+        "observation": "ventre la supérette, ancienne cabine téléphonique peinte en violet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.131176,
+          45.218694
+        ]
+      },
+      "properties": {
+        "title": "Route du Grand Serre",
+        "lat": "45.2186945",
+        "lon": "5.1311756",
+        "type": "BSB",
+        "observation": "face à la mairie,  contre l'auberge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7092,
+          46.508564
+        ]
+      },
+      "properties": {
+        "title": "Hérisson - Quai de l'Aumance",
+        "lat": "46.5085636",
+        "lon": "2.7092",
+        "type": "BSB",
+        "observation": "aire de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.6966486f68eb2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.233478,
+          46.192589
+        ]
+      },
+      "properties": {
+        "title": "Passage Jean Moulin",
+        "lat": "46.1925892",
+        "lon": "6.2334783",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.696bb88261184.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.189056,
+          45.794959
+        ]
+      },
+      "properties": {
+        "title": "Route des Droblesses",
+        "lat": "45.794959",
+        "lon": "6.1890556",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.290654,
+          46.308853
+        ]
+      },
+      "properties": {
+        "title": "St Pourçain/Souille - Place Georges Clemenceau",
+        "lat": "46.3088526",
+        "lon": "3.2906542",
+        "type": "BSB",
+        "observation": "devant le kiosque",
+        "picture": "https://delivrez.fr/public/posts/img.69650fae0c6ec.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.752412,
+          44.392675
+        ]
+      },
+      "properties": {
+        "title": "Rue Marquis de la Baume",
+        "lat": "44.3926748",
+        "lon": "4.752412",
+        "type": "BSB",
+        "observation": "à côté de l'Église. sur une petite place avec des bancs.",
+        "picture": "https://delivrez.fr/public/posts/img.6963a45915742.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.752152,
+          44.392913
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "44.3929133",
+        "lon": "4.7521517",
+        "type": "BSB",
+        "observation": "Dans le jardin près du petit bassin",
+        "picture": "https://delivrez.fr/public/posts/img.6963a406e5a24.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.944747,
+          45.55886
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Prés",
+        "lat": "45.5588604",
+        "lon": "5.9447473",
+        "type": "BSB",
+        "observation": "à côté de la pétanque et de l'aire de fitness",
+        "picture": "https://delivrez.fr/public/posts/img.695e36abe349c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.94798,
+          45.56533
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Sous Bois",
+        "lat": "45.5653301",
+        "lon": "5.94798",
+        "type": "BSB",
+        "observation": "au croisement des pistes cyclables directions La Ravoire/Bassens - Barberaz/St Alban",
+        "picture": "https://delivrez.fr/public/posts/img.695e354d565ae.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.951009,
+          45.566663
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Sous Bois",
+        "lat": "45.5666632",
+        "lon": "5.9510095",
+        "type": "BSB",
+        "observation": "devant le jardin partagé des 7 tilleuls",
+        "picture": "https://delivrez.fr/public/posts/img.695e343f93fcf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.955966,
+          45.928359
+        ]
+      },
+      "properties": {
+        "title": "Allée des Marronniers",
+        "lat": "45.9283595",
+        "lon": "4.9559657",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6957d9e2b0a59.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.917458,
+          45.267842
+        ]
+      },
+      "properties": {
+        "title": "place fredet",
+        "lat": "45.2678416",
+        "lon": "5.917458",
+        "type": "BSB",
+        "observation": "boite a livre etat degradé"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.790778,
+          44.889208
+        ]
+      },
+      "properties": {
+        "title": "Le Petit Grail",
+        "lat": "44.8892083",
+        "lon": "3.7907783",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.753632,
           44.553324
         ]
@@ -10443,23 +10739,6 @@
         "lon": "4.8115634",
         "type": "BSB",
         "observation": "Dans un ancien frigo, devant le Proxi"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.752412,
-          44.392675
-        ]
-      },
-      "properties": {
-        "title": "Rue Marquis de la Baume",
-        "lat": "44.3926748",
-        "lon": "4.752412",
-        "type": "BSB",
-        "observation": "à côté de l'Église. sur une petite place avec des bancs."
       }
     },
     {

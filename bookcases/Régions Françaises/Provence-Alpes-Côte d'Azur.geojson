@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.41223,
+          43.45124
+        ]
+      },
+      "properties": {
+        "title": "VIVAL BOUC BEL AIR",
+        "lat": "43.45124",
+        "lon": "5.41223",
+        "type": "BSB",
+        "observation": "Little Free Library",
+        "picture": "https://delivrez.fr/public/posts/img.696c9c52bf948.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.650235,
           44.660997
         ]
@@ -4056,23 +4074,6 @@
         "title": "VIVAL SANARY SUR MER",
         "lat": "43.12432",
         "lon": "5.79137",
-        "type": "BSB",
-        "observation": "Little Free Library"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.41223,
-          43.45124
-        ]
-      },
-      "properties": {
-        "title": "VIVAL BOUC BEL AIR",
-        "lat": "43.45124",
-        "lon": "5.41223",
         "type": "BSB",
         "observation": "Little Free Library"
       }

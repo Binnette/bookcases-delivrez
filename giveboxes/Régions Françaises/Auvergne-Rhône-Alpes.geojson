@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.923514,
+          45.563667
+        ]
+      },
+      "properties": {
+        "title": "place de l'Europe",
+        "lat": "45.5636672",
+        "lon": "5.9235141",
+        "type": "DSB",
+        "observation": "à côté du parking, proche des poubelles de tri",
+        "picture": "https://delivrez.fr/public/posts/img.695cba9457ca3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.657729,
           46.288059
         ]

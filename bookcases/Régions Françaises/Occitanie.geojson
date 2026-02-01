@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.388417,
+          43.509992
+        ]
+      },
+      "properties": {
+        "title": "boîte a livres",
+        "lat": "43.5099916",
+        "lon": "1.388417",
+        "type": "BSB",
+        "observation": "pinsaguel oui",
+        "picture": "https://delivrez.fr/public/posts/img.696b41330fb78.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.236874,
           43.45782
         ]

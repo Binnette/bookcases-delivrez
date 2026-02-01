@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.180349,
+          48.22799
+        ]
+      },
+      "properties": {
+        "title": "Route de Plounévez",
+        "lat": "48.22799",
+        "lon": "-3.1803492",
+        "type": "BSB",
+        "observation": "au bord de route, à côté de la salle polyvalente",
+        "picture": "https://delivrez.fr/public/posts/img.696273493f9e6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.007483,
           48.696583
         ]

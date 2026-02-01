@@ -6,6 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.584105,
+          48.515995
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "48.515995",
+        "lon": "1.584105",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.696b6d0bc54db.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.488115,
+          46.734205
+        ]
+      },
+      "properties": {
+        "title": "Route de Bourges",
+        "lat": "46.734205",
+        "lon": "2.488115",
+        "type": "BSB",
+        "observation": "Lac de Virlay",
+        "picture": "https://delivrez.fr/public/posts/img.696b887a5fda7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.626198,
           47.962708
         ]

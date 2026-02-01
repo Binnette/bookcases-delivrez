@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.235231,
+          50.175412
+        ]
+      },
+      "properties": {
+        "title": "Place Aristide Briand",
+        "lat": "50.1754123",
+        "lon": "3.2352315",
+        "type": "BSB",
+        "observation": "Arrêt de bus",
+        "picture": "https://delivrez.fr/public/posts/img.6975fc4a31a1e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.537588,
           49.342768
         ]

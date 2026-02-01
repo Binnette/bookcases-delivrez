@@ -6,6 +6,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.347452,
+          48.804203
+        ]
+      },
+      "properties": {
+        "title": "Rue du Professeur Bergonié",
+        "lat": "48.8042035",
+        "lon": "2.347452",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.102396,
+          48.99911
+        ]
+      },
+      "properties": {
+        "title": "gare de Conflans sainte Honorine",
+        "lat": "48.9991095",
+        "lon": "2.1023962",
+        "type": "BSB",
+        "observation": "devant l'entrée de la gare côté place Romagné"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.305589,
           48.84359
         ]

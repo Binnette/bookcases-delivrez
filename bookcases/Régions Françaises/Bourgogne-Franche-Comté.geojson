@@ -6,6 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.001433,
+          47.293656
+        ]
+      },
+      "properties": {
+        "title": "Place Anne Laprévoté",
+        "lat": "47.2936556",
+        "lon": "5.0014327",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.697b937a2cd17.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.996433,
+          46.491084
+        ]
+      },
+      "properties": {
+        "title": "Digoin - Place Maréchal Leclerc",
+        "lat": "46.4910844",
+        "lon": "3.9964331",
+        "type": "BSB",
+        "observation": "derrière l'église à l'aire de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.6964f4175c8ea.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.307555,
           48.290123
         ]
@@ -4080,23 +4115,6 @@
         "type": "BSB",
         "observation": "dans les halles Frery Belfort",
         "picture": "https://delivrez.fr/public/posts/img.640c2a014f214.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.180103,
-          46.72122
-        ]
-      },
-      "properties": {
-        "title": "Route de Mervans",
-        "lat": "46.7212203",
-        "lon": "5.1801029",
-        "type": "BSB",
-        "observation": "_"
       }
     },
     {

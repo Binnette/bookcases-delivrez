@@ -6,6 +6,112 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.539298,
+          47.469812
+        ]
+      },
+      "properties": {
+        "title": "Rue Louis Gain",
+        "lat": "47.4698117",
+        "lon": "-0.5392983",
+        "type": "BSB",
+        "observation": "Dans le parc Bellefontaine",
+        "picture": "https://delivrez.fr/public/posts/img.69721294eec9e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.540777,
+          47.240753
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Éraudière",
+        "lat": "47.2407531",
+        "lon": "-1.5407773",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69627527f1df4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.677695,
+          47.481437
+        ]
+      },
+      "properties": {
+        "title": "Rue Félix Pauger",
+        "lat": "47.4814367",
+        "lon": "-0.677695",
+        "type": "BSB",
+        "observation": "A côté de l'entrée de l'école Félix Pauger",
+        "picture": "https://delivrez.fr/public/posts/img.6957d035e8498.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.711643,
+          47.460142
+        ]
+      },
+      "properties": {
+        "title": "Rue Eric Tabarly",
+        "lat": "47.4601417",
+        "lon": "-0.7116433",
+        "type": "BSB",
+        "observation": "Sur l'aire de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.6957cbe36a76c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.66949,
+          47.464825
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Liberté",
+        "lat": "47.4648248",
+        "lon": "-0.6694902",
+        "type": "BSB",
+        "observation": "A l'intérieur du Leclerc,à l'entrée de l'espace culture",
+        "picture": "https://delivrez.fr/public/posts/img.6957c8ba71961.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.713012,
+          46.731496
+        ]
+      },
+      "properties": {
+        "title": "Gr Grande Rue",
+        "lat": "46.7314958",
+        "lon": "-0.7130116",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69569a6c44061.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.588823,
           47.195913
         ]
@@ -4939,24 +5045,6 @@
         "lon": "-1.0485368",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.64f1812b14e0d.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.88044,
-          47.06043
-        ]
-      },
-      "properties": {
-        "title": "Rue Travot",
-        "lat": "47.0604304",
-        "lon": "-0.8804396",
-        "type": "BSB",
-        "observation": "au jardin éphémère",
-        "picture": "https://delivrez.fr/public/posts/img.64f08039e013e.png"
       }
     },
     {

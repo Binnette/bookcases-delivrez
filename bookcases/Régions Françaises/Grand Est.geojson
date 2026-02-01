@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.154279,
+          48.403927
+        ]
+      },
+      "properties": {
+        "title": "Gr Grande Rue",
+        "lat": "48.4039271",
+        "lon": "5.1542791",
+        "type": "BSB",
+        "observation": "près de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.218489,
+          48.424047
+        ]
+      },
+      "properties": {
+        "title": "Rue de Saint-Amand",
+        "lat": "48.4240468",
+        "lon": "5.218489",
+        "type": "BSB",
+        "observation": "parking devant l'école"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.706786,
           50.010542
         ]
