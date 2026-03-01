@@ -6,6 +6,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.835218,
+          43.340873
+        ]
+      },
+      "properties": {
+        "title": "Esplanade du Canal",
+        "lat": "43.3408733",
+        "lon": "1.8352183",
+        "type": "BSB",
+        "observation": "sur le canal du midi",
+        "picture": "https://delivrez.fr/public/posts/img.6986058694928.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.446471,
+          43.578845
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Roch",
+        "lat": "43.578845",
+        "lon": "1.4464708",
+        "type": "BSB",
+        "observation": "Quartier Saint-Michel / Le Busca / Empalot / Saint-Agne24h/24h - 7j/7j",
+        "picture": "https://delivrez.fr/public/posts/img.6985d151a67df.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.539237,
+          44.162665
+        ]
+      },
+      "properties": {
+        "title": "Place des Mûriers",
+        "lat": "44.1626648",
+        "lon": "1.5392374",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69947884da3f6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.284543,
+          43.48497
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Pech Fario",
+        "lat": "43.4849698",
+        "lon": "3.2845435",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.698dda4e54e23.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.511883,
+          43.312293
+        ]
+      },
+      "properties": {
+        "title": "les baccarets",
+        "lat": "43.3122928",
+        "lon": "1.5118833",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.697f6cd2c2c47.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.518374,
+          43.52492
+        ]
+      },
+      "properties": {
+        "title": "D131",
+        "lat": "43.5249199",
+        "lon": "3.5183737",
+        "type": "BSB",
+        "observation": "pour enfants",
+        "picture": "https://delivrez.fr/public/posts/img.697cbaa59c88d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.388417,
           43.509992
         ]
@@ -1251,24 +1356,6 @@
         "lon": "3.6981582",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.6718c98ac7aaf.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.835384,
-          43.340887
-        ]
-      },
-      "properties": {
-        "title": "Esplanade du Canal",
-        "lat": "43.3408874",
-        "lon": "1.8353836",
-        "type": "BSB",
-        "observation": "sur le canal du midi",
-        "picture": "https://delivrez.fr/public/posts/img.6714f66c6158e.png"
       }
     },
     {
@@ -8719,23 +8806,6 @@
         "title": "Esplanade de la capitainerie",
         "lat": "43.5958013",
         "lon": "1.455832",
-        "type": "BSB",
-        "observation": "Quartier Saint-Michel / Le Busca / Empalot / Saint-Agne24h/24h - 7j/7j"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.446627,
-          43.578759
-        ]
-      },
-      "properties": {
-        "title": "81 rue Saint-Roch",
-        "lat": "43.5787592",
-        "lon": "1.4466275",
         "type": "BSB",
         "observation": "Quartier Saint-Michel / Le Busca / Empalot / Saint-Agne24h/24h - 7j/7j"
       }

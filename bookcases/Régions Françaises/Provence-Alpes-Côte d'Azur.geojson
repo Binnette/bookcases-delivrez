@@ -6,6 +6,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.500651,
+          44.824902
+        ]
+      },
+      "properties": {
+        "title": "Domaine de Charance",
+        "lat": "44.8249021",
+        "lon": "6.5006509",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6995baae23a05.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.633236,
+          44.880929
+        ]
+      },
+      "properties": {
+        "title": "Arrêt Le Paquier",
+        "lat": "44.8809285",
+        "lon": "6.6332362",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69934c252c74c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.026586,
+          43.834367
+        ]
+      },
+      "properties": {
+        "title": "Place Jean Jaurès",
+        "lat": "43.834367",
+        "lon": "5.0265862",
+        "type": "BSB",
+        "observation": "boîte à livres au parc du Grenouillet",
+        "picture": "https://delivrez.fr/public/posts/img.697f30b77bdce.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.41223,
           43.45124
         ]

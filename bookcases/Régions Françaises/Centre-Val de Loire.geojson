@@ -6,6 +6,94 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.577486,
+          48.586491
+        ]
+      },
+      "properties": {
+        "title": "Place Aristide Briand",
+        "lat": "48.5864912",
+        "lon": "1.5774856",
+        "type": "BSB",
+        "observation": "Près de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.697105881396f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.991973,
+          46.588431
+        ]
+      },
+      "properties": {
+        "title": "place du général de Gaulle",
+        "lat": "46.588431",
+        "lon": "1.991973",
+        "type": "BSB",
+        "observation": "Se situe en face du carrefour market, visible depuis la route au pied d'un bâtiment"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.988032,
+          46.580037
+        ]
+      },
+      "properties": {
+        "title": "place du général de Gaulle",
+        "lat": "46.5800371",
+        "lon": "1.9880323",
+        "type": "BSB",
+        "observation": "Ce situe au bord de la route en face de carrefour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.491375,
+          47.80111
+        ]
+      },
+      "properties": {
+        "title": "Rue nationale",
+        "lat": "47.8011101",
+        "lon": "1.4913754",
+        "type": "BSB",
+        "observation": "au centre du hameau",
+        "picture": "https://delivrez.fr/public/posts/img.6999822d9e4d1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.625091,
+          47.798017
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "47.7980174",
+        "lon": "1.6250906",
+        "type": "BSB",
+        "observation": "près de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.69847811da40a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.584105,
           48.515995
         ]
@@ -7817,23 +7905,6 @@
         "lon": "1.462085",
         "type": "BSB",
         "observation": "Près de l'école Antoine de Saint-Éxupery"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.577622,
-          48.58645
-        ]
-      },
-      "properties": {
-        "title": "Place Aristide Briant",
-        "lat": "48.5864501",
-        "lon": "1.5776218",
-        "type": "BSB",
-        "observation": "Près de la mairie"
       }
     },
     {

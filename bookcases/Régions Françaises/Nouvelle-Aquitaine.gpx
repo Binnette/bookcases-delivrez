@@ -1,5 +1,65 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.203205" lon="-1.369159">
+    <name>Place Anatole France</name>
+    <desc>Boîte artisanale à l abri des intempéries</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.692533" lon="-1.331322">
+    <name>Route de l'Étang</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.712705" lon="-0.697649">
+    <name>Route de Mugron</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.65525" lon="-0.074804">
+    <name>église</name>
+    <desc>a l arrière de l église</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.033162" lon="-1.377683">
+    <name>le goût du livre</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.489183" lon="-0.166324">
+    <name>Mairie de Vialer</name>
+    <desc>sous le préau</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="44.395983" lon="-1.165134">
     <name>Place Marsan</name>
     <desc></desc>
@@ -5700,16 +5760,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="46.65525" lon="-0.074804">
-    <name>église</name>
-    <desc>a l arrière de l église</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="45.67018" lon="0.350557">
     <name>D699</name>
     <desc>au panneau d'informations, grande boîte a livres (maisonnette)</desc>
@@ -8462,16 +8512,6 @@
   </wpt>
   <wpt lat="43.90064" lon="-0.84888">
     <name>VIVAL MOUILLERON EN PARED</name>
-    <desc>Little Free Library</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.72111" lon="-0.68111">
-    <name>VIVAL NIEUL SUR L AUTISE</name>
     <desc>Little Free Library</desc>
     <type>Delivrez bookcases</type>
     <extensions>
@@ -12133,16 +12173,6 @@
   <wpt lat="44.179977" lon="0.76039">
     <name>Mairie</name>
     <desc>Petit panel intéressant dans la boîte de Livres Voyageurs</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.204592" lon="-1.368809">
-    <name>Porte de la flotte</name>
-    <desc>Boîte artisanale à l abri des intempéries</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

@@ -6,6 +6,178 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.705868,
+          46.512026
+        ]
+      },
+      "properties": {
+        "title": "Hérisson - Saint-Étienne",
+        "lat": "46.5120263",
+        "lon": "2.7058685",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69664f5a6cf7d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.949536,
+          45.289025
+        ]
+      },
+      "properties": {
+        "title": "Route de la Valloire",
+        "lat": "45.2890252",
+        "lon": "4.9495358",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6995db25399a5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.993773,
+          45.290728
+        ]
+      },
+      "properties": {
+        "title": "Rue des Terreaux",
+        "lat": "45.2907277",
+        "lon": "4.9937732",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6995d571f1df0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.408737,
+          45.430912
+        ]
+      },
+      "properties": {
+        "title": "Impasse Abel Hovelacque",
+        "lat": "45.4309117",
+        "lon": "4.4087367",
+        "type": "BSB",
+        "observation": "dons de livres",
+        "picture": "https://delivrez.fr/public/posts/img.6995c623098d7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.189062,
+          46.124378
+        ]
+      },
+      "properties": {
+        "title": "Route de Saint-Bonnet de Rochefort",
+        "lat": "46.1243778",
+        "lon": "3.1890616",
+        "type": "BSB",
+        "observation": "place de la mairie sous le hangar",
+        "picture": "https://delivrez.fr/public/posts/img.6991feb22eb0b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.156426,
+          46.126331
+        ]
+      },
+      "properties": {
+        "title": "Route de Gannat",
+        "lat": "46.1263313",
+        "lon": "3.1564264",
+        "type": "BSB",
+        "observation": "place de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.110995,
+          46.176873
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Ancienne Mairie",
+        "lat": "46.1768725",
+        "lon": "3.1109948",
+        "type": "BSB",
+        "observation": "dans la cours de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.092284,
+          46.147112
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "46.1471115",
+        "lon": "3.0922838",
+        "type": "BSB",
+        "observation": "parking salle polyvalente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.026826,
+          45.254876
+        ]
+      },
+      "properties": {
+        "title": "Rue Alice Lardant",
+        "lat": "45.2548756",
+        "lon": "5.026826",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.697c58d7de356.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.708076,
+          44.447145
+        ]
+      },
+      "properties": {
+        "title": "Lotissement les Genêts",
+        "lat": "44.4471447",
+        "lon": "4.7080761",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.697f10a287f1d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.903573,
           45.990327
         ]
@@ -2718,22 +2890,6 @@
         "title": "Lieu dit Chateloy",
         "lat": "46.5185157",
         "lon": "2.7009706",
-        "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.705592,
-          46.51203
-        ]
-      },
-      "properties": {
-        "title": "Rue des Cueils",
-        "lat": "46.5120304",
-        "lon": "2.7055919",
         "type": "BSB"
       }
     },

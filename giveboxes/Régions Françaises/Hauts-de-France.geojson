@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.72769,
+          49.61029
+        ]
+      },
+      "properties": {
+        "title": "Rue de Flandre",
+        "lat": "49.6102902",
+        "lon": "2.7276902",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.69876303495bd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.58501,
           50.350699
         ]

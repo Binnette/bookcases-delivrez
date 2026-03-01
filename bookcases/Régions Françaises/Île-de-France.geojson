@@ -6,6 +6,126 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.315322,
+          48.781805
+        ]
+      },
+      "properties": {
+        "title": "Square Jean-Baptiste Colbert",
+        "lat": "48.781805",
+        "lon": "2.3153217",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.698c3a4855c47.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.23161,
+          48.875905
+        ]
+      },
+      "properties": {
+        "title": "Allée Louis Chevrolet",
+        "lat": "48.875905",
+        "lon": "2.2316099",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.699b03c1377eb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.227354,
+          48.87072
+        ]
+      },
+      "properties": {
+        "title": "Rue de Verdun",
+        "lat": "48.87072",
+        "lon": "2.2273541",
+        "type": "BSB",
+        "observation": "dans le square derrière le manège",
+        "picture": "https://delivrez.fr/public/posts/img.699b01311e819.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.188451,
+          48.80941
+        ]
+      },
+      "properties": {
+        "title": "Avenue Roger Salengro",
+        "lat": "48.8094097",
+        "lon": "2.1884507",
+        "type": "BSB",
+        "observation": "beaucoup de choix. Dans le jardin de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.699af0616c582.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.188243,
+          48.81282
+        ]
+      },
+      "properties": {
+        "title": "parvis Carnot",
+        "lat": "48.8128195",
+        "lon": "2.1882431",
+        "type": "BSB",
+        "observation": "dans le hall de la gare Chaville Rive Droite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.307758,
+          48.832878
+        ]
+      },
+      "properties": {
+        "title": "Villa des Charmilles",
+        "lat": "48.8328784",
+        "lon": "2.307758",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69908e0b6a684.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.639127,
+          48.999842
+        ]
+      },
+      "properties": {
+        "title": "Rue nationale",
+        "lat": "48.9998417",
+        "lon": "1.6391267",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.347452,
           48.804203
         ]
@@ -3671,23 +3791,6 @@
         "lon": "2.6542657",
         "type": "BSB",
         "observation": "À la sortie de la gare, juste à côté de la Pickup Station de la poste"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.221172,
-          48.868299
-        ]
-      },
-      "properties": {
-        "title": "Station T2 Suresnes Longchamp",
-        "lat": "48.8682985",
-        "lon": "2.2211723",
-        "type": "BSB",
-        "observation": "Sur quai direction la défense"
       }
     },
     {

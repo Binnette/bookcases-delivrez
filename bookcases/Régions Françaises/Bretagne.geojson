@@ -6,6 +6,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.757395,
+          48.513686
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Promenades",
+        "lat": "48.5136862",
+        "lon": "-2.7573947",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69899fb77965e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.830734,
+          48.541098
+        ]
+      },
+      "properties": {
+        "title": "Rue Montesquieu",
+        "lat": "48.5410981",
+        "lon": "-2.8307344",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6988700edefb2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.76854,
+          48.534694
+        ]
+      },
+      "properties": {
+        "title": "Place de l'église Plérin centre",
+        "lat": "48.5346941",
+        "lon": "-2.7685398",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6988b85026c43.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.734777,
+          48.542368
+        ]
+      },
+      "properties": {
+        "title": "Rue des Terres Neuvas",
+        "lat": "48.5423682",
+        "lon": "-2.7347775",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6988b4ab393c4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.180349,
           48.22799
         ]

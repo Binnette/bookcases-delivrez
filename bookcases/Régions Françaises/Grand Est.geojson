@@ -6,6 +6,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.280718,
+          48.07275
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Bodenweg",
+        "lat": "48.07275",
+        "lon": "7.280718",
+        "type": "BSB",
+        "observation": "Terrain de Boden",
+        "picture": "https://delivrez.fr/public/posts/img.6989fac01603e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.808685,
+          49.872662
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Naux",
+        "lat": "49.8726617",
+        "lon": "4.808685",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69874baa262c1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.437636,
+          48.097655
+        ]
+      },
+      "properties": {
+        "title": "Eglise bischwihr",
+        "lat": "48.0976551",
+        "lon": "7.4376363",
+        "type": "BSB",
+        "observation": "grande boîte à livres",
+        "picture": "https://delivrez.fr/public/posts/img.69874e297dd8f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.735252,
+          49.887967
+        ]
+      },
+      "properties": {
+        "title": "Route de Secheval",
+        "lat": "49.8879667",
+        "lon": "4.7352517",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6987408485113.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.154279,
           48.403927
         ]

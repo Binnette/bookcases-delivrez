@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.102525,
+          43.598147
+        ]
+      },
+      "properties": {
+        "title": "Chemin de Saint-Claude",
+        "lat": "43.5981472",
+        "lon": "7.1025246",
+        "type": "DSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.976811,
           44.477446
         ]

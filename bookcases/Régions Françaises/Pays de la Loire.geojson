@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.416309,
+          48.080744
+        ]
+      },
+      "properties": {
+        "title": "Rue de Torcé",
+        "lat": "48.080744",
+        "lon": "0.4163087",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.699af33585e92.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.539298,
           47.469812
         ]

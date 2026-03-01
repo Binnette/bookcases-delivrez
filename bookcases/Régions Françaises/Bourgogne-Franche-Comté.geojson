@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.05926,
+          46.454687
+        ]
+      },
+      "properties": {
+        "title": "vitry",
+        "lat": "46.4546867",
+        "lon": "4.05926",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.699b185e7f19f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.856744,
+          46.796785
+        ]
+      },
+      "properties": {
+        "title": "Allée de Saint-Jean-des-Vignes",
+        "lat": "46.796785",
+        "lon": "4.8567444",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6999861a1d691.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.001433,
           47.293656
         ]
@@ -2475,23 +2509,6 @@
         "type": "BSB",
         "observation": "vers l'arrêt de bus au rond -point",
         "picture": "https://delivrez.fr/public/posts/img.66827ac9cf5cd.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.683382,
-          46.859955
-        ]
-      },
-      "properties": {
-        "title": "tourmont",
-        "lat": "46.859955",
-        "lon": "5.6833817",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.663e024563bcf.png"
       }
     },
     {

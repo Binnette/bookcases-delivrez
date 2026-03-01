@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.036377,
+          45.148092
+        ]
+      },
+      "properties": {
+        "title": "cabane à fernand",
+        "lat": "45.1480922",
+        "lon": "5.0363768",
+        "type": "DSB",
+        "observation": "face à la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.923514,
           45.563667
         ]

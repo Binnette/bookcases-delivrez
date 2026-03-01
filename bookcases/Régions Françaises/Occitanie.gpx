@@ -1,5 +1,65 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.340873" lon="1.835218">
+    <name>Esplanade du Canal</name>
+    <desc>sur le canal du midi</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.578845" lon="1.446471">
+    <name>Rue Saint-Roch</name>
+    <desc>Quartier Saint-Michel / Le Busca / Empalot / Saint-Agne24h/24h - 7j/7j</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.162665" lon="1.539237">
+    <name>Place des Mûriers</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.48497" lon="3.284543">
+    <name>Avenue du Pech Fario</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.312293" lon="1.511883">
+    <name>les baccarets</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.52492" lon="3.518374">
+    <name>D131</name>
+    <desc>pour enfants</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.509992" lon="1.388417">
     <name>boîte a livres</name>
     <desc>pinsaguel oui</desc>
@@ -713,16 +773,6 @@
   <wpt lat="43.649882" lon="3.698158">
     <name>Avenue d'Argelliers</name>
     <desc></desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.340887" lon="1.835384">
-    <name>Esplanade du Canal</name>
-    <desc>sur le canal du midi</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>
@@ -5092,16 +5142,6 @@
   </wpt>
   <wpt lat="43.595801" lon="1.455832">
     <name>Esplanade de la capitainerie</name>
-    <desc>Quartier Saint-Michel / Le Busca / Empalot / Saint-Agne24h/24h - 7j/7j</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.578759" lon="1.446627">
-    <name>81 rue Saint-Roch</name>
     <desc>Quartier Saint-Michel / Le Busca / Empalot / Saint-Agne24h/24h - 7j/7j</desc>
     <type>Delivrez bookcases</type>
     <extensions>

@@ -6,6 +6,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.316725,
+          48.845697
+        ]
+      },
+      "properties": {
+        "title": "Rue Grande",
+        "lat": "48.8456965",
+        "lon": "1.3167247",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.698daa31e3a78.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.673798,
+          49.277274
+        ]
+      },
+      "properties": {
+        "title": "Lotissement de la Poudriere",
+        "lat": "49.2772736",
+        "lon": "-1.6737978",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69931bc3a184a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.231011,
+          49.318273
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "49.3182733",
+        "lon": "1.2310115",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.698884b25b6ca.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.964815,
           49.04368
         ]

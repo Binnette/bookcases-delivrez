@@ -6,6 +6,92 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.632091,
+          50.529518
+        ]
+      },
+      "properties": {
+        "title": "Rue Béranger",
+        "lat": "50.5295183",
+        "lon": "2.6320906",
+        "type": "BSB",
+        "observation": "La boite se trouve à l'entrée du parc, à l'opposé du kiosque à musique.",
+        "picture": "https://delivrez.fr/public/posts/img.699ec0e43804b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.251186,
+          50.474513
+        ]
+      },
+      "properties": {
+        "title": "Rue Des Pivoines",
+        "lat": "50.4745128",
+        "lon": "3.2511859",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.699dbb512f954.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.248607,
+          50.476976
+        ]
+      },
+      "properties": {
+        "title": "Place André Thomas",
+        "lat": "50.4769761",
+        "lon": "3.2486075",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.699dba07ef45b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.471203,
+          50.372653
+        ]
+      },
+      "properties": {
+        "title": "Résidence brel",
+        "lat": "50.3726535",
+        "lon": "3.4712029",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.698af13897b0e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.347693,
+          49.395832
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livres du cabinet vétérinaire",
+        "lat": "49.3958317",
+        "lon": "3.3476926",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.697e156ee5828.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.235231,
           50.175412
         ]
@@ -6944,23 +7030,6 @@
         "lat": "50.2710182",
         "lon": "2.770711",
         "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.632084,
-          50.529361
-        ]
-      },
-      "properties": {
-        "title": "75-155 Rue Béranger",
-        "lat": "50.52936105325702",
-        "lon": "2.632083892822266",
-        "type": "BSB",
-        "observation": "La boite se trouve à l'entrée du parc, à l'opposé du kiosque à musique."
       }
     },
     {

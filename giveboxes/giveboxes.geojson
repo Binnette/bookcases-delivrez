@@ -6,6 +6,74 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.102525,
+          43.598147
+        ]
+      },
+      "properties": {
+        "title": "Chemin de Saint-Claude",
+        "lat": "43.5981472",
+        "lon": "7.1025246",
+        "type": "DSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.817994,
+          48.12771
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "48.1277102",
+        "lon": "-1.8179938",
+        "type": "DSB",
+        "observation": "à droite de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.69889b400173f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.72769,
+          49.61029
+        ]
+      },
+      "properties": {
+        "title": "Rue de Flandre",
+        "lat": "49.6102902",
+        "lon": "2.7276902",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.69876303495bd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.036377,
+          45.148092
+        ]
+      },
+      "properties": {
+        "title": "cabane à fernand",
+        "lat": "45.1480922",
+        "lon": "5.0363768",
+        "type": "DSB",
+        "observation": "face à la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.923514,
           45.563667
         ]

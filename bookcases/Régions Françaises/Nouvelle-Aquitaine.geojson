@@ -6,6 +6,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.369159,
+          46.203205
+        ]
+      },
+      "properties": {
+        "title": "Place Anatole France",
+        "lat": "46.2032053",
+        "lon": "-1.3691586",
+        "type": "BSB",
+        "observation": "Boîte artisanale à l abri des intempéries",
+        "picture": "https://delivrez.fr/public/posts/img.6957e076ec6f2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.331322,
+          43.692533
+        ]
+      },
+      "properties": {
+        "title": "Route de l'Étang",
+        "lat": "43.692533",
+        "lon": "-1.3313215",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.699c71e75788b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.697649,
+          43.712705
+        ]
+      },
+      "properties": {
+        "title": "Route de Mugron",
+        "lat": "43.7127045",
+        "lon": "-0.6976488",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.699b3356b5ea9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.074804,
+          46.65525
+        ]
+      },
+      "properties": {
+        "title": "église",
+        "lat": "46.6552504",
+        "lon": "-0.0748043",
+        "type": "BSB",
+        "observation": "a l arrière de l église",
+        "picture": "https://delivrez.fr/public/posts/img.698f14c2d002f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.377683,
+          46.033162
+        ]
+      },
+      "properties": {
+        "title": "le goût du livre",
+        "lat": "46.0331624",
+        "lon": "-1.377683",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6992f128d4a8f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.166324,
+          43.489183
+        ]
+      },
+      "properties": {
+        "title": "Mairie de Vialer",
+        "lat": "43.4891828",
+        "lon": "-0.1663245",
+        "type": "BSB",
+        "observation": "sous le préau",
+        "picture": "https://delivrez.fr/public/posts/img.69821e78db9bc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.165134,
           44.395983
         ]
@@ -9996,24 +10101,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.074804,
-          46.65525
-        ]
-      },
-      "properties": {
-        "title": "église",
-        "lat": "46.6552504",
-        "lon": "-0.0748043",
-        "type": "BSB",
-        "observation": "a l arrière de l église",
-        "picture": "https://delivrez.fr/public/posts/img.64034a2830780.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.350557,
           45.67018
         ]
@@ -14780,23 +14867,6 @@
         "title": "VIVAL MOUILLERON EN PARED",
         "lat": "43.90064",
         "lon": "-0.84888",
-        "type": "BSB",
-        "observation": "Little Free Library"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.68111,
-          43.72111
-        ]
-      },
-      "properties": {
-        "title": "VIVAL NIEUL SUR L AUTISE",
-        "lat": "43.72111",
-        "lon": "-0.68111",
         "type": "BSB",
         "observation": "Little Free Library"
       }
@@ -20975,23 +21045,6 @@
         "lon": "0.7603901624679567",
         "type": "BSB",
         "observation": "Petit panel intéressant dans la boîte de Livres Voyageurs"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.368809,
-          46.204592
-        ]
-      },
-      "properties": {
-        "title": "Porte de la flotte",
-        "lat": "46.2045924",
-        "lon": "-1.3688089",
-        "type": "BSB",
-        "observation": "Boîte artisanale à l abri des intempéries"
       }
     },
     {
