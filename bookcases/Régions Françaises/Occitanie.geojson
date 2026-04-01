@@ -6,6 +6,130 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.452884,
+          43.548414
+        ]
+      },
+      "properties": {
+        "title": "Rue de Fondeville",
+        "lat": "43.5484136",
+        "lon": "1.4528836",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69b518959ebe8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.998333,
+          43.180738
+        ]
+      },
+      "properties": {
+        "title": "jardin des martyrs de la résistance",
+        "lat": "43.1807384",
+        "lon": "2.9983333",
+        "type": "BSB",
+        "observation": "au centre du jardin",
+        "picture": "https://delivrez.fr/public/posts/img.69bc1b5cd8a38.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.732703,
+          43.791137
+        ]
+      },
+      "properties": {
+        "title": "Boite a livres",
+        "lat": "43.7911372",
+        "lon": "3.7327035",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69b991c07579a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.126456,
+          43.107885
+        ]
+      },
+      "properties": {
+        "title": "rue Bernard de Routier",
+        "lat": "43.1078846",
+        "lon": "2.126456",
+        "type": "BSB",
+        "observation": "sous un abri avec deux tables de pique-nique en plein cœur du village",
+        "picture": "https://delivrez.fr/public/posts/img.69b82dcfecb55.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66374,
+          42.475679
+        ]
+      },
+      "properties": {
+        "title": "Amélie les Bains - Parc en Ciel",
+        "lat": "42.4756789",
+        "lon": "2.6637405",
+        "type": "BSB",
+        "observation": "aire de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.69b56e3dae3bc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.479515,
+          42.404463
+        ]
+      },
+      "properties": {
+        "title": "Rue Croix Noire",
+        "lat": "42.4044633",
+        "lon": "2.479515",
+        "type": "BSB",
+        "observation": "dans le jardin de l'église - tout en haut",
+        "picture": "https://delivrez.fr/public/posts/img.69b5595d75c61.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.531966,
+          43.3139
+        ]
+      },
+      "properties": {
+        "title": "cintegabelle",
+        "lat": "43.3138996",
+        "lon": "1.5319655",
+        "type": "BSB",
+        "observation": "devant la mediatheque",
+        "picture": "https://delivrez.fr/public/posts/img.69a46061cba50.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.835218,
           43.340873
         ]
@@ -973,22 +1097,6 @@
         "lon": "0.379183",
         "type": "BSB",
         "observation": "Valence sur Baïse"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.732703,
-          43.791137
-        ]
-      },
-      "properties": {
-        "title": "Boite a livres",
-        "lat": "43.7911372",
-        "lon": "3.7327035",
-        "type": "BSB"
       }
     },
     {

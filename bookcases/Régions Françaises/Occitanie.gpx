@@ -1,5 +1,75 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="43.548414" lon="1.452884">
+    <name>Rue de Fondeville</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.180738" lon="2.998333">
+    <name>jardin des martyrs de la résistance</name>
+    <desc>au centre du jardin</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.791137" lon="3.732703">
+    <name>Boite a livres</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.107885" lon="2.126456">
+    <name>rue Bernard de Routier</name>
+    <desc>sous un abri avec deux tables de pique-nique en plein cœur du village</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.475679" lon="2.66374">
+    <name>Amélie les Bains - Parc en Ciel</name>
+    <desc>aire de jeux</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="42.404463" lon="2.479515">
+    <name>Rue Croix Noire</name>
+    <desc>dans le jardin de l'église - tout en haut</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="43.3139" lon="1.531966">
+    <name>cintegabelle</name>
+    <desc>devant la mediatheque</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="43.340873" lon="1.835218">
     <name>Esplanade du Canal</name>
     <desc>sur le canal du midi</desc>
@@ -553,16 +623,6 @@
   <wpt lat="43.876722" lon="0.379183">
     <name>sous les arcades place de la mairie</name>
     <desc>Valence sur Baïse</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="43.791137" lon="3.732703">
-    <name>Boite a livres</name>
-    <desc></desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

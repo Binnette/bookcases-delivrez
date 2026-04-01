@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.298615" lon="-0.431099">
+    <name>Rue du Petit Fief</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.811663" lon="-0.629433">
+    <name>Avenue du Colonel Robert Jacqui</name>
+    <desc>Devant l'entrée du complexe sportif Bellegrave</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.203205" lon="-1.369159">
     <name>Place Anatole France</name>
     <desc>Boîte artisanale à l abri des intempéries</desc>

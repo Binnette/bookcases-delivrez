@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.33276,
+          47.631844
+        ]
+      },
+      "properties": {
+        "title": "Rue Michel Servet",
+        "lat": "47.631844",
+        "lon": "4.33276",
+        "type": "BSB",
+        "observation": "devant l'entrée de la piscine",
+        "picture": "https://delivrez.fr/public/posts/img.69b93148c20f2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.05926,
           46.454687
         ]

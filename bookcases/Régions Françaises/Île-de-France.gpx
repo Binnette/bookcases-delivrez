@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.770156" lon="2.109637">
+    <name>Place Nicolas Poussin</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.771197" lon="2.070553">
+    <name>Rue Ambroise Croizat</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.771456" lon="2.124204">
+    <name>Rue Louis Massotte</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.800614" lon="2.171255">
+    <name>gare Viroflay Rive gauche</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.781805" lon="2.315322">
     <name>Square Jean-Baptiste Colbert</name>
     <desc></desc>

@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.737728,
+          48.448952
+        ]
+      },
+      "properties": {
+        "title": "Rue Adrien Michaut",
+        "lat": "48.4489517",
+        "lon": "6.7377283",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69b67e866c23b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.280718,
           48.07275
         ]
@@ -7840,23 +7857,6 @@
         "lon": "4.0725524",
         "type": "BSB",
         "observation": "Dans le parc en face des jardins potagers"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.01052,
-          49.277771
-        ]
-      },
-      "properties": {
-        "title": "Rue Anatole de Barthélémy",
-        "lat": "49.2777713",
-        "lon": "4.0105202",
-        "type": "BSB",
-        "observation": "_"
       }
     },
     {

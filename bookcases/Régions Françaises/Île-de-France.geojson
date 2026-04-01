@@ -6,6 +6,73 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.109637,
+          48.770156
+        ]
+      },
+      "properties": {
+        "title": "Place Nicolas Poussin",
+        "lat": "48.7701563",
+        "lon": "2.1096365",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69bb2c28024b7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.070553,
+          48.771197
+        ]
+      },
+      "properties": {
+        "title": "Rue Ambroise Croizat",
+        "lat": "48.7711969",
+        "lon": "2.0705532",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69bb2dbe9733a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.124204,
+          48.771456
+        ]
+      },
+      "properties": {
+        "title": "Rue Louis Massotte",
+        "lat": "48.7714563",
+        "lon": "2.1242036",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69bb29ad3a87b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.171255,
+          48.800614
+        ]
+      },
+      "properties": {
+        "title": "gare Viroflay Rive gauche",
+        "lat": "48.8006136",
+        "lon": "2.1712547",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.315322,
           48.781805
         ]

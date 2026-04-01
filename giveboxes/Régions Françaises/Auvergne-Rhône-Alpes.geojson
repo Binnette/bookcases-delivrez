@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.17873,
+          45.903124
+        ]
+      },
+      "properties": {
+        "title": "Rue des Rondes",
+        "lat": "45.9031242",
+        "lon": "5.1787296",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.69b7d7288a5e2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.036377,
           45.148092
         ]

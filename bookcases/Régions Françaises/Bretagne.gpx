@@ -1,5 +1,75 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.751111" lon="-3.447144">
+    <name>Rue Saint-Pierre</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.738615" lon="-3.54113">
+    <name>arret de bus livre</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.731609" lon="-3.443128">
+    <name>Rue Jean Charcot</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.77228" lon="-3.577873">
+    <name>office de tourisme</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.731218" lon="-3.481779">
+    <name>kerilis</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.687191" lon="-3.568523">
+    <name>Rue de Toul ar Vilin</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.510998" lon="-4.154723">
+    <name>Le Bourg</name>
+    <desc>salle de réunion ti leon</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.513686" lon="-2.757395">
     <name>Avenue des Promenades</name>
     <desc></desc>

@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.713565,
+          49.862351
+        ]
+      },
+      "properties": {
+        "title": "Square du 19 mars 1962",
+        "lat": "49.8623508",
+        "lon": "0.7135652",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69a9b6fbd5e6e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.316725,
           48.845697
         ]

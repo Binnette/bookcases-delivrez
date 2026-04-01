@@ -6,6 +6,128 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.428192,
+          47.17874
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Basse Canterie",
+        "lat": "47.17874",
+        "lon": "-1.4281917",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69bd1767704f9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.732168,
+          47.135
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Eglise",
+        "lat": "47.1350003",
+        "lon": "-1.7321676",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69c019705c690.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.525284,
+          47.148053
+        ]
+      },
+      "properties": {
+        "title": "parking salle jules leaute",
+        "lat": "47.1480527",
+        "lon": "-1.5252841",
+        "type": "BSB",
+        "observation": "entre le gymnase et l'espace jeunes",
+        "picture": "https://delivrez.fr/public/posts/img.69b984de851ce.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.574249,
+          47.214541
+        ]
+      },
+      "properties": {
+        "title": "Place Canclaux",
+        "lat": "47.2145408",
+        "lon": "-1.5742491",
+        "type": "BSB",
+        "observation": "dans le square",
+        "picture": "https://delivrez.fr/public/posts/img.69b54125e7372.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.501197,
+          47.259295
+        ]
+      },
+      "properties": {
+        "title": "Rue du Marché Commun",
+        "lat": "47.2592946",
+        "lon": "-1.5011972",
+        "type": "BSB",
+        "observation": "dans le Biocoop"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.434021,
+          46.971624
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "46.9716245",
+        "lon": "-1.4340213",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.69b05b143684f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.518012,
+          47.186988
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Gilarderie",
+        "lat": "47.1869885",
+        "lon": "-1.5180118",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69adb0acc7abc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.416309,
           48.080744
         ]
@@ -4088,24 +4210,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.67662,
-          47.776668
-        ]
-      },
-      "properties": {
-        "title": "Route de Château Gontier",
-        "lat": "47.7766684",
-        "lon": "-0.6766204",
-        "type": "BSB",
-        "observation": "derrière la machine a pain",
-        "picture": "https://delivrez.fr/public/posts/img.66097b849f00f.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.595145,
           46.733727
         ]
@@ -6337,23 +6441,6 @@
         "title": "Rue Principale",
         "lat": "47.7922442",
         "lon": "-0.2519764",
-        "type": "BSB",
-        "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.434021,
-          46.971624
-        ]
-      },
-      "properties": {
-        "title": "Place de la Mairie",
-        "lat": "46.9716245",
-        "lon": "-1.4340213",
         "type": "BSB",
         "observation": "_"
       }

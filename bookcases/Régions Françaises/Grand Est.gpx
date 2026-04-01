@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.448952" lon="6.737728">
+    <name>Rue Adrien Michaut</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.07275" lon="7.280718">
     <name>Chemin du Bodenweg</name>
     <desc>Terrain de Boden</desc>
@@ -4483,16 +4493,6 @@
   <wpt lat="48.307627" lon="4.072552">
     <name>Rue Etienne Pedron</name>
     <desc>Dans le parc en face des jardins potagers</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.277771" lon="4.01052">
-    <name>Rue Anatole de Barthélémy</name>
-    <desc>_</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

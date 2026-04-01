@@ -6,6 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.431099,
+          46.298615
+        ]
+      },
+      "properties": {
+        "title": "Rue du Petit Fief",
+        "lat": "46.2986154",
+        "lon": "-0.4310994",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69b5756fa2235.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.629433,
+          44.811663
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Colonel Robert Jacqui",
+        "lat": "44.8116632",
+        "lon": "-0.6294328",
+        "type": "BSB",
+        "observation": "Devant l'entrée du complexe sportif Bellegrave",
+        "picture": "https://delivrez.fr/public/posts/img.69adb3d5c9bcd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.369159,
           46.203205
         ]

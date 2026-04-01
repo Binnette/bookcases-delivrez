@@ -1,5 +1,75 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="47.17874" lon="-1.428192">
+    <name>Rue de la Basse Canterie</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.135" lon="-1.732168">
+    <name>Place de l'Eglise</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.148053" lon="-1.525284">
+    <name>parking salle jules leaute</name>
+    <desc>entre le gymnase et l'espace jeunes</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.214541" lon="-1.574249">
+    <name>Place Canclaux</name>
+    <desc>dans le square</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.259295" lon="-1.501197">
+    <name>Rue du Marché Commun</name>
+    <desc>dans le Biocoop</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.971624" lon="-1.434021">
+    <name>Place de la Mairie</name>
+    <desc>_</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.186988" lon="-1.518012">
+    <name>Rue de la Gilarderie</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.080744" lon="0.416309">
     <name>Rue de Torcé</name>
     <desc></desc>
@@ -2330,16 +2400,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="47.776668" lon="-0.67662">
-    <name>Route de Château Gontier</name>
-    <desc>derrière la machine a pain</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="46.733727" lon="-1.595145">
     <name>Étagères à livres</name>
     <desc>Situées avec le recyclage, à l'entrée du Super U</desc>
@@ -3612,16 +3672,6 @@
   </wpt>
   <wpt lat="47.792244" lon="-0.251976">
     <name>Rue Principale</name>
-    <desc>_</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="46.971624" lon="-1.434021">
-    <name>Place de la Mairie</name>
     <desc>_</desc>
     <type>Delivrez bookcases</type>
     <extensions>

@@ -6,6 +6,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.230172,
+          50.229775
+        ]
+      },
+      "properties": {
+        "title": "Rue de Marquette",
+        "lat": "50.2297748",
+        "lon": "3.2301724",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69bfcd61941df.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.287279,
+          50.226077
+        ]
+      },
+      "properties": {
+        "title": "Thun l'évêque",
+        "lat": "50.2260772",
+        "lon": "3.2872792",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69bfc9ba27d21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.051983,
+          50.612827
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Europe",
+        "lat": "50.6128267",
+        "lon": "3.0519833",
+        "type": "BSB",
+        "observation": "tout en bois",
+        "picture": "https://delivrez.fr/public/posts/img.69b67a5a8f4b0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.632091,
           50.529518
         ]

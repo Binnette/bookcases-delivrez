@@ -6,6 +6,126 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.447144,
+          48.751111
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Pierre",
+        "lat": "48.7511112",
+        "lon": "-3.4471437",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69b7ba18e5640.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.54113,
+          48.738615
+        ]
+      },
+      "properties": {
+        "title": "arret de bus livre",
+        "lat": "48.7386152",
+        "lon": "-3.5411303",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69b7c182ae3a8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.443128,
+          48.731609
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Charcot",
+        "lat": "48.731609",
+        "lon": "-3.4431285",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69b7b587d7222.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.577873,
+          48.77228
+        ]
+      },
+      "properties": {
+        "title": "office de tourisme",
+        "lat": "48.7722802",
+        "lon": "-3.5778729",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69b7cde95fd49.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.481779,
+          48.731218
+        ]
+      },
+      "properties": {
+        "title": "kerilis",
+        "lat": "48.7312181",
+        "lon": "-3.4817791",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69b7d2e09419b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.568523,
+          48.687191
+        ]
+      },
+      "properties": {
+        "title": "Rue de Toul ar Vilin",
+        "lat": "48.6871912",
+        "lon": "-3.568523",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69b2c4a50c399.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.154723,
+          48.510998
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "48.5109976",
+        "lon": "-4.1547229",
+        "type": "BSB",
+        "observation": "salle de réunion ti leon",
+        "picture": "https://delivrez.fr/public/posts/img.69ab0b93ccfa2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.757395,
           48.513686
         ]

@@ -6,6 +6,198 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.115137,
+          45.795496
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livres villettoise",
+        "lat": "45.7954965",
+        "lon": "5.1151368",
+        "type": "BSB",
+        "observation": "dans l'ancienne gare rénovée",
+        "picture": "https://delivrez.fr/public/posts/img.69bd97d566011.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.063153,
+          44.523475
+        ]
+      },
+      "properties": {
+        "title": "Dieulefit - Allée des Promenades",
+        "lat": "44.523475",
+        "lon": "5.0631533",
+        "type": "BSB",
+        "observation": "près de l'arrêt de bus - place de la gare",
+        "picture": "https://delivrez.fr/public/posts/img.69bd514499707.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.07145,
+          45.84412
+        ]
+      },
+      "properties": {
+        "title": "place de la mairie",
+        "lat": "45.8441201",
+        "lon": "5.07145",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69bfc04fe1fe6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.081657,
+          44.40454
+        ]
+      },
+      "properties": {
+        "title": "Rue de L’Ecole",
+        "lat": "44.40454",
+        "lon": "5.0816567",
+        "type": "BSB",
+        "observation": "à côté du panneau",
+        "picture": "https://delivrez.fr/public/posts/img.69bc79beb8a06.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.002268,
+          45.837873
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Monderoux",
+        "lat": "45.8378734",
+        "lon": "5.0022675",
+        "type": "BSB",
+        "observation": "Juste à l'entrée de la bibliothèque",
+        "picture": "https://delivrez.fr/public/posts/img.69b97afa8f493.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.502325,
+          45.962274
+        ]
+      },
+      "properties": {
+        "title": "Evosges",
+        "lat": "45.9622743",
+        "lon": "5.502325",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.101257,
+          45.182577
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "45.1825768",
+        "lon": "5.1012568",
+        "type": "BSB",
+        "observation": "derrière la mairie a coter des wc",
+        "picture": "https://delivrez.fr/public/posts/img.69aaa7af05e03.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.434985,
+          46.060175
+        ]
+      },
+      "properties": {
+        "title": "Route d'Hauterive - Les Caires",
+        "lat": "46.0601753",
+        "lon": "3.4349855",
+        "type": "BSB",
+        "observation": "sous un préau",
+        "picture": "https://delivrez.fr/public/posts/img.69ad9f326cd0a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.933126,
+          45.22428
+        ]
+      },
+      "properties": {
+        "title": "st Martin des rosiers",
+        "lat": "45.2242801",
+        "lon": "4.9331259",
+        "type": "BSB",
+        "observation": "ancienne balance a peser"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.462912,
+          46.108308
+        ]
+      },
+      "properties": {
+        "title": "Place Marcel Guillaumin - Le Vernet",
+        "lat": "46.1083081",
+        "lon": "3.4629115",
+        "type": "BSB",
+        "observation": "à côté du Vival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.047142,
+          46.234285
+        ]
+      },
+      "properties": {
+        "title": "Place du Marché",
+        "lat": "46.234285",
+        "lon": "5.0471417",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69a47c99b99e0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.705868,
           46.512026
         ]

@@ -1,4 +1,23 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.002715,
+          45.837912
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Monderoux",
+        "lat": "45.8379123",
+        "lon": "5.0027149",
+        "type": "SES",
+        "observation": "bibliothèque de Beynost",
+        "picture": "https://delivrez.fr/public/posts/img.69b97b378dc1f.png"
+      }
+    }
+  ]
 }
