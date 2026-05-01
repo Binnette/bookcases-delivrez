@@ -6,6 +6,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.921921,
+          43.058383
+        ]
+      },
+      "properties": {
+        "title": "Domaine du Grand Castelou",
+        "lat": "43.0583833",
+        "lon": "2.9219205",
+        "type": "BSB",
+        "observation": "a coter du Proxi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.418202,
+          43.462615
+        ]
+      },
+      "properties": {
+        "title": "Allée Général Montagne",
+        "lat": "43.462615",
+        "lon": "3.4182017",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69eb940a9a0d6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.435087,
+          43.494125
+        ]
+      },
+      "properties": {
+        "title": "Chemin de Caux",
+        "lat": "43.494125",
+        "lon": "3.4350867",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69eb8abd3dc98.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.33664,
+          43.304185
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Tour",
+        "lat": "43.3041851",
+        "lon": "3.3366396",
+        "type": "BSB",
+        "observation": "grande boîte bleue",
+        "picture": "https://delivrez.fr/public/posts/img.69dd33f722284.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.452884,
           43.548414
         ]

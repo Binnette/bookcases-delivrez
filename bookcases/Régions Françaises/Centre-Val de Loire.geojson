@@ -6,6 +6,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.487342,
+          48.446106
+        ]
+      },
+      "properties": {
+        "title": "Rue du Soleil d'Or",
+        "lat": "48.4461064",
+        "lon": "1.4873415",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69eb8e3ec5532.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.198327,
+          48.467164
+        ]
+      },
+      "properties": {
+        "title": "D920",
+        "lat": "48.4671641",
+        "lon": "1.1983266",
+        "type": "BSB",
+        "observation": "abri bus",
+        "picture": "https://delivrez.fr/public/posts/img.69e8ec5eb557d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.666551,
+          48.565922
+        ]
+      },
+      "properties": {
+        "title": "Place Saint-Gilles",
+        "lat": "48.5659219",
+        "lon": "1.6665512",
+        "type": "BSB",
+        "observation": "préau",
+        "picture": "https://delivrez.fr/public/posts/img.69aefac304eb7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.564277,
           48.619255
         ]
@@ -157,24 +210,6 @@
         "type": "BSB",
         "observation": "sous l'abri à gauche de la mairie",
         "picture": "https://delivrez.fr/public/posts/img.693a9d90893ca.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.66662,
-          48.5659
-        ]
-      },
-      "properties": {
-        "title": "livres",
-        "lat": "48.5659",
-        "lon": "1.6666201",
-        "type": "BSB",
-        "observation": "préau",
-        "picture": "https://delivrez.fr/public/posts/img.69271f0390402.png"
       }
     },
     {

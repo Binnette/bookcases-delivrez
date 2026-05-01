@@ -1,5 +1,75 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="45.04722" lon="0.977756">
+    <name>Place du 31 Mars 1944</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.426224" lon="-0.179477">
+    <name>Allée des Platanes</name>
+    <desc>dans la petite maisonnette en bord de voie verte</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.801147" lon="-1.035989">
+    <name>Place Eugène Papin</name>
+    <desc>La boîte à livres se trouve devant la boulangerie.</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="46.651205" lon="0.375837">
+    <name>Parc du Clos de la Ribeautière</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.882072" lon="-0.601597">
+    <name>Allée des Rouges-gorges</name>
+    <desc>Dans le parc Ozone</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="44.93476" lon="1.015196">
+    <name>Avenue de la Préhistoire</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="45.979555" lon="-1.334535">
+    <name>Rue de la cure</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="46.298615" lon="-0.431099">
     <name>Rue du Petit Fief</name>
     <desc></desc>
@@ -12383,16 +12453,6 @@
   <wpt lat="45.820437" lon="-1.110601">
     <name>Jardin Public de Marennes</name>
     <desc>La boîte à livres se trouve dans le jardin public, près de l aire de jeux des enfants.</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="45.801172" lon="-1.035815">
-    <name>Place Eugène Papin</name>
-    <desc>La boîte à livres se trouve devant la boulangerie.</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

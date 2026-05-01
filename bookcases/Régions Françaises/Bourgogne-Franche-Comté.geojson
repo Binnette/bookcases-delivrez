@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.801984,
+          47.945099
+        ]
+      },
+      "properties": {
+        "title": "Rue Henri Jurien de la Gravière à Veuxhaulles",
+        "lat": "47.9450985",
+        "lon": "4.8019844",
+        "type": "BSB",
+        "observation": "sous l'abri bus Mairie",
+        "picture": "https://delivrez.fr/public/posts/img.69eb218849fb1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.33276,
           47.631844
         ]

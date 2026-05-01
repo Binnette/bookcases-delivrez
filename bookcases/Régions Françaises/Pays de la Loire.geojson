@@ -6,6 +6,213 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.715637,
+          47.90068
+        ]
+      },
+      "properties": {
+        "title": "Chemin de la Gendronnière",
+        "lat": "47.90068",
+        "lon": "-0.7156368",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f208baf2657.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.530609,
+          47.253686
+        ]
+      },
+      "properties": {
+        "title": "Route de Saint-Joseph",
+        "lat": "47.2536857",
+        "lon": "-1.5306095",
+        "type": "BSB",
+        "observation": "à côté de l'entrée de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.69f1a960c5fd0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.33756,
+          47.081441
+        ]
+      },
+      "properties": {
+        "title": "Route de la Maine",
+        "lat": "47.0814406",
+        "lon": "-1.3375596",
+        "type": "BSB",
+        "observation": "parking ecole",
+        "picture": "https://delivrez.fr/public/posts/img.69ecb6995bd21.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.620084,
+          48.303382
+        ]
+      },
+      "properties": {
+        "title": "Place Georges Clemenceau",
+        "lat": "48.3033821",
+        "lon": "-0.6200838",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69eb41a63e518.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.676937,
+          47.775731
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "47.7757312",
+        "lon": "-0.6769375",
+        "type": "BSB",
+        "observation": "devant la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.69ee43bfc2c15.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.749249,
+          48.129722
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Halage",
+        "lat": "48.1297225",
+        "lon": "-0.7492486",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69e39688de5a5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.548326,
+          47.235202
+        ]
+      },
+      "properties": {
+        "title": "sous le pont",
+        "lat": "47.2352016",
+        "lon": "-1.5483255",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69e100812c03b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.736592,
+          46.997655
+        ]
+      },
+      "properties": {
+        "title": "Rue des Fosses",
+        "lat": "46.9976545",
+        "lon": "-1.7365921",
+        "type": "BSB",
+        "observation": "devant les commerces de proximité Vival, très belle initiative.",
+        "picture": "https://delivrez.fr/public/posts/img.69b03d601eb48.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094158,
+          47.246597
+        ]
+      },
+      "properties": {
+        "title": "Centre social Jacques Percereau",
+        "lat": "47.2465968",
+        "lon": "-0.0941584",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.608045,
+          47.378313
+        ]
+      },
+      "properties": {
+        "title": "Rue du Huit Mai",
+        "lat": "47.3783126",
+        "lon": "-0.6080451",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69d522d5be6b0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7618,
+          47.352251
+        ]
+      },
+      "properties": {
+        "title": "Rue des Poilus",
+        "lat": "47.3522507",
+        "lon": "-0.7618",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69d256f0eb8d3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.479603,
+          47.326916
+        ]
+      },
+      "properties": {
+        "title": "La Blottière",
+        "lat": "47.3269161",
+        "lon": "-0.4796032",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69cd423adcbff.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.428192,
           47.17874
         ]
@@ -5634,23 +5841,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.620084,
-          48.303382
-        ]
-      },
-      "properties": {
-        "title": "Place Georges Clemenceau",
-        "lat": "48.3033821",
-        "lon": "-0.6200838",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.64d0e008bf9a4.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.720512,
           47.950038
         ]
@@ -9487,23 +9677,6 @@
         "lat": "47.815351",
         "lon": "0.231745",
         "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.736557,
-          46.99756
-        ]
-      },
-      "properties": {
-        "title": "24 rue des fosses",
-        "lat": "46.9975599",
-        "lon": "-1.736557",
-        "type": "BSB",
-        "observation": "devant les commerces de proximité Vival, très belle initiative."
       }
     },
     {

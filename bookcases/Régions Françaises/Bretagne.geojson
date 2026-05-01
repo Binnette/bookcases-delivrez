@@ -6,6 +6,147 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.687022,
+          48.508734
+        ]
+      },
+      "properties": {
+        "title": "Place An Ty Kear",
+        "lat": "48.5087338",
+        "lon": "-4.6870219",
+        "type": "BSB",
+        "observation": "Devant le salon de coiffure",
+        "picture": "https://delivrez.fr/public/posts/img.69ee3171c47c1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.946217,
+          48.520729
+        ]
+      },
+      "properties": {
+        "title": "Office de tourisme",
+        "lat": "48.5207292",
+        "lon": "-3.9462168",
+        "type": "BSB",
+        "observation": "Pas en bon état",
+        "picture": "https://delivrez.fr/public/posts/img.69e3a9d2c2e91.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.467912,
+          48.746296
+        ]
+      },
+      "properties": {
+        "title": "Rue des Lilas",
+        "lat": "48.7462956",
+        "lon": "-3.4679124",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69b7bcf28aceb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.382913,
+          47.988366
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "47.9883656",
+        "lon": "-2.3829127",
+        "type": "BSB",
+        "observation": "a côté de la médiathèque",
+        "picture": "https://delivrez.fr/public/posts/img.69d27e8cb1830.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.28814,
+          48.00846
+        ]
+      },
+      "properties": {
+        "title": "Rue des Vignes",
+        "lat": "48.0084602",
+        "lon": "-2.2881401",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69d3aa77db274.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.394566,
+          47.930993
+        ]
+      },
+      "properties": {
+        "title": "petite boîte à livre bien fournie boite à livre",
+        "lat": "47.9309935",
+        "lon": "-2.3945661",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.69d29c4202f9f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.206471,
+          48.063785
+        ]
+      },
+      "properties": {
+        "title": "Rue des Chesnots",
+        "lat": "48.0637849",
+        "lon": "-2.2064706",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69d0f90dc2433.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.538968,
+          48.022231
+        ]
+      },
+      "properties": {
+        "title": "Rue Louis Pasteur",
+        "lat": "48.022231",
+        "lon": "-4.5389676",
+        "type": "BSB",
+        "observation": "cinéma le Goyen",
+        "picture": "https://delivrez.fr/public/posts/img.69c5730f8dffc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.447144,
           48.751111
         ]
@@ -1190,22 +1331,6 @@
         "lon": "-3.3689388",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.689afe1bc439b.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.206471,
-          48.063785
-        ]
-      },
-      "properties": {
-        "title": "Rue des Chesnots",
-        "lat": "48.0637849",
-        "lon": "-2.2064706",
-        "type": "BSB"
       }
     },
     {
@@ -5184,23 +5309,6 @@
         "lon": "-4.2412415",
         "type": "BSB",
         "observation": "Près de la mairie, l'église et l'école."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.394566,
-          47.930993
-        ]
-      },
-      "properties": {
-        "title": "petite boîte à livre bien fournie boite à livre",
-        "lat": "47.9309935",
-        "lon": "-2.3945661",
-        "type": "BSB",
-        "observation": "_"
       }
     },
     {
@@ -10255,22 +10363,6 @@
         "lon": "-2.7550168",
         "type": "BSB",
         "observation": "Boîte à lire située dans le jardin des remparts au niveau des jeux pour enfants côté porte prison. "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.467742,
-          48.74633
-        ]
-      },
-      "properties": {
-        "title": "Boulevard d'Armor",
-        "lat": "48.7463302",
-        "lon": "-3.4677425",
-        "type": "BSB"
       }
     },
     {

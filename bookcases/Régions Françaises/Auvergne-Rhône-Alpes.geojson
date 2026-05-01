@@ -6,6 +6,163 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.124867,
+          45.012573
+        ]
+      },
+      "properties": {
+        "title": "Domaine de Charance",
+        "lat": "45.012573",
+        "lon": "6.124867",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69e5062453b50.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.404732,
+          46.312647
+        ]
+      },
+      "properties": {
+        "title": "Rue de Beaupuy",
+        "lat": "46.3126471",
+        "lon": "3.4047319",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.431075,
+          46.235505
+        ]
+      },
+      "properties": {
+        "title": "Route de Moulins",
+        "lat": "46.2355049",
+        "lon": "3.431075",
+        "type": "BSB",
+        "observation": "Vival"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.452691,
+          45.524602
+        ]
+      },
+      "properties": {
+        "title": "Route du Village",
+        "lat": "45.5246015",
+        "lon": "5.4526911",
+        "type": "BSB",
+        "observation": "Eglise",
+        "picture": "https://delivrez.fr/public/posts/img.69dd292a9aa3c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.411183,
+          46.348145
+        ]
+      },
+      "properties": {
+        "title": "Rue Centrale",
+        "lat": "46.3481453",
+        "lon": "6.4111833",
+        "type": "BSB",
+        "observation": "vers l'abribus",
+        "picture": "https://delivrez.fr/public/posts/img.69bd5645921a1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.40695,
+          45.482243
+        ]
+      },
+      "properties": {
+        "title": "Montée du Plan",
+        "lat": "45.482243",
+        "lon": "5.4069499",
+        "type": "BSB",
+        "observation": "parking scolaire",
+        "picture": "https://delivrez.fr/public/posts/img.69dd263cf3732.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.399568,
+          44.521488
+        ]
+      },
+      "properties": {
+        "title": "boite à livre église",
+        "lat": "44.5214883",
+        "lon": "4.3995683",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69db5c8b52a42.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.019178,
+          44.899987
+        ]
+      },
+      "properties": {
+        "title": "Chabeuil - Place Genissieu",
+        "lat": "44.8999866",
+        "lon": "5.0191779",
+        "type": "BSB",
+        "observation": "pont de la Véore",
+        "picture": "https://delivrez.fr/public/posts/img.69c40656119df.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.016846,
+          44.900976
+        ]
+      },
+      "properties": {
+        "title": "Chabeuil   - Rue de la Gare",
+        "lat": "44.9009763",
+        "lon": "5.0168458",
+        "type": "BSB",
+        "observation": "près de la pétanque",
+        "picture": "https://delivrez.fr/public/posts/img.69c400bba9f1a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.115137,
           45.795496
         ]
@@ -9162,23 +9319,6 @@
         "lon": "6.1893818",
         "type": "BSB",
         "observation": "Arrêt de bus"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.411391,
-          46.348203
-        ]
-      },
-      "properties": {
-        "title": "Route des Esserts",
-        "lat": "46.3482027",
-        "lon": "6.4113908",
-        "type": "BSB",
-        "observation": "vers l'abribus"
       }
     },
     {

@@ -1,5 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.508734" lon="-4.687022">
+    <name>Place An Ty Kear</name>
+    <desc>Devant le salon de coiffure</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.520729" lon="-3.946217">
+    <name>Office de tourisme</name>
+    <desc>Pas en bon état</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.746296" lon="-3.467912">
+    <name>Rue des Lilas</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.988366" lon="-2.382913">
+    <name>Rue de la Mairie</name>
+    <desc>a côté de la médiathèque</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.00846" lon="-2.28814">
+    <name>Rue des Vignes</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.930993" lon="-2.394566">
+    <name>petite boîte à livre bien fournie boite à livre</name>
+    <desc>_</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.063785" lon="-2.206471">
+    <name>Rue des Chesnots</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.022231" lon="-4.538968">
+    <name>Rue Louis Pasteur</name>
+    <desc>cinéma le Goyen</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.751111" lon="-3.447144">
     <name>Rue Saint-Pierre</name>
     <desc></desc>
@@ -682,16 +762,6 @@
   </wpt>
   <wpt lat="47.718744" lon="-3.368939">
     <name>Route Sans Nom</name>
-    <desc></desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.063785" lon="-2.206471">
-    <name>Rue des Chesnots</name>
     <desc></desc>
     <type>Delivrez bookcases</type>
     <extensions>
@@ -2983,16 +3053,6 @@
   <wpt lat="48.448042" lon="-4.241242">
     <name>Route de Pencran</name>
     <desc>Près de la mairie, l'église et l'école.</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.930993" lon="-2.394566">
-    <name>petite boîte à livre bien fournie boite à livre</name>
-    <desc>_</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>
@@ -5983,16 +6043,6 @@
   <wpt lat="47.657055" lon="-2.755017">
     <name>rue francis decker</name>
     <desc>Boîte à lire située dans le jardin des remparts au niveau des jeux pour enfants côté porte prison. </desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.74633" lon="-3.467742">
-    <name>Boulevard d'Armor</name>
-    <desc></desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

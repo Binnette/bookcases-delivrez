@@ -6,6 +6,129 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.631489,
+          48.349303
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale",
+        "lat": "48.3493032",
+        "lon": "7.6314894",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69e658e231d02.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.318813,
+          48.194971
+        ]
+      },
+      "properties": {
+        "title": "boite",
+        "lat": "48.1949708",
+        "lon": "7.3188127",
+        "type": "BSB",
+        "observation": "la poste",
+        "picture": "https://delivrez.fr/public/posts/img.69e6348e3be03.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.251789,
+          49.151205
+        ]
+      },
+      "properties": {
+        "title": "Place Pierre Lefèvre",
+        "lat": "49.1512051",
+        "lon": "4.2517894",
+        "type": "BSB",
+        "observation": "arrêt bus",
+        "picture": "https://delivrez.fr/public/posts/img.69e0bfc99818b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.296651,
+          48.165187
+        ]
+      },
+      "properties": {
+        "title": "Rue de la 1E Armée",
+        "lat": "48.1651871",
+        "lon": "7.2966512",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69a441129b5a0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.03893,
+          49.237674
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Roseraie",
+        "lat": "49.2376736",
+        "lon": "4.0389302",
+        "type": "BSB",
+        "observation": "dans le jardin intergénérationnel",
+        "picture": "https://delivrez.fr/public/posts/img.69df6a63ec393.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.612761,
+          49.810471
+        ]
+      },
+      "properties": {
+        "title": "Rue nationale",
+        "lat": "49.8104713",
+        "lon": "4.6127605",
+        "type": "BSB",
+        "observation": "Au pied de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.69d760e3de2e0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.469492,
+          48.103683
+        ]
+      },
+      "properties": {
+        "title": "La Poste",
+        "lat": "48.1036832",
+        "lon": "7.4694918",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69ce420486fcb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.737728,
           48.448952
         ]
@@ -9663,22 +9786,6 @@
         "lon": "7.7003918",
         "type": "BSB",
         "observation": "devant l'abri à vélos de la gare."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.296504,
-          48.165425
-        ]
-      },
-      "properties": {
-        "title": "24 Rue de la 1E Armée",
-        "lat": "48.1654252",
-        "lon": "7.2965036",
-        "type": "BSB"
       }
     },
     {

@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.221577,
+          43.843523
+        ]
+      },
+      "properties": {
+        "title": "rue docteur senes",
+        "lat": "43.8435233",
+        "lon": "6.2215767",
+        "type": "BSB",
+        "observation": "devant hotel dieu",
+        "picture": "https://delivrez.fr/public/posts/img.69e098de15962.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.500651,
           44.824902
         ]

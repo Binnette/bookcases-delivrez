@@ -6,6 +6,128 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.977756,
+          45.04722
+        ]
+      },
+      "properties": {
+        "title": "Place du 31 Mars 1944",
+        "lat": "45.0472198",
+        "lon": "0.977756",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69eb6fbb8cace.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.179477,
+          45.426224
+        ]
+      },
+      "properties": {
+        "title": "Allée des Platanes",
+        "lat": "45.4262236",
+        "lon": "-0.1794773",
+        "type": "BSB",
+        "observation": "dans la petite maisonnette en bord de voie verte",
+        "picture": "https://delivrez.fr/public/posts/img.69e4f5d6a633c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.035989,
+          45.801147
+        ]
+      },
+      "properties": {
+        "title": "Place Eugène Papin",
+        "lat": "45.8011467",
+        "lon": "-1.0359892",
+        "type": "BSB",
+        "observation": "La boîte à livres se trouve devant la boulangerie.",
+        "picture": "https://delivrez.fr/public/posts/img.69de14526988f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.375837,
+          46.651205
+        ]
+      },
+      "properties": {
+        "title": "Parc du Clos de la Ribeautière",
+        "lat": "46.6512054",
+        "lon": "0.3758371",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69dfd62a6b4cf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.601597,
+          44.882072
+        ]
+      },
+      "properties": {
+        "title": "Allée des Rouges-gorges",
+        "lat": "44.8820715",
+        "lon": "-0.6015967",
+        "type": "BSB",
+        "observation": "Dans le parc Ozone",
+        "picture": "https://delivrez.fr/public/posts/img.69ce46592ff9f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.015196,
+          44.93476
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Préhistoire",
+        "lat": "44.93476",
+        "lon": "1.015196",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69d1038c09add.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.334535,
+          45.979555
+        ]
+      },
+      "properties": {
+        "title": "Rue de la cure",
+        "lat": "45.979555",
+        "lon": "-1.3345352",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69c6bfbc5bc89.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.431099,
           46.298615
         ]
@@ -21403,23 +21525,6 @@
         "lon": "-1.110600829124451",
         "type": "BSB",
         "observation": "La boîte à livres se trouve dans le jardin public, près de l aire de jeux des enfants."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.035815,
-          45.801172
-        ]
-      },
-      "properties": {
-        "title": "Place Eugène Papin",
-        "lat": "45.8011717",
-        "lon": "-1.0358147",
-        "type": "BSB",
-        "observation": "La boîte à livres se trouve devant la boulangerie."
       }
     },
     {

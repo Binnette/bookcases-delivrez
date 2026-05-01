@@ -6,6 +6,89 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.628693,
+          49.644306
+        ]
+      },
+      "properties": {
+        "title": "MJC Centre",
+        "lat": "49.6443062",
+        "lon": "-1.6286933",
+        "type": "BSB",
+        "observation": "Boite à lire et Club de lecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.224924,
+          49.508167
+        ]
+      },
+      "properties": {
+        "title": "Centre commercial océanne",
+        "lat": "49.5081673",
+        "lon": "0.2249238",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69d7a2cbcfeed.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.121809,
+          49.525421
+        ]
+      },
+      "properties": {
+        "title": "70 quai frissard",
+        "lat": "49.5254212",
+        "lon": "0.1218085",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.231242,
+          49.142526
+        ]
+      },
+      "properties": {
+        "title": "Avenue Sainte-Thérèse",
+        "lat": "49.142526",
+        "lon": "0.2312424",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.037472,
+          49.342101
+        ]
+      },
+      "properties": {
+        "title": "Rue du Ricoquet",
+        "lat": "49.3421012",
+        "lon": "0.0374722",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69d25b894ac2f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.713565,
           49.862351
         ]

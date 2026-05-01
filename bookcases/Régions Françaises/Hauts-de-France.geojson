@@ -6,6 +6,145 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.604347,
+          50.721031
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Daunou",
+        "lat": "50.7210309",
+        "lon": "1.6043467",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69e7402737a05.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.827025,
+          49.53545
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Cimetiere",
+        "lat": "49.5354503",
+        "lon": "3.8270252",
+        "type": "BSB",
+        "observation": "près de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.69dbb0582dce5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.363606,
+          49.751645
+        ]
+      },
+      "properties": {
+        "title": "Rue du Gén Leclerc",
+        "lat": "49.7516453",
+        "lon": "3.3636063",
+        "type": "BSB",
+        "observation": "près de la mairie et de l'école",
+        "picture": "https://delivrez.fr/public/posts/img.69db5806f3509.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.690203,
+          50.127539
+        ]
+      },
+      "properties": {
+        "title": "La ville",
+        "lat": "50.1275392",
+        "lon": "3.6902033",
+        "type": "BSB",
+        "observation": "jardin public canal",
+        "picture": "https://delivrez.fr/public/posts/img.69d7a686dafc0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.307481,
+          50.751291
+        ]
+      },
+      "properties": {
+        "title": "Le Rossignol",
+        "lat": "50.7512906",
+        "lon": "2.3074807",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.298083,
+          50.397697
+        ]
+      },
+      "properties": {
+        "title": "Place Eugène Bernard",
+        "lat": "50.3976967",
+        "lon": "3.2980831",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69c8d085421b7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.250727,
+          50.419628
+        ]
+      },
+      "properties": {
+        "title": "Rue des Jardins",
+        "lat": "50.4196276",
+        "lon": "3.2507266",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69c958b846b32.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.453406,
+          50.548303
+        ]
+      },
+      "properties": {
+        "title": "Résidence la Colline Hurionville",
+        "lat": "50.5483026",
+        "lon": "2.4534063",
+        "type": "BSB",
+        "observation": "au bout du parking",
+        "picture": "https://delivrez.fr/public/posts/img.69c4fca0553ff.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.230172,
           50.229775
         ]
@@ -2859,24 +2998,6 @@
         "type": "BSB",
         "observation": "Dans la cours de la mairie.",
         "picture": "https://delivrez.fr/public/posts/img.66dafef55a7a9.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.359213,
-          49.748923
-        ]
-      },
-      "properties": {
-        "title": "boîte à livres Moy de l'Aisne",
-        "lat": "49.7489228",
-        "lon": "3.3592127",
-        "type": "BSB",
-        "observation": "tres bien tenue",
-        "picture": "https://delivrez.fr/public/posts/img.66d8209f96d91.png"
       }
     },
     {
@@ -6445,23 +6566,6 @@
         "lon": "3.2122588",
         "type": "BSB",
         "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.691275,
-          50.12378
-        ]
-      },
-      "properties": {
-        "title": "Rue du Général de Gaulle",
-        "lat": "50.1237799",
-        "lon": "3.6912752",
-        "type": "BSB",
-        "observation": "Près du canal."
       }
     },
     {

@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.727866,
+          47.214156
+        ]
+      },
+      "properties": {
+        "title": "Boulevard François Blancho",
+        "lat": "47.2141562",
+        "lon": "-1.7278665",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.69c57a0e9193a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.358593,
           47.29412
         ]
