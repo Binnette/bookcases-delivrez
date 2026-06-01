@@ -6,6 +6,110 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.933143,
+          46.018868
+        ]
+      },
+      "properties": {
+        "title": "place St Olive",
+        "lat": "46.0188683",
+        "lon": "4.9331432",
+        "type": "BSB",
+        "observation": "Biblio Box",
+        "picture": "https://delivrez.fr/public/posts/img.6a1994cada03c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.896504,
+          46.072119
+        ]
+      },
+      "properties": {
+        "title": "Rue de la République",
+        "lat": "46.0721192",
+        "lon": "4.8965044",
+        "type": "BSB",
+        "observation": "le puits aux livres",
+        "picture": "https://delivrez.fr/public/posts/img.6a18471f1e8aa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.663949,
+          45.280153
+        ]
+      },
+      "properties": {
+        "title": "Avenue Fernand Brun",
+        "lat": "45.2801526",
+        "lon": "2.6639485",
+        "type": "BSB",
+        "observation": "En bois. Sur la place.",
+        "picture": "https://delivrez.fr/public/posts/img.6a09a49d6a105.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.009835,
+          45.964675
+        ]
+      },
+      "properties": {
+        "title": "Place des Chalands",
+        "lat": "45.9646753",
+        "lon": "4.0098349",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a08a4d5ae7f2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.187283,
+          46.04494
+        ]
+      },
+      "properties": {
+        "title": "Rue Saint-Jean",
+        "lat": "46.0449404",
+        "lon": "3.1872831",
+        "type": "BSB",
+        "observation": "intérieur de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.430447,
+          46.49762
+        ]
+      },
+      "properties": {
+        "title": "Rue des Écoles",
+        "lat": "46.4976196",
+        "lon": "2.4304468",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.124867,
           45.012573
         ]

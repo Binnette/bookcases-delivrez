@@ -6,6 +6,216 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.630379,
+          47.773853
+        ]
+      },
+      "properties": {
+        "title": "Rue Porte Tavers",
+        "lat": "47.7738534",
+        "lon": "1.6303786",
+        "type": "BSB",
+        "observation": "Petite boîte à livre très mignonne entre le square du souvenir et la piscine municipale.",
+        "picture": "https://delivrez.fr/public/posts/img.6a02e0f4de625.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.54949,
+          47.051293
+        ]
+      },
+      "properties": {
+        "title": "boîte à livres nouatre",
+        "lat": "47.051293",
+        "lon": "0.5494897",
+        "type": "BSB",
+        "observation": "Boite à livres implantée juste à côté du bureau d aide sociale.",
+        "picture": "https://delivrez.fr/public/posts/img.6a00247e4e4fb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.010677,
+          48.473681
+        ]
+      },
+      "properties": {
+        "title": "Place de la Gare",
+        "lat": "48.4736808",
+        "lon": "1.0106767",
+        "type": "BSB",
+        "observation": "La boîte à lire se trouve à l intérieur de la gare",
+        "picture": "https://delivrez.fr/public/posts/img.69e5cfcebfd86.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.01924,
+          48.503922
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "48.5039216",
+        "lon": "1.01924",
+        "type": "BSB",
+        "observation": "Au carrefour",
+        "picture": "https://delivrez.fr/public/posts/img.6a0d85802fcb2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.729062,
+          47.062122
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale Bournan",
+        "lat": "47.062122",
+        "lon": "0.729062",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a0952ed8ae89.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.237568,
+          48.385605
+        ]
+      },
+      "properties": {
+        "title": "Route de Courville",
+        "lat": "48.3856046",
+        "lon": "1.237568",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a05acb440b22.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.624118,
+          47.771442
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Hauts de Lutz",
+        "lat": "47.7714417",
+        "lon": "1.6241178",
+        "type": "BSB",
+        "observation": "salle des fêtes",
+        "picture": "https://delivrez.fr/public/posts/img.6a02df968639c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.834298,
+          47.927588
+        ]
+      },
+      "properties": {
+        "title": "Avenue Maurice Ravel",
+        "lat": "47.9275882",
+        "lon": "1.8342977",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69ff29ee57090.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.84583,
+          47.923817
+        ]
+      },
+      "properties": {
+        "title": "Rue du Val d'Orléans",
+        "lat": "47.9238166",
+        "lon": "1.8458305",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69ff2e863423e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.980164,
+          48.239992
+        ]
+      },
+      "properties": {
+        "title": "L'Étang Neuf",
+        "lat": "48.2399923",
+        "lon": "0.9801639",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69fde48a11989.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.389564,
+          48.438444
+        ]
+      },
+      "properties": {
+        "title": "boite a livre",
+        "lat": "48.4384437",
+        "lon": "1.3895641",
+        "type": "BSB",
+        "observation": "cabine téléphonique",
+        "picture": "https://delivrez.fr/public/posts/img.69f83ce7184e9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.41767,
+          48.431356
+        ]
+      },
+      "properties": {
+        "title": "Rue des Cinq Croix",
+        "lat": "48.431356",
+        "lon": "1.4176699",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f3a2c718a14.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.487342,
           48.446106
         ]
@@ -6712,23 +6922,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.549406,
-          47.051193
-        ]
-      },
-      "properties": {
-        "title": "Place du 8 Mai 1945",
-        "lat": "47.0511933",
-        "lon": "0.549406",
-        "type": "BSB",
-        "observation": "Boite à livres implantée juste à côté du bureau d aide sociale."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1.504683,
           47.698799
         ]
@@ -7073,23 +7266,6 @@
         "lon": "1.702011823654175",
         "type": "BSB",
         "observation": "Au bord de la Loire, au début du parc"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.010873,
-          48.473877
-        ]
-      },
-      "properties": {
-        "title": "gare de la loupe",
-        "lat": "48.4738767",
-        "lon": "1.010873",
-        "type": "BSB",
-        "observation": "La boîte à lire se trouve à l intérieur de la gare"
       }
     },
     {
@@ -7889,23 +8065,6 @@
         "lon": "2.5166932",
         "type": "BSB",
         "observation": "La boîte à livres est dans le HALL du GARAGE MASSING station service AVIA"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.630361,
-          47.77403
-        ]
-      },
-      "properties": {
-        "title": "21 rue Porte Tavers",
-        "lat": "47.7740299",
-        "lon": "1.6303613",
-        "type": "BSB",
-        "observation": "Petite boîte à livre très mignonne entre le square du souvenir et la piscine municipale."
       }
     },
     {

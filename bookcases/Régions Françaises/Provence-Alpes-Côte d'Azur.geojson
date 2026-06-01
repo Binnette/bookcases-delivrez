@@ -6,6 +6,145 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.073451,
+          44.241625
+        ]
+      },
+      "properties": {
+        "title": "Place Du Marche",
+        "lat": "44.2416252",
+        "lon": "5.0734507",
+        "type": "BSB",
+        "observation": "Devant La Poste",
+        "picture": "https://delivrez.fr/public/posts/img.6a0600e25dc4c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.215086,
+          44.125181
+        ]
+      },
+      "properties": {
+        "title": "Les Baux",
+        "lat": "44.1251807",
+        "lon": "5.2150856",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a0705e8b6920.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.068302,
+          44.240989
+        ]
+      },
+      "properties": {
+        "title": "Avenue Alexandre Blanc",
+        "lat": "44.2409889",
+        "lon": "5.0683021",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a06cf3b4b98c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.074268,
+          44.243744
+        ]
+      },
+      "properties": {
+        "title": "Rue Bernard Noël",
+        "lat": "44.2437445",
+        "lon": "5.0742679",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a05da0ea0f5a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.579446,
+          43.274756
+        ]
+      },
+      "properties": {
+        "title": "Place des Artisans",
+        "lat": "43.2747564",
+        "lon": "6.5794461",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a02ea41b067e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.803705,
+          43.722532
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Gare",
+        "lat": "43.7225317",
+        "lon": "4.803705",
+        "type": "BSB",
+        "observation": "dans le petit parc derrière l'ancienne gare",
+        "picture": "https://delivrez.fr/public/posts/img.6a01f97fd57d0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.87154,
+          43.688885
+        ]
+      },
+      "properties": {
+        "title": "Rue du Temple",
+        "lat": "43.688885",
+        "lon": "4.87154",
+        "type": "BSB",
+        "observation": "Place de l'église et monument aux morts",
+        "picture": "https://delivrez.fr/public/posts/img.6a01d94995f83.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.807963,
+          43.194443
+        ]
+      },
+      "properties": {
+        "title": "boîte à livres",
+        "lat": "43.1944433",
+        "lon": "5.8079633",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f4be73b5ead.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.221577,
           43.843523
         ]
@@ -3244,23 +3383,6 @@
         "lon": "6.2429559",
         "type": "BSB",
         "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.073376,
-          44.241633
-        ]
-      },
-      "properties": {
-        "title": "Place du 11 Novembre",
-        "lat": "44.2416331",
-        "lon": "5.0733761",
-        "type": "BSB",
-        "observation": "Devant La Poste"
       }
     },
     {

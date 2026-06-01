@@ -6,6 +6,76 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.764003,
+          47.460449
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "47.4604488",
+        "lon": "3.7640026",
+        "type": "BSB",
+        "observation": "A l'intérieur du bar La Renommée",
+        "picture": "https://delivrez.fr/public/posts/img.6a1943944d506.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.527606,
+          47.514435
+        ]
+      },
+      "properties": {
+        "title": "D144",
+        "lat": "47.5144346",
+        "lon": "3.5276058",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69fdebdf440f7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.141198,
+          46.976948
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livres (Rte) des Saulaies - Chemin du Ver-",
+        "lat": "46.9769475",
+        "lon": "3.1411984",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f4cea39344f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.633273,
+          47.534533
+        ]
+      },
+      "properties": {
+        "title": "Rue Maurice Fillon Roget",
+        "lat": "47.5345333",
+        "lon": "3.6332732",
+        "type": "BSB",
+        "observation": "dans le lavoir",
+        "picture": "https://delivrez.fr/public/posts/img.69fdef2c870dd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.801984,
           47.945099
         ]
@@ -3363,23 +3433,6 @@
         "lon": "5.7754102",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.64e92dcb228e2.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.527537,
-          47.514595
-        ]
-      },
-      "properties": {
-        "title": "Rue Robert Sursin",
-        "lat": "47.5145955",
-        "lon": "3.527537",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.64e8a9fba58e6.png"
       }
     },
     {

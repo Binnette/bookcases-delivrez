@@ -6,6 +6,148 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.023106,
+          43.43493
+        ]
+      },
+      "properties": {
+        "title": "Berges du Lys",
+        "lat": "43.4349295",
+        "lon": "0.0231061",
+        "type": "BSB",
+        "observation": "une des plus jolies do nord des hautes Pyrénées",
+        "picture": "https://delivrez.fr/public/posts/img.6a16c98cca44b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.042052,
+          43.44644
+        ]
+      },
+      "properties": {
+        "title": "Cami de  peyroulh",
+        "lat": "43.4464396",
+        "lon": "-0.0420516",
+        "type": "BSB",
+        "observation": "divers",
+        "picture": "https://delivrez.fr/public/posts/img.6a16b2ac389d3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.041235,
+          43.439316
+        ]
+      },
+      "properties": {
+        "title": "vidpuze 1",
+        "lat": "43.4393158",
+        "lon": "-0.041235",
+        "type": "BSB",
+        "observation": "bien tenu",
+        "picture": "https://delivrez.fr/public/posts/img.6a16b12086f10.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.499971,
+          42.768272
+        ]
+      },
+      "properties": {
+        "title": "Place du Gravier",
+        "lat": "42.7682716",
+        "lon": "1.4999708",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a12b80653b4e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.62697,
+          43.004805
+        ]
+      },
+      "properties": {
+        "title": "boîte à livre sur un diable",
+        "lat": "43.004805",
+        "lon": "2.62697",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a00a23e4991d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.317962,
+          43.636299
+        ]
+      },
+      "properties": {
+        "title": "collégiale",
+        "lat": "43.6362992",
+        "lon": "2.3179617",
+        "type": "BSB",
+        "observation": "derrière la collégiale, boîte à lire",
+        "picture": "https://delivrez.fr/public/posts/img.69fe0a86bcd4a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.983955,
+          43.980766
+        ]
+      },
+      "properties": {
+        "title": "Route de Villeneuve",
+        "lat": "43.9807662",
+        "lon": "1.983955",
+        "type": "BSB",
+        "observation": "couvert entrée sur le côté mairie",
+        "picture": "https://delivrez.fr/public/posts/img.69f612b335a8d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.299711,
+          44.465163
+        ]
+      },
+      "properties": {
+        "title": "Route du Bondoire",
+        "lat": "44.4651634",
+        "lon": "1.2997114",
+        "type": "BSB",
+        "observation": "cabine a livre",
+        "picture": "https://delivrez.fr/public/posts/img.69f5dc00a1dd3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.921921,
           43.058383
         ]

@@ -1,5 +1,55 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="49.814662" lon="4.743712">
+    <name>Boulevard J Baptiste Clément</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.332053" lon="7.680567">
+    <name>Place de la Mairie</name>
+    <desc>Elle est à côté de l'école maternelle, en face de la boulangerieAvec un petit banc pas loin parfait pour manger son petit pain en lisant un bon livre !</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.478155" lon="6.442405">
+    <name>Route de Gerbeviller</name>
+    <desc>mairie</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="49.821813" lon="4.827346">
+    <name>Place de l'Église</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.759489" lon="7.504698">
+    <name>Rue Principale Hombourg</name>
+    <desc>En face de la Mairie</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.349303" lon="7.631489">
     <name>Rue Principale</name>
     <desc></desc>
@@ -263,16 +313,6 @@
   <wpt lat="48.845015" lon="7.613378">
     <name>Val de Moder - Rue de la Gare</name>
     <desc>au carrefour en face de la brasserie</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="49.814755" lon="4.743737">
-    <name>Place de Nouzonville</name>
-    <desc></desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>
@@ -7243,16 +7283,6 @@
   <wpt lat="49.214329" lon="6.867491">
     <name>147 rue Huber</name>
     <desc>Nous comptons sur vous pour venir faire vivre notre boîte à lire en échangeant vos livres contre d'autres et espérons que tous en prendront soin. Elle est dédiée aux livres pour enfants de tous âges. On y trouve des albums, des documentaires et des petits romans. Elle se trouve à l?entrée de l?ecole maternelle la farandole à Petite Rosselle.</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.331912" lon="7.680277">
-    <name>Place de la Mairie</name>
-    <desc>Elle est à côté de l'école maternelle, en face de la boulangerieAvec un petit banc pas loin parfait pour manger son petit pain en lisant un bon livre !</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

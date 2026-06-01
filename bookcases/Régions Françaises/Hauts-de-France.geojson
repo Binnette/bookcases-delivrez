@@ -6,6 +6,128 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.409429,
+          50.125509
+        ]
+      },
+      "properties": {
+        "title": "Rue Jacquard",
+        "lat": "50.1255085",
+        "lon": "3.4094294",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a17b7d40f370.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.663279,
+          50.505946
+        ]
+      },
+      "properties": {
+        "title": "Rue Guy Mollet",
+        "lat": "50.5059459",
+        "lon": "2.6632791",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a12d56c120dd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.745353,
+          50.639955
+        ]
+      },
+      "properties": {
+        "title": "Allee Jean Bardol - Samer",
+        "lat": "50.6399545",
+        "lon": "1.7453534",
+        "type": "BSB",
+        "observation": "Derrière la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6a1318107129d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.85051,
+          50.413412
+        ]
+      },
+      "properties": {
+        "title": "Rue Alexandre Gressier",
+        "lat": "50.4134119",
+        "lon": "2.8505104",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a0ee871c6d81.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.488376,
+          49.352864
+        ]
+      },
+      "properties": {
+        "title": "Rue de Couvrelles",
+        "lat": "49.3528638",
+        "lon": "3.4883757",
+        "type": "BSB",
+        "observation": "près de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6a071b9adb63d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.45166,
+          49.373276
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "49.3732759",
+        "lon": "3.4516597",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a071723a1052.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.384458,
+          49.356753
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Paix",
+        "lat": "49.3567531",
+        "lon": "3.3844583",
+        "type": "BSB",
+        "observation": "aire de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.6a07141dd0166.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.604347,
           50.721031
         ]

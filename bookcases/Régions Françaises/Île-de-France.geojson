@@ -6,6 +6,160 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.254535,
+          48.922694
+        ]
+      },
+      "properties": {
+        "title": "mairie de colombes",
+        "lat": "48.922694",
+        "lon": "2.2545348",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a0de96559535.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.555614,
+          48.476453
+        ]
+      },
+      "properties": {
+        "title": "boite à livres",
+        "lat": "48.4764535",
+        "lon": "2.5556138",
+        "type": "BSB",
+        "observation": "A coté de la Boulangerie dans l'arrêt de bus Mairie",
+        "picture": "https://delivrez.fr/public/posts/img.69e48bb183339.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.385167,
+          48.698834
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jean Jaurès",
+        "lat": "48.6988344",
+        "lon": "2.3851669",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a10fff418a4c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.130771,
+          48.812842
+        ]
+      },
+      "properties": {
+        "title": "Rue des Missionnaires",
+        "lat": "48.812842",
+        "lon": "2.1307715",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69fdfff2eefb9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.476596,
+          48.617838
+        ]
+      },
+      "properties": {
+        "title": "Devant la recycmerie",
+        "lat": "48.6178375",
+        "lon": "2.4765958",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f5cd9449daa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.355099,
+          48.676578
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "48.6765777",
+        "lon": "2.3550992",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a000d7bc98a8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.129825,
+          48.697195
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livres",
+        "lat": "48.6971945",
+        "lon": "2.1298248",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f4b9097c704.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.439583,
+          48.690012
+        ]
+      },
+      "properties": {
+        "title": "Place des Quatre Saison",
+        "lat": "48.6900123",
+        "lon": "2.4395828",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f5ef8a350d3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.431554,
+          48.697205
+        ]
+      },
+      "properties": {
+        "title": "Place Anatole France",
+        "lat": "48.6972052",
+        "lon": "2.4315544",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f5edcd03cf3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.109637,
           48.770156
         ]
@@ -5026,23 +5180,6 @@
         "lon": "2.7944681",
         "type": "BSB",
         "observation": "A l accueil du SIETOM du lundi au vendredi de 9h à 13 et de 14h à 17h."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.555797,
-          48.47652
-        ]
-      },
-      "properties": {
-        "title": "2 rue de Melun",
-        "lat": "48.4765205",
-        "lon": "2.5557966",
-        "type": "BSB",
-        "observation": "A coté de la Boulangerie dans l'arrêt de bus Mairie"
       }
     },
     {

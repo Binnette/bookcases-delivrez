@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          9.272371,
+          41.582904
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livres Dino Recyclerie",
+        "lat": "41.5829041",
+        "lon": "9.2723706",
+        "type": "BSB",
+        "observation": "Boîte à livres située à l'extérieur devant le magasin Dino Recyclerie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           9.158281,
           42.30377
         ]

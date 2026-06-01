@@ -6,6 +6,94 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.743712,
+          49.814662
+        ]
+      },
+      "properties": {
+        "title": "Boulevard J Baptiste Clément",
+        "lat": "49.8146617",
+        "lon": "4.7437117",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69ff49bc7e969.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.680567,
+          48.332053
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "48.3320533",
+        "lon": "7.6805673",
+        "type": "BSB",
+        "observation": "Elle est à côté de l'école maternelle, en face de la boulangerieAvec un petit banc pas loin parfait pour manger son petit pain en lisant un bon livre !",
+        "picture": "https://delivrez.fr/public/posts/img.69e65a5ee4467.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.442405,
+          48.478155
+        ]
+      },
+      "properties": {
+        "title": "Route de Gerbeviller",
+        "lat": "48.478155",
+        "lon": "6.442405",
+        "type": "BSB",
+        "observation": "mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6a0877f2760e6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.827346,
+          49.821813
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "49.8218132",
+        "lon": "4.8273464",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69ff30fc0afbf.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.504698,
+          47.759489
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale Hombourg",
+        "lat": "47.7594889",
+        "lon": "7.5046979",
+        "type": "BSB",
+        "observation": "En face de la Mairie",
+        "picture": "https://delivrez.fr/public/posts/img.69f70c469c1c0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.631489,
           48.349303
         ]
@@ -471,23 +559,6 @@
         "type": "BSB",
         "observation": "au carrefour en face de la brasserie",
         "picture": "https://delivrez.fr/public/posts/img.690b63316de64.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.743737,
-          49.814755
-        ]
-      },
-      "properties": {
-        "title": "Place de Nouzonville",
-        "lat": "49.814755",
-        "lon": "4.7437367",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.6909cbc8d82ff.png"
       }
     },
     {
@@ -12501,23 +12572,6 @@
         "lon": "6.8674907",
         "type": "BSB",
         "observation": "Nous comptons sur vous pour venir faire vivre notre boîte à lire en échangeant vos livres contre d'autres et espérons que tous en prendront soin. Elle est dédiée aux livres pour enfants de tous âges. On y trouve des albums, des documentaires et des petits romans. Elle se trouve à l?entrée de l?ecole maternelle la farandole à Petite Rosselle."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.680277,
-          48.331912
-        ]
-      },
-      "properties": {
-        "title": "Place de la Mairie",
-        "lat": "48.3319121",
-        "lon": "7.6802766",
-        "type": "BSB",
-        "observation": "Elle est à côté de l'école maternelle, en face de la boulangerieAvec un petit banc pas loin parfait pour manger son petit pain en lisant un bon livre !"
       }
     },
     {

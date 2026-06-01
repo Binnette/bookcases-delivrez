@@ -6,6 +6,476 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.027697,
+          43.381711
+        ]
+      },
+      "properties": {
+        "title": "lamayou",
+        "lat": "43.3817107",
+        "lon": "-0.0276972",
+        "type": "BSB",
+        "observation": "cabine téléphonique",
+        "picture": "https://delivrez.fr/public/posts/img.6a181fb5143a7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.463471,
+          46.325192
+        ]
+      },
+      "properties": {
+        "title": "rue Victor Hugo",
+        "lat": "46.3251921",
+        "lon": "-0.4634707",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a0847455b34a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.044624,
+          45.580214
+        ]
+      },
+      "properties": {
+        "title": "D210",
+        "lat": "45.5802144",
+        "lon": "0.0446245",
+        "type": "BSB",
+        "observation": "Jardin de la Mer",
+        "picture": "https://delivrez.fr/public/posts/img.6a05e6f1573b6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.296841,
+          46.147521
+        ]
+      },
+      "properties": {
+        "title": "Rue du Pont des Barres",
+        "lat": "46.1475212",
+        "lon": "0.2968409",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a141e7e964d8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.402992,
+          45.585288
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Forge",
+        "lat": "45.5852882",
+        "lon": "0.4029924",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a12ca4bbe6ce.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.451317,
+          45.451372
+        ]
+      },
+      "properties": {
+        "title": "Place de la Felibree",
+        "lat": "45.4513722",
+        "lon": "0.4513167",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a12b49cbdb50.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.403435,
+          44.917094
+        ]
+      },
+      "properties": {
+        "title": "D15",
+        "lat": "44.9170937",
+        "lon": "0.4034352",
+        "type": "BSB",
+        "observation": "sur un parking en face de l église contre un beau mur en pierre",
+        "picture": "https://delivrez.fr/public/posts/img.6a12b43279e16.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.639538,
+          44.752217
+        ]
+      },
+      "properties": {
+        "title": "arbrothèque",
+        "lat": "44.7522171",
+        "lon": "-0.6395381",
+        "type": "BSB",
+        "observation": "au milieu du boulevard circulaire Pey Arnaud, un lotissement, au milieu, un parc avec jeux d'enfants et un arbrothèque avec un banc à l'ombre pour commencer sa lecture !",
+        "picture": "https://delivrez.fr/public/posts/img.6a0efebf00dde.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.380131,
+          45.482019
+        ]
+      },
+      "properties": {
+        "title": "Rue de Ribérac",
+        "lat": "45.4820191",
+        "lon": "0.3801312",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a11f193e3a15.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.096667,
+          46.30131
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livre",
+        "lat": "46.3013097",
+        "lon": "-1.0966673",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.477794,
+          46.341739
+        ]
+      },
+      "properties": {
+        "title": "boîtes à lire",
+        "lat": "46.3417393",
+        "lon": "-0.4777936",
+        "type": "BSB",
+        "observation": "en face du lycée Thomas-jean Main",
+        "picture": "https://delivrez.fr/public/posts/img.6a05aa369991d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.597645,
+          46.936134
+        ]
+      },
+      "properties": {
+        "title": "Place de Saint-Romain",
+        "lat": "46.9361337",
+        "lon": "0.5976451",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a095bca755d7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.363501,
+          46.68644
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Poste",
+        "lat": "46.6864402",
+        "lon": "-0.3635012",
+        "type": "BSB",
+        "observation": "dans l'ancienne gare",
+        "picture": "https://delivrez.fr/public/posts/img.69fb2320230d3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.073713,
+          46.110096
+        ]
+      },
+      "properties": {
+        "title": "mairie",
+        "lat": "46.1100957",
+        "lon": "-0.0737133",
+        "type": "BSB",
+        "observation": "dans le parc à gauche",
+        "picture": "https://delivrez.fr/public/posts/img.69f8aec4ba427.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.683843,
+          46.052052
+        ]
+      },
+      "properties": {
+        "title": "Rue Grande Rue",
+        "lat": "46.0520517",
+        "lon": "0.6838425",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f842e8ae591.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.259263,
+          46.60365
+        ]
+      },
+      "properties": {
+        "title": "Lieu dit le Pin",
+        "lat": "46.6036502",
+        "lon": "-0.2592632",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69fb02cbd3dd9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.227196,
+          46.000133
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'If",
+        "lat": "46.0001334",
+        "lon": "0.2271963",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f87a6864e17.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.145209,
+          45.845701
+        ]
+      },
+      "properties": {
+        "title": "parc jean ranson",
+        "lat": "45.8457012",
+        "lon": "-1.1452086",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69fa027c097dd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.242995,
+          46.011356
+        ]
+      },
+      "properties": {
+        "title": "Route des Coteaux",
+        "lat": "46.0113565",
+        "lon": "0.2429952",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f87d65a582f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.511885,
+          46.02576
+        ]
+      },
+      "properties": {
+        "title": "Rue Emile Belly",
+        "lat": "46.0257601",
+        "lon": "0.5118849",
+        "type": "BSB",
+        "observation": "dans le square",
+        "picture": "https://delivrez.fr/public/posts/img.69f853edef8e7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.507737,
+          45.23387
+        ]
+      },
+      "properties": {
+        "title": "Rue de la République",
+        "lat": "45.2338696",
+        "lon": "-0.507737",
+        "type": "BSB",
+        "observation": "a côté de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.267689,
+          45.836025
+        ]
+      },
+      "properties": {
+        "title": "Place Maison Dieu",
+        "lat": "45.8360247",
+        "lon": "1.2676887",
+        "type": "BSB",
+        "observation": "dans la gare",
+        "picture": "https://delivrez.fr/public/posts/img.69f48b3eb7139.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.673631,
+          45.886774
+        ]
+      },
+      "properties": {
+        "title": "mairie",
+        "lat": "45.8867742",
+        "lon": "0.6736306",
+        "type": "BSB",
+        "observation": "à gauche de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.69f73c02dcd75.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.941141,
+          45.876632
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "45.8766324",
+        "lon": "0.9411408",
+        "type": "BSB",
+        "observation": "à côté de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.69f70aeb61e6b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6737,
+          45.886199
+        ]
+      },
+      "properties": {
+        "title": "Rue J.j. Trotti de la Chetardi",
+        "lat": "45.8861988",
+        "lon": "0.6737003",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f73a7b22ddb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.264444,
+          45.832077
+        ]
+      },
+      "properties": {
+        "title": "Place Jourdan",
+        "lat": "45.8320774",
+        "lon": "1.2644444",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f48a39df351.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.945788,
+          46.39226
+        ]
+      },
+      "properties": {
+        "title": "Rue des Écoles",
+        "lat": "46.3922602",
+        "lon": "1.9457884",
+        "type": "BSB",
+        "observation": "abri bus",
+        "picture": "https://delivrez.fr/public/posts/img.69f4b0ad85e7d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.977756,
           45.04722
         ]
@@ -9694,23 +10164,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.463449,
-          46.325125
-        ]
-      },
-      "properties": {
-        "title": "Place des Halles",
-        "lat": "46.3251251",
-        "lon": "-0.4634488",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.64899f050093a.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.94276,
           45.725883
         ]
@@ -10054,24 +10507,6 @@
         "type": "BSB",
         "observation": "Dans le parc au niveau de l'aire de jeux",
         "picture": "https://delivrez.fr/public/posts/img.62ed0cab33212.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.477794,
-          46.341739
-        ]
-      },
-      "properties": {
-        "title": "boîtes à lire",
-        "lat": "46.3417393",
-        "lon": "-0.4777936",
-        "type": "BSB",
-        "observation": "en face du lycée Thomas-jean Main",
-        "picture": "https://delivrez.fr/public/posts/img.62f8bc0e7c874.png"
       }
     },
     {

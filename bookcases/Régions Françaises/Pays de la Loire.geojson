@@ -6,6 +6,298 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.309346,
+          46.334015
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Chicanière",
+        "lat": "46.3340151",
+        "lon": "-1.3093457",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a0c7458db188.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.543607,
+          47.230592
+        ]
+      },
+      "properties": {
+        "title": "Nantes_59 rue du Coudray",
+        "lat": "47.2305923",
+        "lon": "-1.5436071",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.6a032c2335eb3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.559049,
+          47.233437
+        ]
+      },
+      "properties": {
+        "title": "Nantes_Place du 116e reg. infanterie",
+        "lat": "47.2334372",
+        "lon": "-1.5590492",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a03251a2b8bb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.636347,
+          47.121018
+        ]
+      },
+      "properties": {
+        "title": "Route du Lac",
+        "lat": "47.121018",
+        "lon": "-1.636347",
+        "type": "BSB",
+        "observation": "à côté des jeux",
+        "picture": "https://delivrez.fr/public/posts/img.6a12addfdf6d1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.508806,
+          47.236663
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Basse Chênaie",
+        "lat": "47.2366633",
+        "lon": "-1.5088058",
+        "type": "BSB",
+        "observation": "à côté de la maison de quartier",
+        "picture": "https://delivrez.fr/public/posts/img.6a1035bd27d8d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.789184,
+          46.494891
+        ]
+      },
+      "properties": {
+        "title": "cabane à lire",
+        "lat": "46.4948912",
+        "lon": "-1.789184",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.664281,
+          46.399016
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Venise Verte",
+        "lat": "46.3990164",
+        "lon": "-0.6642806",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a05d4c17b9dd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.745387,
+          47.342119
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Layon",
+        "lat": "47.3421186",
+        "lon": "-0.7453867",
+        "type": "BSB",
+        "observation": "devant la gare",
+        "picture": "https://delivrez.fr/public/posts/img.6a01d857ebde2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.438535,
+          46.342644
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Plage",
+        "lat": "46.3426444",
+        "lon": "-1.4385347",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a09d21d8c896.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.318806,
+          46.333083
+        ]
+      },
+      "properties": {
+        "title": "Place du Docteur Pacaud",
+        "lat": "46.3330829",
+        "lon": "-1.3188064",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a09ab62ba5f0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.30978,
+          46.333791
+        ]
+      },
+      "properties": {
+        "title": "Avenue Amiral Courbet",
+        "lat": "46.3337908",
+        "lon": "-1.30978",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a07647bd143d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.557074,
+          47.94952
+        ]
+      },
+      "properties": {
+        "title": "espace meslinois",
+        "lat": "47.9495197",
+        "lon": "-0.5570736",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a06fdec2e1fb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.020871,
+          46.392717
+        ]
+      },
+      "properties": {
+        "title": "Rue du Huit Mai",
+        "lat": "46.3927168",
+        "lon": "-1.0208715",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a05ec8065cba.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.417586,
+          46.347632
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Tulipes",
+        "lat": "46.3476323",
+        "lon": "-1.4175856",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.79356,
+          47.503898
+        ]
+      },
+      "properties": {
+        "title": "Impasse du Puit Moreau",
+        "lat": "47.5038981",
+        "lon": "-0.7935599",
+        "type": "BSB",
+        "observation": "face au fleuriste",
+        "picture": "https://delivrez.fr/public/posts/img.69fdb5b277d63.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.430881,
+          47.199872
+        ]
+      },
+      "properties": {
+        "title": "Place Beau Soleil - 44 Haute Goulaine",
+        "lat": "47.1998723",
+        "lon": "-1.4308809",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69fe280846be9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.279577,
+          47.085681
+        ]
+      },
+      "properties": {
+        "title": "Rue des Halles",
+        "lat": "47.0856812",
+        "lon": "-1.2795768",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69fd9fcc3cbd1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.715637,
           47.90068
         ]
@@ -1507,24 +1799,6 @@
         "lon": "-1.287777",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.6831f7c9d8ca7.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.54362,
-          47.230625
-        ]
-      },
-      "properties": {
-        "title": "Rue du Coudray",
-        "lat": "47.2306249",
-        "lon": "-1.5436198",
-        "type": "BSB",
-        "observation": "_",
-        "picture": "https://delivrez.fr/public/posts/img.681cdca21112a.png"
       }
     },
     {
@@ -8568,22 +8842,6 @@
         "lon": "-0.84809",
         "type": "BSB",
         "observation": "Boite à livres vitrée située Place Maréchal de Lattre de Tassigny face à l église"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.558936,
-          47.233369
-        ]
-      },
-      "properties": {
-        "title": "PLace du 116ème régiment d Infanterie",
-        "lat": "47.2333692",
-        "lon": "-1.558936",
-        "type": "BSB"
       }
     },
     {

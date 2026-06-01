@@ -6,16 +6,177 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.628693,
-          49.644306
+          -0.551901,
+          48.783974
         ]
       },
       "properties": {
-        "title": "MJC Centre",
-        "lat": "49.6443062",
-        "lon": "-1.6286933",
+        "title": "Route d'Aubusson",
+        "lat": "48.7839737",
+        "lon": "-0.5519014",
         "type": "BSB",
-        "observation": "Boite à lire et Club de lecture"
+        "observation": "Eglise",
+        "picture": "https://delivrez.fr/public/posts/img.6a17eeefb2296.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.628877,
+          49.644094
+        ]
+      },
+      "properties": {
+        "title": "piscine chantereyne",
+        "lat": "49.644094",
+        "lon": "-1.6288775",
+        "type": "BSB",
+        "observation": "Boite à lire et Club de lecture",
+        "picture": "https://delivrez.fr/public/posts/img.69f8d3262d28f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.410407,
+          48.875026
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Libération",
+        "lat": "48.8750264",
+        "lon": "-0.4104066",
+        "type": "BSB",
+        "observation": "à côté de la maison des habitants",
+        "picture": "https://delivrez.fr/public/posts/img.6a143e29944bb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.425514,
+          49.085644
+        ]
+      },
+      "properties": {
+        "title": "boite à livres",
+        "lat": "49.0856435",
+        "lon": "-0.4255141",
+        "type": "BSB",
+        "observation": "sur le pont",
+        "picture": "https://delivrez.fr/public/posts/img.6a12d3c606a88.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.234873,
+          49.249695
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Vergers",
+        "lat": "49.249695",
+        "lon": "-0.234873",
+        "type": "BSB",
+        "observation": "salle des fêtes",
+        "picture": "https://delivrez.fr/public/posts/img.6a11a27eca891.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.191833,
+          49.54518
+        ]
+      },
+      "properties": {
+        "title": "Place François Mitterrand",
+        "lat": "49.54518",
+        "lon": "0.1918328",
+        "type": "BSB",
+        "observation": "au pied de la fontaine",
+        "picture": "https://delivrez.fr/public/posts/img.69fc462e31824.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.892542,
+          48.433365
+        ]
+      },
+      "properties": {
+        "title": "Rue Ernest Sagot",
+        "lat": "48.4333646",
+        "lon": "0.8925419",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69f0714b7b348.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.593408,
+          49.524921
+        ]
+      },
+      "properties": {
+        "title": "Rue de Ancienne Gare",
+        "lat": "49.5249205",
+        "lon": "-1.5934077",
+        "type": "BSB",
+        "observation": "à côté de l'entrée du parc à jeux",
+        "picture": "https://delivrez.fr/public/posts/img.69ff4d018c250.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.182484,
+          49.547547
+        ]
+      },
+      "properties": {
+        "title": "montivillier gare",
+        "lat": "49.5475468",
+        "lon": "0.182484",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69fc4259aa28e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.662959,
+          49.594397
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Croix Pinel",
+        "lat": "49.5943974",
+        "lon": "-1.6629588",
+        "type": "BSB",
+        "observation": "en face de la salle Saint Sébastien, sur le parking",
+        "picture": "https://delivrez.fr/public/posts/img.69f450ebc36b0.png"
       }
     },
     {
@@ -33,22 +194,6 @@
         "lon": "0.2249238",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.69d7a2cbcfeed.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.121809,
-          49.525421
-        ]
-      },
-      "properties": {
-        "title": "70 quai frissard",
-        "lat": "49.5254212",
-        "lon": "0.1218085",
-        "type": "BSB"
       }
     },
     {

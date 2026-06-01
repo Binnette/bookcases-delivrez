@@ -6,6 +6,161 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.443128,
+          48.731609
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Charcot",
+        "lat": "48.731609",
+        "lon": "-3.4431285",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a1544770df39.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.454629,
+          48.73527
+        ]
+      },
+      "properties": {
+        "title": "Rue Grégoire Desaunays",
+        "lat": "48.7352696",
+        "lon": "-3.4546295",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a156b4cc040a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.811714,
+          47.538626
+        ]
+      },
+      "properties": {
+        "title": "Rue Anne de Bretagne",
+        "lat": "47.5386257",
+        "lon": "-2.8117144",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a09ab98e5d52.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.760615,
+          47.658524
+        ]
+      },
+      "properties": {
+        "title": "Boîte Mairie de Vannes",
+        "lat": "47.658524",
+        "lon": "-2.760615",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a088a17e5103.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.725207,
+          47.566133
+        ]
+      },
+      "properties": {
+        "title": "Route de Tascon",
+        "lat": "47.5661325",
+        "lon": "-2.725207",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a085ca2780ae.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.780518,
+          47.535543
+        ]
+      },
+      "properties": {
+        "title": "Chemin Toul Fetan",
+        "lat": "47.5355429",
+        "lon": "-2.7805178",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a08416883b4f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.685673,
+          47.777737
+        ]
+      },
+      "properties": {
+        "title": "Boîte rue Le Croiseau",
+        "lat": "47.7777367",
+        "lon": "-2.6856733",
+        "type": "BSB",
+        "observation": "Boîte à livres de Plaudren (56)",
+        "picture": "https://delivrez.fr/public/posts/img.6a05fca749f4f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.016298,
+          48.637625
+        ]
+      },
+      "properties": {
+        "title": "Place Bouvet",
+        "lat": "48.6376248",
+        "lon": "-2.0162985",
+        "type": "BSB",
+        "observation": "arrêt de bus",
+        "picture": "https://delivrez.fr/public/posts/img.69f593d9c91fc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90762,
+          47.557004
+        ]
+      },
+      "properties": {
+        "title": "Rue du Port Douar",
+        "lat": "47.5570042",
+        "lon": "-2.9076196",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.69fb07224eb11.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.687022,
           48.508734
         ]
@@ -174,23 +329,6 @@
         "lon": "-3.5411303",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.69b7c182ae3a8.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.443128,
-          48.731609
-        ]
-      },
-      "properties": {
-        "title": "Rue Jean Charcot",
-        "lat": "48.731609",
-        "lon": "-3.4431285",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.69b7b587d7222.png"
       }
     },
     {
