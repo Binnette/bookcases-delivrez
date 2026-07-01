@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.17562,
+          50.528204
+        ]
+      },
+      "properties": {
+        "title": "Rue Grande Campagne",
+        "lat": "50.5282036",
+        "lon": "3.1756199",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a324a581f0e9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.409429,
           50.125509
         ]

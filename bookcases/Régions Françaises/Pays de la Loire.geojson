@@ -6,6 +6,252 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.290891,
+          47.02419
+        ]
+      },
+      "properties": {
+        "title": "l'Herbaudiere 85 Noirmoutier",
+        "lat": "47.0241901",
+        "lon": "-2.2908908",
+        "type": "BSB",
+        "observation": "Bon état. Pas très fournie",
+        "picture": "https://delivrez.fr/public/posts/img.6a36abd72e56f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.537592,
+          47.182447
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Essarts",
+        "lat": "47.1824474",
+        "lon": "-1.5375923",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a365a4c5d8de.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.220697,
+          47.004035
+        ]
+      },
+      "properties": {
+        "title": "sur la plage...",
+        "lat": "47.004035",
+        "lon": "-2.2206967",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a3157388747a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.123577,
+          47.173137
+        ]
+      },
+      "properties": {
+        "title": "Chemin de Rimodan",
+        "lat": "47.1731367",
+        "lon": "-0.1235765",
+        "type": "BSB",
+        "observation": "au carrefour",
+        "picture": "https://delivrez.fr/public/posts/img.6a27f0ee47248.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.529627,
+          46.8238
+        ]
+      },
+      "properties": {
+        "title": "Place Bella Fagus",
+        "lat": "46.8237998",
+        "lon": "-1.5296268",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.209417,
+          47.334631
+        ]
+      },
+      "properties": {
+        "title": "Rue des Ligeriens",
+        "lat": "47.3346307",
+        "lon": "-0.2094171",
+        "type": "BSB",
+        "observation": "sur la Loire",
+        "picture": "https://delivrez.fr/public/posts/img.6a269e9e7c069.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.152478,
+          47.307921
+        ]
+      },
+      "properties": {
+        "title": "Place du Pont Pouillet",
+        "lat": "47.3079212",
+        "lon": "-0.1524784",
+        "type": "BSB",
+        "observation": "sur la Loire",
+        "picture": "https://delivrez.fr/public/posts/img.6a26932761b53.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.424628,
+          47.421457
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Layards",
+        "lat": "47.4214567",
+        "lon": "-0.424628",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a267295d4ec0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.666689,
+          47.719296
+        ]
+      },
+      "properties": {
+        "title": "voie verte",
+        "lat": "47.7192956",
+        "lon": "-0.6666888",
+        "type": "BSB",
+        "observation": "guinguette l'embellie",
+        "picture": "https://delivrez.fr/public/posts/img.6a217940c5158.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.060926,
+          46.792088
+        ]
+      },
+      "properties": {
+        "title": "Rue Georges Clemenceau",
+        "lat": "46.7920879",
+        "lon": "-2.0609258",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a24386972542.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.693915,
+          47.890222
+        ]
+      },
+      "properties": {
+        "title": "Gite de Neuville",
+        "lat": "47.8902217",
+        "lon": "-0.6939149",
+        "type": "BSB",
+        "observation": "sur la voie verte",
+        "picture": "https://delivrez.fr/public/posts/img.6a1fed5c35619.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.371868,
+          48.357902
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Piscine",
+        "lat": "48.3579018",
+        "lon": "0.3718682",
+        "type": "BSB",
+        "observation": "parc de jeux du Plan d'eau",
+        "picture": "https://delivrez.fr/public/posts/img.6a1bf83894209.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.605733,
+          48.370407
+        ]
+      },
+      "properties": {
+        "title": "Lotissement des 2 Rivières",
+        "lat": "48.3704068",
+        "lon": "-0.6057326",
+        "type": "BSB",
+        "observation": "bistrot de la haie",
+        "picture": "https://delivrez.fr/public/posts/img.6a1aebc8d364b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.585794,
+          48.384761
+        ]
+      },
+      "properties": {
+        "title": "boite à livres",
+        "lat": "48.3847606",
+        "lon": "-0.5857941",
+        "type": "BSB",
+        "observation": "Eglise",
+        "picture": "https://delivrez.fr/public/posts/img.6a19caf582c06.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.309346,
           46.334015
         ]

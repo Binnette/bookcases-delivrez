@@ -6,6 +6,108 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.641143,
+          47.019206
+        ]
+      },
+      "properties": {
+        "title": "Place des Anciens Combattants",
+        "lat": "47.0192064",
+        "lon": "5.641143",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2e8cebddd37.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.632183,
+          47.041472
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Chapelle",
+        "lat": "47.0414717",
+        "lon": "5.6321833",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2e87a57ba35.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.495262,
+          47.09632
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Paix",
+        "lat": "47.09632",
+        "lon": "5.4952617",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2e4b3f4304c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.015778,
+          46.536417
+        ]
+      },
+      "properties": {
+        "title": "Route Blanche à Morbier",
+        "lat": "46.5364168",
+        "lon": "6.0157785",
+        "type": "BSB",
+        "observation": "en face de la mairie - à côté de la comtoise - derrière la fontaine",
+        "picture": "https://delivrez.fr/public/posts/img.6a2fcb7a44466.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.871403,
+          46.596501
+        ]
+      },
+      "properties": {
+        "title": "Route du Lac",
+        "lat": "46.596501",
+        "lon": "5.871403",
+        "type": "BSB",
+        "observation": "Devant l'accueil du camping"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.658945,
+          46.9426
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale",
+        "lat": "46.9426",
+        "lon": "5.658945",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.764003,
           47.460449
         ]
@@ -918,24 +1020,6 @@
         "type": "BSB",
         "observation": "Médiathèque",
         "picture": "https://delivrez.fr/public/posts/img.687ba4bcd3994.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.015778,
-          46.536417
-        ]
-      },
-      "properties": {
-        "title": "Route Blanche à Morbier",
-        "lat": "46.5364168",
-        "lon": "6.0157785",
-        "type": "BSB",
-        "observation": "en face de la mairie - à côté de la comtoise - derrière la fontaine",
-        "picture": "https://delivrez.fr/public/posts/img.68790e8c1fe18.png"
       }
     },
     {

@@ -6,6 +6,232 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.591316,
+          42.791238
+        ]
+      },
+      "properties": {
+        "title": "Place Maréchal Joffre",
+        "lat": "42.7912384",
+        "lon": "0.5913156",
+        "type": "BSB",
+        "observation": "A côté de l'église de Luchon square Michel Warlop",
+        "picture": "https://delivrez.fr/public/posts/img.6a4278af61627.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.035006,
+          43.46761
+        ]
+      },
+      "properties": {
+        "title": "Allée Larbanes",
+        "lat": "43.4676102",
+        "lon": "0.0350061",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a3a4ca3201c8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.084312,
+          43.429884
+        ]
+      },
+      "properties": {
+        "title": "Chemin de la Gaou",
+        "lat": "43.4298838",
+        "lon": "0.0843124",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a3a45182306f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.193456,
+          43.572247
+        ]
+      },
+      "properties": {
+        "title": "Route de Nîmes",
+        "lat": "43.5722473",
+        "lon": "4.1934564",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a3643db4bf76.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.198874,
+          43.57121
+        ]
+      },
+      "properties": {
+        "title": "Impasse des Figuiers",
+        "lat": "43.5712102",
+        "lon": "4.1988742",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.6a36460ef2e74.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.434282,
+          43.677313
+        ]
+      },
+      "properties": {
+        "title": "Place Jean Jaurès",
+        "lat": "43.6773132",
+        "lon": "4.4342821",
+        "type": "BSB",
+        "observation": "dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.6a2d366201e89.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.275085,
+          43.68979
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Aficion",
+        "lat": "43.6897904",
+        "lon": "4.2750851",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2d457f6f496.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.857995,
+          43.958556
+        ]
+      },
+      "properties": {
+        "title": "Place du 4 Septembre",
+        "lat": "43.9585558",
+        "lon": "3.8579954",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a302f4cef3c1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.297859,
+          43.641142
+        ]
+      },
+      "properties": {
+        "title": "Route des Étangs",
+        "lat": "43.6411416",
+        "lon": "4.2978591",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2d8f85af2d5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.074907,
+          43.360821
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "43.3608214",
+        "lon": "0.0749067",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2fbf8a92c0c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.508248,
+          42.781607
+        ]
+      },
+      "properties": {
+        "title": "Orus Village",
+        "lat": "42.7816073",
+        "lon": "1.5082479",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a252d4ac2681.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.429721,
+          43.669966
+        ]
+      },
+      "properties": {
+        "title": "Rue des Écoles",
+        "lat": "43.6699655",
+        "lon": "1.429721",
+        "type": "BSB",
+        "observation": "ds le tronc devant le cinéma",
+        "picture": "https://delivrez.fr/public/posts/img.6a1c2e061d56d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.432649,
+          43.647938
+        ]
+      },
+      "properties": {
+        "title": "Place Paul Riché",
+        "lat": "43.647938",
+        "lon": "1.4326491",
+        "type": "BSB",
+        "observation": "a l entrée de l école a gauche",
+        "picture": "https://delivrez.fr/public/posts/img.6a1b0f9d96399.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.023106,
           43.43493
         ]
@@ -2629,22 +2855,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.857995,
-          43.958556
-        ]
-      },
-      "properties": {
-        "title": "Place du 4 Septembre",
-        "lat": "43.9585558",
-        "lon": "3.8579954",
-        "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3.982353,
           43.675429
         ]
@@ -3146,22 +3356,6 @@
         "lon": "3.8560287",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.65673006604a9.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.297859,
-          43.641142
-        ]
-      },
-      "properties": {
-        "title": "Route des Étangs",
-        "lat": "43.6411416",
-        "lon": "4.2978591",
-        "type": "BSB"
       }
     },
     {
@@ -4251,24 +4445,6 @@
         "lon": "0.322068",
         "type": "BSB",
         "observation": "Dans la télécabine rouge de la maison du patrimoine"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.198874,
-          43.57121
-        ]
-      },
-      "properties": {
-        "title": "Impasse des Figuiers",
-        "lat": "43.5712102",
-        "lon": "4.1988742",
-        "type": "BSB",
-        "observation": "_",
-        "picture": "https://delivrez.fr/public/posts/img.638748e003bb7.png"
       }
     },
     {

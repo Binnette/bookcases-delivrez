@@ -6,6 +6,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.842113,
+          43.841041
+        ]
+      },
+      "properties": {
+        "title": "Avenue Général de Gaulle",
+        "lat": "43.8410408",
+        "lon": "4.8421127",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2973d379554.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.028089,
+          44.344245
+        ]
+      },
+      "properties": {
+        "title": "Rue Sainte-Catherine",
+        "lat": "44.3442455",
+        "lon": "6.0280889",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a22e7c206093.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.521725,
+          43.273313
+        ]
+      },
+      "properties": {
+        "title": "Rue du Gacharel",
+        "lat": "43.2733132",
+        "lon": "6.5217245",
+        "type": "BSB",
+        "observation": "sous le porche",
+        "picture": "https://delivrez.fr/public/posts/img.6a23e49b966ca.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.073451,
           44.241625
         ]

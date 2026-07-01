@@ -6,6 +6,231 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.363943,
+          45.922146
+        ]
+      },
+      "properties": {
+        "title": "rue de Quart Cobloz",
+        "lat": "45.9221463",
+        "lon": "5.3639433",
+        "type": "BSB",
+        "observation": "dans l angle a côté de l ancien pressoir",
+        "picture": "https://delivrez.fr/public/posts/img.6a43cac93f83d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.738371,
+          46.178281
+        ]
+      },
+      "properties": {
+        "title": "place de l église",
+        "lat": "46.1782811",
+        "lon": "5.7383713",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a3287eaee7d1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.165901,
+          46.132357
+        ]
+      },
+      "properties": {
+        "title": "derrière l arret de bus Servas village",
+        "lat": "46.1323573",
+        "lon": "5.165901",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a36551ca1c91.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.553564,
+          46.140178
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Visinal",
+        "lat": "46.1401784",
+        "lon": "5.5535637",
+        "type": "BSB",
+        "observation": "côté gauche de la Mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6a3292beeba0b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.573626,
+          46.162748
+        ]
+      },
+      "properties": {
+        "title": "Rue du Lac",
+        "lat": "46.1627479",
+        "lon": "5.5736264",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a31018992a01.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.773288,
+          45.206443
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Vercors - LES BUCLOS",
+        "lat": "45.2064435",
+        "lon": "5.7732885",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2061f6803b2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.763488,
+          45.205337
+        ]
+      },
+      "properties": {
+        "title": "Rue du Rachais - tennis",
+        "lat": "45.2053375",
+        "lon": "5.7634877",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a20601e59085.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.75354,
+          45.201927
+        ]
+      },
+      "properties": {
+        "title": "Rue Pasteur - piscine",
+        "lat": "45.2019271",
+        "lon": "5.7535398",
+        "type": "BSB",
+        "observation": "grande boîte bleue",
+        "picture": "https://delivrez.fr/public/posts/img.6a2058a1b35ce.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.750686,
+          45.203715
+        ]
+      },
+      "properties": {
+        "title": "Rue Doyen Gosse - cigognes",
+        "lat": "45.2037152",
+        "lon": "5.7506855",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2059b5424f1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.902993,
+          45.995669
+        ]
+      },
+      "properties": {
+        "title": "Rue les Chenes",
+        "lat": "45.9956689",
+        "lon": "4.9029928",
+        "type": "BSB",
+        "observation": "devant l ecole primaire",
+        "picture": "https://delivrez.fr/public/posts/img.6a1aae4bbaa25.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.111379,
+          46.212563
+        ]
+      },
+      "properties": {
+        "title": "place de la mairie",
+        "lat": "46.2125627",
+        "lon": "5.1113792",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a1aeb562d708.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.126174,
+          46.24869
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "46.2486902",
+        "lon": "5.1261741",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a1ae89a30942.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.901411,
+          45.9986
+        ]
+      },
+      "properties": {
+        "title": "Place Marcel Bonnet",
+        "lat": "45.9986003",
+        "lon": "4.9014106",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a1aad737be19.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.933143,
           46.018868
         ]

@@ -6,6 +6,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.126592,
+          43.61422
+        ]
+      },
+      "properties": {
+        "title": "boite en forme de maison",
+        "lat": "43.6142196",
+        "lon": "-1.1265917",
+        "type": "BSB",
+        "observation": "place de la salle",
+        "picture": "https://delivrez.fr/public/posts/img.6a3f791c9c1bc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.331167,
+          45.978677
+        ]
+      },
+      "properties": {
+        "title": "Rue de la cure",
+        "lat": "45.9786767",
+        "lon": "-1.3311667",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a4120c414976.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.512494,
+          44.862245
+        ]
+      },
+      "properties": {
+        "title": "Rue Romain Rolland",
+        "lat": "44.8622447",
+        "lon": "-0.5124944",
+        "type": "BSB",
+        "observation": "Au milieu du parc",
+        "picture": "https://delivrez.fr/public/posts/img.6a350ea0e53e9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.143255,
+          45.018709
+        ]
+      },
+      "properties": {
+        "title": "devant la mairie",
+        "lat": "45.0187093",
+        "lon": "1.1432547",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a365b32cb20a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.043208,
+          46.975049
+        ]
+      },
+      "properties": {
+        "title": "Rue du Onze Novembre",
+        "lat": "46.9750487",
+        "lon": "-0.0432085",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a23d7633b170.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8897,
+          43.220218
+        ]
+      },
+      "properties": {
+        "title": "place de l'hôtel de ville",
+        "lat": "43.2202183",
+        "lon": "-0.8897",
+        "type": "BSB",
+        "observation": "boite à livres",
+        "picture": "https://delivrez.fr/public/posts/img.6a21925371162.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.027697,
           43.381711
         ]
@@ -574,23 +679,6 @@
         "lon": "1.015196",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.69d1038c09add.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.334535,
-          45.979555
-        ]
-      },
-      "properties": {
-        "title": "Rue de la cure",
-        "lat": "45.979555",
-        "lon": "-1.3345352",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.69c6bfbc5bc89.png"
       }
     },
     {

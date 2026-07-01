@@ -6,6 +6,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.441999,
+          48.703337
+        ]
+      },
+      "properties": {
+        "title": "Place du Soleil",
+        "lat": "48.7033366",
+        "lon": "2.4419991",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a4338ab5f346.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.389067,
+          48.692646
+        ]
+      },
+      "properties": {
+        "title": "Quai de l'Industrie",
+        "lat": "48.6926464",
+        "lon": "2.3890672",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2586eb0519f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.034235,
+          48.762786
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Lycée",
+        "lat": "48.7627861",
+        "lon": "2.0342355",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a1c3af224879.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.254535,
           48.922694
         ]

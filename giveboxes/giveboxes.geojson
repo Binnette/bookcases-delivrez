@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.812633,
+          45.715646
+        ]
+      },
+      "properties": {
+        "title": "Rue Parmentier",
+        "lat": "45.7156456",
+        "lon": "4.8126329",
+        "type": "DSB",
+        "observation": "A coté du supermaché"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.727866,
           47.214156
         ]

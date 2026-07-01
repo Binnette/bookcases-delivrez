@@ -6,6 +6,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.027605,
+          49.154715
+        ]
+      },
+      "properties": {
+        "title": "Grosbliedersdorf - Rue de la Montagne",
+        "lat": "49.154715",
+        "lon": "7.027605",
+        "type": "BSB",
+        "observation": "espace Victor Hugo",
+        "picture": "https://delivrez.fr/public/posts/img.6a391cf48b094.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.582138,
+          49.055993
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Damon",
+        "lat": "49.0559925",
+        "lon": "4.5821383",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2be7d4b6a2c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.498985,
+          49.049847
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'École",
+        "lat": "49.0498467",
+        "lon": "4.4989848",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2bee288bea1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.241359,
+          47.570863
+        ]
+      },
+      "properties": {
+        "title": "Heimersdorf - Rue Principale",
+        "lat": "47.5708634",
+        "lon": "7.2413592",
+        "type": "BSB",
+        "observation": "armoire en face de l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6a296e0db7ada.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.223353,
+          47.598347
+        ]
+      },
+      "properties": {
+        "title": "Hirtsbach - Rue du Château",
+        "lat": "47.5983467",
+        "lon": "7.2233533",
+        "type": "BSB",
+        "observation": "à côté du monument aux morts",
+        "picture": "https://delivrez.fr/public/posts/img.6a2979758f467.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.266137,
+          47.640942
+        ]
+      },
+      "properties": {
+        "title": "Rue du Stade",
+        "lat": "47.6409417",
+        "lon": "7.2661367",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a29724b0fef4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.743712,
           49.814662
         ]

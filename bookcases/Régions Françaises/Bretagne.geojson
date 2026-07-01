@@ -6,6 +6,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.223397,
+          48.246741
+        ]
+      },
+      "properties": {
+        "title": "boîte à livre",
+        "lat": "48.2467406",
+        "lon": "-1.2233966",
+        "type": "BSB",
+        "observation": "rue de chatillon",
+        "picture": "https://delivrez.fr/public/posts/img.6a19d7c129b6a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.443128,
           48.731609
         ]

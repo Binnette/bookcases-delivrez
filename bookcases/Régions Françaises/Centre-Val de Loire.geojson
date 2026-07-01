@@ -6,6 +6,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.124416,
+          47.325344
+        ]
+      },
+      "properties": {
+        "title": "Rue de Verdun",
+        "lat": "47.3253444",
+        "lon": "1.1244165",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2e722a13ef4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.539454,
+          48.467024
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "48.4670243",
+        "lon": "1.539454",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a2c5cd759a71.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.457361,
+          48.446141
+        ]
+      },
+      "properties": {
+        "title": "Rue Paul Langevin",
+        "lat": "48.4461413",
+        "lon": "1.4573611",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a27fe7c9683c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.630379,
           47.773853
         ]

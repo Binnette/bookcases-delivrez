@@ -6,6 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.142837,
+          49.506318
+        ]
+      },
+      "properties": {
+        "title": "Place de la Liberté",
+        "lat": "49.5063185",
+        "lon": "0.1428372",
+        "type": "BSB",
+        "observation": "à gauche de l'Eglise",
+        "picture": "https://delivrez.fr/public/posts/img.6a3fca9609a35.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.838109,
+          48.936811
+        ]
+      },
+      "properties": {
+        "title": "Le Beny Bocage",
+        "lat": "48.9368108",
+        "lon": "-0.8381088",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a325cf9a2000.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.551901,
           48.783974
         ]
