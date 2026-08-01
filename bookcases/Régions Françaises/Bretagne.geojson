@@ -6,6 +6,216 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.412452,
+          48.356193
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Lavoir de Sainte-Christine",
+        "lat": "48.3561926",
+        "lon": "-4.4124518",
+        "type": "BSB",
+        "observation": "à côté de la chapelle",
+        "picture": "https://delivrez.fr/public/posts/img.6a69d97aab720.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.42282,
+          47.88047
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Oust",
+        "lat": "47.8804704",
+        "lon": "-2.42282",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a6369f7e1e72.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.104449,
+          47.667545
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "47.6675451",
+        "lon": "-2.1044491",
+        "type": "BSB",
+        "observation": "avec les jeux pour enfants",
+        "picture": "https://delivrez.fr/public/posts/img.6a6461174aa70.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.820158,
+          48.124149
+        ]
+      },
+      "properties": {
+        "title": "Rue des Deux Ponts",
+        "lat": "48.124149",
+        "lon": "-2.820158",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a632693f35b8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.850344,
+          48.191504
+        ]
+      },
+      "properties": {
+        "title": "Place du Champ de Foire",
+        "lat": "48.1915036",
+        "lon": "-2.8503438",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a6304bc0dd62.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.157564,
+          48.127726
+        ]
+      },
+      "properties": {
+        "title": "Rue de Brocéliande",
+        "lat": "48.1277261",
+        "lon": "-2.1575644",
+        "type": "BSB",
+        "observation": "sous le préau, a côté de la bibliothèque",
+        "picture": "https://delivrez.fr/public/posts/img.6a61d724de6c4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.17873,
+          48.176195
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Fontaine",
+        "lat": "48.1761954",
+        "lon": "-2.1787297",
+        "type": "BSB",
+        "observation": "a côté des jeux",
+        "picture": "https://delivrez.fr/public/posts/img.6a61e2b952c69.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.098746,
+          48.093283
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "48.0932831",
+        "lon": "-2.0987464",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a61cf18302cd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8494,
+          48.005692
+        ]
+      },
+      "properties": {
+        "title": "Rue du Perray",
+        "lat": "48.0056916",
+        "lon": "-1.8494002",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a60c713d6aa8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.822077,
+          47.821021
+        ]
+      },
+      "properties": {
+        "title": "Square de la Liberté",
+        "lat": "47.8210213",
+        "lon": "-1.8220774",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a608d276fdba.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.395815,
+          48.544918
+        ]
+      },
+      "properties": {
+        "title": "Place de la République",
+        "lat": "48.5449181",
+        "lon": "-3.3958147",
+        "type": "BSB",
+        "observation": "à côté atelier Noria",
+        "picture": "https://delivrez.fr/public/posts/img.6a5e6f0f37c60.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.038353,
+          48.442007
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "48.4420069",
+        "lon": "-2.0383533",
+        "type": "BSB",
+        "observation": "à côté de l'église dans le jardin du haut le long de la rue du Bourg",
+        "picture": "https://delivrez.fr/public/posts/img.6a58f801553ec.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.223397,
           48.246741
         ]

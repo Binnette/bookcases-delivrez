@@ -6,6 +6,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.627547,
+          48.891761
+        ]
+      },
+      "properties": {
+        "title": "arrêt de bus",
+        "lat": "48.8917606",
+        "lon": "1.6275466",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a673e2cf2e3a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.878076,
+          48.960992
+        ]
+      },
+      "properties": {
+        "title": "Parc Bossuet",
+        "lat": "48.9609916",
+        "lon": "2.8780758",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a5c939806b35.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.957105,
+          48.784172
+        ]
+      },
+      "properties": {
+        "title": "Route de Montfort",
+        "lat": "48.7841723",
+        "lon": "1.9571052",
+        "type": "BSB",
+        "observation": "La boite se trouve sous le porche de la Mairie-Ecole, le long de la D23",
+        "picture": "https://delivrez.fr/public/posts/img.6a4ea9f1581dc.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.441999,
           48.703337
         ]
@@ -6157,23 +6209,6 @@
         "lon": "1.6487898",
         "type": "BSB",
         "observation": "Boite installée dans abri arrêt bus, parking face à la Mairie de la commune"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.957411,
-          48.784332
-        ]
-      },
-      "properties": {
-        "title": "15 Route de Montfort - D23",
-        "lat": "48.7843315",
-        "lon": "1.9574114",
-        "type": "BSB",
-        "observation": "La boite se trouve sous le porche de la Mairie-Ecole, le long de la D23"
       }
     },
     {

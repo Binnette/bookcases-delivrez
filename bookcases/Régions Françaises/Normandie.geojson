@@ -6,6 +6,163 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.108144,
+          49.494812
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Hôtel de ville",
+        "lat": "49.494812",
+        "lon": "0.1081437",
+        "type": "BSB",
+        "observation": "dans l'hôtel de ville",
+        "picture": "https://delivrez.fr/public/posts/img.6a61cbdb4dd3a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.390381,
+          48.697262
+        ]
+      },
+      "properties": {
+        "title": "Rue des Écoles",
+        "lat": "48.6972623",
+        "lon": "-1.3903807",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a62285867b77.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.446667,
+          49.047464
+        ]
+      },
+      "properties": {
+        "title": "Rue Quesnel Canveaux",
+        "lat": "49.0474637",
+        "lon": "-1.4466669",
+        "type": "BSB",
+        "observation": "A l'entrée du jardin des plantes",
+        "picture": "https://delivrez.fr/public/posts/img.6a60da6a88d18.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.195939,
+          48.772538
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "48.7725381",
+        "lon": "1.1959392",
+        "type": "BSB",
+        "observation": "Cabine téléphonique",
+        "picture": "https://delivrez.fr/public/posts/img.6a5f6885cf38a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.492935,
+          48.863021
+        ]
+      },
+      "properties": {
+        "title": "Rue D’Alican",
+        "lat": "48.8630214",
+        "lon": "-1.4929349",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a5f83c1335a0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.526918,
+          48.951507
+        ]
+      },
+      "properties": {
+        "title": "Jolie boîte devant la poste",
+        "lat": "48.9515075",
+        "lon": "-1.526918",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.6a60b192893d0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.512473,
+          48.898544
+        ]
+      },
+      "properties": {
+        "title": "Place du Commandant Godard",
+        "lat": "48.8985435",
+        "lon": "-1.512473",
+        "type": "BSB",
+        "observation": "A côté de l'Office de tourisme",
+        "picture": "https://delivrez.fr/public/posts/img.6a60ac09057b6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.437571,
+          49.475064
+        ]
+      },
+      "properties": {
+        "title": "12 Rte de la Capelle, 76780 Croisy-sur-Andelle",
+        "lat": "49.4750643",
+        "lon": "1.4375709",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37077,
+          49.324541
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mer",
+        "lat": "49.3245413",
+        "lon": "-0.3707697",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a4e3b4731b2b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.142837,
           49.506318
         ]
@@ -609,22 +766,6 @@
         "type": "BSB",
         "observation": "boîte éphémère sur le muret d'une maison",
         "picture": "https://delivrez.fr/public/posts/img.68974a6cdee14.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.390381,
-          48.697262
-        ]
-      },
-      "properties": {
-        "title": "Rue des Écoles",
-        "lat": "48.6972623",
-        "lon": "-1.3903807",
-        "type": "BSB"
       }
     },
     {
@@ -1782,24 +1923,6 @@
         "type": "BSB",
         "observation": "ancien frigo",
         "picture": "https://delivrez.fr/public/posts/img.671ba88b4bc50.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.446667,
-          49.047464
-        ]
-      },
-      "properties": {
-        "title": "Rue Quesnel Canveaux",
-        "lat": "49.0474637",
-        "lon": "-1.4466669",
-        "type": "BSB",
-        "observation": "A l'entrée du jardin des plantes",
-        "picture": "https://delivrez.fr/public/posts/img.671a447fabb90.png"
       }
     },
     {
@@ -4377,23 +4500,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.526918,
-          48.951507
-        ]
-      },
-      "properties": {
-        "title": "Jolie boîte devant la poste",
-        "lat": "48.9515075",
-        "lon": "-1.526918",
-        "type": "BSB",
-        "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.033522,
           49.335942
         ]
@@ -5465,22 +5571,6 @@
         "lon": "-1.4125788",
         "type": "BSB",
         "observation": "Sous l'abribus face à la mairie"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.370733,
-          49.324518
-        ]
-      },
-      "properties": {
-        "title": "Parc du Bois Joli",
-        "lat": "49.3245182",
-        "lon": "-0.3707333",
-        "type": "BSB"
       }
     },
     {

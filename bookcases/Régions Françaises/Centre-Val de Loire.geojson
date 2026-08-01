@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.333316,
+          47.588137
+        ]
+      },
+      "properties": {
+        "title": "Rue du Palais",
+        "lat": "47.5881371",
+        "lon": "1.3333163",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a6369c31c499.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.455356,
+          47.508834
+        ]
+      },
+      "properties": {
+        "title": "Place Victor Hugo",
+        "lat": "47.5088342",
+        "lon": "1.4553559",
+        "type": "BSB",
+        "observation": "côté de l'église"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.124416,
           47.325344
         ]

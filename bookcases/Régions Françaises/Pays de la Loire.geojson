@@ -6,6 +6,142 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.681085,
+          46.421404
+        ]
+      },
+      "properties": {
+        "title": "Rue Pierre Brisson",
+        "lat": "46.4214039",
+        "lon": "-0.6810851",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a662b9c3da7a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.113448,
+          46.483878
+        ]
+      },
+      "properties": {
+        "title": "Place du Commerce",
+        "lat": "46.4838784",
+        "lon": "-1.113448",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a5f8fc71fbe1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.163467,
+          47.165162
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Convention",
+        "lat": "47.1651619",
+        "lon": "-2.1634665",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a5e80aae27a2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.276293,
+          48.344961
+        ]
+      },
+      "properties": {
+        "title": "place du marché",
+        "lat": "48.3449607",
+        "lon": "-0.2762926",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a5de30030b38.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.385523,
+          47.256013
+        ]
+      },
+      "properties": {
+        "title": "Route de la Chapelle Basse Mer",
+        "lat": "47.256013",
+        "lon": "-1.3855232",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a5258a44f4ea.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.063006,
+          46.377927
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Voie",
+        "lat": "46.3779267",
+        "lon": "-1.0630059",
+        "type": "BSB",
+        "observation": "À côté de l'école"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.299686,
+          47.02372
+        ]
+      },
+      "properties": {
+        "title": "Rue Marie Lemonnier",
+        "lat": "47.0237197",
+        "lon": "-2.2996862",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a36b407aba24.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.519268,
+          47.235947
+        ]
+      },
+      "properties": {
+        "title": "Route de Sainte-Luce",
+        "lat": "47.2359468",
+        "lon": "-1.5192681",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a452f70574aa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.290891,
           47.02419
         ]
@@ -2629,23 +2765,6 @@
         "lon": "-1.6761961",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.67c4773e64167.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.299643,
-          47.023776
-        ]
-      },
-      "properties": {
-        "title": "Rue Marie Lemonnier",
-        "lat": "47.0237764",
-        "lon": "-2.2996433",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.67c46a600cf8f.png"
       }
     },
     {

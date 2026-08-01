@@ -6,6 +6,41 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.068001,
+          44.0823
+        ]
+      },
+      "properties": {
+        "title": "serres mairie",
+        "lat": "44.0822999",
+        "lon": "5.068001",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a63936982389.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.021532,
+          43.107143
+        ]
+      },
+      "properties": {
+        "title": "parc cravero",
+        "lat": "43.1071428",
+        "lon": "6.0215322",
+        "type": "BSB",
+        "observation": "dans le parc de la mairie pour enfants",
+        "picture": "https://delivrez.fr/public/posts/img.6a2280ab0291b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.842113,
           43.841041
         ]
@@ -1945,24 +1980,6 @@
         "type": "BSB",
         "observation": "derrière les toilettes publiques",
         "picture": "https://delivrez.fr/public/posts/img.662cb795d71e8.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.021522,
-          43.107166
-        ]
-      },
-      "properties": {
-        "title": "Avenue de la Première Dfl",
-        "lat": "43.1071658",
-        "lon": "6.0215218",
-        "type": "BSB",
-        "observation": "dans le parc de la mairie pour enfants",
-        "picture": "https://delivrez.fr/public/posts/img.662cadfb64e86.png"
       }
     },
     {

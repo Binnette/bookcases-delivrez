@@ -6,6 +6,162 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.280866,
+          50.40897
+        ]
+      },
+      "properties": {
+        "title": "Place Gambetta",
+        "lat": "50.4089702",
+        "lon": "3.2808663",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a69c0ae931af.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.441524,
+          50.610302
+        ]
+      },
+      "properties": {
+        "title": "Rue d'Aire",
+        "lat": "50.6103017",
+        "lon": "2.441524",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a68db342a622.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.314983,
+          50.399407
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Jaurès",
+        "lat": "50.3994073",
+        "lon": "3.3149826",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a67a558cdfa3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.928834,
+          50.118648
+        ]
+      },
+      "properties": {
+        "title": "L'Observateur de l'Avesnois",
+        "lat": "50.1186485",
+        "lon": "3.9288335",
+        "type": "BSB",
+        "observation": "A l'acceuil",
+        "picture": "https://delivrez.fr/public/posts/img.6a67006b2efe9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.006846,
+          49.789457
+        ]
+      },
+      "properties": {
+        "title": "2 Rue André Delorme, 80400 Eppeville",
+        "lat": "49.789457",
+        "lon": "3.0068465",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.294766,
+          49.895517
+        ]
+      },
+      "properties": {
+        "title": "Rue du Général Leclerc",
+        "lat": "49.8955175",
+        "lon": "2.2947657",
+        "type": "BSB",
+        "observation": "Dans les halles",
+        "picture": "https://delivrez.fr/public/posts/img.6a57b355cc10d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.300343,
+          50.47398
+        ]
+      },
+      "properties": {
+        "title": "Rue du Général de Gaulle",
+        "lat": "50.4739801",
+        "lon": "3.3003426",
+        "type": "BSB",
+        "observation": "Livres à croquer à l'initiative du Conseil Municipal des Jeunes.",
+        "picture": "https://delivrez.fr/public/posts/img.6a465451a4058.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.441463,
+          50.945702
+        ]
+      },
+      "properties": {
+        "title": "E42",
+        "lat": "50.9457018",
+        "lon": "2.4414633",
+        "type": "BSB",
+        "observation": "spycker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.330923,
+          50.445579
+        ]
+      },
+      "properties": {
+        "title": "Rue du Perroquet",
+        "lat": "50.4455785",
+        "lon": "3.3309226",
+        "type": "BSB",
+        "observation": "Sous la halle",
+        "picture": "https://delivrez.fr/public/posts/img.6a4500d9cbd8f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.17562,
           50.528204
         ]
@@ -4938,23 +5094,6 @@
         "type": "BSB",
         "observation": "_",
         "picture": "https://delivrez.fr/public/posts/img.62f7535286844.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.294766,
-          49.895517
-        ]
-      },
-      "properties": {
-        "title": "Rue du Général Leclerc",
-        "lat": "49.8955175",
-        "lon": "2.2947657",
-        "type": "BSB",
-        "observation": "Dans les halles"
       }
     },
     {
@@ -10872,23 +11011,6 @@
         "lon": "3.4466151",
         "type": "BSB",
         "observation": "AU SIEGE DE LA MAISON INTERCOMMUNALE"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.300378,
-          50.474197
-        ]
-      },
-      "properties": {
-        "title": "75 rue du Général de Gaulle",
-        "lat": "50.4741972",
-        "lon": "3.3003783",
-        "type": "BSB",
-        "observation": "Livres à croquer à l'initiative du Conseil Municipal des Jeunes."
       }
     },
     {

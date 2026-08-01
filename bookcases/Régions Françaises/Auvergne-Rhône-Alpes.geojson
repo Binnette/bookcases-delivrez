@@ -6,6 +6,232 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.924727,
+          46.0518
+        ]
+      },
+      "properties": {
+        "title": "Rue du Commerce",
+        "lat": "46.0518002",
+        "lon": "3.9247268",
+        "type": "BSB",
+        "observation": "place crionne",
+        "picture": "https://delivrez.fr/public/posts/img.6a65ff9a9295c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.934859,
+          46.007861
+        ]
+      },
+      "properties": {
+        "title": "Rue du Lavoir",
+        "lat": "46.0078613",
+        "lon": "3.9348592",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a6603c861612.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.908926,
+          46.07525
+        ]
+      },
+      "properties": {
+        "title": "Les Palices",
+        "lat": "46.0752498",
+        "lon": "3.9089257",
+        "type": "BSB",
+        "observation": "devant école",
+        "picture": "https://delivrez.fr/public/posts/img.6a65f9c54b3f1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.469643,
+          45.679423
+        ]
+      },
+      "properties": {
+        "title": "Rue J.b Corot",
+        "lat": "45.6794234",
+        "lon": "5.4696431",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a639865dadc7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.471483,
+          45.674008
+        ]
+      },
+      "properties": {
+        "title": "Place du 8 Mai 1945",
+        "lat": "45.6740081",
+        "lon": "5.4714829",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.811397,
+          45.97409
+        ]
+      },
+      "properties": {
+        "title": "Chemin de l'Église",
+        "lat": "45.9740899",
+        "lon": "4.8113968",
+        "type": "BSB",
+        "observation": "devant la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6a60d19e0ebdd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.41279,
+          46.143941
+        ]
+      },
+      "properties": {
+        "title": "Allée des Ailes",
+        "lat": "46.1439409",
+        "lon": "3.4127904",
+        "type": "BSB",
+        "observation": "Entrée supermarché Carrefour",
+        "picture": "https://delivrez.fr/public/posts/img.6a5b27edc205c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.726966,
+          45.822572
+        ]
+      },
+      "properties": {
+        "title": "Route de Notre Dame de la Gorge",
+        "lat": "45.8225722",
+        "lon": "6.7269661",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a536b4e6d929.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.472528,
+          45.502103
+        ]
+      },
+      "properties": {
+        "title": "Route du Patrimoine",
+        "lat": "45.502103",
+        "lon": "6.4725282",
+        "type": "BSB",
+        "observation": "place mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6a548590ecbb8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.670894,
+          46.066165
+        ]
+      },
+      "properties": {
+        "title": "Impasse du Forum",
+        "lat": "46.0661646",
+        "lon": "6.6708935",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a53a6de48625.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.482788,
+          45.519977
+        ]
+      },
+      "properties": {
+        "title": "Rue des Jeux Olympiques",
+        "lat": "45.5199767",
+        "lon": "6.4827878",
+        "type": "BSB",
+        "observation": "st oyen place mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6a525fa5c341d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.882015,
+          45.921409
+        ]
+      },
+      "properties": {
+        "title": "place du village",
+        "lat": "45.921409",
+        "lon": "4.8820155",
+        "type": "BSB",
+        "observation": "En face du tabac Grand armoire",
+        "picture": "https://delivrez.fr/public/posts/img.6a3924bfef61d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.290179,
+          44.399196
+        ]
+      },
+      "properties": {
+        "title": "Cabine à livre de Pradon",
+        "lat": "44.399196",
+        "lon": "4.2901788",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.363943,
           45.922146
         ]
@@ -13653,23 +13879,6 @@
         "lat": "45.489463",
         "lon": "5.591543",
         "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8822,
-          45.921507
-        ]
-      },
-      "properties": {
-        "title": "13 Route de Lyon",
-        "lat": "45.9215068",
-        "lon": "4.8821998",
-        "type": "BSB",
-        "observation": "En face du tabac Grand armoire"
       }
     },
     {

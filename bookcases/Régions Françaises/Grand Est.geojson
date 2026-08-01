@@ -6,6 +6,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.457446,
+          48.253239
+        ]
+      },
+      "properties": {
+        "title": "Route de Marckolsheim",
+        "lat": "48.2532386",
+        "lon": "7.4574461",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a59f2c62b2ed.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.464285,
+          48.176414
+        ]
+      },
+      "properties": {
+        "title": "école Ambrail",
+        "lat": "48.1764141",
+        "lon": "6.464285",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a48dfe0aa3fb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.107576,
+          48.712709
+        ]
+      },
+      "properties": {
+        "title": "Place Charles de Gaulle",
+        "lat": "48.7127086",
+        "lon": "7.1075757",
+        "type": "BSB",
+        "observation": "_",
+        "picture": "https://delivrez.fr/public/posts/img.6a43d7dd758ef.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.027605,
           49.154715
         ]
@@ -6838,23 +6890,6 @@
         "type": "BSB",
         "observation": "_",
         "picture": "https://delivrez.fr/public/posts/img.632ccc9b06821.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.107576,
-          48.712709
-        ]
-      },
-      "properties": {
-        "title": "Place Charles de Gaulle",
-        "lat": "48.7127086",
-        "lon": "7.1075757",
-        "type": "BSB",
-        "observation": "_"
       }
     },
     {

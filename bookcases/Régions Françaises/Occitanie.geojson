@@ -6,6 +6,146 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.510037,
+          44.612274
+        ]
+      },
+      "properties": {
+        "title": "Passage du Jardin",
+        "lat": "44.6122738",
+        "lon": "2.5100368",
+        "type": "BSB",
+        "observation": "Espeyrac",
+        "picture": "https://delivrez.fr/public/posts/img.6a6b37cac1a37.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.583483,
+          44.604915
+        ]
+      },
+      "properties": {
+        "title": "Rue des Monts d'Aubrac",
+        "lat": "44.6049146",
+        "lon": "2.5834832",
+        "type": "BSB",
+        "observation": "Golinhac",
+        "picture": "https://delivrez.fr/public/posts/img.6a6b114143721.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.921181,
+          44.590408
+        ]
+      },
+      "properties": {
+        "title": "Place du Souvenir",
+        "lat": "44.5904079",
+        "lon": "2.9211809",
+        "type": "BSB",
+        "observation": "Saint Chély d'Aubrac",
+        "picture": "https://delivrez.fr/public/posts/img.6a684b36e43a6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.543997,
+          44.091061
+        ]
+      },
+      "properties": {
+        "title": "Avenue Charles Flahault",
+        "lat": "44.0910609",
+        "lon": "3.543997",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a608054c16d4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.53059,
+          43.530395
+        ]
+      },
+      "properties": {
+        "title": "Allée Saint-Paul",
+        "lat": "43.5303951",
+        "lon": "1.5305896",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a6070e9685a2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.127943,
+          43.669199
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Bouvine",
+        "lat": "43.669199",
+        "lon": "4.1279431",
+        "type": "BSB",
+        "observation": "Sur un mur étoilé, une bien jolie boîte en bois !",
+        "picture": "https://delivrez.fr/public/posts/img.6a48bbbd73b26.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.431786,
+          43.336384
+        ]
+      },
+      "properties": {
+        "title": "Impasse du Presbytere",
+        "lat": "43.3363841",
+        "lon": "1.4317859",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a4cfce60e789.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.135634,
+          43.67392
+        ]
+      },
+      "properties": {
+        "title": "Rue Henri de Bornier",
+        "lat": "43.6739199",
+        "lon": "4.1356342",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a48b7d591cec.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.591316,
           42.791238
         ]
@@ -6748,23 +6888,6 @@
         "lon": "2.713578",
         "type": "BSB",
         "observation": "La boite à livre se trouve à cote de la salle communale du village Le Causse sur la commune de Coubisou"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.127855,
-          43.669282
-        ]
-      },
-      "properties": {
-        "title": "1 rue de la bouvine",
-        "lat": "43.6692817",
-        "lon": "4.127855",
-        "type": "BSB",
-        "observation": "Sur un mur étoilé, une bien jolie boîte en bois !"
       }
     },
     {

@@ -6,6 +6,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.323249,
+          54.99259
+        ]
+      },
+      "properties": {
+        "title": "The Fountain",
+        "lat": "54.9925905",
+        "lon": "-7.3232487",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a57a02626ff3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.759438,
+          47.473347
+        ]
+      },
+      "properties": {
+        "title": "s'Buech Hüüsli",
+        "lat": "47.4733466",
+        "lon": "7.7594379",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a424038b8f65.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.42198,
           49.812732
         ]
