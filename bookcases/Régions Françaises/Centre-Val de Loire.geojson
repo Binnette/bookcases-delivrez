@@ -6,6 +6,129 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.366971,
+          47.765955
+        ]
+      },
+      "properties": {
+        "title": "Place Saint-Germain",
+        "lat": "47.7659551",
+        "lon": "2.3669706",
+        "type": "BSB",
+        "observation": "devant l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6a732a019512e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.144598,
+          47.200724
+        ]
+      },
+      "properties": {
+        "title": "place de l'église",
+        "lat": "47.2007244",
+        "lon": "0.1445981",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a89b7066e282.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.552375,
+          48.546079
+        ]
+      },
+      "properties": {
+        "title": "Rue de Gallardon",
+        "lat": "48.5460788",
+        "lon": "1.5523748",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a809699ed8dd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.375043,
+          47.765161
+        ]
+      },
+      "properties": {
+        "title": "Boulevard Jeanne d'Arc",
+        "lat": "47.7651613",
+        "lon": "2.3750429",
+        "type": "BSB",
+        "observation": "a côté de l'Office du tourisme",
+        "picture": "https://delivrez.fr/public/posts/img.6a7332549e2fd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.690811,
+          47.821776
+        ]
+      },
+      "properties": {
+        "title": "Rue des Millecents",
+        "lat": "47.8217763",
+        "lon": "1.6908115",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a71fe121733d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.907426,
+          47.90298
+        ]
+      },
+      "properties": {
+        "title": "Rue d'Escures",
+        "lat": "47.9029803",
+        "lon": "1.9074258",
+        "type": "BSB",
+        "observation": "dans le jardin de l'hôtel groslot",
+        "picture": "https://delivrez.fr/public/posts/img.6a6f65b57eb8b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.896835,
+          47.890597
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Saint-Mesmin",
+        "lat": "47.8905975",
+        "lon": "1.8968353",
+        "type": "BSB",
+        "observation": "dans le jardin des plantes",
+        "picture": "https://delivrez.fr/public/posts/img.6a6e08e85a66b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.333316,
           47.588137
         ]
@@ -8911,23 +9034,6 @@
         "lon": "2.1222675",
         "type": "BSB",
         "observation": "Dans une cabine téléphonique rouge."
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.367229,
-          47.766122
-        ]
-      },
-      "properties": {
-        "title": "place de l église Saint-Germain",
-        "lat": "47.7661218",
-        "lon": "2.3672288",
-        "type": "BSB",
-        "observation": "devant l'église"
       }
     },
     {

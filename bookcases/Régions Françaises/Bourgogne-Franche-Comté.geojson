@@ -6,6 +6,91 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.120001,
+          47.026146
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "47.0261462",
+        "lon": "4.1200015",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a85725ec7a8f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.278892,
+          47.695974
+        ]
+      },
+      "properties": {
+        "title": "Saulx de Vesoul - Grande Rue",
+        "lat": "47.6959738",
+        "lon": "6.2788921",
+        "type": "BSB",
+        "observation": "à côté de la mairie devant l'aire de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.6a8d6ef419e1f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.777416,
+          47.576139
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "47.5761393",
+        "lon": "3.7774163",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a8974b8446a8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.680916,
+          47.55832
+        ]
+      },
+      "properties": {
+        "title": "Rue du Champ Martin",
+        "lat": "47.5583198",
+        "lon": "5.6809162",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.839133,
+          47.02593
+        ]
+      },
+      "properties": {
+        "title": "Parc du beffroi",
+        "lat": "47.0259297",
+        "lon": "4.8391331",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a85f3d960bfd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.633251,
           47.786167
         ]

@@ -6,6 +6,110 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.770048,
+          48.065981
+        ]
+      },
+      "properties": {
+        "title": "Rue du Douanier Rousseau",
+        "lat": "48.0659809",
+        "lon": "-0.7700484",
+        "type": "BSB",
+        "observation": "l'arbre à lire",
+        "picture": "https://delivrez.fr/public/posts/img.6a86bfde56451.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.067653,
+          46.785203
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Demoiselles",
+        "lat": "46.7852028",
+        "lon": "-2.0676533",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a74c7a18b8b5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.80642,
+          46.640058
+        ]
+      },
+      "properties": {
+        "title": "Rue du Presbytère",
+        "lat": "46.6400577",
+        "lon": "-1.8064205",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a80334b611df.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.393644,
+          46.343311
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Sainte-Anne",
+        "lat": "46.3433112",
+        "lon": "-1.3936442",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a74c78d7bece.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.17797,
+          47.365378
+        ]
+      },
+      "properties": {
+        "title": "ancenis",
+        "lat": "47.3653784",
+        "lon": "-1.1779697",
+        "type": "BSB",
+        "observation": "dans les halles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.866942,
+          47.065118
+        ]
+      },
+      "properties": {
+        "title": "Rue du Président Paul Doumer",
+        "lat": "47.065118",
+        "lon": "-0.8669418",
+        "type": "BSB",
+        "observation": "dans les jardins",
+        "picture": "https://delivrez.fr/public/posts/img.6a71f35059b04.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.681085,
           46.421404
         ]

@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.622889,
+          49.637369
+        ]
+      },
+      "properties": {
+        "title": "Rue Vastel",
+        "lat": "49.6373692",
+        "lon": "-1.6228886",
+        "type": "SES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.002715,
           45.837912
         ]

@@ -1,5 +1,105 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="Binnette" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="48.455702" lon="-2.040766">
+    <name>Rue du Petit Fort</name>
+    <desc>La petite armoire protégée au niveau du lavoir</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.360735" lon="-4.770745">
+    <name>Rue Lieutenant Jourden</name>
+    <desc>Elle se situe sur la place de la mairie, à l'arrière de l'office de tourisme</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.478038" lon="-3.125489">
+    <name>Rue de Kervozes</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.530352" lon="-3.146108">
+    <name>Promenade du Tiviec</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.52052" lon="-3.134668">
+    <name>Rue Georges Clemenceau</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.541885" lon="-2.808353">
+    <name>Chemin du Dolmen</name>
+    <desc></desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.529686" lon="-2.732469">
+    <name>Chemin du Goh Lec'h</name>
+    <desc>Arrêt de bus du chemin du Goh Lec'h</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="47.585606" lon="-3.028278">
+    <name>Rue du Vieux Puits</name>
+    <desc>Face à l'église</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.191567" lon="-2.411643">
+    <name>Rue du Bourg Neuf</name>
+    <desc>sur parking</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="48.263916" lon="-4.19447">
+    <name>Place de l'Église</name>
+    <desc>vers l'église</desc>
+    <type>Delivrez bookcases</type>
+    <extensions>
+      <osmand:color>#ff5020</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>public_bookcase</osmand:icon>
+    </extensions>
+  </wpt>
   <wpt lat="48.356193" lon="-4.412452">
     <name>Chemin du Lavoir de Sainte-Christine</name>
     <desc>à côté de la chapelle</desc>
@@ -712,16 +812,6 @@
   </wpt>
   <wpt lat="47.541998" lon="-2.838695">
     <name>Rue du Morbihan</name>
-    <desc></desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="47.541885" lon="-2.808353">
-    <name>Chemin du Dolmen</name>
     <desc></desc>
     <type>Delivrez bookcases</type>
     <extensions>
@@ -4250,16 +4340,6 @@
       <osmand:icon>public_bookcase</osmand:icon>
     </extensions>
   </wpt>
-  <wpt lat="48.455555" lon="-2.040719">
-    <name>10 rue du Petit Fort</name>
-    <desc>La petite armoire protégée au niveau du lavoir</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
   <wpt lat="47.644505" lon="-2.699137">
     <name>2 rue surcouf</name>
     <desc>L Hotel Inn vous propose une bibliotheque participative ou les clients, ou les gens de passage, prennent ou laissent leurs livres voyageurs.Ouvert de 6h a 22hlibre d'acces</desc>
@@ -4813,16 +4893,6 @@
   <wpt lat="48.294574" lon="-1.590369">
     <name>ROUTE DE L ECOLE</name>
     <desc>DEVANT LE GROUPE SCOLAIRE DES PRE VERTS</desc>
-    <type>Delivrez bookcases</type>
-    <extensions>
-      <osmand:color>#ff5020</osmand:color>
-      <osmand:background>square</osmand:background>
-      <osmand:icon>public_bookcase</osmand:icon>
-    </extensions>
-  </wpt>
-  <wpt lat="48.360708" lon="-4.7707">
-    <name>Place de Brest</name>
-    <desc>Elle se situe sur la place de la mairie, à l'arrière de l'office de tourisme</desc>
     <type>Delivrez bookcases</type>
     <extensions>
       <osmand:color>#ff5020</osmand:color>

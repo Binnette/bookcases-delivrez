@@ -6,6 +6,128 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.439289,
+          44.646713
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Quincaillerie",
+        "lat": "44.6467129",
+        "lon": "1.4392894",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a907938d9d29.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.085014,
+          44.094727
+        ]
+      },
+      "properties": {
+        "title": "Rue Cantarane",
+        "lat": "44.0947273",
+        "lon": "3.0850137",
+        "type": "BSB",
+        "observation": "Dans le parc enfant",
+        "picture": "https://delivrez.fr/public/posts/img.6a874cae2dab8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.438955,
+          44.741451
+        ]
+      },
+      "properties": {
+        "title": "Route de Gourdon",
+        "lat": "44.7414513",
+        "lon": "1.438955",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a84240eccd4e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.314598,
+          42.898031
+        ]
+      },
+      "properties": {
+        "title": "Biert",
+        "lat": "42.8980308",
+        "lon": "1.3145976",
+        "type": "BSB",
+        "observation": "Voir aussi celle de Massat, proche",
+        "picture": "https://delivrez.fr/public/posts/img.6a7b4aa4f40bd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.459485,
+          44.352063
+        ]
+      },
+      "properties": {
+        "title": "Prades",
+        "lat": "44.3520633",
+        "lon": "3.459485",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a78437582c08.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.320762,
+          44.301895
+        ]
+      },
+      "properties": {
+        "title": "Rue du Grand Barry",
+        "lat": "44.3018949",
+        "lon": "3.3207618",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a745f773cc06.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.889316,
+          42.4656
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Puymorens",
+        "lat": "42.4655997",
+        "lon": "1.8893161",
+        "type": "BSB",
+        "observation": "A côté de l'épicerie",
+        "picture": "https://delivrez.fr/public/posts/img.6a7211f890410.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.510037,
           44.612274
         ]

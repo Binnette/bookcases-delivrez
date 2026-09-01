@@ -6,6 +6,195 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.234335,
+          49.001418
+        ]
+      },
+      "properties": {
+        "title": "Rue Grangeret de la Grange",
+        "lat": "49.0014175",
+        "lon": "2.2343354",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a8b15ab32825.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.324537,
+          48.881107
+        ]
+      },
+      "properties": {
+        "title": "Rue de Turin",
+        "lat": "48.8811065",
+        "lon": "2.3245368",
+        "type": "BSB",
+        "observation": "petite boîte à livres",
+        "picture": "https://delivrez.fr/public/posts/img.6a8f54fbae2d2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.269038,
+          48.85842
+        ]
+      },
+      "properties": {
+        "title": "Avenue Prudhon",
+        "lat": "48.8584196",
+        "lon": "2.269038",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a8cb9b7733cb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35792,
+          48.915973
+        ]
+      },
+      "properties": {
+        "title": "Avenue du Président Wilson",
+        "lat": "48.9159725",
+        "lon": "2.3579196",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a89f0bfb4b47.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.419088,
+          48.868563
+        ]
+      },
+      "properties": {
+        "title": "Rue Sadi Carnot",
+        "lat": "48.8685632",
+        "lon": "2.419088",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a874e388f8ca.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.432439,
+          48.708764
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Corringer",
+        "lat": "48.7087644",
+        "lon": "2.4324388",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a8b3dcf3b68a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.599095,
+          48.789485
+        ]
+      },
+      "properties": {
+        "title": "Place de la Tour",
+        "lat": "48.7894855",
+        "lon": "1.5990949",
+        "type": "BSB",
+        "observation": "entrée de l'Office du tourisme",
+        "picture": "https://delivrez.fr/public/posts/img.6a89b0dee8416.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.601905,
+          48.789545
+        ]
+      },
+      "properties": {
+        "title": "Hôtel de ville",
+        "lat": "48.7895446",
+        "lon": "1.6019053",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a89ad7fb619d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.435628,
+          48.892563
+        ]
+      },
+      "properties": {
+        "title": "place Léonie Andret",
+        "lat": "48.8925628",
+        "lon": "2.4356278",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a775a0727ed3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.637571,
+          48.535511
+        ]
+      },
+      "properties": {
+        "title": "Rue Chapu",
+        "lat": "48.5355107",
+        "lon": "2.6375712",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a75934fba4a9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.355529,
+          48.91646
+        ]
+      },
+      "properties": {
+        "title": "Rue Langlier Renaud",
+        "lat": "48.9164605",
+        "lon": "2.3555285",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a67c4cb8e9b3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.627547,
           48.891761
         ]
@@ -1338,23 +1527,6 @@
         "lon": "2.4072298",
         "type": "BSB",
         "observation": "dans le Carrefour city"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.324372,
-          48.881276
-        ]
-      },
-      "properties": {
-        "title": "Rue Clapeyron",
-        "lat": "48.8812764",
-        "lon": "2.3243716",
-        "type": "BSB",
-        "observation": "petite boîte à livres"
       }
     },
     {

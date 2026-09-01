@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.227746,
+          44.667448
+        ]
+      },
+      "properties": {
+        "title": "D43",
+        "lat": "44.6674476",
+        "lon": "6.2277456",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a85774745db6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.068001,
           44.0823
         ]

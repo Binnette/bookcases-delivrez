@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.521956,
+          47.26977
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Garniers",
+        "lat": "47.2697699",
+        "lon": "-1.5219559",
+        "type": "DSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a772a8aeab74.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.812633,
           45.715646
         ]

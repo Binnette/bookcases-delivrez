@@ -6,6 +6,182 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.040766,
+          48.455702
+        ]
+      },
+      "properties": {
+        "title": "Rue du Petit Fort",
+        "lat": "48.4557022",
+        "lon": "-2.0407663",
+        "type": "BSB",
+        "observation": "La petite armoire protégée au niveau du lavoir",
+        "picture": "https://delivrez.fr/public/posts/img.6a6365edbfe57.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.770745,
+          48.360735
+        ]
+      },
+      "properties": {
+        "title": "Rue Lieutenant Jourden",
+        "lat": "48.3607355",
+        "lon": "-4.7707449",
+        "type": "BSB",
+        "observation": "Elle se situe sur la place de la mairie, à l'arrière de l'office de tourisme",
+        "picture": "https://delivrez.fr/public/posts/img.6a64a177e38e2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.125489,
+          47.478038
+        ]
+      },
+      "properties": {
+        "title": "Rue de Kervozes",
+        "lat": "47.4780377",
+        "lon": "-3.1254887",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a8ae59b4e86b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.146108,
+          47.530352
+        ]
+      },
+      "properties": {
+        "title": "Promenade du Tiviec",
+        "lat": "47.5303521",
+        "lon": "-3.146108",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a844fc53acb3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.134668,
+          47.52052
+        ]
+      },
+      "properties": {
+        "title": "Rue Georges Clemenceau",
+        "lat": "47.5205197",
+        "lon": "-3.1346681",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a8452fcd23b9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.808353,
+          47.541885
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Dolmen",
+        "lat": "47.5418852",
+        "lon": "-2.8083535",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a81a4ea922c1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.732469,
+          47.529686
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Goh Lec'h",
+        "lat": "47.5296864",
+        "lon": "-2.7324689",
+        "type": "BSB",
+        "observation": "Arrêt de bus du chemin du Goh Lec'h",
+        "picture": "https://delivrez.fr/public/posts/img.6a81efb897caa.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.028278,
+          47.585606
+        ]
+      },
+      "properties": {
+        "title": "Rue du Vieux Puits",
+        "lat": "47.5856063",
+        "lon": "-3.0282784",
+        "type": "BSB",
+        "observation": "Face à l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6a7ddc9e20bb4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.411643,
+          48.191567
+        ]
+      },
+      "properties": {
+        "title": "Rue du Bourg Neuf",
+        "lat": "48.1915669",
+        "lon": "-2.4116434",
+        "type": "BSB",
+        "observation": "sur parking",
+        "picture": "https://delivrez.fr/public/posts/img.6a6de38294bd6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.19447,
+          48.263916
+        ]
+      },
+      "properties": {
+        "title": "Place de l'Église",
+        "lat": "48.2639161",
+        "lon": "-4.1944695",
+        "type": "BSB",
+        "observation": "vers l'église",
+        "picture": "https://delivrez.fr/public/posts/img.6a6ca38f16b4f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.412452,
           48.356193
         ]
@@ -1253,23 +1429,6 @@
         "lon": "-2.838695",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.68c417157b88e.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.808353,
-          47.541885
-        ]
-      },
-      "properties": {
-        "title": "Chemin du Dolmen",
-        "lat": "47.5418852",
-        "lon": "-2.8083535",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.68c42519dc433.png"
       }
     },
     {
@@ -7347,23 +7506,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.040719,
-          48.455555
-        ]
-      },
-      "properties": {
-        "title": "10 rue du Petit Fort",
-        "lat": "48.4555552",
-        "lon": "-2.0407194",
-        "type": "BSB",
-        "observation": "La petite armoire protégée au niveau du lavoir"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -2.699137,
           47.644505
         ]
@@ -8297,23 +8439,6 @@
         "lon": "-1.5903685",
         "type": "BSB",
         "observation": "DEVANT LE GROUPE SCOLAIRE DES PRE VERTS"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.7707,
-          48.360708
-        ]
-      },
-      "properties": {
-        "title": "Place de Brest",
-        "lat": "48.360708198876516",
-        "lon": "-4.770700335502625",
-        "type": "BSB",
-        "observation": "Elle se situe sur la place de la mairie, à l'arrière de l'office de tourisme"
       }
     },
     {

@@ -6,6 +6,110 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.550965,
+          49.319332
+        ]
+      },
+      "properties": {
+        "title": "Place Robert Josse",
+        "lat": "49.3193317",
+        "lon": "2.550965",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a8aed609d159.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.487279,
+          49.28861
+        ]
+      },
+      "properties": {
+        "title": "Rue Aristide Briand",
+        "lat": "49.2886104",
+        "lon": "2.4872789",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a8af31a136e6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.499867,
+          49.291337
+        ]
+      },
+      "properties": {
+        "title": "Rue Albert Thomas",
+        "lat": "49.2913367",
+        "lon": "2.4998667",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a8aefdedd416.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17932,
+          50.531828
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "50.5318277",
+        "lon": "2.17932",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a8030a7489c9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.081004,
+          50.581451
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Égalité",
+        "lat": "50.581451",
+        "lon": "3.0810037",
+        "type": "BSB",
+        "observation": "à l'intérieur de la galerie d'Auchan",
+        "picture": "https://delivrez.fr/public/posts/img.6a7df36038e22.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.402851,
+          50.631554
+        ]
+      },
+      "properties": {
+        "title": "Chemin des Écoliers",
+        "lat": "50.6315544",
+        "lon": "2.4028514",
+        "type": "BSB",
+        "observation": "face a la gendarmerie",
+        "picture": "https://delivrez.fr/public/posts/img.6a6f6e703a3fe.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.280866,
           50.40897
         ]

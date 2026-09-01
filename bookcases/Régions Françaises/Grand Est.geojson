@@ -6,6 +6,231 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.384152,
+          48.242216
+        ]
+      },
+      "properties": {
+        "title": "Hattenberg",
+        "lat": "48.2422162",
+        "lon": "7.3841523",
+        "type": "BSB",
+        "observation": "armoire bois non vitrée"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.664404,
+          47.966642
+        ]
+      },
+      "properties": {
+        "title": "Grande boîte à livres",
+        "lat": "47.966642",
+        "lon": "6.6644045",
+        "type": "BSB",
+        "observation": "Beaucoup de choix :)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.515639,
+          48.199794
+        ]
+      },
+      "properties": {
+        "title": "Rue d'Alsace",
+        "lat": "48.1997936",
+        "lon": "6.5156392",
+        "type": "BSB",
+        "observation": "au feu - dans l'aire de jeux",
+        "picture": "https://delivrez.fr/public/posts/img.6a8d906823ebb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.011494,
+          48.155479
+        ]
+      },
+      "properties": {
+        "title": "thuilliere",
+        "lat": "48.1554786",
+        "lon": "6.0114942",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a8801bcec2b5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.898218,
+          48.190079
+        ]
+      },
+      "properties": {
+        "title": "Bricomarché",
+        "lat": "48.1900787",
+        "lon": "5.8982178",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a887c2514146.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91952,
+          48.189752
+        ]
+      },
+      "properties": {
+        "title": "Vit'tel ta nature",
+        "lat": "48.189752",
+        "lon": "5.9195204",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a88097324d37.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.610455,
+          48.384182
+        ]
+      },
+      "properties": {
+        "title": "Route de Strasbourg",
+        "lat": "48.3841822",
+        "lon": "7.6104555",
+        "type": "BSB",
+        "observation": "dans l'abri bus",
+        "picture": "https://delivrez.fr/public/posts/img.6a8324fa515d6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.205318,
+          48.669309
+        ]
+      },
+      "properties": {
+        "title": "Jarville la Malgrange - Rue Marechal Foch",
+        "lat": "48.6693086",
+        "lon": "6.2053178",
+        "type": "BSB",
+        "observation": "sur le parking",
+        "picture": "https://delivrez.fr/public/posts/img.6a7cb2d3e8364.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.218997,
+          48.261178
+        ]
+      },
+      "properties": {
+        "title": "Rue Maurice Burrus",
+        "lat": "48.2611783",
+        "lon": "7.2189967",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.905957,
+          48.730959
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Haute Vienne",
+        "lat": "48.7309589",
+        "lon": "7.9059567",
+        "type": "BSB",
+        "observation": "dans le parc pour enfants",
+        "picture": "https://delivrez.fr/public/posts/img.6a79debca5d87.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.903315,
+          48.729138
+        ]
+      },
+      "properties": {
+        "title": "Rue de Limoges",
+        "lat": "48.7291385",
+        "lon": "7.9033153",
+        "type": "BSB",
+        "observation": "dans le parc de l écluse",
+        "picture": "https://delivrez.fr/public/posts/img.6a79e0dc7bdc8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.362499,
+          48.173947
+        ]
+      },
+      "properties": {
+        "title": "sanchey arret bus",
+        "lat": "48.173947",
+        "lon": "6.3624993",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a79e0356343e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.916449,
+          48.71018
+        ]
+      },
+      "properties": {
+        "title": "Quai des Bateliers",
+        "lat": "48.7101803",
+        "lon": "7.9164485",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a79cbac06a34.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.457446,
           48.253239
         ]

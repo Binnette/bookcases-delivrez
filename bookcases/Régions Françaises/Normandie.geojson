@@ -6,6 +6,108 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.66537,
+          49.335499
+        ]
+      },
+      "properties": {
+        "title": "Le Bourg",
+        "lat": "49.3354993",
+        "lon": "-1.6653696",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.168993,
+          49.21407
+        ]
+      },
+      "properties": {
+        "title": "Rue Pierre Mendès France",
+        "lat": "49.2140702",
+        "lon": "1.1689926",
+        "type": "BSB",
+        "observation": "Devant l'entrée de l'hôtel de Ville",
+        "picture": "https://delivrez.fr/public/posts/img.6a896cf112974.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.782896,
+          48.979126
+        ]
+      },
+      "properties": {
+        "title": "Route de la Barre",
+        "lat": "48.9791259",
+        "lon": "0.7828958",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a89a9a47b837.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.380685,
+          49.763515
+        ]
+      },
+      "properties": {
+        "title": "Rue de l'Église",
+        "lat": "49.7635153",
+        "lon": "1.3806849",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a88815079b83.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.435228,
+          48.912574
+        ]
+      },
+      "properties": {
+        "title": "L'Hôtel au Roy",
+        "lat": "48.9125736",
+        "lon": "-1.4352283",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.440289,
+          49.279229
+        ]
+      },
+      "properties": {
+        "title": "Route de Pont Audemer",
+        "lat": "49.2792289",
+        "lon": "0.4402891",
+        "type": "BSB",
+        "observation": "Dans une ancienne cabine téléphonique",
+        "picture": "https://delivrez.fr/public/posts/img.6a79a9178092b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.108144,
           49.494812
         ]
@@ -5095,23 +5197,6 @@
         "lon": "1.0649358",
         "type": "BSB",
         "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.169161,
-          49.213919
-        ]
-      },
-      "properties": {
-        "title": "Rue Pierre Mendès France",
-        "lat": "49.2139187",
-        "lon": "1.1691606",
-        "type": "BSB",
-        "observation": "Devant l'entrée de l'hôtel de Ville"
       }
     },
     {

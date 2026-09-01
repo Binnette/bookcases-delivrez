@@ -6,6 +6,75 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          8.570578,
+          45.77068
+        ]
+      },
+      "properties": {
+        "title": "Viale della Repubblica",
+        "lat": "45.7706796",
+        "lon": "8.5705778",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a8c15d11eb45.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.434148,
+          50.253991
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Montagne",
+        "lat": "50.2539914",
+        "lon": "4.4341477",
+        "type": "BSB",
+        "observation": "à l'entrée du parc communal",
+        "picture": "https://delivrez.fr/public/posts/img.6a808ef645b13.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.848157,
+          50.06747
+        ]
+      },
+      "properties": {
+        "title": "Rue Gilbert Godefroid",
+        "lat": "50.0674704",
+        "lon": "4.8481574",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a81a539b64ad.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.906377,
+          49.452588
+        ]
+      },
+      "properties": {
+        "title": "Ersheimer Straße",
+        "lat": "49.4525877",
+        "lon": "8.9063767",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a7d748a4f7d2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.323249,
           54.99259
         ]
