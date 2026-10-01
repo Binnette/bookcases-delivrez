@@ -6,6 +6,144 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.127686,
+          47.630037
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Rives du Lac",
+        "lat": "47.6300373",
+        "lon": "6.1276862",
+        "type": "BSB",
+        "observation": "au bord du lac",
+        "picture": "https://delivrez.fr/public/posts/img.6ab0f7a93288f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.842971,
+          46.449337
+        ]
+      },
+      "properties": {
+        "title": "vival livres à Viré",
+        "lat": "46.4493365",
+        "lon": "4.8429709",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aafd228b51b9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.856008,
+          46.780957
+        ]
+      },
+      "properties": {
+        "title": "Place du Châtelet",
+        "lat": "46.7809568",
+        "lon": "4.8560081",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aae65a60c1f8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.847299,
+          46.778561
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue Saint-Cosme",
+        "lat": "46.7785609",
+        "lon": "4.8472991",
+        "type": "BSB",
+        "observation": "devant le conservatoire",
+        "picture": "https://delivrez.fr/public/posts/img.6aae62165f3ce.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.652468,
+          46.835407
+        ]
+      },
+      "properties": {
+        "title": "Route de Briffault",
+        "lat": "46.8354072",
+        "lon": "3.6524682",
+        "type": "BSB",
+        "observation": "près de l école à côté du contenaire à verre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.592884,
+          46.731631
+        ]
+      },
+      "properties": {
+        "title": "Route de Voiteur",
+        "lat": "46.7316315",
+        "lon": "5.5928842",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa508f8ef945.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.303381,
+          48.110102
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "48.1101018",
+        "lon": "3.303381",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a99b4b92fde9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.611551,
+          46.754717
+        ]
+      },
+      "properties": {
+        "title": "Place Misery Courtion",
+        "lat": "46.7547169",
+        "lon": "5.6115511",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a92eec2d4a1c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.120001,
           47.026146
         ]
@@ -6331,23 +6469,6 @@
         "lon": "4.8366144",
         "type": "BSB",
         "observation": "à côté de la halte garderie"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.847299,
-          46.778561
-        ]
-      },
-      "properties": {
-        "title": "Grande Rue Saint-Cosme",
-        "lat": "46.7785609",
-        "lon": "4.8472991",
-        "type": "BSB",
-        "observation": "devant le conservatoire"
       }
     },
     {

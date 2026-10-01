@@ -6,6 +6,58 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.229889,
+          49.607656
+        ]
+      },
+      "properties": {
+        "title": "L'armoire aux livres nomades",
+        "lat": "49.6076562",
+        "lon": "0.2298895",
+        "type": "BSB",
+        "observation": "a coté de la pharmacie de Turretot",
+        "picture": "https://delivrez.fr/public/posts/img.6ab10045a0bfe.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.546792,
+          48.443398
+        ]
+      },
+      "properties": {
+        "title": "Rue de Montgacel mairie",
+        "lat": "48.4433983",
+        "lon": "0.5467917",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a92b3cec62b8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.520961,
+          48.325592
+        ]
+      },
+      "properties": {
+        "title": "Rue du Mans mairie",
+        "lat": "48.3255917",
+        "lon": "0.5209605",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a92b264c12c2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.66537,
           49.335499
         ]

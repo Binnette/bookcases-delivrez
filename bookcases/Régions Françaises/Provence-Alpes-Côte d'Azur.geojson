@@ -6,6 +6,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.007714,
+          44.094206
+        ]
+      },
+      "properties": {
+        "title": "Rue Haute",
+        "lat": "44.0942059",
+        "lon": "6.007714",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab7d8ec13b38.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.00885,
+          44.101625
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Gare",
+        "lat": "44.1016254",
+        "lon": "6.0088499",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab7dd3cc39a0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.750305,
+          44.51459
+        ]
+      },
+      "properties": {
+        "title": "Grand Rue",
+        "lat": "44.5145898",
+        "lon": "6.7503052",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a944231eb4e6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.227746,
           44.667448
         ]

@@ -6,6 +6,176 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.31235,
+          46.973525
+        ]
+      },
+      "properties": {
+        "title": "Rue Georges Clemenceau",
+        "lat": "46.9735248",
+        "lon": "-1.3123503",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa6c4177b604.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.615088,
+          47.2155
+        ]
+      },
+      "properties": {
+        "title": "Rue de Jumièges",
+        "lat": "47.2155",
+        "lon": "-1.6150883",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aafe8e3edea4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.658583,
+          47.207742
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Gare",
+        "lat": "47.2077417",
+        "lon": "-1.6585833",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aaa964437ba9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.649178,
+          47.2132
+        ]
+      },
+      "properties": {
+        "title": "Boulevard François Mitterrand",
+        "lat": "47.2132",
+        "lon": "-1.6491783",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aaa9873a555c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.914078,
+          48.418105
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "48.4181046",
+        "lon": "-0.9140777",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa6afa1718ef.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.860499,
+          46.613495
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Normandelière",
+        "lat": "46.6134954",
+        "lon": "-1.8604986",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa675f8efb0f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6363,
+          47.219282
+        ]
+      },
+      "properties": {
+        "title": "Rue Angela Duval",
+        "lat": "47.2192817",
+        "lon": "-1.6363",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9d857ca9512.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.255649,
+          47.997108
+        ]
+      },
+      "properties": {
+        "title": "Maison de la prairie",
+        "lat": "47.9971078",
+        "lon": "0.2556492",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9c44059c562.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.522282,
+          47.225415
+        ]
+      },
+      "properties": {
+        "title": "Rue Jules Brechoir",
+        "lat": "47.2254152",
+        "lon": "-1.5222824",
+        "type": "BSB",
+        "observation": "dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.6a9c3c3cb3a03.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.020295,
+          48.120893
+        ]
+      },
+      "properties": {
+        "title": "place de la mairie",
+        "lat": "48.1208926",
+        "lon": "-0.0202947",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.770048,
           48.065981
         ]
@@ -5312,22 +5482,6 @@
         "type": "BSB",
         "observation": "Une ancienne cabine téléphonique reconvertie en boite à lire en face Le Barouf",
         "picture": "https://delivrez.fr/public/posts/img.65e9c909839a7.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.618261,
-          47.21834
-        ]
-      },
-      "properties": {
-        "title": "Rue du cimetière",
-        "lat": "47.2183397",
-        "lon": "-1.6182613",
-        "type": "BSB"
       }
     },
     {

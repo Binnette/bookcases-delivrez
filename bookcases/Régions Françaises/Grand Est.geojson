@@ -6,16 +6,156 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          7.384152,
-          48.242216
+          4.821058,
+          49.885509
         ]
       },
       "properties": {
-        "title": "Hattenberg",
-        "lat": "48.2422162",
-        "lon": "7.3841523",
+        "title": "Grand-Rue Nohan",
+        "lat": "49.8855094",
+        "lon": "4.821058",
         "type": "BSB",
-        "observation": "armoire bois non vitrée"
+        "picture": "https://delivrez.fr/public/posts/img.6ab12bedabec7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.387216,
+          49.10708
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livres",
+        "lat": "49.1070796",
+        "lon": "5.3872164",
+        "type": "BSB",
+        "observation": "Sur la gauche de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6aae480510bb1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.041652,
+          49.674779
+        ]
+      },
+      "properties": {
+        "title": "Chemin de Fâché",
+        "lat": "49.6747792",
+        "lon": "5.0416525",
+        "type": "BSB",
+        "observation": "Sur le portail du collège",
+        "picture": "https://delivrez.fr/public/posts/img.6ab3d229458c6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.412973,
+          49.695344
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Miterlin",
+        "lat": "49.6953444",
+        "lon": "4.4129735",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aaaac1c6dd67.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.378771,
+          47.943977
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale",
+        "lat": "47.9439771",
+        "lon": "7.378771",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa802943a28a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.378317,
+          47.943334
+        ]
+      },
+      "properties": {
+        "title": "Rue de Verdun",
+        "lat": "47.9433337",
+        "lon": "7.3783167",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa8004ad0eb7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.384108,
+          48.242385
+        ]
+      },
+      "properties": {
+        "title": "4 Route du Vin",
+        "lat": "48.2423845",
+        "lon": "7.384108",
+        "type": "BSB",
+        "observation": "Caveau de dégustation Jean Geiler",
+        "picture": "https://delivrez.fr/public/posts/img.6a9d7484a0087.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.077171,
+          49.606086
+        ]
+      },
+      "properties": {
+        "title": "Place de L Hôtel de ville",
+        "lat": "49.6060858",
+        "lon": "5.0771706",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9ac55455eee.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04885,
+          49.701307
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "49.7013069",
+        "lon": "5.0488504",
+        "type": "BSB",
+        "observation": "À côté du vélo en crochet",
+        "picture": "https://delivrez.fr/public/posts/img.6a9836123c72b.png"
       }
     },
     {

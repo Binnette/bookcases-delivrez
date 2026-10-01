@@ -6,6 +6,1695 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.42872,
+          50.628566
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Piscine",
+        "lat": "50.6285657",
+        "lon": "2.4287197",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6abbd3d53bfad.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.56225,
+          42.947101
+        ]
+      },
+      "properties": {
+        "title": "ganac",
+        "lat": "42.9471008",
+        "lon": "1.56225",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aba875fbd522.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.597773,
+          42.955321
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Cadirac",
+        "lat": "42.9553208",
+        "lon": "1.5977733",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.742008,
+          45.200845
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Maquis du Grésivaudan",
+        "lat": "45.2008451",
+        "lon": "5.7420078",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.136822,
+          46.550668
+        ]
+      },
+      "properties": {
+        "title": "Route de Vasles",
+        "lat": "46.5506677",
+        "lon": "-0.1368224",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab69c6a4df30.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.671732,
+          48.110726
+        ]
+      },
+      "properties": {
+        "title": "Rue de Viarmes",
+        "lat": "48.1107261",
+        "lon": "-1.6717316",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab91ad9787ef.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.007714,
+          44.094206
+        ]
+      },
+      "properties": {
+        "title": "Rue Haute",
+        "lat": "44.0942059",
+        "lon": "6.007714",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab7d8ec13b38.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.095337,
+          46.708708
+        ]
+      },
+      "properties": {
+        "title": "Route de Mirebeau",
+        "lat": "46.708708",
+        "lon": "0.0953374",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab6a563d6de5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.00885,
+          44.101625
+        ]
+      },
+      "properties": {
+        "title": "Avenue de la Gare",
+        "lat": "44.1016254",
+        "lon": "6.0088499",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab7dd3cc39a0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.821058,
+          49.885509
+        ]
+      },
+      "properties": {
+        "title": "Grand-Rue Nohan",
+        "lat": "49.8855094",
+        "lon": "4.821058",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab12bedabec7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.258423,
+          50.422995
+        ]
+      },
+      "properties": {
+        "title": "Boite à livres",
+        "lat": "50.422995",
+        "lon": "5.2584233",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab0e25de9b37.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.387216,
+          49.10708
+        ]
+      },
+      "properties": {
+        "title": "Boîte à livres",
+        "lat": "49.1070796",
+        "lon": "5.3872164",
+        "type": "BSB",
+        "observation": "Sur la gauche de la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6aae480510bb1.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.31235,
+          46.973525
+        ]
+      },
+      "properties": {
+        "title": "Rue Georges Clemenceau",
+        "lat": "46.9735248",
+        "lon": "-1.3123503",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa6c4177b604.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.020413,
+          50.371512
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Gendarmerie",
+        "lat": "50.3715119",
+        "lon": "5.0204126",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5294221252.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.469256,
+          48.721997
+        ]
+      },
+      "properties": {
+        "title": "Avenue Léon Jouhaux",
+        "lat": "48.7219974",
+        "lon": "2.469256",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5a563a003d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.455241,
+          48.711324
+        ]
+      },
+      "properties": {
+        "title": "Rue du Pont de Bart",
+        "lat": "48.7113243",
+        "lon": "2.4552407",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5adab5c4a9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.449295,
+          48.711669
+        ]
+      },
+      "properties": {
+        "title": "Rue Gaston Mangin",
+        "lat": "48.7116694",
+        "lon": "2.4492954",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5b22a090b6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.468857,
+          48.717043
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Cerisaie",
+        "lat": "48.7170434",
+        "lon": "2.4688568",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5a8a52f602.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.474639,
+          48.718603
+        ]
+      },
+      "properties": {
+        "title": "Rue Désiré Bois",
+        "lat": "48.7186026",
+        "lon": "2.4746392",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5a72175001.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.464055,
+          48.72271
+        ]
+      },
+      "properties": {
+        "title": "Rue du Château Gaillard",
+        "lat": "48.7227103",
+        "lon": "2.464055",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5a210d534b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.041652,
+          49.674779
+        ]
+      },
+      "properties": {
+        "title": "Chemin de Fâché",
+        "lat": "49.6747792",
+        "lon": "5.0416525",
+        "type": "BSB",
+        "observation": "Sur le portail du collège",
+        "picture": "https://delivrez.fr/public/posts/img.6ab3d229458c6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.088524,
+          43.561139
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Melgueil",
+        "lat": "43.5611388",
+        "lon": "4.0885238",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab37f5c805cb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.229889,
+          49.607656
+        ]
+      },
+      "properties": {
+        "title": "L'armoire aux livres nomades",
+        "lat": "49.6076562",
+        "lon": "0.2298895",
+        "type": "BSB",
+        "observation": "a coté de la pharmacie de Turretot",
+        "picture": "https://delivrez.fr/public/posts/img.6ab10045a0bfe.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.099582,
+          45.961406
+        ]
+      },
+      "properties": {
+        "title": "place de la mairie",
+        "lat": "45.9614062",
+        "lon": "5.0995818",
+        "type": "BSB",
+        "observation": "a côté d l église",
+        "picture": "https://delivrez.fr/public/posts/img.6ab28608a4dc2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.127686,
+          47.630037
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Rives du Lac",
+        "lat": "47.6300373",
+        "lon": "6.1276862",
+        "type": "BSB",
+        "observation": "au bord du lac",
+        "picture": "https://delivrez.fr/public/posts/img.6ab0f7a93288f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.720651,
+          43.267469
+        ]
+      },
+      "properties": {
+        "title": "Place Jean Moulin",
+        "lat": "43.2674693",
+        "lon": "2.7206507",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.440344,
+          48.707276
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Glacière",
+        "lat": "48.7072758",
+        "lon": "2.4403439",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab014ca1237c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.615088,
+          47.2155
+        ]
+      },
+      "properties": {
+        "title": "Rue de Jumièges",
+        "lat": "47.2155",
+        "lon": "-1.6150883",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aafe8e3edea4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.176719,
+          43.166403
+        ]
+      },
+      "properties": {
+        "title": "Place des Karantes",
+        "lat": "43.1664026",
+        "lon": "3.1767193",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aaff13a9da17.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.205382,
+          46.071472
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "46.0714719",
+        "lon": "5.2053824",
+        "type": "BSB",
+        "observation": "derrière l la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6aafee5c259be.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.079918,
+          47.719033
+        ]
+      },
+      "properties": {
+        "title": "Rue er Maneieu",
+        "lat": "47.7190334",
+        "lon": "-3.0799176",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aafc2596bd8c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.842971,
+          46.449337
+        ]
+      },
+      "properties": {
+        "title": "vival livres à Viré",
+        "lat": "46.4493365",
+        "lon": "4.8429709",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aafd228b51b9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.856008,
+          46.780957
+        ]
+      },
+      "properties": {
+        "title": "Place du Châtelet",
+        "lat": "46.7809568",
+        "lon": "4.8560081",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aae65a60c1f8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.837739,
+          46.021527
+        ]
+      },
+      "properties": {
+        "title": "Route de Villars",
+        "lat": "46.0215269",
+        "lon": "4.8377395",
+        "type": "BSB",
+        "observation": "a côté de la bibliothèque",
+        "picture": "https://delivrez.fr/public/posts/img.6aae8fb5a9e5c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.847299,
+          46.778561
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue Saint-Cosme",
+        "lat": "46.7785609",
+        "lon": "4.8472991",
+        "type": "BSB",
+        "observation": "devant le conservatoire",
+        "picture": "https://delivrez.fr/public/posts/img.6aae62165f3ce.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.330008,
+          48.883297
+        ]
+      },
+      "properties": {
+        "title": "Place Adolphe Max",
+        "lat": "48.8832967",
+        "lon": "2.3300083",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aac29b703d96.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.369373,
+          50.952174
+        ]
+      },
+      "properties": {
+        "title": "Allée de la Mare",
+        "lat": "50.9521737",
+        "lon": "2.3693728",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.89322,
+          43.244645
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Tannerie",
+        "lat": "43.2446447",
+        "lon": "2.8932197",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.598252,
+          48.493823
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "48.4938233",
+        "lon": "2.5982517",
+        "type": "BSB",
+        "observation": "arrêt de bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.551408,
+          48.557278
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Messe",
+        "lat": "48.5572783",
+        "lon": "2.5514083",
+        "type": "BSB",
+        "observation": "a l'entrée du parc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.658583,
+          47.207742
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Gare",
+        "lat": "47.2077417",
+        "lon": "-1.6585833",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aaa964437ba9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.412973,
+          49.695344
+        ]
+      },
+      "properties": {
+        "title": "Chemin du Miterlin",
+        "lat": "49.6953444",
+        "lon": "4.4129735",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aaaac1c6dd67.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.649178,
+          47.2132
+        ]
+      },
+      "properties": {
+        "title": "Boulevard François Mitterrand",
+        "lat": "47.2132",
+        "lon": "-1.6491783",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aaa9873a555c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.774139,
+          45.991554
+        ]
+      },
+      "properties": {
+        "title": "Route des Sorbiers",
+        "lat": "45.9915545",
+        "lon": "4.7741393",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aaa5aaaeae06.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.652468,
+          46.835407
+        ]
+      },
+      "properties": {
+        "title": "Route de Briffault",
+        "lat": "46.8354072",
+        "lon": "3.6524682",
+        "type": "BSB",
+        "observation": "près de l école à côté du contenaire à verre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.378771,
+          47.943977
+        ]
+      },
+      "properties": {
+        "title": "Rue Principale",
+        "lat": "47.9439771",
+        "lon": "7.378771",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa802943a28a.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.61497,
+          44.883119
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Verdun",
+        "lat": "44.883119",
+        "lon": "-0.6149703",
+        "type": "BSB",
+        "observation": "École Pablo Picasso",
+        "picture": "https://delivrez.fr/public/posts/img.6aa82255213d4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.422401,
+          47.115149
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Gare",
+        "lat": "47.1151491",
+        "lon": "0.4224007",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa7eb819a3f7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.378317,
+          47.943334
+        ]
+      },
+      "properties": {
+        "title": "Rue de Verdun",
+        "lat": "47.9433337",
+        "lon": "7.3783167",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa8004ad0eb7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56447,
+          46.766255
+        ]
+      },
+      "properties": {
+        "title": "Rue du Moulin",
+        "lat": "46.7662554",
+        "lon": "6.5644702",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa67ee61e3f6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.914078,
+          48.418105
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Mairie",
+        "lat": "48.4181046",
+        "lon": "-0.9140777",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa6afa1718ef.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.860499,
+          46.613495
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Normandelière",
+        "lat": "46.6134954",
+        "lon": "-1.8604986",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa675f8efb0f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.142341,
+          48.631375
+        ]
+      },
+      "properties": {
+        "title": "Rue du Port Hue",
+        "lat": "48.631375",
+        "lon": "-2.1423408",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa56b3b4ee53.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.715083,
+          48.852178
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Madeleine",
+        "lat": "48.8521778",
+        "lon": "2.7150826",
+        "type": "BSB",
+        "observation": "bien remplie ?",
+        "picture": "https://delivrez.fr/public/posts/img.6aa554d5be05d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.592884,
+          46.731631
+        ]
+      },
+      "properties": {
+        "title": "Route de Voiteur",
+        "lat": "46.7316315",
+        "lon": "5.5928842",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa508f8ef945.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.011636,
+          44.681899
+        ]
+      },
+      "properties": {
+        "title": "Route de Bordeaux",
+        "lat": "44.6818989",
+        "lon": "-1.0116357",
+        "type": "BSB",
+        "observation": "au niveau de l'arrêt de bus",
+        "picture": "https://delivrez.fr/public/posts/img.6aa434a35a1a0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.199508,
+          45.038532
+        ]
+      },
+      "properties": {
+        "title": "RUE DES FILOCHES",
+        "lat": "45.0385323",
+        "lon": "5.1995078",
+        "type": "BSB",
+        "observation": "a droite de l église",
+        "picture": "https://delivrez.fr/public/posts/img.6aa3a248a2efd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.510916,
+          44.842775
+        ]
+      },
+      "properties": {
+        "title": "Rue Pierre Mendès France",
+        "lat": "44.8427753",
+        "lon": "-0.5109162",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa012b41f8e9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.48904,
+          51.064735
+        ]
+      },
+      "properties": {
+        "title": "rue des dunes",
+        "lat": "51.0647347",
+        "lon": "2.4890403",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9ea0564b5a3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.000459,
+          45.751263
+        ]
+      },
+      "properties": {
+        "title": "Rue du Fournil",
+        "lat": "45.751263",
+        "lon": "-1.0004594",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9ff5890ac16.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.439669,
+          45.948723
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Grenette",
+        "lat": "45.9487233",
+        "lon": "5.4396687",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9fbbf8460b0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.932142,
+          46.254209
+        ]
+      },
+      "properties": {
+        "title": "pont devaux",
+        "lat": "46.254209",
+        "lon": "4.9321421",
+        "type": "BSB",
+        "observation": "pont de vaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.823645,
+          45.933932
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "45.9339318",
+        "lon": "4.8236454",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.27645,
+          45.558361
+        ]
+      },
+      "properties": {
+        "title": "boite livre",
+        "lat": "45.5583611",
+        "lon": "0.27645",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.404613,
+          50.065604
+        ]
+      },
+      "properties": {
+        "title": "place Henri Malberg",
+        "lat": "50.0656041",
+        "lon": "1.4046126",
+        "type": "BSB",
+        "observation": "boîte à  livres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.302765,
+          48.555742
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jean Jaurès",
+        "lat": "48.5557417",
+        "lon": "3.302765",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9b110fe481c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.309912,
+          45.731628
+        ]
+      },
+      "properties": {
+        "title": "Route de Tamié",
+        "lat": "45.7316283",
+        "lon": "6.3099117",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9d376e599d7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6363,
+          47.219282
+        ]
+      },
+      "properties": {
+        "title": "Rue Angela Duval",
+        "lat": "47.2192817",
+        "lon": "-1.6363",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9d857ca9512.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.292917,
+          45.747323
+        ]
+      },
+      "properties": {
+        "title": "Place Joseph Serand",
+        "lat": "45.7473225",
+        "lon": "6.2929166",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9d91f063251.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.255649,
+          47.997108
+        ]
+      },
+      "properties": {
+        "title": "Maison de la prairie",
+        "lat": "47.9971078",
+        "lon": "0.2556492",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9c44059c562.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.384108,
+          48.242385
+        ]
+      },
+      "properties": {
+        "title": "4 Route du Vin",
+        "lat": "48.2423845",
+        "lon": "7.384108",
+        "type": "BSB",
+        "observation": "Caveau de dégustation Jean Geiler",
+        "picture": "https://delivrez.fr/public/posts/img.6a9d7484a0087.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.257398,
+          45.766015
+        ]
+      },
+      "properties": {
+        "title": "Route de Montmin",
+        "lat": "45.766015",
+        "lon": "6.2573983",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9d4914b8f84.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.077171,
+          49.606086
+        ]
+      },
+      "properties": {
+        "title": "Place de L Hôtel de ville",
+        "lat": "49.6060858",
+        "lon": "5.0771706",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9ac55455eee.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.311,
+          45.705613
+        ]
+      },
+      "properties": {
+        "title": "Route des Prières",
+        "lat": "45.7056133",
+        "lon": "6.311",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9d33ac2e6d0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.522282,
+          47.225415
+        ]
+      },
+      "properties": {
+        "title": "Rue Jules Brechoir",
+        "lat": "47.2254152",
+        "lon": "-1.5222824",
+        "type": "BSB",
+        "observation": "dans le parc",
+        "picture": "https://delivrez.fr/public/posts/img.6a9c3c3cb3a03.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.304476,
+          46.35275
+        ]
+      },
+      "properties": {
+        "title": "Place Mairie",
+        "lat": "46.3527504",
+        "lon": "3.3044762",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.300997,
+          46.38141
+        ]
+      },
+      "properties": {
+        "title": "Les Cours",
+        "lat": "46.3814101",
+        "lon": "3.3009972",
+        "type": "BSB",
+        "observation": "place de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.340563,
+          46.397288
+        ]
+      },
+      "properties": {
+        "title": "Place Jean Raoul",
+        "lat": "46.397288",
+        "lon": "3.3405626",
+        "type": "BSB",
+        "observation": "Devant la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.769798,
+          45.76978
+        ]
+      },
+      "properties": {
+        "title": "Montaplan",
+        "lat": "45.76978",
+        "lon": "5.7697981",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.724646,
+          45.90803
+        ]
+      },
+      "properties": {
+        "title": "La Pièce",
+        "lat": "45.9080297",
+        "lon": "5.7246459",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.020295,
+          48.120893
+        ]
+      },
+      "properties": {
+        "title": "place de la mairie",
+        "lat": "48.1208926",
+        "lon": "-0.0202947",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.626019,
+          44.02108
+        ]
+      },
+      "properties": {
+        "title": "Route du Maquis des Corsaires",
+        "lat": "44.0210801",
+        "lon": "3.6260191",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.469041,
+          44.866446
+        ]
+      },
+      "properties": {
+        "title": "Rue Aliénor d'Aquitaine",
+        "lat": "44.8664464",
+        "lon": "-0.4690407",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9aa7423191f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.515576,
+          44.847766
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Mermoz",
+        "lat": "44.8477665",
+        "lon": "-0.5155758",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9a6e293558c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.828295,
+          46.073904
+        ]
+      },
+      "properties": {
+        "title": "Route de Saint-Trivier",
+        "lat": "46.0739038",
+        "lon": "4.8282952",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a998cdef1bab.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.303381,
+          48.110102
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "48.1101018",
+        "lon": "3.303381",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a99b4b92fde9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.822394,
+          46.149874
+        ]
+      },
+      "properties": {
+        "title": "Rue des Trois Rochers",
+        "lat": "46.1498738",
+        "lon": "5.8223945",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.222111,
+          50.536978
+        ]
+      },
+      "properties": {
+        "title": "Rue Géo Warzée",
+        "lat": "50.5369778",
+        "lon": "5.2221112",
+        "type": "BSB",
+        "observation": "Inside the Sport hall",
+        "picture": "https://delivrez.fr/public/posts/img.6a9862eac8327.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.227249,
+          50.544676
+        ]
+      },
+      "properties": {
+        "title": "Boite à livres",
+        "lat": "50.5446763",
+        "lon": "5.2272489",
+        "type": "BSB",
+        "observation": "In the artistic Center",
+        "picture": "https://delivrez.fr/public/posts/img.6a98649c95bff.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.04885,
+          49.701307
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "49.7013069",
+        "lon": "5.0488504",
+        "type": "BSB",
+        "observation": "À côté du vélo en crochet",
+        "picture": "https://delivrez.fr/public/posts/img.6a9836123c72b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.263082,
+          46.425903
+        ]
+      },
+      "properties": {
+        "title": "Place du Champ de Foire",
+        "lat": "46.4259029",
+        "lon": "0.2630821",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a968e7d43ee5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.155629,
+          44.896255
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jacques Goudineau",
+        "lat": "44.8962554",
+        "lon": "-0.1556286",
+        "type": "BSB",
+        "observation": "dans le parc Guadet",
+        "picture": "https://delivrez.fr/public/posts/img.6a95563279204.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.611551,
+          46.754717
+        ]
+      },
+      "properties": {
+        "title": "Place Misery Courtion",
+        "lat": "46.7547169",
+        "lon": "5.6115511",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a92eec2d4a1c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.105433,
+          42.516585
+        ]
+      },
+      "properties": {
+        "title": "Quai Pierre Forgas",
+        "lat": "42.5165853",
+        "lon": "3.105433",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a940d349b45e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.236345,
+          50.549772
+        ]
+      },
+      "properties": {
+        "title": "Rue Ernest Malvoz",
+        "lat": "50.5497717",
+        "lon": "5.2363455",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a95c958c46d9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.610385,
+          43.992418
+        ]
+      },
+      "properties": {
+        "title": "Avenue Emmanuel d'Alzon",
+        "lat": "43.9924181",
+        "lon": "3.6103849",
+        "type": "BSB",
+        "observation": "À l'entrée de l'hôpital",
+        "picture": "https://delivrez.fr/public/posts/img.6a93f1b7826fb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.750305,
+          44.51459
+        ]
+      },
+      "properties": {
+        "title": "Grand Rue",
+        "lat": "44.5145898",
+        "lon": "6.7503052",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a944231eb4e6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.546792,
+          48.443398
+        ]
+      },
+      "properties": {
+        "title": "Rue de Montgacel mairie",
+        "lat": "48.4433983",
+        "lon": "0.5467917",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a92b3cec62b8.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.520961,
+          48.325592
+        ]
+      },
+      "properties": {
+        "title": "Rue du Mans mairie",
+        "lat": "48.3255917",
+        "lon": "0.5209605",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a92b264c12c2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.513365,
           46.325935
         ]
@@ -33,23 +1722,6 @@
         "lon": "-0.9773096",
         "type": "BSB",
         "observation": "l'eguille"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.384152,
-          48.242216
-        ]
-      },
-      "properties": {
-        "title": "Hattenberg",
-        "lat": "48.2422162",
-        "lon": "7.3841523",
-        "type": "BSB",
-        "observation": "armoire bois non vitrée"
       }
     },
     {
@@ -16569,23 +18241,6 @@
         "lon": "-1.802714",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.68bc359d99d74.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.078406,
-          47.718232
-        ]
-      },
-      "properties": {
-        "title": "Rue Mané er Groez",
-        "lat": "47.7182324",
-        "lon": "-3.078406",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.68bed8021f73d.png"
       }
     },
     {
@@ -54841,22 +56496,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.618261,
-          47.21834
-        ]
-      },
-      "properties": {
-        "title": "Rue du cimetière",
-        "lat": "47.2183397",
-        "lon": "-1.6182613",
-        "type": "BSB"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.573211,
           47.193708
         ]
@@ -76665,24 +78304,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.715083,
-          48.852178
-        ]
-      },
-      "properties": {
-        "title": "Rue de la Madeleine",
-        "lat": "48.8521778",
-        "lon": "2.7150826",
-        "type": "BSB",
-        "observation": "bien remplie ?",
-        "picture": "https://delivrez.fr/public/posts/img.635aa6642fea1.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.45271,
           43.558684
         ]
@@ -94148,23 +95769,6 @@
         "lon": "4.8366144",
         "type": "BSB",
         "observation": "à côté de la halte garderie"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.847299,
-          46.778561
-        ]
-      },
-      "properties": {
-        "title": "Grande Rue Saint-Cosme",
-        "lat": "46.7785609",
-        "lon": "4.8472991",
-        "type": "BSB",
-        "observation": "devant le conservatoire"
       }
     },
     {

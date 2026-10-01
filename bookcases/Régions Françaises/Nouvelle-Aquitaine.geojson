@@ -6,6 +6,195 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.136822,
+          46.550668
+        ]
+      },
+      "properties": {
+        "title": "Route de Vasles",
+        "lat": "46.5506677",
+        "lon": "-0.1368224",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab69c6a4df30.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.095337,
+          46.708708
+        ]
+      },
+      "properties": {
+        "title": "Route de Mirebeau",
+        "lat": "46.708708",
+        "lon": "0.0953374",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab6a563d6de5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.61497,
+          44.883119
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Verdun",
+        "lat": "44.883119",
+        "lon": "-0.6149703",
+        "type": "BSB",
+        "observation": "École Pablo Picasso",
+        "picture": "https://delivrez.fr/public/posts/img.6aa82255213d4.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.011636,
+          44.681899
+        ]
+      },
+      "properties": {
+        "title": "Route de Bordeaux",
+        "lat": "44.6818989",
+        "lon": "-1.0116357",
+        "type": "BSB",
+        "observation": "au niveau de l'arrêt de bus",
+        "picture": "https://delivrez.fr/public/posts/img.6aa434a35a1a0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.510916,
+          44.842775
+        ]
+      },
+      "properties": {
+        "title": "Rue Pierre Mendès France",
+        "lat": "44.8427753",
+        "lon": "-0.5109162",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa012b41f8e9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.000459,
+          45.751263
+        ]
+      },
+      "properties": {
+        "title": "Rue du Fournil",
+        "lat": "45.751263",
+        "lon": "-1.0004594",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9ff5890ac16.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.27645,
+          45.558361
+        ]
+      },
+      "properties": {
+        "title": "boite livre",
+        "lat": "45.5583611",
+        "lon": "0.27645",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.469041,
+          44.866446
+        ]
+      },
+      "properties": {
+        "title": "Rue Aliénor d'Aquitaine",
+        "lat": "44.8664464",
+        "lon": "-0.4690407",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9aa7423191f.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.515576,
+          44.847766
+        ]
+      },
+      "properties": {
+        "title": "Rue Jean Mermoz",
+        "lat": "44.8477665",
+        "lon": "-0.5155758",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9a6e293558c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.263082,
+          46.425903
+        ]
+      },
+      "properties": {
+        "title": "Place du Champ de Foire",
+        "lat": "46.4259029",
+        "lon": "0.2630821",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a968e7d43ee5.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.155629,
+          44.896255
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jacques Goudineau",
+        "lat": "44.8962554",
+        "lon": "-0.1556286",
+        "type": "BSB",
+        "observation": "dans le parc Guadet",
+        "picture": "https://delivrez.fr/public/posts/img.6a95563279204.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.513365,
           46.325935
         ]

@@ -6,6 +6,110 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.258423,
+          50.422995
+        ]
+      },
+      "properties": {
+        "title": "Boite à livres",
+        "lat": "50.422995",
+        "lon": "5.2584233",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab0e25de9b37.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.020413,
+          50.371512
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Gendarmerie",
+        "lat": "50.3715119",
+        "lon": "5.0204126",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5294221252.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56447,
+          46.766255
+        ]
+      },
+      "properties": {
+        "title": "Rue du Moulin",
+        "lat": "46.7662554",
+        "lon": "6.5644702",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa67ee61e3f6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.222111,
+          50.536978
+        ]
+      },
+      "properties": {
+        "title": "Rue Géo Warzée",
+        "lat": "50.5369778",
+        "lon": "5.2221112",
+        "type": "BSB",
+        "observation": "Inside the Sport hall",
+        "picture": "https://delivrez.fr/public/posts/img.6a9862eac8327.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.227249,
+          50.544676
+        ]
+      },
+      "properties": {
+        "title": "Boite à livres",
+        "lat": "50.5446763",
+        "lon": "5.2272489",
+        "type": "BSB",
+        "observation": "In the artistic Center",
+        "picture": "https://delivrez.fr/public/posts/img.6a98649c95bff.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.236345,
+          50.549772
+        ]
+      },
+      "properties": {
+        "title": "Rue Ernest Malvoz",
+        "lat": "50.5497717",
+        "lon": "5.2363455",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a95c958c46d9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           8.570578,
           45.77068
         ]

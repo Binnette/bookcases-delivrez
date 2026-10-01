@@ -6,6 +6,57 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.671732,
+          48.110726
+        ]
+      },
+      "properties": {
+        "title": "Rue de Viarmes",
+        "lat": "48.1107261",
+        "lon": "-1.6717316",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab91ad9787ef.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.079918,
+          47.719033
+        ]
+      },
+      "properties": {
+        "title": "Rue er Maneieu",
+        "lat": "47.7190334",
+        "lon": "-3.0799176",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aafc2596bd8c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.142341,
+          48.631375
+        ]
+      },
+      "properties": {
+        "title": "Rue du Port Hue",
+        "lat": "48.631375",
+        "lon": "-2.1423408",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa56b3b4ee53.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.040766,
           48.455702
         ]
@@ -1480,23 +1531,6 @@
         "lon": "-1.802714",
         "type": "BSB",
         "picture": "https://delivrez.fr/public/posts/img.68bc359d99d74.png"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.078406,
-          47.718232
-        ]
-      },
-      "properties": {
-        "title": "Rue Mané er Groez",
-        "lat": "47.7182324",
-        "lon": "-3.078406",
-        "type": "BSB",
-        "picture": "https://delivrez.fr/public/posts/img.68bed8021f73d.png"
       }
     },
     {

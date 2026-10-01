@@ -6,6 +6,73 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.42872,
+          50.628566
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Piscine",
+        "lat": "50.6285657",
+        "lon": "2.4287197",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6abbd3d53bfad.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.369373,
+          50.952174
+        ]
+      },
+      "properties": {
+        "title": "Allée de la Mare",
+        "lat": "50.9521737",
+        "lon": "2.3693728",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.48904,
+          51.064735
+        ]
+      },
+      "properties": {
+        "title": "rue des dunes",
+        "lat": "51.0647347",
+        "lon": "2.4890403",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9ea0564b5a3.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.404613,
+          50.065604
+        ]
+      },
+      "properties": {
+        "title": "place Henri Malberg",
+        "lat": "50.0656041",
+        "lon": "1.4046126",
+        "type": "BSB",
+        "observation": "boîte à  livres"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.550965,
           49.319332
         ]

@@ -6,6 +6,156 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.56225,
+          42.947101
+        ]
+      },
+      "properties": {
+        "title": "ganac",
+        "lat": "42.9471008",
+        "lon": "1.56225",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aba875fbd522.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.597773,
+          42.955321
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Cadirac",
+        "lat": "42.9553208",
+        "lon": "1.5977733",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.088524,
+          43.561139
+        ]
+      },
+      "properties": {
+        "title": "Avenue de Melgueil",
+        "lat": "43.5611388",
+        "lon": "4.0885238",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab37f5c805cb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.720651,
+          43.267469
+        ]
+      },
+      "properties": {
+        "title": "Place Jean Moulin",
+        "lat": "43.2674693",
+        "lon": "2.7206507",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.176719,
+          43.166403
+        ]
+      },
+      "properties": {
+        "title": "Place des Karantes",
+        "lat": "43.1664026",
+        "lon": "3.1767193",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aaff13a9da17.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.89322,
+          43.244645
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Tannerie",
+        "lat": "43.2446447",
+        "lon": "2.8932197",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.626019,
+          44.02108
+        ]
+      },
+      "properties": {
+        "title": "Route du Maquis des Corsaires",
+        "lat": "44.0210801",
+        "lon": "3.6260191",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.105433,
+          42.516585
+        ]
+      },
+      "properties": {
+        "title": "Quai Pierre Forgas",
+        "lat": "42.5165853",
+        "lon": "3.105433",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a940d349b45e.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.610385,
+          43.992418
+        ]
+      },
+      "properties": {
+        "title": "Avenue Emmanuel d'Alzon",
+        "lat": "43.9924181",
+        "lon": "3.6103849",
+        "type": "BSB",
+        "observation": "À l'entrée de l'hôpital",
+        "picture": "https://delivrez.fr/public/posts/img.6a93f1b7826fb.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.439289,
           44.646713
         ]

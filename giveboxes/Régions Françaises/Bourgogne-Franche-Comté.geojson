@@ -6,6 +6,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          6.823433,
+          47.501397
+        ]
+      },
+      "properties": {
+        "title": "Rue Victor Hugo",
+        "lat": "47.5013973",
+        "lon": "6.8234331",
+        "type": "DSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           6.50262,
           47.664472
         ]

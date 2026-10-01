@@ -6,6 +6,211 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.469256,
+          48.721997
+        ]
+      },
+      "properties": {
+        "title": "Avenue Léon Jouhaux",
+        "lat": "48.7219974",
+        "lon": "2.469256",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5a563a003d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.455241,
+          48.711324
+        ]
+      },
+      "properties": {
+        "title": "Rue du Pont de Bart",
+        "lat": "48.7113243",
+        "lon": "2.4552407",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5adab5c4a9.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.449295,
+          48.711669
+        ]
+      },
+      "properties": {
+        "title": "Rue Gaston Mangin",
+        "lat": "48.7116694",
+        "lon": "2.4492954",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5b22a090b6.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.468857,
+          48.717043
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Cerisaie",
+        "lat": "48.7170434",
+        "lon": "2.4688568",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5a8a52f602.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.474639,
+          48.718603
+        ]
+      },
+      "properties": {
+        "title": "Rue Désiré Bois",
+        "lat": "48.7186026",
+        "lon": "2.4746392",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5a72175001.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.464055,
+          48.72271
+        ]
+      },
+      "properties": {
+        "title": "Rue du Château Gaillard",
+        "lat": "48.7227103",
+        "lon": "2.464055",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab5a210d534b.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.440344,
+          48.707276
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Glacière",
+        "lat": "48.7072758",
+        "lon": "2.4403439",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6ab014ca1237c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.330008,
+          48.883297
+        ]
+      },
+      "properties": {
+        "title": "Place Adolphe Max",
+        "lat": "48.8832967",
+        "lon": "2.3300083",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aac29b703d96.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.598252,
+          48.493823
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "48.4938233",
+        "lon": "2.5982517",
+        "type": "BSB",
+        "observation": "arrêt de bus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.551408,
+          48.557278
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Messe",
+        "lat": "48.5572783",
+        "lon": "2.5514083",
+        "type": "BSB",
+        "observation": "a l'entrée du parc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.715083,
+          48.852178
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Madeleine",
+        "lat": "48.8521778",
+        "lon": "2.7150826",
+        "type": "BSB",
+        "observation": "bien remplie ?",
+        "picture": "https://delivrez.fr/public/posts/img.6aa554d5be05d.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.302765,
+          48.555742
+        ]
+      },
+      "properties": {
+        "title": "Avenue Jean Jaurès",
+        "lat": "48.5557417",
+        "lon": "3.302765",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9b110fe481c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.234335,
           49.001418
         ]
@@ -3253,24 +3458,6 @@
         "lon": "2.3627659",
         "type": "BSB",
         "observation": "_"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.715083,
-          48.852178
-        ]
-      },
-      "properties": {
-        "title": "Rue de la Madeleine",
-        "lat": "48.8521778",
-        "lon": "2.7150826",
-        "type": "BSB",
-        "observation": "bien remplie ?",
-        "picture": "https://delivrez.fr/public/posts/img.635aa6642fea1.png"
       }
     },
     {

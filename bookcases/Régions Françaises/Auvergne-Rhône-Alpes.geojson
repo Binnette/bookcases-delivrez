@@ -6,6 +6,344 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          5.742008,
+          45.200845
+        ]
+      },
+      "properties": {
+        "title": "Avenue des Maquis du Grésivaudan",
+        "lat": "45.2008451",
+        "lon": "5.7420078",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.099582,
+          45.961406
+        ]
+      },
+      "properties": {
+        "title": "place de la mairie",
+        "lat": "45.9614062",
+        "lon": "5.0995818",
+        "type": "BSB",
+        "observation": "a côté d l église",
+        "picture": "https://delivrez.fr/public/posts/img.6ab28608a4dc2.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.205382,
+          46.071472
+        ]
+      },
+      "properties": {
+        "title": "Place de la Mairie",
+        "lat": "46.0714719",
+        "lon": "5.2053824",
+        "type": "BSB",
+        "observation": "derrière l la mairie",
+        "picture": "https://delivrez.fr/public/posts/img.6aafee5c259be.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.837739,
+          46.021527
+        ]
+      },
+      "properties": {
+        "title": "Route de Villars",
+        "lat": "46.0215269",
+        "lon": "4.8377395",
+        "type": "BSB",
+        "observation": "a côté de la bibliothèque",
+        "picture": "https://delivrez.fr/public/posts/img.6aae8fb5a9e5c.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.774139,
+          45.991554
+        ]
+      },
+      "properties": {
+        "title": "Route des Sorbiers",
+        "lat": "45.9915545",
+        "lon": "4.7741393",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aaa5aaaeae06.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.199508,
+          45.038532
+        ]
+      },
+      "properties": {
+        "title": "RUE DES FILOCHES",
+        "lat": "45.0385323",
+        "lon": "5.1995078",
+        "type": "BSB",
+        "observation": "a droite de l église",
+        "picture": "https://delivrez.fr/public/posts/img.6aa3a248a2efd.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.439669,
+          45.948723
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Grenette",
+        "lat": "45.9487233",
+        "lon": "5.4396687",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9fbbf8460b0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.932142,
+          46.254209
+        ]
+      },
+      "properties": {
+        "title": "pont devaux",
+        "lat": "46.254209",
+        "lon": "4.9321421",
+        "type": "BSB",
+        "observation": "pont de vaux"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.823645,
+          45.933932
+        ]
+      },
+      "properties": {
+        "title": "Grande Rue",
+        "lat": "45.9339318",
+        "lon": "4.8236454",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.309912,
+          45.731628
+        ]
+      },
+      "properties": {
+        "title": "Route de Tamié",
+        "lat": "45.7316283",
+        "lon": "6.3099117",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9d376e599d7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.292917,
+          45.747323
+        ]
+      },
+      "properties": {
+        "title": "Place Joseph Serand",
+        "lat": "45.7473225",
+        "lon": "6.2929166",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9d91f063251.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.257398,
+          45.766015
+        ]
+      },
+      "properties": {
+        "title": "Route de Montmin",
+        "lat": "45.766015",
+        "lon": "6.2573983",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9d4914b8f84.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.311,
+          45.705613
+        ]
+      },
+      "properties": {
+        "title": "Route des Prières",
+        "lat": "45.7056133",
+        "lon": "6.311",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a9d33ac2e6d0.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.304476,
+          46.35275
+        ]
+      },
+      "properties": {
+        "title": "Place Mairie",
+        "lat": "46.3527504",
+        "lon": "3.3044762",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.300997,
+          46.38141
+        ]
+      },
+      "properties": {
+        "title": "Les Cours",
+        "lat": "46.3814101",
+        "lon": "3.3009972",
+        "type": "BSB",
+        "observation": "place de la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.340563,
+          46.397288
+        ]
+      },
+      "properties": {
+        "title": "Place Jean Raoul",
+        "lat": "46.397288",
+        "lon": "3.3405626",
+        "type": "BSB",
+        "observation": "Devant la mairie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.769798,
+          45.76978
+        ]
+      },
+      "properties": {
+        "title": "Montaplan",
+        "lat": "45.76978",
+        "lon": "5.7697981",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.724646,
+          45.90803
+        ]
+      },
+      "properties": {
+        "title": "La Pièce",
+        "lat": "45.9080297",
+        "lon": "5.7246459",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.828295,
+          46.073904
+        ]
+      },
+      "properties": {
+        "title": "Route de Saint-Trivier",
+        "lat": "46.0739038",
+        "lon": "4.8282952",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6a998cdef1bab.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.822394,
+          46.149874
+        ]
+      },
+      "properties": {
+        "title": "Rue des Trois Rochers",
+        "lat": "46.1498738",
+        "lon": "5.8223945",
+        "type": "BSB"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.20551,
           45.592229
         ]

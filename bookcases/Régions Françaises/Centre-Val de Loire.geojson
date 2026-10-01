@@ -6,6 +6,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.422401,
+          47.115149
+        ]
+      },
+      "properties": {
+        "title": "Rue de la Gare",
+        "lat": "47.1151491",
+        "lon": "0.4224007",
+        "type": "BSB",
+        "picture": "https://delivrez.fr/public/posts/img.6aa7eb819a3f7.png"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.366971,
           47.765955
         ]
